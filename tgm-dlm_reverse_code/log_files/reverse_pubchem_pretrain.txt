@@ -1,0 +1,57 @@
+nohup: ignoring input
+wandb: Appending key for api.wandb.ai to your netrc file: /home/aditya/.netrc
+wandb: Currently logged in as: 2023eeb1196 (2023eeb1196-iit-ropar) to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+IN SMI_ORI
+0807checkpoint in Diffusion LM REGEX AUG!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+checkpoint 0810 in model.py
+wandb: Appending key for api.wandb.ai to your netrc file: /home/aditya/.netrc
+OSError: [Errno 28] No space left on device
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/runpy.py", line 289, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/aditya/Summer_Intern_2025/tgm-dlm/improved-diffusion/scripts/train.py", line 33, in <module>
+    wandb.login(key="e3a69f8a6022945939112819f049b0ebd8fffebf")
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/site-packages/wandb/sdk/wandb_login.py", line 78, in login
+    return _login(
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/site-packages/wandb/sdk/wandb_login.py", line 322, in _login
+    wlogin._update_global_anonymous_setting()
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/site-packages/wandb/sdk/wandb_login.py", line 127, in _update_global_anonymous_setting
+    api.clear_setting("anonymous", globally=True, persist=True)
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/site-packages/wandb/apis/internal.py", line 111, in clear_setting
+    return self.api.clear_setting(key, globally, persist)
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/site-packages/wandb/sdk/internal/internal_api.py", line 550, in clear_setting
+    self._settings.clear(
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/site-packages/wandb/old/settings.py", line 93, in clear
+    clear_setting(self._global_settings, global_path, persist)
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/site-packages/wandb/old/settings.py", line 88, in clear_setting
+    self._persist_settings(settings, settings_path)
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/site-packages/wandb/old/settings.py", line 57, in _persist_settings
+    with open(path, "w+") as f:
+OSError: [Errno 28] No space left on device
+IN SMI_ORI
+0807checkpoint in Diffusion LM REGEX AUG!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+checkpoint 0810 in model.py
+Traceback (most recent call last):
+  File "/home/aditya/Summer_Intern_2025/tgm-dlm/improved-diffusion/scripts/train.py", line 236, in <module>
+    mp.spawn(main_worker,args=(world_size, reverse),nprocs=world_size,join=True)
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/site-packages/torch/multiprocessing/spawn.py", line 328, in spawn
+    return start_processes(fn, args, nprocs, join, daemon, start_method="spawn")
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/site-packages/torch/multiprocessing/spawn.py", line 284, in start_processes
+    while not context.join():
+  File "/home/aditya/anaconda3/envs/proteinenv/lib/python3.10/site-packages/torch/multiprocessing/spawn.py", line 

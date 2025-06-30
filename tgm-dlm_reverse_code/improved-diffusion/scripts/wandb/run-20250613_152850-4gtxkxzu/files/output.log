@@ -1,0 +1,27 @@
+{'image_size': 8, 'num_channels': 128, 'num_res_blocks': 2, 'num_heads': 4, 'num_heads_upsample': -1, 'attention_resolutions': '16,8', 'dropout': 0.1, 'learn_sigma': False, 'sigma_small': False, 'class_cond': False, 'diffusion_steps': 2000, 'noise_schedule': 'sqrt', 'timestep_respacing': '', 'use_kl': False, 'predict_xstart': True, 'rescale_timesteps': True, 'rescale_learned_sigmas': True, 'use_checkpoint': False, 'use_scale_shift_norm': True, 'model_arch': 'transformer', 'in_channel': 16, 'out_channel': 16, 'training_mode': 'e2e', 'vocab_size': 66, 'config_name': 'bert-base-uncased', 'experiment_mode': 'lm', 'logits_mode': 1, 'batch_size': 64, 'cache_mode': 'no', 'checkpoint_path': '../../checkpoints', 'commonGen_train': 'diffusion_lm/common-gen/commongen_data', 'config': 'll', 'data_dir': '', 'dataset_config_name': 'wikitext-2-raw-v1', 'dataset_name': 'wikitext', 'e2e_train': '', 'ema_rate': '0.9999', 'emb_scale_factor': 1.0, 'eval_interval': 2000, 'experiment': 'random', 'fp16_scale_growth': 0.001, 'gradient_clipping': 2.4, 'log_interval': 20, 'lr': 5e-06, 'lr_anneal_steps': 200000, 'microbatch': -1, 'modality': 'e2e-tgt', 'model_name_or_path': 'predictability/diff_models/compress_e=5_b=60_m=gpt2_wikitext-103-raw-v1_None', 'noise_level': 0.0, 'padding_mode': 'pad', 'preprocessing_num_workers': 1, 'resume_checkpoint': '/home/aditya/Summer_Intern_2025/tgm-dlm/checkpoints/PLAIN_model200000.pt', 'roc_train': 'diffusion_lm/ROCstory', 'save_interval': 10000, 'schedule_sampler': 'uniform', 'seed': 19991009, 'use_bert_tokenizer': 'no', 'use_fp16': False, 'weight_decay': 0.0, 'model_in_channels': 32, 'model_model_channels': 128, 'model_dropout': 0.1, 'model_hidden_size': 1024, 'model_num_attention_heads': 16, 'model_num_hidden_layers': 12, 'finetune_steps': 20000}
+IN AUG DIST setup
+creating model and diffusion...
+Truncating length: 256
+Model total prameter number is : 181510977
+Smiles tokenizer vocab length: 257
+training mode is  e2e
+training mode is  e2e
+load data **************************************************
+corruption prob is 0.0
+mask_desc is False
+In total 3301 for training....
+IN AUG trainutil
+initialing Trainer for 0 / 1
+ori lr: 5e-06 new lr: 5e-06
+checkpoint_path:../../checkpoints
+the new resume step is 200000 -printed from train_util.py in imroved_diffusion
+loading model from checkpoint: /home/aditya/Summer_Intern_2025/tgm-dlm/checkpoints/PLAIN_model200000.pt...
+the resume step is non zero here.
+START LOOP FLAG
+Recieving max t:1984
+Using cross entropy --- line 1449 gaussian_diffusion.py
+rank0:  200000 7.19936497262097e-06 @ 2025-06-13 15:28:59
+Backward Pass Starting -- Line 301 finetune_util.py
+Backward Pass Completed -- finetune_util.py
+Logging to /tmp/openai-2025-06-13-15-28-59-331968
+Recieving max t:1998

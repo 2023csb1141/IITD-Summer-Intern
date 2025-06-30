@@ -1,0 +1,46 @@
+{
+  "os": "Linux-5.15.0-131-generic-x86_64-with-glibc2.31",
+  "python": "CPython 3.10.12",
+  "startedAt": "2025-06-17T07:31:14.925307Z",
+  "program": "<python with no main file>",
+  "git": {
+    "remote": "https://github.com/Deno-V/tgm-dlm.git",
+    "commit": "6c86be4f59932ecf023b47e8368ea3c7a377fc22"
+  },
+  "email": "2023eeb1196@iitrpr.ac.in",
+  "root": "/home/aditya/Summer_Intern_2025/tgm-dlm/improved-diffusion/scripts",
+  "host": "user",
+  "executable": "/home/aditya/anaconda3/envs/proteinenv/bin/python",
+  "cpu_count": 72,
+  "cpu_count_logical": 144,
+  "gpu": "NVIDIA RTX A6000",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "294148931584",
+      "used": "43930247168"
+    }
+  },
+  "memory": {
+    "total": "1081765023744"
+  },
+  "cpu": {
+    "count": 72,
+    "countLogical": 144
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA RTX A6000",
+      "memoryTotal": "51527024640",
+      "cudaCores": 10752,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA RTX A6000",
+      "memoryTotal": "51527024640",
+      "cudaCores": 10752,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

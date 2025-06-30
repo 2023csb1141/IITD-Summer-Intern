@@ -1,0 +1,22 @@
+{'image_size': 64, 'num_channels': 128, 'num_res_blocks': 2, 'num_heads': 4, 'num_heads_upsample': -1, 'attention_resolutions': '16,8', 'dropout': 0.1, 'learn_sigma': False, 'sigma_small': False, 'class_cond': False, 'diffusion_steps': 2000, 'noise_schedule': 'sqrt', 'timestep_respacing': '', 'use_kl': False, 'predict_xstart': False, 'rescale_timesteps': True, 'rescale_learned_sigmas': True, 'use_checkpoint': False, 'use_scale_shift_norm': True, 'model_arch': 'transformer', 'in_channel': 8, 'out_channel': 8, 'training_mode': 'e2e', 'vocab_size': 66, 'config_name': 'bert-base-uncased', 'experiment_mode': 'lm', 'logits_mode': 1, 'batch_size': 64, 'cache_mode': 'no', 'checkpoint_path': '../../checkpoints', 'commonGen_train': 'diffusion_lm/common-gen/commongen_data', 'config': 'll', 'data_dir': '', 'dataset_config_name': 'wikitext-2-raw-v1', 'dataset_name': 'wikitext', 'ema_rate': '0.9999', 'emb_scale_factor': 1.0, 'eval_interval': 2000, 'experiment': 'random', 'fp16_scale_growth': 0.001, 'gradient_clipping': 2.4, 'log_interval': 20, 'lr': 5e-05, 'lr_anneal_steps': 200000, 'microbatch': -1, 'model_name_or_path': 'predictability/diff_models/compress_e=5_b=60_m=gpt2_wikitext-103-raw-v1_None', 'resume_checkpoint': '', 'roc_train': 'diffusion_lm/ROCstory', 'save_interval': 20000, 'schedule_sampler': 'uniform', 'seed': 19991009, 'use_fp16': False, 'weight_decay': 0.0, 'model_in_channels': 768, 'model_model_channels': 128, 'model_dropout': 0.1, 'model_hidden_size': 768, 'model_num_attention_heads': 12, 'model_num_hidden_layers': 8}
+Wandb initialized
+IN AUG DIST setup
+creating model and diffusion...
+Truncating length: 256
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Model total prameter number is : 103383684
+Tokenizer vocab length: 250
+training mode is  e2e
+training mode is  e2e
+load data **************************************************
+corruption prob is 0.0
+mask_desc is False
+In total 77770 for training....
+IN AUG trainutil
+initialing Trainer for 0 / 1
+ori lr: 5e-05 new lr: 5e-05
+checkpoint_path:../../checkpoints
+START LOOP FLAG
+Recieving max t:1984
+input_ids.shape:  torch.Size([64, 256])
+Max tensor(249, device='cuda:0')

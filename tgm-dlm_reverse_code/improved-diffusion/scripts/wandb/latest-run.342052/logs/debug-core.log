@@ -1,0 +1,17 @@
+{"time":"2025-06-27T17:09:16.791878853+05:30","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmptes1p2_z/port-341803.txt","pid":341803,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-06-27T17:09:16.798173088+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":341803}
+{"time":"2025-06-27T17:09:16.798178817+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":36465,"Zone":""}}
+{"time":"2025-06-27T17:09:16.974851198+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:57040"}
+{"time":"2025-06-27T17:09:25.06859082+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:38028"}
+{"time":"2025-06-27T17:09:40.105084554+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"vidb98xl","id":"127.0.0.1:38028"}
+{"time":"2025-06-27T17:11:11.101317472+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:57040"}
+{"time":"2025-06-27T17:11:11.101416133+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:57040"}
+{"time":"2025-06-27T17:11:11.101432263+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-06-27T17:11:11.101450505+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:38028"}
+{"time":"2025-06-27T17:11:11.101515318+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:57040"}
+{"time":"2025-06-27T17:11:11.101642266+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:38028"}
+{"time":"2025-06-27T17:11:11.101655261+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:57040"}
+{"time":"2025-06-27T17:11:11.101669319+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:57040"}
+{"time":"2025-06-27T17:26:48.212188871+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"vidb98xl","id":"127.0.0.1:38028"}
+{"time":"2025-06-27T17:26:48.213290267+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:38028"}
+{"time":"2025-06-27T17:26:48.213315026+05:30","level":"INFO","msg":"server is closed"}

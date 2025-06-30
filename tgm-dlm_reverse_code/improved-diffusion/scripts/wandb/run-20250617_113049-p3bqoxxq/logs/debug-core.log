@@ -1,0 +1,18 @@
+{"time":"2025-06-17T11:30:44.114779695+05:30","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpt6i8z47f/port-1283468.txt","pid":1283468,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-06-17T11:30:44.116333079+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":1283468}
+{"time":"2025-06-17T11:30:44.116339369+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":44809,"Zone":""}}
+{"time":"2025-06-17T11:30:44.297707279+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:42974"}
+{"time":"2025-06-17T11:30:48.364257303+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:47718"}
+{"time":"2025-06-17T11:30:49.123825639+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"p3bqoxxq","id":"127.0.0.1:47718"}
+{"time":"2025-06-17T11:30:49.632063898+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"p3bqoxxq","id":"127.0.0.1:47718"}
+{"time":"2025-06-17T11:31:06.695586716+05:30","level":"ERROR","msg":"connection: fatal error reading connection","error":"read tcp 127.0.0.1:44809->127.0.0.1:47718: read: connection reset by peer","id":"127.0.0.1:47718"}
+{"time":"2025-06-17T11:31:07.32442709+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:42974"}
+{"time":"2025-06-17T11:31:07.324550282+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:42974"}
+{"time":"2025-06-17T11:31:07.324698596+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:42974"}
+{"time":"2025-06-17T11:31:07.324703793+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-06-17T11:31:07.324676491+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:47718"}
+{"time":"2025-06-17T11:31:07.324781012+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:47718"}
+{"time":"2025-06-17T11:31:07.324797467+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:47718"}
+{"time":"2025-06-17T11:31:08.860095233+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:42974"}
+{"time":"2025-06-17T11:31:08.86011721+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:42974"}
+{"time":"2025-06-17T11:31:08.8601359+05:30","level":"INFO","msg":"server is closed"}

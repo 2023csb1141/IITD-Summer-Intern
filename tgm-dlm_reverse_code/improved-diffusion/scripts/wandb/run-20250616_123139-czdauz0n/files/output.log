@@ -1,0 +1,1491 @@
+{'image_size': 8, 'num_channels': 128, 'num_res_blocks': 2, 'num_heads': 4, 'num_heads_upsample': -1, 'attention_resolutions': '16,8', 'dropout': 0.1, 'learn_sigma': False, 'sigma_small': False, 'class_cond': False, 'diffusion_steps': 2000, 'noise_schedule': 'sqrt', 'timestep_respacing': '', 'use_kl': False, 'predict_xstart': True, 'rescale_timesteps': True, 'rescale_learned_sigmas': True, 'use_checkpoint': False, 'use_scale_shift_norm': True, 'model_arch': 'transformer', 'in_channel': 16, 'out_channel': 16, 'training_mode': 'e2e', 'vocab_size': 66, 'config_name': 'bert-base-uncased', 'experiment_mode': 'lm', 'logits_mode': 1, 'batch_size': 64, 'cache_mode': 'no', 'checkpoint_path': '../../checkpoints', 'commonGen_train': 'diffusion_lm/common-gen/commongen_data', 'config': 'll', 'data_dir': '', 'dataset_config_name': 'wikitext-2-raw-v1', 'dataset_name': 'wikitext', 'e2e_train': '', 'ema_rate': '0.9999', 'emb_scale_factor': 1.0, 'eval_interval': 2000, 'experiment': 'random', 'fp16_scale_growth': 0.001, 'gradient_clipping': 2.4, 'log_interval': 20, 'lr': 5e-05, 'lr_anneal_steps': 200000, 'microbatch': -1, 'modality': 'e2e-tgt', 'model_name_or_path': 'predictability/diff_models/compress_e=5_b=60_m=gpt2_wikitext-103-raw-v1_None', 'noise_level': 0.0, 'padding_mode': 'pad', 'preprocessing_num_workers': 1, 'resume_checkpoint': '', 'roc_train': 'diffusion_lm/ROCstory', 'save_interval': 10000, 'schedule_sampler': 'uniform', 'seed': 19991009, 'use_bert_tokenizer': 'no', 'use_fp16': False, 'weight_decay': 0.0, 'model_in_channels': 32, 'model_model_channels': 128, 'model_dropout': 0.1, 'model_hidden_size': 1024, 'model_num_attention_heads': 16, 'model_num_hidden_layers': 12}
+IN AUG DIST setup
+creating model and diffusion...
+Truncating length: 256
+Model total prameter number is : 181510977
+Smiles tokenizer vocab length: 257
+training mode is  e2e
+training mode is  e2e
+load data **************************************************
+corruption prob is 0.0
+mask_desc is False
+In total 29390 for training....
+IN AUG trainutil
+initialing Trainer for 0 / 1
+ori lr: 5e-05 new lr: 5e-05
+checkpoint_path:../../checkpoints
+START LOOP FLAG
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+Recieving max t:1984
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([  43,  783,   58,  848,  975, 1483, 1273,  218, 1938,  704, 1096, 1594,
+         415,  224, 1273,  109, 1657, 1584, 1774,  732, 1759,  607, 1268, 1009,
+         937, 1428,  906, 1684,  784, 1057, 1797, 1064,  650, 1159, 1472, 1530,
+        1543,  711, 1984,  550,  895, 1070,   46,  900, 1520, 1536,  188, 1610,
+         658, 1759,  867, 1258, 1314, 1330, 1330, 1914,  424,  793,  833, 1832,
+        1537, 1144, 1102, 1473], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+rank0:  0 0.7861359119415283 @ 2025-06-16 12:31:56
+Logging to /tmp/openai-2025-06-16-12-31-57-393266
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+Recieving max t:1998
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1783,  733,  548,  929,  665,  688,  706,  281,  856,  880, 1031,  149,
+         414, 1458,  630, 1861, 1110,  906,  502, 1715, 1598, 1680,  312, 1480,
+         241, 1763,  693,  569,  141,  581, 1647, 1260, 1142, 1982, 1499,  125,
+        1588,  383,  397,  722,  205, 1804, 1998,  960, 1207, 1495, 1446,  626,
+        1233, 1149,  470,  407,   80,  991,  159,  510,  433, 1254,  426, 1458,
+         925,  833, 1637,  969], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1220, 1423,   42, 1786, 1601, 1361,  875, 1351, 1095,  624, 1768,  959,
+         886, 1869,   97,  124, 1561, 1105, 1134, 1461,  915,  664,  116,  861,
+        1698,  415, 1663, 1202, 1372, 1322,   72, 1322,  393,  439,   69, 1329,
+         952,  448, 1020,  370,  413,  611, 1431, 1249,  345, 1114, 1878,   64,
+        1476, 1503, 1169,  271, 1054,  139,  300,  376, 1056, 1790,  383,  389,
+        1889, 1187, 1185,    9], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([  89,  851, 1536,  707,  449, 1846,  919, 1941,  937,  134, 1589,  851,
+         283, 1435,  888,  633, 1285, 1465,  791, 1976,  853, 1242, 1673, 1746,
+         515, 1274, 1448,   32, 1467, 1347, 1321, 1180,  168, 1372,  514, 1486,
+         790, 1650, 1050, 1044,  792, 1116,    1, 1209, 1336, 1836, 1974, 1633,
+        1049, 1059,  123,  502,  828, 1438,  711, 1991, 1583, 1780,  488, 1180,
+         499, 1425,  411, 1880], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1717, 1274, 1522,  495,  667, 1989,  343,  822,   10,  104, 1377,  617,
+         910, 1260,  257, 1866,  604,  312, 1622,  194, 1404,  869,  133, 1236,
+        1839, 1783,  968,  677,  422,  799,  239,  511, 1590, 1989, 1148, 1990,
+        1565, 1079,  975,  857, 1126,  921, 1494,  744, 1376,  484, 1870, 1060,
+        1980,  477, 1788,  979, 1086,  352,   53, 1236,  172, 1055,  346,  899,
+        1752,  684,   55,  755], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 659, 1341,  819, 1187,  527,  457,  994, 1423,  258,   40,  902,  852,
+          41,  974,  175,   58,  399, 1509, 1529,  225,  594,  878, 1537,   29,
+         691, 1402,  779, 1412, 1799, 1926, 1237,  542, 1978, 1315,  790, 1201,
+         631,  273, 1595,   81, 1746, 1329,  683, 1401, 1564,   10, 1428,  212,
+        1463,  452, 1361, 1525,  474,  779,  985,  952, 1271,  794,  875,  305,
+         743,  736,  828, 1269], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 220,  725, 1254, 1304, 1210,   25,  448, 1701,  639, 1638,  814,  244,
+        1839, 1966,  356,  743,  858,  251, 1737, 1333, 1720,  406,  237,   15,
+         520,  630,  989, 1662, 1161, 1088, 1167,  554, 1002, 1929,  626,  663,
+        1522,  516, 1086,  323,   75, 1887, 1903,  355,  750,  493,  476,  366,
+         460,   31,  392, 1935,  725, 1683,  349,  653,   90,  465,  244,  528,
+        1656,  790,  452,  161], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 926,  649, 1813, 1887, 1760,  802, 1490, 1351,  914, 1901, 1401,   54,
+        1406, 1191,   81, 1528,  420, 1304, 1154,  938, 1756, 1642,  286, 1292,
+        1315,  801,   21,  451,   76,  757,  988,  487, 1139, 1459, 1757, 1629,
+          97,  696, 1081,  440, 1107,   81, 1956, 1376,  149,  690, 1117, 1218,
+         193,  272,  976,  100,  309,  448, 1269, 1174, 1967, 1136, 1968, 1306,
+         759, 1484,  659,  788], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 453, 1891, 1614, 1857, 1063, 1593, 1920, 1203,  340,  328,  474, 1194,
+        1675,  706, 1291,  598,  289, 1658,  760,  567, 1122, 1832,   33, 1285,
+          86,  933, 1445, 1418,  173,  113, 1056, 1826,  967, 1282,  104, 1989,
+        1176,  548,  578,  790,  128, 1807, 1971, 1601,  387,  972, 1517, 1323,
+         662, 1593, 1604, 1480, 1062, 1554, 1623, 1436,  156,  707, 1583, 1434,
+        1337,  241, 1708, 1651], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1477,  552, 1564, 1773, 1847, 1120,  505, 1670, 1407, 1319, 1817,  743,
+        1882, 1164, 1148,  282,  643,  730, 1448, 1172,  842, 1816,  824,  936,
+        1012,  606, 1672, 1248,  183,  121, 1176, 1773,  474,   57, 1357,  990,
+         641,  434,  902, 1508,  469,  550, 1106,  937,  458,  284,  245,  875,
+        1273,  725, 1424,  795, 1865, 1377,  971,  985, 1996, 1680, 1424, 1203,
+         811,  840,  220, 1568], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1934,  750, 1140,  305, 1674, 1750, 1170,  878, 1729,  414, 1419,  261,
+          29, 1637,  104,  874,  783,  864, 1592, 1278, 1861,  308,  530,   84,
+         758,  267,   78, 1495,  791, 1585,  905,   59,  115,  211, 1460,  820,
+         258, 1998,  962,  739,  955,  694, 1536,  441, 1218, 1087,  874,   93,
+         399,  135,  847, 1720,  514,  553,   13, 1050,  491, 1975, 1962, 1126,
+         126,  535,    6, 1462], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1894, 1423, 1162, 1942, 1680, 1001,  399,  464, 1282,  962,  689,   77,
+        1408,  380,  150, 1634, 1699,  491, 1151,   45,  526,  960, 1279,  708,
+        1956, 1652,  780, 1898, 1773,  933, 1055,  823,  946,  219, 1020, 1567,
+        1096, 1039,  439,  856, 1958,  161, 1428,  395, 1087, 1448,  464,  787,
+         983,  637, 1372,  414,  741,  332, 1141,  849,  215,  194,  874,  676,
+        1420,  239,  765, 1035], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 450,  645,  422,  319, 1220,  671, 1460, 1574, 1199, 1258,  169,  536,
+         936, 1640,  598,  735, 1123, 1207,  995,  150, 1311,  601,  218,  729,
+         174,  523,  199,  138,  633, 1912, 1594, 1030,  889,  351, 1126, 1092,
+        1555, 1439, 1524, 1016,   92, 1983, 1318,  984, 1390,  771, 1521,   19,
+        1661,  709,  186, 1153,  648, 1767, 1292,  371,   11,  224, 1197, 1081,
+        1329, 1524, 1981,  992], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 207, 1525, 1744,  107,  301, 1553,  498, 1438, 1075,  222, 1139,  524,
+         338,  116,  427,  321, 1854,  902,  755, 1001, 1623,  972, 1731, 1887,
+        1415,  606, 1080, 1106,   93, 1703, 1803, 1995,  655, 1314, 1247, 1926,
+         228,  821,  339, 1937, 1248, 1676, 1506,  171, 1817,  838, 1639, 1993,
+        1595, 1545, 1542, 1698,  220,  142,  512, 1960,  341,  478,  399, 1860,
+        1630, 1349, 1193,  550], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1463, 1630, 1233,  626, 1820,  730, 1368,   36, 1549,  358, 1818, 1496,
+         575,  556, 1094,  535, 1654, 1783,  153,  779,  437,  112, 1115, 1010,
+         768, 1354,  562,  334,  260, 1767, 1109,  537, 1940,  280, 1981,  295,
+        1407,  987, 1828,  891, 1139, 1985, 1793, 1414,  601, 1896, 1965,  265,
+         484, 1215, 1732,  592,  972,  420,  240,  179,  792,  678,  638, 1142,
+         115, 1362, 1506, 1892], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 377,  586, 1748, 1550, 1479, 1133,  989,  662, 1462, 1141, 1840, 1232,
+         235,  328,  880,  371,  962,  166, 1087, 1703, 1398, 1237,   11, 1482,
+        1371,  764, 1970,  957,  343, 1837,  955,   89, 1767, 1259,   90,   43,
+         281,  801,  269, 1207, 1708,  912, 1973,  203, 1203, 1006, 1748, 1754,
+        1520,  308,  907,  524,  824,  331, 1399,  527,  511, 1201,  302, 1067,
+        1772,  941, 1949, 1408], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1087, 1814, 1016, 1870,  208, 1033,  211, 1849, 1517,  410, 1937, 1574,
+        1056,  511,   58,  412,  496, 1299, 1733, 1791, 1251, 1088,  869, 1724,
+         502,  697,  194, 1777, 1779, 1342, 1453, 1741, 1736, 1849, 1326,  397,
+        1373,  971, 1129,  476,  998,  679,  403,  604,   62, 1159,  509, 1799,
+         861, 1390, 1766,  160, 1606,  368,   71, 1987,  593,  875,  147, 1666,
+        1503,  554,  820,  375], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 330,  580,  778, 1073,  587,  657, 1964, 1059, 1106,  239, 1844,   18,
+        1196,  621,  543, 1200, 1442, 1951, 1652, 1540,  608, 1416, 1828,  633,
+        1377, 1557, 1198,  237, 1022,  709,  884,  735,  833, 1135, 1460, 1571,
+         167,  351,  358,  629, 1133,  860, 1021, 1688, 1869,  123,  412, 1776,
+         864,  622, 1711, 1084, 1481,  195, 1802,  519, 1331,   84, 1424,  453,
+        1790, 1040,  896, 1077], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 917, 1782,  903, 1164, 1173,  828,  138,  502,  471, 1422, 1646,  198,
+        1155,  287,  554,  959, 1428,  241,  907,   71, 1982,  410, 1491,  951,
+        1421,  152, 1721, 1417,  256,  751, 1876, 1168,  905, 1138, 1502, 1174,
+         796, 1304, 1716, 1277,  221,  756,   34,  865, 1168, 1827, 1223,   98,
+         400,   57,  551,  943, 1595, 1095, 1872, 1370, 1688,  747,  347, 1902,
+        1895,  923,  975,   37], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 934,  363,   14,   16, 1013,  749,  799,   18,  321,   46,  873, 1915,
+         382, 1761,  625,  880,  743, 1756,  956,   66,  416, 1727,  488, 1753,
+         473,  953,  314, 1334,  844,  189,  281,  699,  551, 1547,  461, 1550,
+         715, 1860,  758, 1610, 1762,  130,  769,  238,  823, 1863, 1788, 1126,
+          28,  246,  877,  890, 1300, 1002,  591, 1266,  574,  952, 1852, 1576,
+         571, 1024, 1220,  286], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1435, 1122, 1969,  430, 1305,  161,  634, 1332,  765,  316, 1277,   60,
+        1040,  359, 1577,  595,  632,  428,  579, 1610, 1886,  567, 1791, 1333,
+        1547, 1584, 1035, 1474,  346,  746,  411,  771,  926,  213, 1232,  908,
+         783, 1618, 1745,  909, 1990, 1212, 1630,  764,  536,  786,  840, 1930,
+         513, 1250,  441, 1518, 1315, 1842, 1137, 1456, 1922, 1272,  545, 1195,
+         502, 1052,  248,  322], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+rank0:  20 0.3568674325942993 @ 2025-06-16 12:32:21
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 932, 1943, 1120, 1039, 1011,  955,  949, 1695,    5, 1977,  792,  311,
+        1788,  779,  211, 1512, 1689, 1314,  199,  612,  147, 1171, 1011,   66,
+         584,  733, 1291,  979, 1798,  364,  264,  577,  326,  202,  676, 1534,
+         264, 1322, 1790, 1415, 1863,  777,  685,    6, 1063, 1034, 1799,  386,
+         813, 1321, 1477, 1644,  869,  980,  346, 1372, 1399,  278, 1530, 1279,
+         858, 1451, 1105,  588], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1466, 1594,  447,  281,  967, 1754,  612, 1400,  483, 1380, 1102, 1856,
+        1805,  733,  676,  849,   91, 1595,  524, 1321, 1102, 1070,  870, 1901,
+        1553,  348,  397,  844,  909,  441,  232, 1457, 1153,  193, 1097,   50,
+         810, 1755,  635, 1094, 1166, 1159, 1209,  783, 1507,  790, 1082, 1868,
+         692, 1762,  127,  452,  466,  363,  921, 1635, 1115, 1565, 1857,  456,
+        1871, 1965,  164, 1133], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 539, 1078,  616, 1188, 1932,  299,  133, 1655, 1740,  782,  588,  383,
+         177, 1776,   55,  314,  852, 1869, 1465, 1745,  202,  620, 1321,  693,
+         353,  899,  575, 1302, 1052, 1825,  633, 1581,   11,  866, 1493, 1712,
+        1954,  542, 1358, 1887,  968,  310,  634, 1431,  795,  803,  419,  330,
+        1411, 1239, 1837, 1022,  372,  461,  275, 1732, 1573, 1612, 1440, 1415,
+         751, 1462,   54,  406], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([  13, 1566, 1102, 1885, 1689,  708,  762,  671, 1156,  817,  406, 1708,
+        1204,  385, 1882, 1474, 1148, 1934,  373,  949,   18,  494, 1285, 1212,
+         718,  685, 1653, 1085, 1645, 1234,  284,  391, 1227, 1227, 1638,  143,
+        1504, 1910,  862, 1586, 1653,  277,  141, 1994,  851,  810,  564, 1104,
+        1304, 1628, 1589, 1390,  598,  282, 1259, 1602,  206, 1496,  605,  550,
+         991, 1785,  454, 1995], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1019,  271,  461, 1127, 1507,  177, 1426,  997, 1299,  670, 1147, 1517,
+         120, 1960, 1518,   48,  669,  543, 1439, 1340, 1749,  890,  670, 1481,
+         972, 1128,  443,  151,   88, 1501,  135,  720,  606,  656,  742, 1710,
+         814,  576, 1112,  485,   96, 1554,  807, 1514, 1135,  818,  491, 1829,
+        1613, 1548,  660, 1550, 1458,   85,  409,  891,  100, 1906, 1770,  132,
+        1702,  135, 1559,  181], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1901, 1582, 1258, 1443, 1546,  112,  745,  936, 1747, 1118,  457, 1804,
+         354, 1198, 1820, 1746,  622,  652, 1031, 1034, 1307,  978,  220,   74,
+          36,  477, 1895,  619, 1718,  330, 1863,  175,  510,   14,  388,  670,
+        1620, 1292,  469,  839, 1391,  436,  635,  467, 1780, 1285,  368,  375,
+        1690, 1460, 1426,   73,  130, 1954, 1673, 1827, 1517, 1924,  550, 1514,
+         145,   29,  211, 1620], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1170, 1123, 1756,  562,  919,  703, 1260,  245,  397,   16, 1948,  207,
+        1165, 1532, 1278,  795, 1134,  752,  337,   60,   18,   12,  113, 1015,
+        1668, 1808, 1878, 1645,   65, 1435, 1565, 1887,  581, 1173, 1848,  447,
+         466,  353, 1169,  308,   28, 1671, 1842,  613,  389, 1428, 1426,  734,
+          66,  962,  577, 1209,  303,   87,  235,  767, 1275,  407,  385, 1303,
+        1731,  720,  141, 1377], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 974, 1703, 1506, 1348, 1292, 1746, 1101,   27,  599, 1346, 1652,  903,
+        1392, 1780,  840,  414,  452,  737,   82, 1071, 1231,  574,  597, 1577,
+        1958,   88, 1590, 1111,  156, 1919, 1940, 1962, 1953, 1853,   51,  591,
+        1667,   70, 1906,   91,  374,   49, 1293, 1322, 1819,  962, 1673, 1367,
+         487,  539, 1440,   36,  581,  279,  732, 1504, 1298, 1008, 1589, 1519,
+         189,  529, 1611, 1644], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([  70,  601, 1923,  593, 1437,  732, 1885,  501,  843,  102, 1298,  472,
+         303,  823,  255,  918,  406, 1342,  642,  282,  148, 1332,  570,  708,
+        1871,  734,  495, 1222, 1805, 1986,  273, 1559,  771, 1455,  816,  499,
+         640,  586,  709,  476,   68, 1220,  968, 1545, 1024, 1983,  410,  474,
+        1682, 1010, 1142,  279, 1153,  987, 1618,  943,  927,  555,  821, 1828,
+         628, 1536, 1257,  585], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 702,  616,  922,  977, 1496,  700,  119, 1549, 1492,  945,  613,  847,
+         131,  519, 1760, 1871, 1215,  989, 1567,  299,   15, 1633,   23, 1111,
+        1908, 1686,  350,  700,  828,  722,   35, 1938,   95,  806, 1324,  122,
+        1759, 1666,  171, 1114, 1555,  864, 1540,  140, 1978,  558, 1370, 1396,
+           4,    1, 1786,  220,  496, 1033, 1581, 1143, 1275, 1742, 1451,  435,
+         693, 1897,  366, 1942], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1050, 1900,   83,  963,  453, 1602,  638,  350, 1556, 1485, 1597,  724,
+         976,  461,  550,  243,  817, 1364,  392, 1442,   48, 1939,  776,  793,
+         756,  971, 1966, 1127,  487,  760,  240,  435, 1977, 1915, 1551, 1933,
+        1668,  855, 1676,  470, 1140, 1524,  325,   58, 1483, 1644,  908,  146,
+        1098,  310,  412,  473,  707,  225, 1156, 1562,   27, 1437,  174,  777,
+         829, 1717,  451,  638], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1699, 1707, 1047, 1688,  847,  996, 1267,  719,   56,  697,  308,  105,
+         551,  576,   69, 1008, 1815, 1231, 1379,  141, 1255, 1795,  388, 1857,
+         528,  730,  136, 1888, 1547,  766,  945,  152,  485, 1831, 1683,   82,
+        1859,  642, 1735,  868, 1862,  385,  679, 1468, 1253,  415, 1759, 1402,
+        1356,  723, 1923,  386, 1847, 1856, 1303, 1048,  280, 1004, 1459, 1713,
+         391,  219, 1243, 1389], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1380, 1118,  755, 1157,  177,  302,  739, 1681,  452, 1806, 1855,  238,
+         955,   19, 1004, 1918, 1378,  296,  270, 1302, 1901, 1814, 1583, 1541,
+         209, 1467, 1841, 1123, 1981,  227, 1706,  149,  836,  185,  240, 1814,
+        1550,  670,  109,  895,  821,  211, 1893,   16, 1925, 1917,  265,  103,
+         495, 1040, 1092,  238, 1862,  475,    0,  134, 1323, 1510, 1461,   14,
+         488,  178, 1778,  968], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1241, 1034, 1547,  772,  968,  226, 1940,  500, 1834, 1322,  827, 1292,
+        1730,  286,  901, 1270,  515, 1108,  568,  765,  602, 1010, 1648, 1031,
+        1099,  259,  758, 1979, 1713,  583, 1599,  632,  366,  843, 1287,  848,
+          59,  362,  911, 1175,  699,  503, 1193, 1575,  549, 1680,  542, 1560,
+         911, 1029, 1595,  971,   99,  681, 1333, 1623,  850, 1746,  800,  538,
+        1373,  780, 1393, 1266], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1346,  264, 1249, 1456,   98, 1274,  720,  583,  195, 1528,  660, 1671,
+         440,  563,  433, 1273,  625, 1164, 1993, 1172,  139, 1615,  601, 1262,
+        1499, 1618, 1281, 1739, 1881,  776,  446,  510,    4, 1025, 1118,  764,
+        1767, 1062, 1940, 1102, 1354,  410, 1133, 1848,  177,  654,   27, 1482,
+          56,  146, 1294, 1471,  609,  475, 1683, 1861,  326,  461, 1843,   57,
+         377,  391,  675, 1771], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1121, 1645, 1026, 1356, 1408,  514,  503,  587,  667, 1727, 1958, 1869,
+        1413,  862, 1415, 1374,  594,  573,  629, 1769,  605,  487, 1166,  566,
+        1777, 1906,  609,  174,  443,  867,  875,  286, 1753, 1023,   47, 1329,
+        1121, 1127,  715, 1178,   42, 1253,  838,  583, 1561,  487,  651,  906,
+        1737,  724,  764, 1518,  548, 1888, 1769,  459, 1790, 1596,  637,   36,
+        1884, 1709,  348, 1512], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1899, 1768, 1822, 1753, 1812,  391,  961, 1957,  686, 1185,  437,   75,
+        1531, 1094, 1429,  754,  504,  942, 1765, 1317,  134, 1147,  288,  208,
+         814, 1967, 1625, 1556, 1299,  649, 1811,  154, 1228, 1906,  980, 1254,
+         832, 1301,  449,  998, 1660,   79,  496, 1913,  659, 1253,  462, 1527,
+         660,  900,  182, 1818, 1353, 1962, 1861,  445,  531, 1862,  369,  149,
+        1522,  868,  119,  671], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 360,  572,  184, 1221, 1651, 1720, 1449,  531,   47, 1000,  772,  580,
+         390,  808, 1158, 1148,  999, 1649, 1189, 1954,  754, 1937, 1951,  462,
+        1599,   18, 1218,  296, 1585,   37, 1391,  217,  787,  878,  365, 1854,
+        1358, 1317,  360,  517, 1619, 1016, 1377, 1445, 1261,  371, 1915,  176,
+        1386,  627, 1448, 1511, 1348,  868,  857, 1977,  657, 1011,  250, 1173,
+         354, 1917, 1769,  466], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 215,  861,  297,  474, 1753,  638,  910,   97,  365, 1583,  549, 1725,
+         988,  273, 1614,  862, 1289, 1438, 1539, 1586, 1370, 1469,  625,  860,
+         962, 1497, 1808, 1704, 1301,   74,  438, 1190,  796,  285, 1376,  772,
+         734,  877, 1698, 1851, 1988,  243, 1683, 1963,  312, 1201, 1732, 1416,
+         279, 1724, 1279,  890, 1220,  369,  462, 1005, 1115, 1343,  104, 1138,
+        1839,  222,  718,  143], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1968,  133, 1442,   92, 1620, 1867,  603,   79, 1496,  178, 1184,  710,
+        1923,  757, 1932,  777,   90, 1210, 1499, 1541, 1764, 1983,  347,  350,
+        1506,  962,  328,   33, 1098,  211, 1634,  784,  185, 1011, 1857,  263,
+         148, 1390, 1773,  191, 1527, 1487, 1640, 1653, 1862,  689, 1253,  673,
+        1869, 1358, 1734, 1060,  927, 1717, 1680,    0,  737, 1097,  580,  383,
+         496, 1317, 1546,  141], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+rank0:  40 0.18950313329696655 @ 2025-06-16 12:32:46
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1118, 1600,  731,  924, 1742, 1728,  571, 1975,   40, 1828,  704,  749,
+        1046,  382,  519, 1949,  448, 1342, 1936,  880,  969, 1335, 1698, 1689,
+         640,  778,  942,  954, 1994, 1839,  300,  228,  529,  578,  267, 1335,
+         920, 1908,  657,  687, 1916, 1386, 1210,  498,   74,  392,  817,  815,
+         631, 1916, 1590, 1324, 1909,  269,  294, 1550, 1527, 1344,  457, 1078,
+        1258, 1587, 1329, 1139], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1133,  538, 1184, 1616, 1764, 1962,  790, 1886, 1396,  448, 1097,  109,
+         804,  498, 1635, 1143, 1511, 1163, 1947,  465,  327,  670,  885, 1634,
+        1892, 1101,  676,  182, 1353, 1764,  762, 1896, 1288, 1658, 1200,  428,
+        1546,  226, 1827,   49, 1662,  338, 1197, 1111, 1488,  823, 1192, 1950,
+         659, 1716,  824, 1356, 1605,  461, 1332,  413, 1273,  241,  567, 1545,
+        1842,  779, 1552,  896], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1962,  333, 1188, 1437, 1921, 1675, 1535,  296, 1147,  394,   90,  656,
+         193,  264, 1083, 1970, 1482,  129, 1896,  157, 1589,  197,  380,  821,
+         861,  150, 1414, 1098,  826,  249,  740,  507, 1797,  119,  782, 1467,
+        1339,  659,  192, 1722,  538,  944,  445, 1536, 1398, 1234,  810,   43,
+         254,  323,  197,  755,   73,  473, 1745,  841, 1741, 1129,  978,  621,
+         102, 1730,  863,  194], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1640, 1052,  926, 1525, 1876, 1909, 1506, 1725, 1492, 1254,  326, 1185,
+         115, 1544,  579, 1664,  576,  851, 1212,  429,  961, 1316,  471,  787,
+         526,  216, 1968,  100,  170,  180, 1060,  967,  737, 1437,  421,  929,
+         850, 1368, 1572, 1110, 1164, 1845,  554, 1716, 1253, 1273, 1414,  722,
+        1027, 1341,  563,  537,   70, 1190,  714, 1424,  321, 1407, 1238,  272,
+         385,   90,  603, 1541], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 958,  824, 1284, 1455,  175, 1449,  788,  324,  169,  899,  188,  800,
+         664, 1400, 1749, 1305,  198,  494, 1237,  773, 1692,   61,  912,  736,
+         289,  595, 1291, 1852,  193,  504, 1283, 1425,  356,  579,    5, 1808,
+         223,  756, 1123,  417, 1045, 1243,  347,  846, 1195, 1348, 1717,  157,
+         357,  294,  997,  506, 1041,  803, 1026, 1739, 1342,  251, 1183,  177,
+        1876, 1916, 1645, 1696], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1299,   73,  245,  785,  656,  654,  490, 1646,  375,  822,  287, 1422,
+         638,  610,  467,  428,  921,  770, 1077, 1108,  150,  738, 1695,  153,
+        1710,   57,  534,  514,  909, 1740,  582, 1229,  605, 1920,  594, 1718,
+        1494,  414, 1743,  800,  168, 1647,  797, 1081,  784, 1617,  956, 1722,
+          23,  420, 1913, 1830, 1970,  167, 1381, 1761,  530,  995, 1280,  536,
+         694, 1708, 1356, 1172], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1365, 1798, 1684,  246, 1700, 1875, 1153, 1159, 1559,  881, 1439,  416,
+        1178,  885,  138, 1046, 1729,  473, 1697, 1922,  700,   25,  608,  372,
+        1028, 1952, 1527,  612, 1101, 1874, 1699,  689, 1026,  202,  377, 1953,
+          64,  255,  856, 1715, 1940,  298, 1055, 1256,  614,  824, 1033, 1690,
+         984,   55, 1055,  243,  125,  447,  545, 1052,  688, 1785,  958, 1211,
+         635,  708,  872,  305], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1719,  168, 1611, 1052, 1238, 1729, 1030,  433,  592,  797, 1965,  263,
+        1428, 1043,  225,  823,  229, 1703, 1741,  879, 1217, 1504,   46, 1335,
+         513, 1937,  789,  349, 1918,  818,  592,  134,  102,  430, 1948, 1054,
+         503, 1997,  224,  700, 1727,  443, 1563,  296, 1995, 1381, 1562,  936,
+         507, 1865, 1381,  815, 1034, 1303,  999,  307,  424, 1058,  796, 1550,
+         411, 1091,  136,  754], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([  89,  751, 1358,  887, 1824, 1389,  477, 1032, 1358,  474, 1086,  285,
+         403, 1127,  492,  457, 1925,  123, 1126, 1540, 1044,  652, 1334,  145,
+        1850,  115,  905,  473, 1780,  288,  295,  258,  345, 1755, 1448,  469,
+        1227, 1789, 1114, 1563, 1989,  140, 1644, 1665, 1398,  893,  778,  741,
+        1569,  963, 1195, 1652, 1330, 1315, 1625, 1493,  202,  710, 1868,  310,
+         422,  932, 1408,  461], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1160, 1653, 1485, 1792, 1084,  403, 1086, 1762,  129, 1978, 1029,  726,
+         440,  999,  473,  747,  662,  582, 1938,  222,  898,  406, 1445,  932,
+        1400,   47,  371,  271,  540, 1085,   66,  350, 1306, 1583,  417,  465,
+         272, 1922, 1567, 1576,   57,  355, 1054, 1068,  902,  594, 1962,  456,
+          95,  155,  591, 1266, 1465, 1477,  298, 1553,  815, 1266,  473, 1037,
+         822, 1660,  861,  902], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1850, 1399,  392,  490,  923,  749,  940,    6, 1738,  892, 1106,  716,
+         934, 1930,  722,  166, 1248,    7, 1866, 1651,   91, 1255,  962, 1754,
+         102,  857, 1003, 1557,  557, 1618,  894, 1088, 1340,   89,  620, 1011,
+         313,  308,  511,  923,  904,  391,  266, 1815,  798,  354, 1980, 1913,
+         708,  647, 1502,  102,  462, 1179,  202, 1894, 1157,  861,  153,  928,
+         831, 1132,  331, 1751], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1907, 1189, 1361,   24, 1866, 1990,  424, 1810, 1670,  735,  807, 1763,
+        1060, 1675, 1329,  836, 1205, 1419,  476,  824, 1338, 1911,  140, 1905,
+         121, 1172,  495, 1653, 1307,  553, 1919, 1033, 1972, 1908, 1982, 1692,
+        1057, 1642,  766, 1438,  589, 1457, 1945,   63,  147, 1780, 1876, 1336,
+         463, 1844, 1891,  520,   83, 1421, 1711,  667,  984,  762, 1420, 1416,
+         433, 1693, 1813, 1966], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 137,  626,  541, 1859,  514,  498,  794,  484, 1216, 1344,  723, 1540,
+         524, 1638, 1807,  625, 1577, 1813, 1763,  435, 1859, 1252, 1177,  696,
+        1587,  823,  638, 1090,   19, 1720, 1593, 1950,  376, 1007, 1473,  603,
+        1424, 1029, 1649,  232, 1030, 1559, 1861, 1137,  283,  825, 1011,  422,
+         115, 1397, 1846, 1195, 1699,  882,  719,  482,  570, 1205, 1609, 1716,
+         934, 1386,  176, 1542], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 844, 1057, 1791, 1275, 1153,  363, 1027, 1717, 1127,  738,  608,  554,
+         423,  695,  265,  503,   94,  817,  637,  623,  258,  732, 1840,  911,
+         736,  970, 1335,  855,  152, 1807,  437, 1966, 1614,   56, 1915, 1762,
+        1208,  861, 1896,  430, 1576,   75,  642, 1141,   84,  793, 1816, 1959,
+          58, 1389, 1628,  963,  500, 1467,  764, 1490,  543, 1915,  799, 1694,
+         781,  389, 1781, 1045], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 339,  108, 1672,  421, 1564, 1394, 1670, 1014,  658,  939,  806,  594,
+         387, 1617, 1115,  507,  619,  103,  566, 1266, 1513,  508, 1684, 1555,
+        1186, 1637,  108, 1809,  322,  755, 1323, 1299,  601,  176, 1319, 1630,
+         526, 1096, 1159,  558, 1574, 1313,   10, 1102,  504, 1428,  976,  357,
+         588, 1241, 1408,  184, 1093, 1392,  401,  478,  718, 1882, 1002,  697,
+        1300, 1615,  708,  554], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1215, 1006, 1170, 1531,  622,  811, 1035,  696, 1684,  840,  551,  904,
+        1760, 1497,  951, 1152, 1005,   22, 1972,   96,  630, 1851, 1536,  434,
+        1747, 1678,  926,  136, 1720, 1906,  257,  212,  107,  484, 1466, 1346,
+         762,  330, 1192, 1464,   58, 1907,  174, 1279,  746,  398,  688, 1246,
+        1261, 1354, 1765,  221,  599, 1579, 1007,  724,  814, 1948,  248,  256,
+         439, 1038,  790, 1116], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1149,  556, 1022,  929, 1828,  738, 1018,  494, 1008,   35,  458, 1223,
+        1650, 1930, 1025,  393,    8,  108,  273,  319,  718, 1388,  831, 1152,
+         976,  812,  547, 1595, 1016, 1480,   59, 1025, 1548, 1661,  904,  784,
+        1543, 1954, 1598,  399,  308, 1384, 1049,  672, 1902, 1638, 1373,  612,
+         911,   29,  957,  166, 1176,  359, 1287, 1280, 1446, 1030, 1533,  881,
+        1387, 1792, 1209,  864], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 599, 1888, 1098, 1442,  290, 1091,  118, 1960, 1833,  225, 1836, 1425,
+        1348, 1624,  134,  713,  463, 1860,  736, 1968, 1619,  868,   71, 1040,
+          87, 1237,  353,  879, 1523,   53, 1587,  826, 1524, 1632, 1395, 1910,
+         188,  806,  142,  311, 1493, 1027,  597,  136, 1800, 1265,  641, 1397,
+           6, 1300,  736, 1158,  734, 1075, 1830, 1900,  999,    5, 1860, 1684,
+         692, 1690,  899, 1650], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([ 458,  707, 1647, 1235, 1240, 1475, 1047,  123,  297,  730,  953,  889,
+         478, 1015, 1008, 1900, 1725,  505,  934, 1316,  764, 1197, 1668, 1064,
+         909,  539, 1877,  552, 1707, 1930, 1830, 1419, 1085, 1388,  556, 1946,
+        1804, 1410,  608, 1944,  426, 1451,  402, 1478,  894, 1106, 1786, 1261,
+         578,  727,  786,  534,  692,  107, 1686, 1008,  113,  744,  992,  165,
+         805,  300,  201, 1335], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])
+------------------------------
+Training Losses Called
+Input Shape : torch.Size([64, 256]), Description State : torch.Size([64, 216, 768])
+x_start_mean : torch.Size([64, 256, 32])
+Nosiy Input at time step t : torch.Size([64, 256, 32]) ; t = tensor([1577, 1255, 1872,  434,  294, 1814, 1810,  351, 1927,  596, 1117,  481,
+        1973,  172,  420, 1980,  109, 1555, 1716, 1868,  120, 1493,   68,  760,
+        1625,   36, 1172, 1767, 1697, 1941,  817,  131, 1915, 1646, 1598,  347,
+        1702, 1895, 1670,  809,  862,  107, 1845,  163, 1624, 1535, 1888, 1514,
+        1705,  216,  733,  969, 1824, 1670,  178,  417,  771,  289, 1689,  638,
+        1095, 1890,  615, 1198], device='cuda:0')
+TransformerNetModel2 being called
+Input Shape:torch.Size([64, 256, 32])
+Projecting input to hidden space. Embedded Input Shape : torch.Size([64, 256, 1024])
+Final Embedded noisy input shape : torch.Size([64, 256, 1024])
+Final Embedded Description shape : torch.Size([64, 216, 1024])
+Calling Bert Encoder
+Bert Encoder Last Hidden State Output: torch.Size([64, 256, 1024])
+The output is projected to same number of channels as the input
+Final Output Shape : torch.Size([64, 256, 32])
+Model output shape : torch.Size([64, 256, 32])
+Model target Shape : torch.Size([64, 256, 32])
+rank0:  60 0.1464349925518036 @ 2025-06-16 12:33:11
+Data Loader:
+Tokenized Smiles : torch.Size([1, 256])
+Decription State : torch.Size([1, 216, 768])

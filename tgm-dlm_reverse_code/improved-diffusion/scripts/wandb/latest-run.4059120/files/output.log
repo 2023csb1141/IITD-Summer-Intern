@@ -1,0 +1,84 @@
+{'image_size': 64, 'num_channels': 128, 'num_res_blocks': 2, 'num_heads': 4, 'num_heads_upsample': -1, 'attention_resolutions': '16,8', 'dropout': 0.1, 'learn_sigma': False, 'sigma_small': False, 'class_cond': False, 'diffusion_steps': 2000, 'noise_schedule': 'sqrt', 'timestep_respacing': '', 'use_kl': False, 'predict_xstart': False, 'rescale_timesteps': True, 'rescale_learned_sigmas': True, 'use_checkpoint': False, 'use_scale_shift_norm': True, 'model_arch': 'transformer', 'in_channel': 8, 'out_channel': 8, 'training_mode': 'e2e', 'vocab_size': 66, 'config_name': 'bert-base-uncased', 'experiment_mode': 'lm', 'logits_mode': 1, 'batch_size': 64, 'cache_mode': 'no', 'checkpoint_path': '../../checkpoints', 'commonGen_train': 'diffusion_lm/common-gen/commongen_data', 'config': 'll', 'data_dir': '', 'dataset_config_name': 'wikitext-2-raw-v1', 'dataset_name': 'wikitext', 'ema_rate': '0.9999', 'emb_scale_factor': 1.0, 'eval_interval': 2000, 'experiment': 'random', 'fp16_scale_growth': 0.001, 'gradient_clipping': 2.4, 'log_interval': 20, 'lr': 5e-05, 'lr_anneal_steps': 200000, 'microbatch': -1, 'model_name_or_path': 'predictability/diff_models/compress_e=5_b=60_m=gpt2_wikitext-103-raw-v1_None', 'resume_checkpoint': '', 'roc_train': 'diffusion_lm/ROCstory', 'save_interval': 20000, 'schedule_sampler': 'uniform', 'seed': 19991009, 'use_fp16': False, 'weight_decay': 0.0, 'model_in_channels': 768, 'model_model_channels': 128, 'model_dropout': 0.1, 'model_hidden_size': 768, 'model_num_attention_heads': 12, 'model_num_hidden_layers': 8}
+Wandb initialized
+IN AUG DIST setup
+creating model and diffusion...
+Truncating length: 256
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Model total prameter number is : 103383750
+Tokenizer vocab length: 250
+training mode is  e2e
+training mode is  e2e
+load data **************************************************
+corruption prob is 0.0
+mask_desc is False
+In total 77770 for training....
+IN AUG trainutil
+initialing Trainer for 0 / 1
+ori lr: 5e-05 new lr: 5e-05
+checkpoint_path:../../checkpoints
+START LOOP FLAG
+Recieving max t:1984
+rank0:  0 1.1110715866088867 @ 2025-06-26 16:43:27
+Logging to /tmp/openai-2025-06-26-16-43-29-031008
+Recieving max t:1998
+rank0:  20 0.4553910195827484 @ 2025-06-26 16:44:07
+rank0:  40 0.4383111894130707 @ 2025-06-26 16:44:48
+rank0:  60 0.29050207138061523 @ 2025-06-26 16:45:26
+rank0:  80 0.30791646242141724 @ 2025-06-26 16:46:06
+rank0:  100 0.37251347303390503 @ 2025-06-26 16:46:46
+Recieving max t:1999
+rank0:  120 0.3378845751285553 @ 2025-06-26 16:47:27
+rank0:  140 0.38029569387435913 @ 2025-06-26 16:48:07
+rank0:  160 0.35393524169921875 @ 2025-06-26 16:48:48
+rank0:  180 0.25607073307037354 @ 2025-06-26 16:49:28
+rank0:  200 0.19946959614753723 @ 2025-06-26 16:50:06
+rank0:  220 0.22612866759300232 @ 2025-06-26 16:50:46
+rank0:  240 0.16637849807739258 @ 2025-06-26 16:51:27
+rank0:  260 0.1684923619031906 @ 2025-06-26 16:52:07
+rank0:  280 0.1653638780117035 @ 2025-06-26 16:52:48
+rank0:  300 0.19467155635356903 @ 2025-06-26 16:53:28
+rank0:  320 0.18615669012069702 @ 2025-06-26 16:54:05
+rank0:  340 0.22247356176376343 @ 2025-06-26 16:54:45
+rank0:  360 0.19172193109989166 @ 2025-06-26 16:55:26
+rank0:  380 0.15669500827789307 @ 2025-06-26 16:56:00
+rank0:  400 0.20660312473773956 @ 2025-06-26 16:56:31
+rank0:  420 0.1749623417854309 @ 2025-06-26 16:57:05
+rank0:  440 0.1722491979598999 @ 2025-06-26 16:57:45
+rank0:  460 0.1858961433172226 @ 2025-06-26 16:58:26
+rank0:  480 0.17563217878341675 @ 2025-06-26 16:59:06
+rank0:  500 0.13356611132621765 @ 2025-06-26 16:59:43
+rank0:  520 0.20434510707855225 @ 2025-06-26 17:00:24
+rank0:  540 0.16464179754257202 @ 2025-06-26 17:01:04
+rank0:  560 0.1482182890176773 @ 2025-06-26 17:01:45
+rank0:  580 0.1330229640007019 @ 2025-06-26 17:02:25
+rank0:  600 0.12424320727586746 @ 2025-06-26 17:03:06
+rank0:  620 0.12763547897338867 @ 2025-06-26 17:03:43
+rank0:  640 0.16553419828414917 @ 2025-06-26 17:04:23
+rank0:  660 0.13493137061595917 @ 2025-06-26 17:05:04
+rank0:  680 0.18665876984596252 @ 2025-06-26 17:05:44
+rank0:  700 0.12552031874656677 @ 2025-06-26 17:06:24
+rank0:  720 0.13310417532920837 @ 2025-06-26 17:07:05
+rank0:  740 0.15662887692451477 @ 2025-06-26 17:07:46
+rank0:  760 0.12468063831329346 @ 2025-06-26 17:08:21
+rank0:  780 0.16078828275203705 @ 2025-06-26 17:09:02
+rank0:  800 0.1026025265455246 @ 2025-06-26 17:09:43
+rank0:  820 0.12659257650375366 @ 2025-06-26 17:10:23
+rank0:  840 0.13871079683303833 @ 2025-06-26 17:11:03
+rank0:  860 0.1254359781742096 @ 2025-06-26 17:11:44
+rank0:  880 0.14522534608840942 @ 2025-06-26 17:12:21
+rank0:  900 0.13557496666908264 @ 2025-06-26 17:13:01
+rank0:  920 0.10580618679523468 @ 2025-06-26 17:13:40
+rank0:  940 0.12444835901260376 @ 2025-06-26 17:14:10
+rank0:  960 0.12999339401721954 @ 2025-06-26 17:14:40
+rank0:  980 0.1228213831782341 @ 2025-06-26 17:15:21
+rank0:  1000 0.12712955474853516 @ 2025-06-26 17:15:38
+rank0:  1020 0.12566089630126953 @ 2025-06-26 17:15:52
+rank0:  1040 0.11230717599391937 @ 2025-06-26 17:16:05
+rank0:  1060 0.09700492024421692 @ 2025-06-26 17:16:19
+rank0:  1080 0.13005539774894714 @ 2025-06-26 17:16:33
+rank0:  1100 0.1054394394159317 @ 2025-06-26 17:16:47
+rank0:  1120 0.10471217334270477 @ 2025-06-26 17:17:01
+rank0:  1140 0.11734572052955627 @ 2025-06-26 17:17:15
+rank0:  1160 0.11285947263240814 @ 2025-06-26 17:17:29
+rank0:  1180 0.11867392063140869 @ 2025-06-26 17:17:43
+rank0:  1200 0.10959478467702866 @ 2025-06-26 17:17:57

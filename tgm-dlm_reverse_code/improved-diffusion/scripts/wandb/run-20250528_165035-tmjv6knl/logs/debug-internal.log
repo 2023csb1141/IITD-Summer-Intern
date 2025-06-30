@@ -1,0 +1,22 @@
+{"time":"2025-05-28T16:50:35.566796731+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/aditya/Summer_Intern_2025/tgm-dlm/improved-diffusion/scripts/wandb/run-20250528_165035-tmjv6knl/logs/debug-core.log"}
+{"time":"2025-05-28T16:50:36.044788634+05:30","level":"INFO","msg":"created new stream","id":"tmjv6knl"}
+{"time":"2025-05-28T16:50:36.044841804+05:30","level":"INFO","msg":"stream: started","id":"tmjv6knl"}
+{"time":"2025-05-28T16:50:36.044893741+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tmjv6knl"}
+{"time":"2025-05-28T16:50:36.044998596+05:30","level":"INFO","msg":"sender: started","stream_id":"tmjv6knl"}
+{"time":"2025-05-28T16:50:36.045114735+05:30","level":"INFO","msg":"handler: started","stream_id":"tmjv6knl"}
+{"time":"2025-05-28T16:50:36.430230157+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-28T17:01:06.547684765+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-05-28T17:11:06.552528198+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-05-28T19:53:06.632613961+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-05-29T02:33:51.836433659+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-05-29T03:44:44.967179992+05:30","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/2023eeb1196-iit-ropar/DiffusionLMRegexAug/tmjv6knl/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-05-29T03:45:02.470069745+05:30","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/2023eeb1196-iit-ropar/DiffusionLMRegexAug/tmjv6knl/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-05-29T03:45:06.86859171+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-05-29T03:52:28.562157464+05:30","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/2023eeb1196-iit-ropar/DiffusionLMRegexAug/tmjv6knl/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-05-29T03:52:36.319651648+05:30","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/2023eeb1196-iit-ropar/DiffusionLMRegexAug/tmjv6knl/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-05-29T03:52:51.872301571+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-05-29T06:00:10.942020121+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/2023eeb1196-iit-ropar/DiffusionLMRegexAug/tmjv6knl/file_stream\": proxyconnect tcp: dial tcp 10.10.78.61:3128: connect: connection refused"}
+{"time":"2025-05-29T06:00:13.391414639+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/2023eeb1196-iit-ropar/DiffusionLMRegexAug/tmjv6knl/file_stream\": proxyconnect tcp: dial tcp 10.10.78.61:3128: connect: connection refused"}
+{"time":"2025-05-29T06:00:17.580019497+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/2023eeb1196-iit-ropar/DiffusionLMRegexAug/tmjv6knl/file_stream\": proxyconnect tcp: dial tcp 10.10.78.61:3128: connect: connection refused"}
+{"time":"2025-05-29T09:41:24.115153665+05:30","level":"INFO","msg":"stream: closing","id":"tmjv6knl"}
+{"time":"2025-05-29T09:41:24.115213959+05:30","level":"INFO","msg":"Stoppi

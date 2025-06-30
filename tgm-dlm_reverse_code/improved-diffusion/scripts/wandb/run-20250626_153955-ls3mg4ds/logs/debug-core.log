@@ -1,0 +1,17 @@
+{"time":"2025-06-26T15:39:49.977745837+05:30","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpb5cbedqz/port-4002240.txt","pid":4002240,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-06-26T15:39:49.984158537+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":33811,"Zone":""}}
+{"time":"2025-06-26T15:39:49.984229579+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":4002240}
+{"time":"2025-06-26T15:39:50.162266821+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:38574"}
+{"time":"2025-06-26T15:39:54.290411317+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:38588"}
+{"time":"2025-06-26T15:39:55.054577831+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"ls3mg4ds","id":"127.0.0.1:38588"}
+{"time":"2025-06-26T15:39:55.554487025+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"ls3mg4ds","id":"127.0.0.1:38588"}
+{"time":"2025-06-26T15:40:12.192055358+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:38574"}
+{"time":"2025-06-26T15:40:12.192179828+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:38588"}
+{"time":"2025-06-26T15:40:12.192304804+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:38574"}
+{"time":"2025-06-26T15:40:12.192362469+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:38588"}
+{"time":"2025-06-26T15:40:12.192382924+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:38588"}
+{"time":"2025-06-26T15:40:12.192348594+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-06-26T15:40:12.192445013+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:38574"}
+{"time":"2025-06-26T15:40:13.726506054+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:38574"}
+{"time":"2025-06-26T15:40:13.726528918+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:38574"}
+{"time":"2025-06-26T15:40:13.726547415+05:30","level":"INFO","msg":"server is closed"}

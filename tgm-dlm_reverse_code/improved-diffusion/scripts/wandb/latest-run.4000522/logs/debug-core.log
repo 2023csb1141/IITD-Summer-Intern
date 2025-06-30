@@ -1,0 +1,17 @@
+{"time":"2025-06-26T15:38:03.537627942+05:30","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpj3xlmeqs/port-4000249.txt","pid":4000249,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-06-26T15:38:03.543577685+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":43467,"Zone":""}}
+{"time":"2025-06-26T15:38:03.54360623+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":4000249}
+{"time":"2025-06-26T15:38:03.718346649+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:34154"}
+{"time":"2025-06-26T15:38:11.999621231+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:50608"}
+{"time":"2025-06-26T15:38:27.041191013+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"7fw0zfmx","id":"127.0.0.1:50608"}
+{"time":"2025-06-26T15:39:57.844119567+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:34154"}
+{"time":"2025-06-26T15:39:57.844232574+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:34154"}
+{"time":"2025-06-26T15:39:57.844248909+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-06-26T15:39:57.844251552+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:50608"}
+{"time":"2025-06-26T15:39:57.84433474+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:34154"}
+{"time":"2025-06-26T15:39:57.844435968+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:50608"}
+{"time":"2025-06-26T15:39:57.844438453+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:34154"}
+{"time":"2025-06-26T15:39:57.84448754+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:34154"}
+{"time":"2025-06-26T15:55:26.452618138+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"7fw0zfmx","id":"127.0.0.1:50608"}
+{"time":"2025-06-26T15:55:26.454645573+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:50608"}
+{"time":"2025-06-26T15:55:26.454694853+05:30","level":"INFO","msg":"server is closed"}
