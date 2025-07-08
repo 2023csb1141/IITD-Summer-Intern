@@ -2,49 +2,34 @@
 
 The **MolTextNet** dataset is a processed and refined version of the [ChEMBL](https://www.ebi.ac.uk/chembl/) database. It contains molecule-description pairs, designed to support tasks such as molecular captioning, text-to-molecule generation, and multimodal representation learning.
 
+The owners used GPT-4 series models to generate coherent scientific descriptions from molecular annotations where each molecule was represented as a structured dictionary of property-value pairs, integrating structural features, physicochemical properties, bioactivity profiles, and synthesis information from ChEMBL35 and curated sources, further using the information to generate detailed textual description representative of all the above mentioned aspects.
+
 ---
 
 ## Dataset Summary
 
-- **Samples**: ~33,000
-- **Format**: Text File (each row contains aunique Compund ID (CID), SMILES and corresponding description)
-- **License**: [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/)
+- **Samples**: ~2.5M
+- **Description length**: ***Avg*** xxxx, ***Max*** xxxx
+- **SMILES length**: ***Avg*** xxxx, ***Max*** xxxx
+- **Format**: CSV File (each row contains aunique Compund ID (CID), SMILES and corresponding description)
 
 ---
-## Data Split:
+## Data Processing
 
- The dataset consists of 33,010 molecules after filtering the SMILES strings whose length is contained within 256. This dataset is further divided into train, validation and test set in the ratio of **80%/10%/10%**.
+We calculated statistics on SMILES string lengths and then removed the samples longer than 256 characters, which was a very small portion of the data(xxx number). Further, we observed a common patten among the descriptions. A lot of descriptions had the SMILES string and CID contained within the text. We further processed the descriptions to make them useful for training molecule generation and captioning tasks, which aligns them with the kind of description presented in the other included datasets. As a part of this processing, we removed the SMILES strings and CID from the descriptions, and further tried to remove the samples wherein the decription was inconsistent with respect to the given moelcule. 
 
 ---
 ## Folder Structure
 
-- [`generate_vocab.txt`](generate_vocab.txt):  
-  This file contains the complete vocabulary extracted from the SMILES strings in the ChEBI20 dataset. It can be used to train a tokenizer or embedder specifically for this chemical space.
-
-- [`mini.txt`](mini.txt):  
-  A small subset of the dataset, useful for quick debugging, model prototyping, or understanding the data format.
-
-- [`test.txt`](test.txt):  
-  Contains the test split of the dataset. This is used for evaluating final model performance.
-
-- [`train.txt`](train.txt):  
-  The primary training split. It consists of the majority of samples from the dataset and is used for fitting the model.
-
-- [`train_val_256.txt`](train_val_256.txt):  
-  A reduced training + validation set with filtered samples having maximum SMILES length of 256.
-
-- [`validation.txt`](validation.txt):  
-  Contains the validation split used to monitor training performance and tune hyperparameters.
-
-- [`validation_256.txt`](validation_256.txt):  
-  A reduced validation set with filtered samples having maximum SMILES length of 256.
+- [`altered_textual_desc.zip`](altered_textual_desc.zip):  
+  A set of xxxx molecules in SMILES representation along with their textual descriptions.
 
 ---
 ## Reference
 
-The ChEBI20 dataset presented here was directly obtained from the official [TGM-DLM repository](https://github.com/Gong-Haisong/TGM-DLM), where it was originally curated and preprocessed by the authors. No additional modifications were made beyond their released version.
+The MolTextNet dataset presented here was directly obtained from the official [repository](https://huggingface.co/datasets/liuganghuggingface/moltextnet), where it was originally curated and preprocessed by the authors.
 
-> Gong, H., Liu, Q., Wu, S., & Wang, L. (2024).  
-> *Text-Guided Molecule Generation with Diffusion Language Model*.  
-> In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 1, pp. 109–117).  
-> [https://doi.org/10.1609/aaai.v38i1.27761](https://doi.org/10.1609/aaai.v38i1.27761)
+> Zhu, Y., Liu, G., Inae, E., & Jiang, M. (2025).  
+> *MolTextNet: A Two-Million Molecule-Text Dataset for Multimodal Molecular Learning*.  
+> arXiv preprint arXiv:2506.00009.  
+> [https://arxiv.org/abs/2506.00009](https://arxiv.org/abs/2506.00009)
