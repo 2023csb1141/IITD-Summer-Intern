@@ -40,6 +40,11 @@ The **ChEBI20** dataset is a curated subset of the [ChEBI](https://www.ebi.ac.uk
   A reduced validation set with filtered samples having maximum SMILES length of 256.
 
 ---
+## Data Usage Instruction
+
+You can directly download the text files of the data by cloning the repository. The text files contains all the data samples together with their CID, SMILES string and text description.
+
+---
 ## Reference
 
 The ChEBI20 dataset presented here was directly obtained from the official [TGM-DLM repository](https://github.com/Gong-Haisong/TGM-DLM), where it was originally curated and preprocessed by the authors. No additional modifications were made beyond their released version.
