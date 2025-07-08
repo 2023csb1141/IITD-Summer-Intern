@@ -8,9 +8,9 @@ The owners used GPT-4 series models to generate coherent scientific descriptions
 
 ## Dataset Summary
 
-- **Samples**: ~2.5M
+- **Samples**: ~2.47M
 - **Description length**: ***Avg*** xxxx, ***Max*** xxxx
-- **SMILES length**: ***Avg*** xxxx, ***Max*** xxxx
+- **SMILES length**: ***Avg*** 54.58
 - **Format**: CSV File (each row contains aunique Compund ID (CID), SMILES and corresponding description)
 
 ---
