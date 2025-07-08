@@ -4,7 +4,7 @@ The **ChEBI20** dataset is a curated subset of the [ChEBI](https://www.ebi.ac.uk
 
 ---
 
-## 📦 Dataset Summary
+## Dataset Summary
 
 - **Samples**: ~33,000
 - **Format**: Text File (each row contains aunique Compund ID (CID), SMILES and corresponding description)
