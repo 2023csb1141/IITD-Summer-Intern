@@ -13,7 +13,7 @@ The owners used GPT-4 series models to generate coherent scientific descriptions
 - **SMILES length**: ***Avg*** 54.58
 - **Format**: CSV File (each row contains aunique Compund ID (CID), SMILES and corresponding description)
 
-[SMILES length Distribution](https://github.com/2023csb1141/IITD-Summer-Intern/blob/main/figures/smile_lens.png)
+![SMILES length Distribution](https://github.com/2023csb1141/IITD-Summer-Intern/blob/main/figures/smile_lens.png)
 
 ---
 ## Data Processing
