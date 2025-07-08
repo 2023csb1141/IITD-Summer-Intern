@@ -30,8 +30,8 @@ We calculated statistics on SMILES string lengths and then removed the samples l
 ## Data Usage Instruction
 
 You can directly download the zip file of the data which will yields a csv file. The csv file contains all the data samples together with their CID, SMILES string and text description. The command line way of doing this is:
-Step 1: Clone the repository
-Step 2: Unzip using `cd Data/MolTextNet; unzip altered_textual_desc.zip`
+- Step 1: Clone the repository
+- Step 2: Unzip using `cd Data/MolTextNet; unzip altered_textual_desc.zip`
 
 ---
 ## Reference
