@@ -39,7 +39,11 @@ This dataset supports a wide range of tasks:
 - Pretraining/fine-tuning multimodal models (e.g., MoleculeSTM, MolT5)
 
 ---
+## Data Usage Instruction
 
+You can directly download the text files of the data by cloning the repository. The files contain all the data samples together with their CID, SMILES string and text description.
+
+---
 ## Reference
 
 The original data collection process was based on:
