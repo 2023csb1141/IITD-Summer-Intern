@@ -8,7 +8,7 @@ The owners used GPT-4 series models to generate coherent scientific descriptions
 
 ## Dataset Summary
 
-- **Samples**: ~2.47M
+- **Samples**: ~2.45M
 - **Description length (words)**: ***Avg*** 244.28, ***Max*** 1862
 - **SMILES length**: ***Avg*** 54.58
 - **Format**: CSV File (each row contains aunique Compund ID (CID), SMILES and corresponding description)
@@ -24,12 +24,14 @@ We calculated statistics on SMILES string lengths and then removed the samples l
 ## Folder Structure
 
 - [`altered_textual_desc.zip`](altered_textual_desc.zip):  
-  A set of xxxx molecules in SMILES representation along with their textual descriptions.
+  A set of 2452741 molecules in SMILES representation along with their textual descriptions.
 
 ---
 ## Data Usage Instruction
 
-You can directly download the zip file of the data which will yields a csv file. The csv file contains all the data samples together with their CID, SMILES string and text description.
+You can directly download the zip file of the data which will yields a csv file. The csv file contains all the data samples together with their CID, SMILES string and text description. The command line way of doing this is:
+Step 1: Clone the repository
+Step 2: Unzip using `cd Data/MolTextNet; unzip altered_textual_desc.zip`
 
 ---
 ## Reference
