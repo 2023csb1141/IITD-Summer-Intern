@@ -10,4 +10,4 @@ The individual details regarding each dataset can be found in their respective R
 ## Preprocessing
 Each dataset contained SMILES strings of varying lengths along with corresponding textual descriptions in raw form. As part of our preprocessing pipeline, we filtered out SMILES strings longer than 256 characters, which roughly accounted for less than 1% of the total samples in each dataset.
 
-![SMILES with corresponding Description](./Smiles_with_description.png)
+![SMILES with corresponding Description](./../Smiles_with_description.png)
