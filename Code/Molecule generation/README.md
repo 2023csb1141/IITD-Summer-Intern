@@ -24,7 +24,11 @@ The following details are important for you to know before you actually train th
 2) The loss will finally converges to around 0.015 (This value depends on the amount of trainable parameters, 0.015 is for the model in this code. Within reasonble range, bigger the model, smaller the loss). It is possible that the loss in your experiment will not converge to 0.015 (below 0.02) and stuck at a relative high value (such as 0.08), we suggest you re-run the training procedure with another random seed. Normally, the loss should converge really quickly to below 0.03 within 15,000 steps. If your loss doesn't behave so, just try another time :)    （Thanks to @YHanJG who report this problem）
 
 ### Finetuning
-We extend the 
+We extend the given code to enable finetuning of pretrained checkpoints using cross entropy loss.
+1. `cd improved-diffusion; cd scripts`
+2. In `finetune.py`, set the path to the pretrained model in the `resume_checkpoint` argument, and set `lr_anneal_steps` to the maximum number of steps you intend to run (i.e. lr_anneal_steps = pretrained steps + finetuning steps).
+3. Encode text input `python process_text.py -i train_val_256; python process_text.py -i test`
+4. Finetune model: `python finetune.py`
 
 ### Sampling
 1. `python text_sample.py; python post_sample.py` The final file `OURMODEL_OUTPUT.txt` is the original output. Whenever this file is run, a new output named 'MODELOUTPUT.txt' is saved.
@@ -38,10 +42,8 @@ You can evaluate all metrics except for Text2Mol by runnning `ev.py`. For Text2M
 - pytorch 2.0
 - transformers (Be careful to follow the readme installation exactly.)
 
-## Citation
-
-Please cite our paper if you use the code:
-
+## Acknowledge
+The original work is cited as follows:
 ```
 @article{gong2024text,
   title={Text-Guided Molecule Generation with Diffusion Language Model},
@@ -56,6 +58,3 @@ Please cite our paper if you use the code:
   pages={109-117}
 }
 ```
-
-## Acknowledge
-This code is based on https://github.com/XiangLi1999/Diffusion-LM and https://github.com/blender-nlp/MolT5
