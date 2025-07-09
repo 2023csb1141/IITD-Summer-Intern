@@ -30,8 +30,6 @@ import warnings
 import torch.multiprocessing as mp
 warnings.filterwarnings("ignore")
 
-wandb.login(key="e3a69f8a6022945939112819f049b0ebd8fffebf")
-
 def main_worker(rank,world_size):
     args = create_argparser().parse_args()
     set_seed(args.seed)
