@@ -1,9 +1,10 @@
-# Text-Guided Molecule Generation with Diffusion Language Model
+# Molecule Captioning with Diffusion Language Model
 
 ![tgmdlm](pics/tgmdlm.png)
 
 
 - This code has been derived from the original paper submitted at AAAI 2024: [Text-Guided Molecule Generation with Diffusion Language Model](https://arxiv.org/abs/2402.13040v1).
+- The code was originally proposed for Text-Guided Molecule Generation. We have altered the pipeline to generate molecule captions using similar technique.
 - We have extended the code to finetune stored checkpoints using cross entropy loss for given number of steps. 
 
 ## Usage
@@ -16,12 +17,7 @@
 ### Training
 1. `cd improved-diffusion; cd scripts`
 2. Encode text input `python process_text.py -i train_val_256; python process_text.py -i test`
-3. Train model for Phase One: `python train.py`
-4. Train model for Phase Two: `python train_correct_withmask.py`
-
-The following details are important for you to know before you actually train this model by yourself!
-1) For this model it always needs more than 100,000 steps of training before sampling so you can get a normal result. The perfomance converges long after the convergence of the loss.
-2) The loss will finally converges to around 0.015 (This value depends on the amount of trainable parameters, 0.015 is for the model in this code. Within reasonble range, bigger the model, smaller the loss). It is possible that the loss in your experiment will not converge to 0.015 (below 0.02) and stuck at a relative high value (such as 0.08), we suggest you re-run the training procedure with another random seed. Normally, the loss should converge really quickly to below 0.03 within 15,000 steps. If your loss doesn't behave so, just try another time :)    （Thanks to @YHanJG who report this problem）
+3. Train model: `python train.py`
 
 ### Finetuning
 We extend the given code to enable finetuning of pretrained checkpoints using cross entropy loss.
@@ -31,10 +27,10 @@ We extend the given code to enable finetuning of pretrained checkpoints using cr
 4. Finetune model: `python finetune.py`
 
 ### Sampling
-1. `python text_sample.py; python post_sample.py` The final file `OURMODEL_OUTPUT.txt` is the original output. Whenever this file is run, a new output named 'MODELOUTPUT.txt' is saved.
+1. `python text_sample.py; python post_sample.py`. Whenever this file is run, a new output named 'MODELOUTPUT.txt' is saved.
 
 ### Evaluation
-You can evaluate all metrics except for Text2Mol by runnning `ev.py`. For Text2Mol please go to [MolT5](https://github.com/blender-nlp/MolT5) for more details.
+You can evaluate all metrics except for Text2Mol by runnning `ev_reverse.py`. For Text2Mol please go to [MolT5](https://github.com/blender-nlp/MolT5) for more details.
 
 ## Requirements
 
