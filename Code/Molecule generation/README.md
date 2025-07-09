@@ -3,13 +3,14 @@
 ![tgmdlm](pics/tgmdlm.png)
 
 
-**This code has been derived from the original paper submitted at AAAI 2024: [Text-Guided Molecule Generation with Diffusion Language Model](https://arxiv.org/abs/2402.13040v1).
+-This code has been derived from the original paper submitted at AAAI 2024: [Text-Guided Molecule Generation with Diffusion Language Model](https://arxiv.org/abs/2402.13040v1).
+-We have extended the code to finetune stored checkpoints using cross entropy loss for given number of steps. 
 
 ## Usage
 
-### Paper data
+### Prerequisites
 
-1. Install Package `cd TGMDLMCODE; pip install -e improved-diffusion/; pip install -e transformers/`.
+1. For running the code on your own dataset, it is required to convert the data into `.txt` files, with the headers: CID\tSMILES\tdescriptions. (By default, [ChEBI-20](https://github.com/2023csb1141/IITD-Summer-Intern/tree/main/Data/ChEBI20) Data is already in this format and can be used directly.)
 2. Download [Scibert](https://huggingface.co/allenai/scibert_scivocab_uncased) and put it into file `scibert`.
 
 ### Training
