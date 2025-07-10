@@ -1,11 +1,8 @@
 # Molecule Captioning with Diffusion Language Model
 
-![tgmdlm](pics/tgmdlm.png)
 
-
-- This code has been derived from the original paper submitted at AAAI 2024: [Text-Guided Molecule Generation with Diffusion Language Model](https://arxiv.org/abs/2402.13040v1).
-- The code was originally proposed for Text-Guided Molecule Generation. We have altered the pipeline to generate molecule captions using similar technique.
-- We have extended the code to finetune stored checkpoints using cross entropy loss for given number of steps. 
+- The code was originally proposed for Text-Guided Molecule Generation. We have altered the pipeline to generate molecule captions using similar DLM architecture.
+- We have also extended the code to finetune stored checkpoints using cross entropy loss for given number of steps. 
 
 ## Usage
 
