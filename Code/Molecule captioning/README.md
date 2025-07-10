@@ -1,7 +1,7 @@
 # Molecule Captioning with Diffusion Language Model
 
 
-- The code was originally proposed for Text-Guided Molecule Generation. We have altered the pipeline to generate molecule captions using similar DLM architecture.
+- We have presented a pipeline to generate molecule captions using DLM architecture.
 - We have also extended the code to finetune stored checkpoints using cross entropy loss for given number of steps. 
 
 ## Usage
