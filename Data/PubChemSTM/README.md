@@ -1,6 +1,6 @@
 # PubChemSTM Dataset
 
-The **PubChemSTM** dataset is a large-scale collection of **77,700** SMILES–text pairs, designed for training and evaluating models on tasks such as molecular captioning, text-to-molecule generation, and multimodal learning.
+The **PubChemSTM** dataset is a large-scale collection of **77,700** SMILES–text pairs, designed for training and evaluating models on tasks such as molecular captioning, text-to-molecule generation, and multimodal learning. In many cases, this dataset is preffered for pretraining the models, followed by finetuning on a refined dataset, like ChEBI-20.
 
 The original data was obtained using the scripts provided in the official [MoleculeSTM repository](https://github.com/THUDM/MoleculeSTM), and subsequently curated through additional preprocessing steps described below.
 
