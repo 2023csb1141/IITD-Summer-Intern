@@ -10,7 +10,7 @@ The original data was obtained using the scripts provided in the official [Molec
 
 We applied further filtering to the original raw dump to enhance data quality:
 
-- Removed molecules with **highly repetitive or boilerplate descriptions**.
+- Removed molecules with **highly repetitive descriptions**.
 - Discarded entries with **non-informative chemical descriptions**, such as those merely noting the molecule’s source (e.g., “found in a plant”).
 - Ensured all remaining entries had **valid SMILES strings** and **meaningful chemical annotations**.
 
