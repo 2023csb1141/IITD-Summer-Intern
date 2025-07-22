@@ -1,6 +1,3 @@
----
-language: en
----
 # SciBERT
 
 This is the pretrained model presented in [SciBERT: A Pretrained Language Model for Scientific Text](https://www.aclweb.org/anthology/D19-1371/), which is a BERT model trained on scientific text.
