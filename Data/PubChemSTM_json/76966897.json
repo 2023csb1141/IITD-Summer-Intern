@@ -1,0 +1,3750 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 76966897,
+    "RecordTitle": "Lutetium Lu 177 Dotatate",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Status",
+            "Description": "The reason why three-dimensional (3D) conformers for this compound cannot be generated.  PubChem generates 3D conformers for each compound that satisfies the following conditions: [1] not too large (with <= 50 non-hydrogen atoms), [2] not too flexible (with <= 15 rotatable bonds), [3] consisting of only supported elements (H, C, N, O, F, Si, P, S, Cl, Br, and I), [4] having only a single covalent unit (i.e., not a salt or a mixture), [5] contains only atom types recognized by the MMFF94s force field used for conformer generation, and [6] has fewer than six undefined atom or bond stereo centers.  Compounds that do not satisfy any of these conditions are not considered for 3-D conformer generation.  In some rare cases, a compound satisfies all conditions but the conformer generation for the compound fails for some reason. More detailed information on 3D conformer generation can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Conformer generation is disallowed since too many atoms, MMFF94s unsupported element, too flexible, mixture or salt"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "A 177Lu-labeled somatostatin analog peptide, Lutetium Lu 177 dotatate belongs to an emerging form of treatments called Peptide Receptor Radionuclide Therapy (PRRT), which involves targeting tumours with molecules carrying radioactive particles that bind to specific receptors expressed by the tumour. Lutetium Lu 177 dotatate may also be referred to as 177Lu-DOTA-Tyr3-octreotate. Compared to the alternative somatostatin analogue DOTA-Tyr3-octreotide (dotatoc), Lutetium Lu 177 dotatate displays higher uptake of radioactivity in tumors and better residence times. In terms of biodistribution, Lutetium Lu 177 dotatate demonstrated a lower whole-body retention, indicating potentially lower risk for bone marrow toxicity. The presence of a radioligand allows monitoring of treatment response post therapy and prior to next fraction of the dose delivery which may be clinically beneficial in estimating the intensity of lesion uptakes or deciding the dose for subsequent administrations.  Lutetium Lu 177 dotatate was approved by the FDA as Lutathera in January 2018 for intravenous injection. It is a first radiopharmaceutical agent to be approved for gastroenteropancreatic neuroendocrine tumors (GEP-NETs) and is indicated for adult patients with somatostatin receptor-positive GEP-NETs. Targeting pancreas and other parts of the gastrointestinal tract such as the intestines and colon, neuroendocrine tumors may commonly metastasize to metastasize to the mesentery, peritoneum, and liver. Patients with GEP-NETs have limited second-line treatment options after the metastasis of tumors and inadequate therapeutic response from first-line therapies. In a clinical trial involving patients with advanced somatostatin receptor-positive GEP-NET, the treatment of Lutetium Lu 177 dotatate in combination with octreotide resulted in longer progression-free survival compared to patients receiving octreotide alone and there was evidence of an overall survival benefit.",
+                      "Markup": [
+                        {
+                          "Start": 16,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 54,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 301,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 310,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 359,
+                          "Length": 4,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DOTA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-121841"
+                        },
+                        {
+                          "Start": 369,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/octreotate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-53990323"
+                        },
+                        {
+                          "Start": 409,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 431,
+                          "Length": 4,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DOTA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-121841"
+                        },
+                        {
+                          "Start": 436,
+                          "Length": 15,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tyr-3-octreotide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-123864"
+                        },
+                        {
+                          "Start": 453,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dotatoc",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-158782"
+                        },
+                        {
+                          "Start": 463,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 472,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 595,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 604,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 989,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 998,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 1250,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 1706,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 1763,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 1772,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 1808,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/octreotide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-448601"
+                        },
+                        {
+                          "Start": 1895,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/octreotide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-448601"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 18,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Lutetium Lu 177 Dotatate is a radioconjugate consisting of the tyrosine-containing somatostatin analog Tyr3-octreotate (TATE) conjugated with the bifunctional, macrocyclic chelating agent tetra-azacyclododecanetetra-acetic acid (DOTA) and radiolabeled with the beta-emitting radioisotope lutetium Lu 177, with potential imaging and antineoplastic activities. Lutetium Lu 177 dotatate binds to somatostatin receptors (SSTRs), with high affinity to type 2 SSTR, present on the cell membranes of many types of neuroendocrine tumor (NET) cells. Upon binding and internalization, this radioconjugate specifically delivers a cytotoxic dose of beta radiation to SSTR-positive cells. Tyr3-octreotate (TATE) is an octreotide derivative in which phenylalanine at position 3 is substituted by tyrosine and position 8 threoninol is replaced with threonine. SSTRs have been shown to be present in large numbers on NET and their metastases, while most other normal tissues express low levels of SSTRs.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 9,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 63,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6057"
+                        },
+                        {
+                          "Start": 83,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 108,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/octreotate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-53990323"
+                        },
+                        {
+                          "Start": 229,
+                          "Length": 4,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DOTA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-121841"
+                        },
+                        {
+                          "Start": 288,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 297,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 359,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 368,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 393,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 681,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/octreotate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-53990323"
+                        },
+                        {
+                          "Start": 705,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/octreotide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-448601"
+                        },
+                        {
+                          "Start": 736,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenylalanine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6140"
+                        },
+                        {
+                          "Start": 782,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6057"
+                        },
+                        {
+                          "Start": 806,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/threoninol",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-2033049"
+                        },
+                        {
+                          "Start": 834,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/threonine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6288"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-[4-[2-[[(2R)-1-[[(4R,7S,10S,13R,16S,19R)-10-(4-aminobutyl)-4-[[(1S,2R)-1-carboxy-2-hydroxypropyl]carbamoyl]-7-[(1R)-1-hydroxyethyl]-16-[(4-hydroxyphenyl)methyl]-13-(1H-indol-3-ylmethyl)-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentazacycloicos-19-yl]amino]-1-oxo-3-phenylpropan-2-yl]amino]-2-oxoethyl]-7,10-bis(carboxylatomethyl)-1,4,7,10-tetrazacyclododec-1-yl]acetate;lutetium-177(3+)",
+                          "Markup": [
+                            {
+                              "Start": 12,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 21,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 24,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 28,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 32,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 36,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 40,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 67,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 70,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 115,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 168,
+                              "Length": 1,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C65H90N14O19S2.Lu/c1-38(80)56-64(96)73-51(63(95)75-57(39(2)81)65(97)98)37-100-99-36-50(72-59(91)47(28-40-10-4-3-5-11-40)68-52(83)32-76-20-22-77(33-53(84)85)24-26-79(35-55(88)89)27-25-78(23-21-76)34-54(86)87)62(94)70-48(29-41-15-17-43(82)18-16-41)60(92)71-49(30-42-31-67-45-13-7-6-12-44(42)45)61(93)69-46(58(90)74-56)14-8-9-19-66;/h3-7,10-13,15-18,31,38-39,46-51,56-57,67,80-82H,8-9,14,19-30,32-37,66H2,1-2H3,(H,68,83)(H,69,93)(H,70,94)(H,71,92)(H,72,91)(H,73,96)(H,74,90)(H,75,95)(H,84,85)(H,86,87)(H,88,89)(H,97,98);/q;+3/p-3/t38-,39-,46+,47-,48+,49-,50+,51+,56+,57+;/m1./s1/i;1+2"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MXDPZUIOZWKRAA-PRDSJKGBSA-K"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C[C@H]([C@H]1C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=C(C=C4)O)NC(=O)[C@@H](CC5=CC=CC=C5)NC(=O)CN6CCN(CCN(CCN(CC6)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])C(=O)N[C@@H]([C@@H](C)O)C(=O)O)O.[177Lu+3]"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C65H87LuN14O19S2"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "437608-50-9"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "437608-50-9"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Deprecated CAS",
+                "Description": "The Chemical Abstract Service (CAS) registry numbers that are no longer used.  These numbers are old, deprecated, and/or deleted, but users may still encounter them in some (old) references.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "753443-19-5"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/AE221IM3BB",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AE221IM3BB"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DrugBank ID",
+                "Description": "Drug identifier used by the DrugBank database",
+                "URL": "https://go.drugbank.com/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "URL": "https://www.drugbank.ca/drugs/DB13985",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DB13985"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "HMDB ID",
+                "Description": "A chemical substance identifier from the HMDB database",
+                "URL": "https://hmdb.ca/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "URL": "https://hmdb.ca/metabolites/HMDB0304898",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HMDB0304898"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Metabolomics Workbench ID",
+                "Description": "Registration number used by Metabolomics Workbench",
+                "URL": "https://www.metabolomicsworkbench.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=154712",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "154712"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "NCI Thesaurus Code",
+                "Description": "Stable, unique code for biomedical concept",
+                "URL": "https://ncithesaurus.nci.nih.gov",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "URL": "https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C95020",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C95020"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "PharmGKB ID",
+                "Description": "PharmGKB chemical identifier",
+                "URL": "https://www.pharmgkb.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "URL": "https://www.pharmgkb.org/chemical/PA166224981",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "PA166224981"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "RXCUI",
+                "Description": "RxNorm concept unique identifier (RXCUI)",
+                "URL": "https://www.nlm.nih.gov/research/umls/rxnorm/index.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "URL": "https://rxnav.nlm.nih.gov/id/rxnorm/1999335",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1999335"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "URL": "https://www.wikidata.org/wiki/Q27273888",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q27273888"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Entry Terms",
+                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "MeSH Entry Terms for lutetium Lu 177 dotatate",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "lutetium Lu 177 dotatate"
+                        },
+                        {
+                          "String": "Lu-177 DOTATE"
+                        },
+                        {
+                          "String": "lutetium oxodotreotide Lu-177"
+                        },
+                        {
+                          "String": "lutetium (177Lu) oxodotreotide"
+                        },
+                        {
+                          "String": "(177lutetium-DOTA(O)Tyr3)octreotate"
+                        },
+                        {
+                          "String": "(177Lu-DOTAOTyr3)octreotate"
+                        },
+                        {
+                          "String": "DOTATATE-177Lu"
+                        },
+                        {
+                          "String": "177Lu-DOTATATE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "MeSH Entry Terms for Lutathera",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Lutathera"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "177Lu-dotatate"
+                        },
+                        {
+                          "String": "Lutetium Lu 177 Dotatate"
+                        },
+                        {
+                          "String": "Lutetium dotatate lu-177"
+                        },
+                        {
+                          "String": "Lutathera"
+                        },
+                        {
+                          "String": "177Lu-DOTA-Tyr3-octreotate"
+                        },
+                        {
+                          "String": "(177)lu-dotatate"
+                        },
+                        {
+                          "String": "Lutetium oxodotreotide lu-177"
+                        },
+                        {
+                          "String": "Dotatate lutetium lu-177"
+                        },
+                        {
+                          "String": "Lutetium lu-177 dotatate"
+                        },
+                        {
+                          "String": "Lutetium dotatate, lu-177"
+                        },
+                        {
+                          "String": "Lu-DOTA-TATE"
+                        },
+                        {
+                          "String": "Oxodotreotide lutetium lu-177"
+                        },
+                        {
+                          "String": "Oxodotreotide lutetium, lu-177"
+                        },
+                        {
+                          "String": "Dota-octreotate lutetium lu-177"
+                        },
+                        {
+                          "String": "AE221IM3BB"
+                        },
+                        {
+                          "String": "437608-50-9"
+                        },
+                        {
+                          "String": "DTXSID20195927"
+                        },
+                        {
+                          "String": "(177lutetium-DOTA(O)Tyr3)octreotate"
+                        },
+                        {
+                          "String": "Lutetium (177Lu) dotatate"
+                        },
+                        {
+                          "String": "DOTATATE-177Lu"
+                        },
+                        {
+                          "String": "RefChem:154418"
+                        },
+                        {
+                          "String": "Lu-177 DOTATE"
+                        },
+                        {
+                          "String": "177 Lu-DOTA-TATE"
+                        },
+                        {
+                          "String": "lutetium Lu 177-DOTATATE"
+                        },
+                        {
+                          "String": "177 Lu-DOTA-Tyr3-Octreotate"
+                        },
+                        {
+                          "String": "177Lu-DOTA0-Tyr3-Octreotate"
+                        },
+                        {
+                          "String": "DTXCID901513297"
+                        },
+                        {
+                          "String": "Lutetium Lu 177-DOTA-Tyr3-Octreotate"
+                        },
+                        {
+                          "String": "Lutetium Lu 177 DOTA(0)-Tyr(3)-Octreotate"
+                        },
+                        {
+                          "String": "(177Lu-DOTAOTyr3)octreotate"
+                        },
+                        {
+                          "String": "2-(4-(2-(((2R)-1-(((4R,7S,10S,13R,16S,19R)-10-(4-aminobutyl)-4-(((1S,2R)-1-carboxy-2-hydroxypropyl)carbamoyl)-7-((1R)-1-hydroxyethyl)-16-((4-hydroxyphenyl)methyl)-13-(1H-indol-3-ylmethyl)-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentazacycloicos-19-yl)amino)-1-oxo-3-phenylpropan-2-yl)amino)-2-oxoethyl)-7,10-bis(carboxylatomethyl)-1,4,7,10-tetrazacyclododec-1-yl)acetate;lutetium-177(3+)"
+                        },
+                        {
+                          "String": "Dotatate lutenium Lu-177"
+                        },
+                        {
+                          "String": "SCHEMBL29360499"
+                        },
+                        {
+                          "String": "DB13985"
+                        },
+                        {
+                          "String": "lutetium ((1)Lu) oxodotreotide [INN]"
+                        },
+                        {
+                          "String": "Lutetium (177Lu) dotatate [WHO-DD]"
+                        },
+                        {
+                          "String": "LUTETIUM (177LU) OXODOTREOTIDE [MI]"
+                        },
+                        {
+                          "String": "LUTETIUM DOTATATE LU-177 [ORANGE BOOK]"
+                        },
+                        {
+                          "String": "((177)LU-DOTA(0)-TYR(3))-OCTREOTATE"
+                        },
+                        {
+                          "String": "Q27273888"
+                        },
+                        {
+                          "String": "LUTETATE(1-)-177LU, (N-((4,7,10-TRIS((CARBOXY-.KAPPA.O)METHYL)-1,4,7,10-TETRAAZACYCLODODEC-1-YL-.KAPPA.N1,.KAPPA.N4,.KAPPA.N7,.KAPPA.N10)ACETYL)-D-PHENYLALANYL-L-CYSTEINYL-L-TYROSYL-D-TRYPTOPHYL-L-LYSYL-L-THREONYL-L-CYSTEINYL-L-THREONINE CYCLIC (2-7)-DISULFIDATO(4-))-"
+                        },
+                        {
+                          "String": "LUTETIUM-177(3+), S2,S7-CYCLO(N-(4,7,10-TRICARBOXYMETHYL-1,4,7,10-TETRAAZA-CYCLODODECAN-1-YL-ACETYL)-4-CHLORO-L-PHENYLALANYL-D-CYSTEINYL-4-((4S)-2,6-DIOXO-1,3-DIAZINANE-4-CARBOXAMIDO)-L-PHENYLALANYL-4-(CARBAMOYLAMINO)-D-PHENYLALANYL-L-LYSYL-L-THREONYL-L-CYSTEINYL-D-TYROSINAMIDE)-"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "177Lu-DOTA-octreotate"
+                        },
+                        {
+                          "String": "Lutetium (177lu) oxodotreotide"
+                        },
+                        {
+                          "String": "Lutetium Lu177-DOTA-TATE"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Value": {
+                  "DateISO8601": [
+                    "2014-08-25"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-09-07"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1609.5"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        14
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        26
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        23
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1608.51510"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1608.51510"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        557
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        101
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2690
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        10
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Classes",
+            "Description": "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties, radiological properties, or other factors.",
+            "Section": [
+              {
+                "TOCHeading": "Drugs",
+                "Description": "Chemicals are used as active ingredients in drug/pharmaceutical products, including human drugs, animal drugs, biologics, etc.",
+                "Section": [
+                  {
+                    "TOCHeading": "Human Drugs",
+                    "Description": "Chemicals are used as active ingredients in human drug products.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 5,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Breast Feeding; Lactation; Milk, Human; Radiopharmaceuticals; Lutetium Radioisotopes",
+                              "Markup": [
+                                {
+                                  "Start": 62,
+                                  "Length": 8,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "Element-Lutetium"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 7,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 8,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Active ingredient (LUTETIUM LU 177 DOTATATE)",
+                              "Markup": [
+                                {
+                                  "Start": 33,
+                                  "Length": 8,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "Element-Lutetium"
+                                },
+                                {
+                                  "Start": 42,
+                                  "Length": 6,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/LU%20177",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-161046"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 10,
+                        "Name": "Human Drugs",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drugs -> Orphan -> Other therapeutic radiopharmaceuticals -> Human pharmacotherapeutic group -> EMA Drug Category"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Rare disease (orphan) drug"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID76966897%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID76966897%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Parent Compound",
+            "Description": "A parent compound is conceptually the \"important\" part of the molecule when the molecule has more than one covalent component. Specifically, a parent component must have at least one carbon and contain at least 70% of the heavy (non-hydrogen) atoms of all the unique covalent units (ignoring stoichiometry). Note that this is a very empirical definition and is subject to change.",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 11170867 (Dotatate)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 23,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=11170867",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 23,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/11170867"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Component Compounds",
+            "Description": "Component parts of the compound when it consists of multiple covalently-bonded units.  In PubChem, a covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or single atom without covalent bonds).",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 161046 (Lutetium Lu-177)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 28,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=161046",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 28,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/161046"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "CID 11170867 (Dotatate)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 23,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=11170867",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 23,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/11170867"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "Same Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/76966897/cids/JSON?cids_type=same_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    3
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 24,
+                "Name": "Same Stereo Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/76966897/cids/JSON?cids_type=same_stereo&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 24,
+                "Name": "Same Parent, Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/76966897/cids/JSON?cids_type=same_parent_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    63
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 24,
+                "Name": "Same Parent, Exact Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/76966897/cids/JSON?cids_type=same_parent&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    32
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 24,
+                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/76966897/cids/JSON?cids_type=component&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 24,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID76966897%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 24,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID76966897%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/500797836",
+                    "Value": {
+                      "Number": [
+                        500797836
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/76966897/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        9
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Research and Development"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Entrez Crosslinks",
+            "Description": "Cross-references to associated records in other Entrez databases such as PubMed, Gene, Protein, etc.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "PubMed Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed&db=pccompound&cmd=Link&from_uid=76966897",
+                "Value": {
+                  "Number": [
+                    6
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Drug and Medication Information",
+        "Description": "This section provides drug and medication information for this compound, including drug indications, labeling, clinical trials, idiosyncrasies, tolerance, reported fatal doses, etc.",
+        "Section": [
+          {
+            "TOCHeading": "Drug Indication",
+            "Description": "A drug indication refers to any valid reason (e.g., signs/symptoms or diseases/disorders) to use a certain drug.  Many indications are label indications, approved by a regulatory agency (e.g., the U.S. Food and Drug Administration or European Medical Agency), meaning that the manufacturer is allowed to market the drug for the approved indications.  However, some indications are not approved, and therefore, they are called off-label indications.  This section may include both label indications and off-label indications.",
+            "DisplayControls": {
+              "ShowAtMost": 3
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Indicated for the treatment of somatostatin receptor-positive gastroenteropancreatic neuroendocrine tumors (GEP-NETs), including foregut, midgut, and hindgut neuroendocrine tumors in adults.",
+                      "Markup": [
+                        {
+                          "Start": 31,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Drug Indication",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Lutathera is indicated for the treatment of unresectable or metastatic, progressive, well differentiated (G1 and G2), somatostatin receptor positive gastroenteropancreatic neuroendocrine tumours (GEPâNETs) in adults.",
+                      "Markup": [
+                        {
+                          "Start": 118,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Drug Classes",
+            "Description": "Drug classes of this compound, based on its therapeutic uses and/or structure. The data presented in this section is from LiverTox.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/source/15404",
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Breast Feeding; Lactation; Milk, Human; Radiopharmaceuticals; Lutetium Radioisotopes",
+                      "Markup": [
+                        {
+                          "Start": 62,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA Approved Drugs",
+            "Description": "Drugs@FDA includes information about approved drugs and biological products for human use in the United States.",
+            "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/about-drugsfda",
+            "DisplayControls": {
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 6,
+                "Value": {
+                  "ExternalTableName": "collection=fdadrug&query_type=synonym&query='^LUTETIUM LU 177 DOTATATE$'"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA Orange Book",
+            "Description": "The Orange Book identifies drug products approved on the basis of safety and effectiveness by the U.S. Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act and and related patent and exclusivity information.",
+            "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+            "DisplayControls": {
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "ExternalTableName": "collection=fdaorangebook&query_type=synonym&query='^LUTETIUM LU 177 DOTATATE$'"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA National Drug Code Directory",
+            "Description": "The National Drug Code (NDC) is a unique product identifier in three-segment number used in the United States for human drugs (the Drug Listing Act of 1972).",
+            "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory",
+            "DisplayControls": {
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 16,
+                "Value": {
+                  "ExternalTableName": "collection=fdandc&query_type=synonym&query='^LUTETIUM LU 177 DOTATATE$'"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Drug Labels",
+            "Description": "This section provides the drug labeling information for drug products associated with this compound. This information is from The National Library of Medicine (NLM)'s DailyMed, which provides the most recent labeling submitted to the Food and Drug Administration (FDA) by companies and currently in use (i.e., \"in use\" labeling). DailyMed contains labeling for prescription and nonprescription drugs for human and animal use, and for additional products such as medical gases, devices, cosmetics, dietary supplements, and medical foods.",
+            "URL": "https://dailymed.nlm.nih.gov/dailymed/",
+            "DisplayControls": {
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 2,
+                "Name": "Drug and label",
+                "Value": {
+                  "ExternalTableName": "collection=dailymed&query_type=synonym&query='^LUTETIUM LU 177 DOTATATE$'"
+                }
+              },
+              {
+                "ReferenceNumber": 2,
+                "Name": "Active ingredient and drug",
+                "Value": {
+                  "ExternalTableName": "collection=dailymed_i&query_type=synonym&query='^LUTETIUM LU 177 DOTATATE$'"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Cancer Drugs",
+            "Description": "This section contains a list of cancer drugs information from the National Cancer Institute.",
+            "URL": "https://www.cancer.gov/about-cancer/treatment/drugs",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              }
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "Drug Name",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Lutathera (Lutetium Lu 177-Dotatate)",
+                      "Markup": [
+                        {
+                          "Start": 11,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 20,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Name": "Brand Name(s)",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Lutathera"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Name": "FDA Approved",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Yes"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Name": "Drug Use",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Lutetium Lu 177-dotatate is approved to treat:",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 9,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "• Gastroenteropancreatic neuroendocrine tumors. It is used in adults and children aged 12 years and older whose cancer is somatostatin receptorpositive.",
+                      "Markup": [
+                        {
+                          "Start": 122,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "Lutetium Lu 177-dotatate is also being studied in the treatment of other types of cancer.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 9,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Clinical Trials",
+            "Description": "Clinical trials are research studies performed in people to evaluate a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment (e.g., a drug or diet) or medical device (e.g., a pacemaker) is safe and effective in people.  This section provides information on clinical trials for this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "ClinicalTrials.gov",
+                "Description": "Brief clinical trials summary from ClinicalTrials.gov at the U.S. National Library of Medicine.",
+                "URL": "http://clinicaltrials.gov/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Name": "ClinicalTrials.gov",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials",
+                      "ExternalTableNumRows": 24
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EU Clinical Trials Register",
+                "Description": "Brief clinical trials summary from the EU Clinical Trials Register.",
+                "URL": "https://www.clinicaltrialsregister.eu/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "EU Clinical Trials Register",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials_eu",
+                      "ExternalTableNumRows": 14
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EMA Drug Information",
+            "Description": "Drug information from the European Medicines Agency (EMA).",
+            "URL": "https://www.ema.europa.eu/en",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 2
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 10,
+                "Name": "Medicine",
+                "URL": "https://www.ema.europa.eu/en/medicines/human/EPAR/lutathera",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Lutathera"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Category",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Human drugs -> Orphan"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Therapeutic area",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Neuroendocrine Tumors"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Active Substance",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "lutetium (177Lu) oxodotreotide",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "INN/Common name",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "lutetium (177Lu) oxodotreotide",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Pharmacotherapeutic Classes",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Other therapeutic radiopharmaceuticals"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Status",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "This medicine is authorized for use in the European Union"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Company",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Advanced Accelerator Applications"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 10,
+                "Name": "Market Date",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "2017-09-26"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Type",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Rare disease (orphan) designations"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Medicine",
+                "URL": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-07-523",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Lutathera"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Disease/Condition",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Treatment of gastro-entero-pancreatic neuroendocrine tumours"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Active Substance",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Lutetium (177Lu)-N-[(4,7,10-Tricarboxymethyl-1,4,7,10-tetraazacyclododec-1-yl)acetyl]-D-phenylalanyl-L-cysteinyl-L-tyrosyl-D-tryptophanyl-L-lysyl-L-threoninyl-L-cysteinyl-L-threonine-cyclic(2-7)disulfideÂ (lutetium (177Lu) oxodotreotide)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 206,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Status of Orphan Designation",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Positive"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Decision Date",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "2008-01-31"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Pharmacology and Biochemistry",
+        "Description": "Pharmacology and biochemistry information related to this compound, including the pharmacodynamics, pharmacokinetics, metabolism, mechanism of action, biological half-life, biochemical reactions, and many others.",
+        "Section": [
+          {
+            "TOCHeading": "Pharmacodynamics",
+            "Description": "Pharmacodynamic information for this compound as a drug (i.e., what does this drug do to the body).  Pharmacodynamics is the study of the biochemical, physiologic, and molecular effects of drugs on the body.",
+            "URL": "https://www.ncbi.nlm.nih.gov/books/NBK507791/",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Clinically significant myelosuppression occurred in less than 10% of patients in the Lutetium Lu 177 dotatate (177Lu-Dotatate) group in one clinical trial. According to an open label study involving 20 patients with somatostatin receptor-positive midgut carcinoid tumors, the treatment with did not result in any large changes in the mean QTc interval (i.e., >20 ms). Due to high expression of SSTR2, pancreas was the primary target in animal studies using a non-radioactive form of lutetium Lu 177 dotatate (lutetium Lu 175 dotatate).",
+                      "Markup": [
+                        {
+                          "Start": 85,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 94,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 216,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 483,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 492,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 509,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "MeSH Pharmacological Classification",
+            "Description": "Pharmacological action classes from the Medical Subject Headings (MeSH) thesaurus.",
+            "URL": "https://meshb.nlm.nih.gov/record/ui?ui=D020228",
+            "Information": [
+              {
+                "ReferenceNumber": 35,
+                "Name": "Radiopharmaceuticals",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Compounds that are used in medicine as sources of radiation for radiotherapy and for diagnostic purposes. They have numerous uses in research and industry. (Martindale, The Extra Pharmacopoeia, 30th ed, p1161)"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ATC Code",
+            "Description": "The Anatomical Therapeutic Chemical (ATC) Classification System is used for the classification of drugs. This pharmaceutical coding system divides drugs into different groups according to the organ or system on which they act and/or their therapeutic and chemical characteristics. Each bottom-level ATC code stands for a pharmaceutically used substance, or a combination of substances, in a single indication (or use). This means that one drug can have more than one code: acetylsalicylic acid (aspirin), for example, has A01AD05 as a drug for local oral treatment, B01AC06 as a platelet inhibitor, and N02BA01 as an analgesic and antipyretic. On the other hand, several different brands share the same code if they have the same active substance and indications.",
+            "URL": "https://www.whocc.no/atc/structure_and_principles/",
+            "Information": [
+              {
+                "ReferenceNumber": 10,
+                "Name": "ATC Code",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "V10XX04"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Absorption, Distribution and Excretion",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Name": "Absorption",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "At the recommended intravenous dose, the mean blood exposure (AUC) of lutetium Lu 177 dotatate was 41 ng.h/mL (coefficient of variation, or CV, 36 %). The mean maximum plasma concentration (Cmax) was 10 ng/mL (CV 50%) and was observed at the end of the intravenous infusion of lutetium Lu 177 dotatate.",
+                      "Markup": [
+                        {
+                          "Start": 70,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 79,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 277,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 286,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 4,
+                "Name": "Route of Elimination",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Lutetium Lu 177 dotatate predominantly undergoes renal excretion with cumulative excretion of 44% within 5 hours, 58% within 24 hours, and 65% within 48 hours following intravenous administration. Greater than 99% of total administered dose is expected to be eliminated within 14 days after administration although prolonged renal elimination is expected.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 9,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 4,
+                "Name": "Volume of Distribution",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "The mean volume of distribution is 460 L (CV 54%). Within 4 hours of administration, distribution in kidneys, tumor lesions, liver, spleen, and, in some patients, pituitary gland and thyroid was observed. High uptake of the radiolabeled peptide in the pancreas in animal biodistribution studies was observed due to high expression of SSTR2. Co-administration of amino acids with lutetium Lu 177 dotatate may decrease the extent of drug distribution to the kidneys.",
+                      "Markup": [
+                        {
+                          "Start": 379,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 388,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 4,
+                "Name": "Clearance",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "The mean clearance (CL) is 4.5 L/h (CV 31%). Co-administration of amino acids with lutetium Lu 177 dotatate increased the mean beta-phase blood clearance of lutetium Lu 177 dotatate by 36%.",
+                      "Markup": [
+                        {
+                          "Start": 83,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 92,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 157,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 166,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Metabolism/Metabolites",
+            "Description": "Metabolites are substances made or used when the body breaks down food, drugs or chemicals, or its own tissue (for example, fat or muscle tissue). This process is called metabolism and makes energy and the materials needed for growth, reproduction, and maintaining health. Metabolism also helps get rid of toxic substances.",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Lutetium Lu 177 dotatate does not undergo hepatic metabolism.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 9,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Biological Half-Life",
+            "Description": "The time required for a biological system (e.g., human body) to eliminate, by natural processes, half of the amount of a chemical (e.g., alcohol, medication, or radioactive material) that has entered it.",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "The mean (± standard deviation) effective blood elimination half-life is 3.5 (±1.4) hours and the mean terminal blood half-life is 71 (± 28) hours."
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Mechanism of Action",
+            "Description": "In medicine, the term \"mechanism of action\" (also called MOA) is used to describe how a drug or other substance produces an effect in the body. For example, a drug's mechanism of action could be how it affects a specific target in a cell, such as an enzyme, or a cell function, such as cell growth. Knowing the mechanism of action of a drug may help provide information about the safety of the drug and how it affects the body. It may also help identify the right dose of a drug and which patients are most likely to respond to treatment.",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Somatostatin receptors (SSRT) are inhibitory G-protein coupled receptors that are ubiquitously expressed in normal and cancer cells. The natural ligand of SSRTs, somatostatin, is a potent inhibitory regulator of pituitary and gastrointestinal hormone release and proliferation. Advanced and well-differentiated neuroendocrine tumors express high levels of somatostatin receptors, especially somatostatin recetor type 2 (SSRT2), and have the ability to incorporate amines intracellularly and decarboxylate them.   As an analogue of somatostatin, Lutetium Lu 177 dotatate binds to somatostatin receptor with highest binding affinity for SSRT2. Upon binding to SSRT-expressing cells, including malignant somatostatin receptor-positive tumors, the radiolabelled compound is internalized and the beta emission from the radioligand Lu 177 induces cellular damage by formation of free radicals in somatostatin receptor-positive cells and in neighboring cells. As with other somatostatin analogues, Lu177 dotatate is expected to suppress excessive secretion of amines and hormones, such as serotonin, from carcinoid tumors and certain types of endocrine pancreatic tumors (glucagonoma, VIPoma and gastrinoma). The release of peptides and other gastrointestinal hormones important in tumor growth, including gastrin, cholecystokinin and epidermal growth factor (EGF), may also be reduced through promoted somtatostatin signalling pathways.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 162,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 356,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 391,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 531,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 545,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Lutetium"
+                        },
+                        {
+                          "Start": 554,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 579,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 701,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 826,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-161046"
+                        },
+                        {
+                          "Start": 890,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 967,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-16129706"
+                        },
+                        {
+                          "Start": 1082,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/serotonin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5202"
+                        },
+                        {
+                          "Start": 1299,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gastrin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-44288444"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+        "Section": [
+          {
+            "TOCHeading": "Uses",
+            "Description": "Major uses of this chemical, including both consumer uses and industrial uses.",
+            "Section": [
+              {
+                "TOCHeading": "Use Classification",
+                "Description": "This section contains use classification/category information for this compound from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Use Classification",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Human drugs -> Orphan -> Other therapeutic radiopharmaceuticals -> Human pharmacotherapeutic group -> EMA Drug Category"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Use Classification",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Human drugs -> Rare disease (orphan)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Human Drugs -> FDA Approved Drug Products with Therapeutic Equivalence Evaluations (Orange Book) -> Active Ingredients"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Effects During Pregnancy and Lactation",
+                "Description": "Drug effects during pregnancy and lactation.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "◉ Summary of Use during Lactation"
+                        },
+                        {
+                          "String": "Lutetium Lu 177 dotatate is a radiolabeled somatostatin analog indicated for the treatment of somatostatin receptor-positive gastroenteropancreatic neuroendocrine tumors. No information is available on the use of lutetium Lu 177 dotatate during breastfeeding. The manufacturer recommends that breastfeeding be discontinued during lutetium Lu 177 dotatate therapy and for 2.5 months following the last dose, which would usually mean permanently discontinuing breastfeeding of the current infant.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Lutetium"
+                            },
+                            {
+                              "Start": 9,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161046"
+                            },
+                            {
+                              "Start": 43,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16129706"
+                            },
+                            {
+                              "Start": 94,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16129706"
+                            },
+                            {
+                              "Start": 213,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Lutetium"
+                            },
+                            {
+                              "Start": 222,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161046"
+                            },
+                            {
+                              "Start": 330,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Lutetium"
+                            },
+                            {
+                              "Start": 339,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lu%20177",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161046"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Mothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published."
+                        },
+                        {
+                          "String": "◉ Effects in Breastfed Infants"
+                        },
+                        {
+                          "String": "Relevant published information was not found as of the revision date."
+                        },
+                        {
+                          "String": "◉ Effects on Lactation and Breastmilk"
+                        },
+                        {
+                          "String": "Relevant published information was not found as of the revision date."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Protein Binding",
+                "Description": "In this section, \"protein binding\" refers to the degree to which medications attach to plasma proteins (i.e., proteins within the blood, such as human serum albumin, lipoprotein, glycoprotein and globulins). A drug's efficiency may be affected by the degree to which it binds to plasma proteins. The less bound a drug is, the more efficiently it can traverse cell membranes or diffuse.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The non-radioactive form of lutetium dotatate is 43% bound to human plasma proteins.",
+                          "Markup": [
+                            {
+                              "Start": 28,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Lutetium"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Associated Disorders and Diseases",
+        "Description": "Disorders and diseases associated with the compound.  The contexts of the associations listed in this section vary. For example, a compound may cause its associated diseases (e.g., carcinogens and cancers) or have a therapeutic effect in treatment of the diseases (e.g., antihistamines and allergies), or be used as a marker/indicator for the diseases (e.g., glucose and diabetes).",
+        "DisplayControls": {
+          "CreateTable": {
+            "FromInformationIn": "Subsections",
+            "NumberOfColumns": 2,
+            "ColumnHeadings": [
+              "Disease",
+              "References"
+            ],
+            "ColumnContents": [
+              "Name",
+              "Value"
+            ]
+          }
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 22,
+            "Value": {
+              "ExternalTableName": "consolidateddiseaseassociation"
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NLM Curated PubMed Citations",
+            "Description": "The NLM Curated PubMed Citations section links to all PubMed records that are tagged with the same MeSH term that has been associated with a particular compound.",
+            "URL": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0142-6",
+            "Information": [
+              {
+                "ReferenceNumber": 34,
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed_mesh&db=pccompound&cmd=Link&from_uid=76966897",
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Literature",
+            "Description": "Chemical-organism co-occurrences in literature highlight chemical-organism pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalOrganismNeighbor"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "OrganismName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 4,
+            "Value": {
+              "StringWithMarkup": [
+                {
+                  "String": "US10596276",
+                  "Markup": [
+                    {
+                      "Start": 0,
+                      "Length": 10,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/patent/US10596276"
+                    }
+                  ]
+                },
+                {
+                  "String": "US10596278",
+                  "Markup": [
+                    {
+                      "Start": 0,
+                      "Length": 10,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/patent/US10596278"
+                    }
+                  ]
+                },
+                {
+                  "String": "US11904027",
+                  "Markup": [
+                    {
+                      "Start": 0,
+                      "Length": 10,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/patent/US11904027"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 24,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/76966897/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA Orange Book Patents",
+            "Description": "Patents listed for this chemical in the Orange Book published by U.S. Food and Drug Administration (FDA). The Orange Book identifies FDA-approved drug products and related patent and exclusivity information.",
+            "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "ExternalTableName": "collection=fdaorgpt&query_type=synonym&query='^LUTETIUM LU 177 DOTATATE$'"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Patents",
+            "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalChemical"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+            "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalDisease"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalGene"
+                    },
+                    {
+                      "String": "Gene"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and organisms mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalOrganism"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Interactions and Pathways",
+        "Description": "This section provides information on the biomolecular interactions of this compound with drugs, genes, proteins, etc., as well as the pathways in which this compound is involved.",
+        "Section": [
+          {
+            "TOCHeading": "Chemical-Target Interactions",
+            "Description": "Interactions between targets and this compound",
+            "Information": [
+              {
+                "ReferenceNumber": 3,
+                "Value": {
+                  "ExternalTableName": "consolidatedcompoundtarget"
+                }
+              },
+              {
+                "ReferenceNumber": 4,
+                "Value": {
+                  "ExternalTableName": "collection=consolidatedcompoundtarget&query_type=name&query=^Lutetium Lu 177 dotatate$"
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "ExternalTableName": "consolidatedcompoundtarget"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Drug-Drug Interactions",
+            "Description": "Drug-drug interactions for this compound.  Drug-drug interactions occur when two or more drugs react with each other. This drug-drug interaction may cause you to experience an unexpected side effect. For example, mixing a drug you take to help you sleep (a sedative) and a drug you take for allergies (an antihistamine) can slow your reactions and make driving a car or operating machinery dangerous.",
+            "URL": "https://www.fda.gov/drugs/resources-you-drugs/drug-interactions-what-you-should-know",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Value": {
+                  "ExternalTableName": "collection=drugbankddi&query_type=name&query=^Lutetium Lu 177 dotatate$"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "MeSH Tree",
+            "Description": "The Medical Subject Headings (MeSH) tree for this entity.  MeSH is a controlled and hierarchically-organized vocabulary produced by the National Library of Medicine.",
+            "URL": "https://www.nlm.nih.gov/mesh",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NCI Thesaurus Tree",
+            "Description": "NCI Thesaurus (NCIt) hierarchy",
+            "URL": "https://ncithesaurus.nci.nih.gov",
+            "Information": [
+              {
+                "ReferenceNumber": 31,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=112",
+                "Value": {
+                  "Number": [
+                    112
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "WHO ATC Classification System",
+            "Description": "The Anatomical Therapeutic Chemical (ATC) Classification System is used for the classification of drugs. This pharmaceutical coding system divides drugs into different groups according to the organ or system on which they act and/or their therapeutic and chemical characteristics. Each bottom-level ATC code stands for a pharmaceutically used substance, or a combination of substances, in a single indication (or use). This means that one drug can have more than one code: acetylsalicylic acid (aspirin), for example, has A01AD05 as a drug for local oral treatment, B01AC06 as a platelet inhibitor, and N02BA01 as an analgesic and antipyretic. On the other hand, several different brands share the same code if they have the same active substance and indications.",
+            "URL": "https://www.who.int/tools/atc-ddd-toolkit/atc-classification",
+            "Information": [
+              {
+                "ReferenceNumber": 29,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=79",
+                "Value": {
+                  "Number": [
+                    79
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA Drug Type and Pharmacologic Classification",
+            "Description": "The FDA Drug Type and Pharmacologic Classification is based on the FDA drug type and pharm classes data from the National Drug Code (NDC) Directory.",
+            "Information": [
+              {
+                "ReferenceNumber": 32,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=116",
+                "Value": {
+                  "Number": [
+                    116
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemicals in PubChem from Regulatory Sources",
+            "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources.",
+            "Information": [
+              {
+                "ReferenceNumber": 33,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=135",
+                "Value": {
+                  "Number": [
+                    135
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "ClinicalTrials.gov",
+        "SourceID": "cid76966897",
+        "Description": "ClinicalTrials.gov is an NIH registry and results database of publicly and privately supported clinical studies of human participants conducted around the world.",
+        "URL": "https://clinicaltrials.gov/",
+        "LicenseNote": "The ClinicalTrials.gov data carry an international copyright outside the United States and its Territories or Possessions. Some ClinicalTrials.gov data may be subject to the copyright of third parties; you should consult these entities for any additional terms of use.",
+        "LicenseURL": "https://clinicaltrials.gov/ct2/about-site/terms-conditions#Use",
+        "ANID": 8764095
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "DailyMed",
+        "SourceID": "ea033994c5687ac8dd830380effc07a0",
+        "Name": "LUTETIUM LU 177 DOTATATE",
+        "Description": "The U.S. National Library of Medicine's DailyMed provides trustworthy information about marketed drugs. DailyMed is the official provider of FDA label information (package inserts).",
+        "URL": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=LUTETIUM+LU+177+DOTATATE",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "ANID": 30970111
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "Drug Gene Interaction database (DGIdb)",
+        "SourceID": "rxcui:1999335",
+        "Name": "LUTETIUM LU 177 DOTATATE",
+        "Description": "The Drug Gene Interaction Database (DGIdb, www.dgidb.org) is a web resource that consolidates disparate data sources describing drug - gene interactions and gene druggability.",
+        "URL": "https://www.dgidb.org/drugs/rxcui:1999335",
+        "LicenseNote": "The data used in DGIdb is all open access and where possible made available as raw data dumps in the downloads section.",
+        "LicenseURL": "http://www.dgidb.org/downloads",
+        "ANID": 37460191
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "DrugBank",
+        "SourceID": "DB13985",
+        "Name": "Lutetium Lu 177 dotatate",
+        "Description": "The DrugBank database is a unique bioinformatics and cheminformatics resource that combines detailed drug (i.e. chemical, pharmacological and pharmaceutical) data with comprehensive drug target (i.e. sequence, structure, and pathway) information.",
+        "URL": "https://www.drugbank.ca/drugs/DB13985",
+        "LicenseNote": "Creative Common's Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0/legalcode)",
+        "LicenseURL": "https://www.drugbank.ca/legal/terms_of_use",
+        "ANID": 3631405
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "Therapeutic Target Database (TTD)",
+        "SourceID": "D0M5VV",
+        "Name": "177Lu-DOTATATE",
+        "Description": "Therapeutic Target Database (TTD) is a database to provide information about the known and explored therapeutic protein and nucleic acid targets, the targeted disease, pathway information and the corresponding drugs directed at each of these targets.",
+        "URL": "https://idrblab.net/ttd/data/drug/details/D0M5VV",
+        "ANID": 19779155
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "NCI Thesaurus (NCIt)",
+        "SourceID": "C95020::Compound",
+        "Description": "NCI Thesaurus (NCIt), from the U.S. National Cancer Institute, provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.",
+        "URL": "https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C95020",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse",
+        "ANID": 14398703
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "FDA Global Substance Registration System (GSRS)",
+        "SourceID": "AE221IM3BB",
+        "Name": "LUTETIUM OXODOTREOTIDE LU-177",
+        "Description": "The FDA Global Substance Registration System (GSRS) enables the efficient and accurate exchange of information on what substances are in regulated products. Instead of relying on names, which vary across regulatory domains, countries, and regions, the GSRS knowledge base makes it possible for substances to be defined by standardized, scientific descriptions.",
+        "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/AE221IM3BB",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 5861602
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "European Medicines Agency (EMA)",
+        "SourceID": "4484b4b45d3e33d03a425739cfc76c6a",
+        "Name": "Lutathera (EMEA/H/C/004123)",
+        "Description": "The European Medicines Agency (EMA) presents information on regulatory topics of the medicinal product lifecycle in EU countries.",
+        "URL": "https://www.ema.europa.eu/en/medicines/human/EPAR/lutathera",
+        "LicenseNote": "Information on the European Medicines Agency's (EMA)  website is subject to a disclaimer and copyright and limited reproduction notices.",
+        "LicenseURL": "https://www.ema.europa.eu/en/about-us/legal-notice",
+        "ANID": 37127738
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "Drugs and Lactation Database (LactMed)",
+        "SourceID": "LM1369",
+        "Name": "Lutetium Lu 177 Dotatate",
+        "Description": "The LactMed(R) database contains information on drugs and other chemicals to which breastfeeding mothers may be exposed. https://www.ncbi.nlm.nih.gov/books/NBK501922/",
+        "URL": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1369/",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "ANID": 24796506
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "ae4ba861f061df38765df1efe31e459c",
+        "Name": "LUTATHERA",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38970774
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "44b40cfe5b92017867b484de69cb7677",
+        "Name": "LUTETIUM LU 177 DOTATATE",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38976401
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "European Medicines Agency (EMA)",
+        "SourceID": "5dd5556554fe5b2f7f4419ec9e04d585",
+        "Name": "Lutetium (177Lu)-N-[(4,7,10-Tricarboxymethyl-1,4,7,10-tetraazacyclododec-1-yl)acetyl]-D-phenylalanyl-L-cysteinyl-L-tyrosyl-D-tryptophanyl-L-lysyl-L-threoninyl-L-cysteinyl-L-threonine-cyclic(2-7)disulfideÂ (lutetium (177Lu) oxodotreotide) (EU/3/07/523)",
+        "Description": "The European Medicines Agency (EMA) presents information on regulatory topics of the medicinal product lifecycle in EU countries.",
+        "URL": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-07-523",
+        "LicenseNote": "Information on the European Medicines Agency's (EMA)  website is subject to a disclaimer and copyright and limited reproduction notices.",
+        "LicenseURL": "https://www.ema.europa.eu/en/about-us/legal-notice",
+        "ANID": 49297244
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "ea033994c5687ac8dd830380effc07a0",
+        "Name": "LUTETIUM LU 177 DOTATATE",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38964532
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "EU Clinical Trials Register",
+        "SourceID": "cid76966897",
+        "Description": "The EU Clinical Trials Register contains information on interventional clinical trials on medicines conducted in the European Union (EU), or the European Economic Area (EEA) which started after 1 May 2004.",
+        "URL": "https://www.clinicaltrialsregister.eu/",
+        "ANID": 8793675
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "FDA Orange Book",
+        "SourceID": "845384b9d6ef6fbf2cc863f7c6cf7795",
+        "Name": "LUTETIUM LU 177 DOTATATE",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 35236339
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "Human Metabolome Database (HMDB)",
+        "SourceID": "HMDB0304898",
+        "Name": "Lutetium Lu 177 Dotatate",
+        "Description": "The Human Metabolome Database (HMDB) is a freely available electronic database containing detailed information about small molecule metabolites found in the human body.",
+        "URL": "http://www.hmdb.ca/metabolites/HMDB0304898",
+        "LicenseNote": "\u0009HMDB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (HMDB) and the original publication (see the HMDB citing page). We ask that users who download significant portions of the database cite the HMDB paper in any resulting publications.",
+        "LicenseURL": "http://www.hmdb.ca/citing",
+        "ANID": 38481360
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "Metabolomics Workbench",
+        "SourceID": "154712",
+        "Name": "Lutetium Lu 177 dotatate",
+        "Description": "The Metabolomics Workbench serves as a national and international repository for metabolomics data and metadata and provides analysis tools and access to metabolite standards, protocols, tutorials, training, and more.",
+        "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=154712",
+        "ANID": 20296589
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "National Drug Code (NDC) Directory",
+        "SourceID": "9fdd7d0d8af0a361d674ec89cd0b5bf1",
+        "Name": "LUTETIUM LU 177 DOTATATE",
+        "Description": "The National Drug Code (NDC) is a unique, three-segment number that serves as FDA's identifier for drugs. The NDC Directory contains information on active and certified finished and unfinished drugs submitted to FDA.",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 31083571
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "NCI Cancer Drugs",
+        "SourceID": "a66cb440d183043b3710d1605ac974c3",
+        "Name": "Lutathera (Lutetium Lu 177-Dotatate)",
+        "Description": "The collection of NCI Cancer Drugs has over 200 cancer drug information summaries from NCI. The summaries provide consumer-friendly information about cancer drugs and drug combinations.",
+        "URL": "https://www.cancer.gov/about-cancer/treatment/drugs/lutetiumlu177-dotatate",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse",
+        "ANID": 37402939
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "NLM RxNorm Terminology",
+        "SourceID": "1999335",
+        "Name": "lutetium Lu 177 dotatate",
+        "Description": "RxNorm provides normalized names for clinical drugs and links its names to many of the drug vocabularies commonly used in pharmacy management and drug interaction software.",
+        "URL": "https://rxnav.nlm.nih.gov/id/rxnorm/1999335",
+        "LicenseNote": "The RxNorm Terminology is created by the National Library of Medicine (NLM) and is in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from NLM. Credit to the U.S. National Library of Medicine as the source is appreciated but not required. The full RxNorm dataset requires a free license.",
+        "LicenseURL": "https://www.nlm.nih.gov/research/umls/rxnorm/docs/termsofservice.html",
+        "ANID": 15099256
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "PharmGKB",
+        "SourceID": "Compound::PA166224981",
+        "Name": "lutetium (177Lu) dotatate",
+        "Description": "The PharmGKB is a pharmacogenomics knowledge resource that encompasses clinical information including clinical guidelines and drug labels, potentially clinically actionable gene-drug associations and genotype-phenotype relationships",
+        "URL": "https://www.pharmgkb.org/chemical/PA166224981",
+        "LicenseNote": "PharmGKB data are subject to the Creative Commons Attribution-ShareALike 4.0 license (https://creativecommons.org/licenses/by-sa/4.0/).",
+        "LicenseURL": "https://www.pharmgkb.org/page/policies",
+        "ANID": 39966017
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q27273888",
+        "Name": "dotatate lutenium Lu-177",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q27273888",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44307604
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0415931",
+        "Name": "lutetium Lu 177 dotatate",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0415931.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M000675452",
+        "Name": "Lutathera",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M000675452.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 27,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "DescTree",
+        "Name": "MeSH Tree",
+        "Description": "MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 29,
+        "SourceName": "WHO Anatomical Therapeutic Chemical (ATC) Classification",
+        "SourceID": "ATCTree",
+        "Name": "ATC Classification",
+        "Description": "The WHO ATC (Anatomical Therapeutic Chemical) classification system classify the active substances into different groups according to the organ or system on which they act and their therapeutic, pharmacological and chemical properties.",
+        "URL": "https://www.whocc.no/atc_ddd_index/",
+        "LicenseNote": "Use of all or parts of the material requires reference to the WHO Collaborating Centre for Drug Statistics Methodology. Copying and distribution for commercial purposes is not allowed. Changing or manipulating the material is not allowed.",
+        "LicenseURL": "https://www.whocc.no/copyright_disclaimer/"
+      },
+      {
+        "ReferenceNumber": 31,
+        "SourceName": "NCI Thesaurus (NCIt)",
+        "SourceID": "NCIt",
+        "Name": "NCI Thesaurus",
+        "Description": "The NCI Thesaurus (NCIt) provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.",
+        "URL": "https://ncit.nci.nih.gov",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse"
+      },
+      {
+        "ReferenceNumber": 32,
+        "SourceName": "National Drug Code (NDC) Directory",
+        "SourceID": "fdandc_tree",
+        "Name": "FDA Drug Type and Pharmacologic Classification",
+        "Description": "The FDA Drug Type and Pharmacologic Classification is created based on the FDA drug types and pharm classes data from the National Drug Code (NDC) Directory.",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking"
+      },
+      {
+        "ReferenceNumber": 33,
+        "SourceName": "PubChem",
+        "SourceID": "regtree",
+        "Name": "Chemicals in PubChem from Regulatory Sources",
+        "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources."
+      },
+      {
+        "ReferenceNumber": 34,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "PubMed from MeSH",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 35,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0028704",
+        "Name": "Radiopharmaceuticals",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0028704.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      }
+    ]
+  }
+}

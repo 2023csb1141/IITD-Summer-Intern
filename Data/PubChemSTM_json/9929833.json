@@ -1,0 +1,737 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 9929833,
+    "RecordTitle": "Tryprostatin A",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 16,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 16,
+                "Description": "Tryprostatin A",
+                "Value": {
+                  "Number": [
+                    9929833
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Name": "Record Description",
+                "Description": "Ontology Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Tryprostatin A is a cyclic dipeptide that is brevianamide F (cyclo-L-Trp-L-Pro) substituted at positions 2 and 6 on the indole ring by prenyl and methoxy groups respectively. It has a role as a breast cancer resistance protein inhibitor. It is a dipeptide, a member of indoles, a pyrrolopyrazine, an aromatic ether and an indole alkaloid. It is functionally related to a brevianamide F.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 14,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tryprostatin%20A",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-9929833"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 14,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/brevianamide%20F",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-181567"
+                        },
+                        {
+                          "Start": 61,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cyclo-L-Trp-L-Pro",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-181567"
+                        },
+                        {
+                          "Start": 120,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/indole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-798"
+                        },
+                        {
+                          "Start": 280,
+                          "Length": 15,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pyrrolopyrazine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5370803"
+                        },
+                        {
+                          "Start": 371,
+                          "Length": 14,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/brevianamide%20F",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-181567"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 6,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Tryprostatin A has been reported in Cordyceps tenuipes and Aspergillus fumigatus with data available.",
+                      "Markup": [
+                        {
+                          "Start": 36,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/45847#section=Natural-Products"
+                        },
+                        {
+                          "Start": 59,
+                          "Length": 21,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/746128#section=Natural-Products"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 14,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tryprostatin%20A",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-9929833"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "isolated from Aspergillus fumigatus; a mammalian cell cycle inhibitor; structure given in first source"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "(3S,8aS)-3-[[6-methoxy-2-(3-methylbut-2-enyl)-1H-indol-3-yl]methyl]-2,3,6,7,8,8a-hexahydropyrrolo[1,2-a]pyrazine-1,4-dione",
+                          "Markup": [
+                            {
+                              "Start": 2,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 5,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 6,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 47,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 79,
+                              "Length": 1,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C22H27N3O3/c1-13(2)6-9-17-16(15-8-7-14(28-3)11-18(15)23-17)12-19-22(27)25-10-4-5-20(25)21(26)24-19/h6-8,11,19-20,23H,4-5,9-10,12H2,1-3H3,(H,24,26)/t19-,20-/m0/s1"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "XNRPVPHNDQHWLJ-PMACEKPBSA-N"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC(=CCC1=C(C2=C(N1)C=C(C=C2)OC)C[C@H]3C(=O)N4CCC[C@H]4C(=O)N3)C"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 16,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C22H27N3O3"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "171864-80-5"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ChEBI ID",
+                "Description": "Identifier from database and ontology of molecular entities focused on 'small' chemical compounds used by the Chemical Entities of Biological Interest (ChEBI)",
+                "URL": "https://www.ebi.ac.uk/chebi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "URL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:72761",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CHEBI:72761"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ChEMBL ID",
+                "Description": "ChEMBL compound identifier",
+                "URL": "https://www.ebi.ac.uk/chembl/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "URL": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL289159",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CHEMBL289159"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID701017629",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID701017629"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "KEGG ID",
+                "Description": "KEGG compound/drug identifier",
+                "URL": "https://www.kegg.jp/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "URL": "https://www.kegg.jp/entry/C20607",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C20607"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Metabolomics Workbench ID",
+                "Description": "Registration number used by Metabolomics Workbench",
+                "URL": "https://www.metabolomicsworkbench.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=66102",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "66102"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Nikkaji Number",
+                "Description": "Substance identifier used in the Japan Chemical Substance Dictionary (Nikkaji).",
+                "URL": "https://jglobal.jst.go.jp/en/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J701.451A",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "J701.451A"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "URL": "https://www.wikidata.org/wiki/Q27140127",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q27140127"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Entry Terms",
+                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "tryprostatin A"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Tryprostatin A"
+                        },
+                        {
+                          "String": "171864-80-5"
+                        },
+                        {
+                          "String": "CHEBI:72761"
+                        },
+                        {
+                          "String": "(3S,8aS)-3-[[6-methoxy-2-(3-methylbut-2-enyl)-1H-indol-3-yl]methyl]-2,3,6,7,8,8a-hexahydropyrrolo[1,2-a]pyrazine-1,4-dione"
+                        },
+                        {
+                          "String": "DTXSID701017629"
+                        },
+                        {
+                          "String": "(3S,8aS)-3-{[6-methoxy-2-(3-methylbut-2-en-1-yl)-1H-indol-3-yl]methyl}hexahydropyrrolo[1,2-a]pyrazine-1,4-dione"
+                        },
+                        {
+                          "String": "(3S,8aS)-3-((6-Methoxy-2-(3-methylbut-2-en-1-yl)-1H-indol-3-yl)methyl)hexahydropyrrolo(1,2-a)pyrazine-1,4-dione"
+                        },
+                        {
+                          "String": "(3S,8aS)-3-((6-Methoxy-2-(3-methylbut-2-en-1-yl)-1H-indol-3-yl)methyl)hexahydropyrrolo[1,2-a]pyrazine-1,4-dione"
+                        },
+                        {
+                          "String": "(3S,8aS)-3-((6-methoxy-2-(3-methylbut-2-enyl)-1H-indol-3-yl)methyl)-2,3,6,7,8,8a-hexahydropyrrolo(1,2-a)pyrazine-1,4-dione"
+                        },
+                        {
+                          "String": "RefChem:192354"
+                        },
+                        {
+                          "String": "DTXCID401475814"
+                        },
+                        {
+                          "String": "TPS-A"
+                        },
+                        {
+                          "String": "TryprostatinA"
+                        },
+                        {
+                          "String": "CHEMBL289159"
+                        },
+                        {
+                          "String": "MEGxm0_000107"
+                        },
+                        {
+                          "String": "orb1681527"
+                        },
+                        {
+                          "String": "SCHEMBL21263139"
+                        },
+                        {
+                          "String": "SCHEMBL29948084"
+                        },
+                        {
+                          "String": "HY-N7291"
+                        },
+                        {
+                          "String": "BDBM50198769"
+                        },
+                        {
+                          "String": "AKOS040762456"
+                        },
+                        {
+                          "String": "DA-78672"
+                        },
+                        {
+                          "String": "CS-0113194"
+                        },
+                        {
+                          "String": "C20607"
+                        },
+                        {
+                          "String": "Q27140127"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "BBF-03425"
+                        },
+                        {
+                          "String": "CID9929833"
+                        },
+                        {
+                          "String": "CID 9929833"
+                        },
+                        {
+                          "String": "A978268"
+                        },
+                        {
+                          "String": "(3S,8aS)-3-((6-Methoxy-2-(3-methylbut-2-enyl)-1H-indol-3-yl)methyl)hexahydropyrrolo[1,2-a]pyrazine-1,4-dione"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 16,
+                "Value": {
+                  "DateISO8601": [
+                    "2006-10-25"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 16,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-09-13"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "381.5"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "XLogP3",
+                "Description": "XLogP3 is a predicted octanol-water partition coefficient, computed using the algorithm described in J. Chem. Inf. Model. 2007, 47, 6, 2140-2148. It is used as a measure of hydrophilicity or hydrophobicity of a molecule.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/17985865/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "XLogP3-AA",
+                    "Reference": [
+                      "Computed by XLogP3 3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        3.4
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        3
+                      ]
+                    }
+                  }
+                ]
+              },
+             

@@ -1,0 +1,3622 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 12201,
+    "RecordTitle": "Diethyl 2-butenedioate",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Description": "Diethyl 2-butenedioate",
+                "Value": {
+                  "Number": [
+                    12201
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "diethyl but-2-enedioate"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C8H12O4/c1-3-11-7(9)5-6-8(10)12-4-2/h5-6H,3-4H2,1-2H3"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "IEPRKVQEAMIZSS-UHFFFAOYSA-N"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CCOC(=O)C=CC(=O)OCC"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C8H12O4"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "141-05-9"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "141-05-9"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "623-91-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1520-50-9"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID8048151",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID8048151"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "HMDB ID",
+                "Description": "A chemical substance identifier from the HMDB database",
+                "URL": "https://hmdb.ca/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "URL": "https://hmdb.ca/metabolites/HMDB0251249",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HMDB0251249"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "URL": "https://www.wikidata.org/wiki/Q81976574",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q81976574"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Diethyl 2-butenedioate"
+                        },
+                        {
+                          "String": "1520-50-9"
+                        },
+                        {
+                          "String": "DTXSID8048151"
+                        },
+                        {
+                          "String": "RefChem:337818"
+                        },
+                        {
+                          "String": "DTXCID4028125"
+                        },
+                        {
+                          "String": "diethyl but-2-enedioate"
+                        },
+                        {
+                          "String": "2-Butenedioic acid, diethyl ester"
+                        },
+                        {
+                          "String": "2-Butenedioic acid (2E)-, 1,4-diethyl ester"
+                        },
+                        {
+                          "String": "2-Butenedioic acid (2Z)-, 1,4-diethyl ester"
+                        },
+                        {
+                          "String": "bis(ethoxycarbonyl)ethylene"
+                        },
+                        {
+                          "String": "SCHEMBL43033"
+                        },
+                        {
+                          "String": "butenedioic acid diethyl ester"
+                        },
+                        {
+                          "String": "SCHEMBL5559092"
+                        },
+                        {
+                          "String": "IEPRKVQEAMIZSS-UHFFFAOYSA-N"
+                        },
+                        {
+                          "String": "AKOS025243721"
+                        },
+                        {
+                          "String": "DB-054151"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Diethyl fumarate"
+                        },
+                        {
+                          "String": "DIETHYL MALEATE"
+                        },
+                        {
+                          "String": "Ethyl maleate"
+                        },
+                        {
+                          "String": "Diethylfumarate"
+                        },
+                        {
+                          "String": "Diethylmaleate"
+                        },
+                        {
+                          "String": "Ethyl fumarate"
+                        },
+                        {
+                          "String": "DIETHYL ADIPATE"
+                        },
+                        {
+                          "String": "ACMC-209clp"
+                        },
+                        {
+                          "String": "Maleic acid diethyl ester"
+                        },
+                        {
+                          "String": "AC1L1Z2L"
+                        },
+                        {
+                          "String": "623-91-6"
+                        },
+                        {
+                          "String": "KSC175I6R"
+                        },
+                        {
+                          "String": "KSC489Q6F"
+                        },
+                        {
+                          "String": "2-Butenedioicacid,diethylester"
+                        },
+                        {
+                          "String": "141-05-9"
+                        },
+                        {
+                          "String": "ACMC-209n35"
+                        },
+                        {
+                          "String": "CTK0H5468"
+                        },
+                        {
+                          "String": "CTK3I9862"
+                        },
+                        {
+                          "String": "CTK8G9274"
+                        },
+                        {
+                          "String": "C8H12O4"
+                        },
+                        {
+                          "String": "CID12201"
+                        },
+                        {
+                          "String": "KS-00000W8P"
+                        },
+                        {
+                          "String": "KS-00000X5L"
+                        },
+                        {
+                          "String": "ANW-20603"
+                        },
+                        {
+                          "String": "ANW-34191"
+                        },
+                        {
+                          "String": "MFCD00064455"
+                        },
+                        {
+                          "String": "TRA0035447"
+                        },
+                        {
+                          "String": "TRA0036118"
+                        },
+                        {
+                          "String": "AJ-61650"
+                        },
+                        {
+                          "String": "AK124413"
+                        },
+                        {
+                          "String": "AK162420"
+                        },
+                        {
+                          "String": "141-28-6"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "DateISO8601": [
+                    "2005-03-26"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-08-30"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "172.18"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "XLogP3",
+                "Description": "XLogP3 is a predicted octanol-water partition coefficient, computed using the algorithm described in J. Chem. Inf. Model. 2007, 47, 6, 2140-2148. It is used as a measure of hydrophilicity or hydrophobicity of a molecule.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/17985865/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "XLogP3-AA",
+                    "Reference": [
+                      "Computed by XLogP3 3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0.9
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        4
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        6
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "172.07355886"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "172.07355886"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        52.6
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        12
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        163
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Experimental Properties",
+            "Description": "Various experimentally determined properties for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+            "Section": [
+              {
+                "TOCHeading": "Physical Description",
+                "Description": "The appearance or features of this compound, including color, odor, state, taste and more in general.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Liquid"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Spectral Information",
+        "Description": "Spectral data for this compound, including 1-D and 2-D nuclear magnetic resonance (NMR), Infrared (IR), Raman, and Ultraviolet (UV) spectroscopy, mass spectrometry (MS), and chromatography.",
+        "Section": [
+          {
+            "TOCHeading": "Mass Spectrometry",
+            "Description": "Mass spectrometry (MS or mass spec) is a technique to determine molecular structure through ionization and fragmentation of the parent compound into smaller components.",
+            "URL": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Spectroscopy/Mass_Spectrometry",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 2
+            },
+            "Section": [
+              {
+                "TOCHeading": "GC-MS",
+                "Description": "Data from gas chromatography-mass spectrometry (GC-MS) experiments.",
+                "URL": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Structure_and_Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_(Schaller)/II%3A_Practical_Aspects_of_Structure_-_Purification_and_Spectroscopy/06%3A_Introductory_Mass_Spectrometry/6.03%3A_GC-MS_and_LC-MS",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Source of Spectrum",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SRH-2022-2140-0"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Copyright",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Copyright © 2020-2025 John Wiley & Sons, Inc. All Rights Reserved."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Thumbnail",
+                    "URL": "https://spectrabase.com/spectrum/Av2eqlzHFNa",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/36947070_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Other MS",
+                "Description": "This section provides this compound's mass spectrometry (MS) information that is not shown in other sections.",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Fac_Eng_Univ_Tokyo-JP002110",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Fac_Eng_Univ_Tokyo-JP002110"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HITACHI RMU-7M"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EI-B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ENERGY 70 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "99 999"
+                        },
+                        {
+                          "String": "127 294"
+                        },
+                        {
+                          "String": "29 196"
+                        },
+                        {
+                          "String": "126 126"
+                        },
+                        {
+                          "String": "27 126"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-002b-9300000000-beca5d278a0d16ecf73b",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-002b-9300000000-beca5d278a0d16ecf73b"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=99:999,127:294,29:196,126:126,27:126",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=99:999,127:294,29:196,126:126,27:126"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY-NC-SA"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Fac_Eng_Univ_Tokyo-JP002140",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Fac_Eng_Univ_Tokyo-JP002140"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HITACHI RMU-7M"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EI-B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ENERGY 70 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "127 999"
+                        },
+                        {
+                          "String": "99 627"
+                        },
+                        {
+                          "String": "29 421"
+                        },
+                        {
+                          "String": "126 259"
+                        },
+                        {
+                          "String": "55 246"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-004i-9500000000-7af424f697038d4057e4",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-004i-9500000000-7af424f697038d4057e4"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=127:999,99:627,29:421,126:259,55:246",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=127:999,99:627,29:421,126:259,55:246"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY-NC-SA"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Fac_Eng_Univ_Tokyo-JP003394",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Fac_Eng_Univ_Tokyo-JP003394"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "JEOL JMS-01-SG-2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EI-B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ENERGY 75 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "99 999"
+                        },
+                        {
+                          "String": "127 688"
+                        },
+                        {
+                          "String": "53 259"
+                        },
+                        {
+                          "String": "54 160"
+                        },
+                        {
+                          "String": "173 156"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-0f92-9600000000-7044fd2900eb33b94df7",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-0f92-9600000000-7044fd2900eb33b94df7"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=99:999,127:688,53:259,54:160,173:156",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=99:999,127:688,53:259,54:160,173:156"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY-NC-SA"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Fac_Eng_Univ_Tokyo-JP003398",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Fac_Eng_Univ_Tokyo-JP003398"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "JEOL JMS-01-SG-2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EI-B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ENERGY 75 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "127 999"
+                        },
+                        {
+                          "String": "99 825"
+                        },
+                        {
+                          "String": "54 554"
+                        },
+                        {
+                          "String": "173 522"
+                        },
+                        {
+                          "String": "126 504"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-0fba-8900000000-53848d4e5cb7a994981f",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-0fba-8900000000-53848d4e5cb7a994981f"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=127:999,99:825,54:554,173:522,126:504",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=127:999,99:825,54:554,173:522,126:504"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY-NC-SA"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Fac_Eng_Univ_Tokyo-JP004044",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Fac_Eng_Univ_Tokyo-JP004044"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HITACHI RMU-6L"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EI-B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ENERGY 70 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "99 999"
+                        },
+                        {
+                          "String": "126 445"
+                        },
+                        {
+                          "String": "100 335"
+                        },
+                        {
+                          "String": "82 272"
+                        },
+                        {
+                          "String": "128 246"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-002b-9700000000-b8b2e754c193242cc346",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-002b-9700000000-b8b2e754c193242cc346"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=99:999,126:445,100:335,82:272,128:246",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=99:999,126:445,100:335,82:272,128:246"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY-NC-SA"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Fac_Eng_Univ_Tokyo-JP004045",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Fac_Eng_Univ_Tokyo-JP004045"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HITACHI RMU-6L"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EI-B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ENERGY 70 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "127 999"
+                        },
+                        {
+                          "String": "99 760"
+                        },
+                        {
+                          "String": "126 253"
+                        },
+                        {
+                          "String": "82 173"
+                        },
+                        {
+                          "String": "71 135"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-004j-7900000000-97f05f940fc7d080c359",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-004j-7900000000-97f05f940fc7d080c359"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=127:999,99:760,126:253,82:173,71:135",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=127:999,99:760,126:253,82:173,71:135"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY-NC-SA"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Fac_Eng_Univ_Tokyo-JP005295",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Fac_Eng_Univ_Tokyo-JP005295"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HITACHI RMU-6M"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EI-B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ENERGY 70 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "127 999"
+                        },
+                        {
+                          "String": "99 502"
+                        },
+                        {
+                          "String": "29 443"
+                        },
+                        {
+                          "String": "126 321"
+                        },
+                        {
+                          "String": "27 269"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-004i-9600000000-aced4161cb1aea6be0e9",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-004i-9600000000-aced4161cb1aea6be0e9"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=127:999,99:502,29:443,126:321,27:269",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=127:999,99:502,29:443,126:321,27:269"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY-NC-SA"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Fac_Eng_Univ_Tokyo-JP008999",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Fac_Eng_Univ_Tokyo-JP008999"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SODA AROMATIC CO., LTD."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HITACHI M-80B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EI-B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ENERGY 70 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "127 999"
+                        },
+                        {
+                          "String": "99 598"
+                        },
+                        {
+                          "String": "29 377"
+                        },
+                        {
+                          "String": "126 274"
+                        },
+                        {
+                          "String": "27 259"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-004i-9500000000-eca24e878a62598f55c6",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-004i-9500000000-eca24e878a62598f55c6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=127:999,99:598,29:377,126:274,27:259",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=127:999,99:598,29:377,126:274,27:259"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY-NC-SA"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Fac_Eng_Univ_Tokyo-JP009017",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Fac_Eng_Univ_Tokyo-JP009017"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SODA AROMATIC CO., LTD."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HITACHI M-80B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EI-B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ENERGY 70 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "99 999"
+                        },
+                        {
+                          "String": "127 333"
+                        },
+                        {
+                          "String": "126 171"
+                        },
+                        {
+                          "String": "29 114"
+                        },
+                        {
+                          "String": "100 104"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-002b-9400000000-1575d42a342b7e2bc810",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-002b-9400000000-1575d42a342b7e2bc810"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=99:999,127:333,126:171,29:114,100:104",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=99:999,127:333,126:171,29:114,100:104"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY-NC-SA"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Fac_Eng_Univ_Tokyo-JP010601",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Fac_Eng_Univ_Tokyo-JP010601"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HITACHI RMU-6M"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EI-B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ENERGY 70 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "99 999"
+                        },
+                        {
+                          "String": "127 373"
+                        },
+                        {
+                          "String": "29 326"
+                        },
+                        {
+                          "String": "27 237"
+                        },
+                        {
+                          "String": "100 120"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-004j-9300000000-83beca9d9c20ad1ddc25",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-004j-9300000000-83beca9d9c20ad1ddc25"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=99:999,127:373,29:326,27:237,100:120",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=99:999,127:373,29:326,27:237,100:120"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY-NC-SA"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Fac_Eng_Univ_Tokyo-JP010620",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Fac_Eng_Univ_Tokyo-JP010620"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HITACHI RMU"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EI-B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ENERGY 20 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "99 999"
+                        },
+                        {
+                          "String": "127 474"
+                        },
+                        {
+                          "String": "128 148"
+                        },
+                        {
+                          "String": "29 100"
+                        },
+                        {
+                          "String": "82 63"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-002b-9400000000-d825de440937576c6f5c",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-002b-9400000000-d825de440937576c6f5c"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=99:999,127:474,128:148,29:100,82:63",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=99:999,127:474,128:148,29:100,82:63"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY-NC-SA"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID12201%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID12201%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "Same Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12201/cids/JSON?cids_type=same_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    7
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 21,
+                "Name": "Same Isotope Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12201/cids/JSON?cids_type=same_isotopes&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    3
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 21,
+                "Name": "Same Parent, Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12201/cids/JSON?cids_type=same_parent_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    61
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 21,
+                "Name": "Same Parent, Isotope Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12201/cids/JSON?cids_type=same_parent_isotopes&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    57
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 21,
+                "Name": "Same Parent, Exact Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12201/cids/JSON?cids_type=same_parent&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    17
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 21,
+                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12201/cids/JSON?cids_type=component&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    55
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 21,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID12201%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 21,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID12201%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/504636259",
+                    "Value": {
+                      "Number": [
+                        504636259
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "All Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12201/sids/JSON?sids_type=all&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        149
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12201/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        82
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Mixture Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12201/sids/JSON?sids_type=component&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        67
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Journal Publishers"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Entrez Crosslinks",
+            "Description": "Cross-references to associated records in other Entrez databases such as PubMed, Gene, Protein, etc.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "PubMed Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed&db=pccompound&cmd=Link&from_uid=12201",
+                "Value": {
+                  "Number": [
+                    283
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 21,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+        "Section": [
+          {
+            "TOCHeading": "Uses",
+            "Description": "Major uses of this chemical, including both consumer uses and industrial uses.",
+            "Section": [
+              {
+                "TOCHeading": "Industry Uses",
+                "Description": "Categories of functional use of this chemical in industry.",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Reference": [
+                      "https://www.epa.gov/chemical-data-reporting"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "https://www.epa.gov/chemical-data-reporting",
+                        "Matched": {
+                          "PCLID": 900178337,
+                          "Citation": "https://www.epa.gov/chemical-data-reporting"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Plasticizer"
+                        },
+                        {
+                          "String": "Intermediate"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Consumer Uses",
+                "Description": "Consumer uses of this chemical and products containing it (e.g., chemical-specific product categories).",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Reference": [
+                      "https://www.epa.gov/chemical-data-reporting"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "https://www.epa.gov/chemical-data-reporting",
+                        "Matched": {
+                          "PCLID": 900178337,
+                          "Citation": "https://www.epa.gov/chemical-data-reporting"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Paint additives and coating additives not described by other categories"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "U.S. Production",
+            "Description": "The amount of this chemical produced/manufactured in the U.S.",
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Name": "Aggregated Product Volume",
+                "Reference": [
+                  "https://www.epa.gov/chemical-data-reporting"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "https://www.epa.gov/chemical-data-reporting",
+                    "Matched": {
+                      "PCLID": 900178337,
+                      "Citation": "https://www.epa.gov/chemical-data-reporting"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "2019: 1,000,000 lb - <20,000,000 lb"
+                    },
+                    {
+                      "String": "2018: 1,000,000 - <10,000,000 lb"
+                    },
+                    {
+                      "String": "2017: 1,000,000 - <10,000,000 lb"
+                    },
+                    {
+                      "String": "2016: 1,000,000 - <10,000,000 lb"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "General Manufacturing Information",
+            "Description": "General manufacturing information for this chemical, provided by the Hazardous Substances Data Bank (HSDB) and EPA TSCA Chemical Substance Inventory.",
+            "DisplayControls": {
+              "ListType": "Columns"
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Name": "Industry Processing Sectors",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Paint and Coating Manufacturing"
+                    },
+                    {
+                      "String": "Mining (except Oil and Gas) and support activities"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 2,
+                "Name": "EPA TSCA Commercial Activity Status",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "2-Butenedioic acid (2Z)-, 1,4-diethyl ester: ACTIVE",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Butenedioic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-723"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 3,
+                "Name": "EPA TSCA Commercial Activity Status",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "2-Butenedioic acid (2E)-, 1,4-diethyl ester: ACTIVE",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Butenedioic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-723"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Springer Nature References",
+            "Description": "Literature references related to scientific contents from Springer Nature journals and books. These references have been ranked automatically by an algorithm which calculates the relevance for each substance in a Springer Nature document. It is based on: (1) the TF-IDF, adapted to chemical structures, (2) location information in the text (e.g. title, abstract, keywords), and (3) the document size.  Springer Nature aims to provide only highly qualitative and relevant content but references of lower relevance aren't withheld as they might contain also very useful information.",
+            "Information": [
+              {
+                "ReferenceNumber": 18,
+                "Value": {
+                  "ExternalTableName": "collection=springernature&query_type=sid&query=341395788"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Wiley References",
+            "Description": "Literature references related to scientific contents from Wiley journals and books.",
+            "Information": [
+              {
+                "ReferenceNumber": 20,
+                "Value": {
+                  "ExternalTableName": "collection=wiley&query_type=sid&query=386276914"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Literature",
+            "Description": "Chemical-organism co-occurrences in literature highlight chemical-organism pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalOrganismNeighbor"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "OrganismName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12201/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Patents",
+            "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalChemical"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+            "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalDisease"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalGene"
+                    },
+                    {
+                      "String": "Gene"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and organisms mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalOrganism"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "NORMAN Suspect List Exchange Classification",
+            "Description": "A classification from the NORMAN Suspect List Exchange, which serve as a central access point to find lists of chemicals with environmental concerns.",
+            "URL": "https://www.norman-network.com/nds/SLE/",
+            "Information": [
+              {
+                "ReferenceNumber": 23,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=101",
+                "Value": {
+                  "Number": [
+                    101
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA DSSTox Classification",
+            "Description": "Classification from the U.S. Environmental Protection Agency's Distributed Structure-Searchable Toxicity (DSSTox) database. DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology. A distinguishing feature of this effort is the accurate mapping of bioassay and physicochemical property data associated with chemical substances to their corresponding chemical structures. ",
+            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=105",
+                "Value": {
+                  "Number": [
+                    105
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA TSCA and CDR Classification",
+            "Description": "EPA Chemicals under the Toxic Substances Control Act (TSCA) collection contains information on chemicals and their regulation under TSCA. The chemical classification tree is created based on the TSCA substance regulatory flag, UVCB, and commercial activity status.",
+            "URL": "https://www.epa.gov/tsca-inventory",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=132",
+                "Value": {
+                  "Number": [
+                    132
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA Substance Registry Services Tree",
+            "Description": "Substance Registry Services (SRS) is the Environmental Protection Agency's (EPA) central system for information about substances that are tracked or regulated by EPA or other sources. It is a resource for basic information about chemicals, biological organisms, and other substances of interest to EPA and its state and tribal partners. SRS makes it possible to identify which EPA data systems, environmental statutes, or other sources have information about a substance and which synonym is used by that system or statute.",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=123",
+                "Value": {
+                  "Number": [
+                    123
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemicals in PubChem from Regulatory Sources",
+            "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources.",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=135",
+                "Value": {
+                  "Number": [
+                    135
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "EPA Chemical Data Reporting (CDR)",
+        "SourceID": "642c8303992dd16b7a5ed97aac7266c7",
+        "Name": "2-Butenedioic acid (2Z)-, 1,4-diethyl ester",
+        "Description": "The non-confidential content of the EPA Chemical Data Reporting.",
+        "URL": "https://www.epa.gov/chemical-data-reporting",
+        "LicenseNote": "The U.S. Government retains a nonexclusive, royalty-free license to publish or reproduce these documents, or allow others to do so, for U.S. Government purposes. These documents may be freely distributed and used for non-commercial, scientific and educational purposes.",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 38384684
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "EPA Chemicals under the TSCA",
+        "SourceID": "54e8120ccb0d25901e60ad83bd2d1046",
+        "Name": "2-Butenedioic acid (2Z)-, 1,4-diethyl ester",
+        "Description": "EPA Chemicals under the Toxic Substances Control Act (TSCA) collection contains information on chemicals and their regulations under TSCA.",
+        "URL": "https://www.epa.gov/chemicals-under-tsca",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 38390436
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "EPA Chemicals under the TSCA",
+        "SourceID": "4f37d56d427957bd7c24e5b9214b5c7a",
+        "Name": "2-Butenedioic acid (2E)-, 1,4-diethyl ester",
+        "Description": "EPA Chemicals under the Toxic Substances Control Act (TSCA) collection contains information on chemicals and their regulations under TSCA.",
+        "URL": "https://www.epa.gov/chemicals-under-tsca",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 38393022
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "DTXSID8048151",
+        "Name": "Diethyl 2-butenedioate",
+        "Description": "DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology.",
+        "URL": "https://comptox.epa.gov/dashboard/DTXSID8048151",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 1162688
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "Human Metabolome Database (HMDB)",
+        "SourceID": "HMDB0251249",
+        "Name": "2-Butenedioic acid (2E)-, 1,4-diethyl ester",
+        "Description": "The Human Metabolome Database (HMDB) is a freely available electronic database containing detailed information about small molecule metabolites found in the human body.",
+        "URL": "http://www.hmdb.ca/metabolites/HMDB0251249",
+        "LicenseNote": "\u0009HMDB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (HMDB) and the original publication (see the HMDB citing page). We ask that users who download significant portions of the database cite the HMDB paper in any resulting publications.",
+        "LicenseURL": "http://www.hmdb.ca/citing",
+        "ANID": 14483149
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IEPRKVQEAMIZSS-WAYWQWQTSA-N_1",
+        "Name": "DIETHYL MALEATE",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IEPRKVQEAMIZSS-WAYWQWQTSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 13640667
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IEPRKVQEAMIZSS-AATRIKPKSA-N_1",
+        "Name": "FUMARIC ACID DIETHYL ESTER",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IEPRKVQEAMIZSS-AATRIKPKSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 13640697
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IEPRKVQEAMIZSS-WAYWQWQTSA-N_2",
+        "Name": "DIETHYL MALEATE",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IEPRKVQEAMIZSS-WAYWQWQTSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 13641896
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IEPRKVQEAMIZSS-AATRIKPKSA-N_2",
+        "Name": "DIETHYL FUMARATE",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IEPRKVQEAMIZSS-AATRIKPKSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 13641900
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IEPRKVQEAMIZSS-WAYWQWQTSA-N_3",
+        "Name": "DIETHYL MALEATE",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IEPRKVQEAMIZSS-WAYWQWQTSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 13642517
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IEPRKVQEAMIZSS-AATRIKPKSA-N_3",
+        "Name": "DIETHYL FUMARATE",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IEPRKVQEAMIZSS-AATRIKPKSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 13642518
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IEPRKVQEAMIZSS-AATRIKPKSA-N_4",
+        "Name": "DIETHYL FUMARATE",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IEPRKVQEAMIZSS-AATRIKPKSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 13643702
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IEPRKVQEAMIZSS-AATRIKPKSA-N_5",
+        "Name": "DIETHYL FUMARATE",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IEPRKVQEAMIZSS-AATRIKPKSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 13647236
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IEPRKVQEAMIZSS-WAYWQWQTSA-N_4",
+        "Name": "DIETHYL MALEATE",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IEPRKVQEAMIZSS-WAYWQWQTSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 13647254
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IEPRKVQEAMIZSS-WAYWQWQTSA-N_5",
+        "Name": "DIETHYL MALEATE",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IEPRKVQEAMIZSS-WAYWQWQTSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 13648748
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IEPRKVQEAMIZSS-WAYWQWQTSA-N_6",
+        "Name": "DIETHYL MALEATE",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IEPRKVQEAMIZSS-WAYWQWQTSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 13648767
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "SpectraBase",
+        "SourceID": "Av2eqlzHFNa",
+        "Name": "Fumaric acid diethyl ester",
+        "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+        "URL": "https://spectrabase.com/spectrum/Av2eqlzHFNa",
+        "ANID": 36947070
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "Springer Nature",
+        "SourceID": "341395788",
+        "Description": "Springer Nature is the world's largest academic book publisher, publisher of the world's most influential journals, and a pioneer in the field of open research. SpringerLink provides electronic access to its book and journal content.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/341395788",
+        "ANID": 48056750
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q81976574",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q81976574",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44464832
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "Wiley",
+        "SourceID": "386276914",
+        "Description": "Wiley drives the world forward with research and education. Through publishing, platforms and services, we help students, researchers, universities, and corporations to achieve their goals in an ever-changing world.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/386276914",
+        "ANID": 48993559
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "NORMAN Suspect List Exchange",
+        "SourceID": "norman_sle_tree",
+        "Name": "NORMAN Suspect List Exchange Classification",
+        "Description": "The NORMAN Suspect List Exchange (NORMAN-SLE) is a central access point for NORMAN members (and others) to find suspect lists relevant for their environmental monitoring questions.",
+        "URL": "https://www.norman-network.com/nds/SLE/",
+        "LicenseNote": "Data: CC-BY 4.0; Code (hosted by ECI, LCSB): Artistic-2.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "dsstoxlist_tree",
+        "Name": "CompTox Chemicals Dashboard Chemical Lists",
+        "Description": "This classification lists the chemical categories from the EPA CompTox Chemicals Dashboard.",
+        "URL": "https://comptox.epa.gov/dashboard/chemical-lists/",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "EPA Substance Registry Services",
+        "SourceID": "epasrs_tree",
+        "Name": "EPA SRS List Classification",
+        "Description": "Substance Registry Services (SRS) is the Environmental Protection Agency's (EPA) central system for information about substances that are tracked or regulated by EPA or other sources.",
+        "URL": "https://maldi.nist.gov",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 27,
+        "SourceName": "EPA Chemicals under the TSCA",
+        "SourceID": "epa_tsca_tree",
+        "Name": "EPA TSCA Classification",
+        "Description": "EPA Chemicals under the Toxic Substances Control Act (TSCA) collection contains information on chemicals and their regulation under TSCA (40 eCFR I-R). The chemical classification tree is created based on the TSCA substance regulatory flag, UVCB, and commercial activity status.",
+        "URL": "https://www.epa.gov/tsca-inventory",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 28,
+        "SourceName": "PubChem",
+        "SourceID": "regtree",
+        "Name": "Chemicals in PubChem from Regulatory Sources",
+        "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources."
+      }
+    ]
+  }
+}

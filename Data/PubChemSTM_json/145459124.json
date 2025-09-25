@@ -1,0 +1,3713 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 145459124,
+    "RecordTitle": "Mono-(carboxyisononyl) phthalate",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Description": "Mono-(carboxyisononyl) phthalate",
+                "Value": {
+                  "Number": [
+                    145459124
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Name": "Record Description",
+                "Description": "Ontology Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Mono-carboxy isononyl phthalate is a benzoate ester.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 31,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mono-carboxy%20isononyl%20phthalate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-145459124"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by LexiChem 2.6.6 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-(9-carboxynonan-2-yloxycarbonyl)benzoic acid"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by InChI 1.0.5 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C18H24O6/c1-13(9-5-3-2-4-6-12-16(19)20)24-18(23)15-11-8-7-10-14(15)17(21)22/h7-8,10-11,13H,2-6,9,12H2,1H3,(H,19,20)(H,21,22)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by InChI 1.0.5 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "IOWADRRGIUUGJH-UHFFFAOYSA-N"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2024.12.12)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC(CCCCCCCC(=O)O)OC(=O)C1=CC=CC=C1C(=O)O"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Reference": [
+                  "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C18H24O6"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "ChEBI ID",
+                "Description": "Identifier from database and ontology of molecular entities focused on 'small' chemical compounds used by the Chemical Entities of Biological Interest (ChEBI)",
+                "URL": "https://www.ebi.ac.uk/chebi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "URL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:165209",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CHEBI:165209"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Metabolomics Workbench ID",
+                "Description": "Registration number used by Metabolomics Workbench",
+                "URL": "https://www.metabolomicsworkbench.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=87181",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "87181"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "URL": "https://www.wikidata.org/wiki/Q106038663",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q106038663"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "RefChem:1089812"
+                        },
+                        {
+                          "String": "Mono-(carboxyisononyl) phthalate"
+                        },
+                        {
+                          "String": "Mono-carboxy isononyl phthalate"
+                        },
+                        {
+                          "String": "1-Monocarboxyisononyl Ester-1,2-benzenedicarboxylic Acid"
+                        },
+                        {
+                          "String": "Monocarboxyisodecyl Phthalate"
+                        },
+                        {
+                          "String": "7-cx-MiNP"
+                        },
+                        {
+                          "String": "Mono-carboxy-isononyl phthalate"
+                        },
+                        {
+                          "String": "CHEBI:165209"
+                        },
+                        {
+                          "String": "NS00115815"
+                        },
+                        {
+                          "String": "2-(9-carboxynonan-2-yloxycarbonyl)benzoic acid"
+                        },
+                        {
+                          "String": "2-(((1-Methyl-9-carboxyoctyl)oxy)carbonyl)-benzoic acid"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "BB059037"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "DateISO8601": [
+                    "2019-12-12"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-09-07"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem 2.1 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "336.4"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "XLogP3",
+                "Description": "XLogP3 is a predicted octanol-water partition coefficient, computed using the algorithm described in J. Chem. Inf. Model. 2007, 47, 6, 2140-2148. It is used as a measure of hydrophilicity or hydrophobicity of a molecule.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/17985865/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "XLogP3-AA",
+                    "Reference": [
+                      "Computed by XLogP3 3.0 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        3.9
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        6
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        12
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem 2.1 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "336.15728848"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem 2.1 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "336.15728848"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        101
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        24
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        420
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem (release 2019.06.18)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Experimental Properties",
+            "Description": "Various experimentally determined properties for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+            "Section": [
+              {
+                "TOCHeading": "Collision Cross Section",
+                "Description": "Collision cross section (CCS) represents the effective area for the interaction between an individual ion and the neutral gas through which it is traveling (e.g., in ion mobility spectrometry (IMS) experiments).  It quantifies the probability of a collision taking place between two or more particles.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/28035808/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "S79 | UACCSCEC | Collision Cross Section (CCS) Library from UAntwerp | DOI:10.5281/zenodo.4704648"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "S79 | UACCSCEC | Collision Cross Section (CCS) Library from UAntwerp | DOI:10.5281/zenodo.4704648",
+                        "Matched": {
+                          "PCLID": 900164193,
+                          "Citation": "S79 | UACCSCEC | Collision Cross Section (CCS) Library from UAntwerp | DOI:10.5281/zenodo.4704648"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "177.47 Å² [M-H]-",
+                          "Markup": [
+                            {
+                              "Start": 15,
+                              "Length": 1,
+                              "Type": "Superscript"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "182.64 Å² [M+Na]+",
+                          "Markup": [
+                            {
+                              "Start": 16,
+                              "Length": 1,
+                              "Type": "Superscript"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Classes",
+            "Description": "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties, radiological properties, or other factors.",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Reference": [
+                  "S79 | UACCSCEC | Collision Cross Section (CCS) Library from UAntwerp | DOI:10.5281/zenodo.4704648"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "S79 | UACCSCEC | Collision Cross Section (CCS) Library from UAntwerp | DOI:10.5281/zenodo.4704648",
+                    "Matched": {
+                      "PCLID": 900164193,
+                      "Citation": "S79 | UACCSCEC | Collision Cross Section (CCS) Library from UAntwerp | DOI:10.5281/zenodo.4704648"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Plasticizer metabolites"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Spectral Information",
+        "Description": "Spectral data for this compound, including 1-D and 2-D nuclear magnetic resonance (NMR), Infrared (IR), Raman, and Ultraviolet (UV) spectroscopy, mass spectrometry (MS), and chromatography.",
+        "Section": [
+          {
+            "TOCHeading": "Mass Spectrometry",
+            "Description": "Mass spectrometry (MS or mass spec) is a technique to determine molecular structure through ionization and fragmentation of the parent compound into smaller components.",
+            "URL": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Spectroscopy/Mass_Spectrometry",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 2
+            },
+            "Section": [
+              {
+                "TOCHeading": "LC-MS",
+                "Description": "Data from liquid chromatography-mass spectrometry (LC-MS) experiments.",
+                "URL": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Structure_and_Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_(Schaller)/II%3A_Practical_Aspects_of_Structure_-_Purification_and_Spectroscopy/06%3A_Introductory_Mass_Spectrometry/6.03%3A_GC-MS_and_LC-MS",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Antwerp_Univ-AN115725",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Antwerp_Univ-AN115725"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Belova L, Covaci A, University of Antwerp, Belgium; Caballero-Casero N, University of Cordoba, Spain."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Agilent 6560 QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NEGATIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CID"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZORBAX Extend-C18 3.5um, 2.1x50mm, Agilent Technologies"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.802 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "335.15"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M-H]-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "187.1344 999"
+                        },
+                        {
+                          "String": "335.1512 116"
+                        },
+                        {
+                          "String": "165.0194 31"
+                        },
+                        {
+                          "String": "121.0291 28"
+                        },
+                        {
+                          "String": "77.0398 19"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-000i-0900000000-feb9fccd9b7e50764910",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-000i-0900000000-feb9fccd9b7e50764910"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=187.1344:999,335.1512:116,165.0194:31,121.0291:28,77.0398:19",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=187.1344:999,335.1512:116,165.0194:31,121.0291:28,77.0398:19"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Antwerp_Univ-AN115726",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Antwerp_Univ-AN115726"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Belova L, Covaci A, University of Antwerp, Belgium; Caballero-Casero N, University of Cordoba, Spain."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Agilent 6560 QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NEGATIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "10 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CID"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZORBAX Extend-C18 3.5um, 2.1x50mm, Agilent Technologies"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.802 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "335.15"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M-H]-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "187.1346 999"
+                        },
+                        {
+                          "String": "121.0298 73"
+                        },
+                        {
+                          "String": "165.0197 44"
+                        },
+                        {
+                          "String": "77.0398 12"
+                        },
+                        {
+                          "String": "335.1498 11"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-000i-0900000000-c978ddc8c78e0ca01d13",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-000i-0900000000-c978ddc8c78e0ca01d13"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=187.1346:999,121.0298:73,165.0197:44,77.0398:12,335.1498:11",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=187.1346:999,121.0298:73,165.0197:44,77.0398:12,335.1498:11"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Antwerp_Univ-AN115727",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Antwerp_Univ-AN115727"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Belova L, Covaci A, University of Antwerp, Belgium; Caballero-Casero N, University of Cordoba, Spain."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Agilent 6560 QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NEGATIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "15 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CID"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZORBAX Extend-C18 3.5um, 2.1x50mm, Agilent Technologies"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.802 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "335.15"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M-H]-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "187.1343 999"
+                        },
+                        {
+                          "String": "121.0295 126"
+                        },
+                        {
+                          "String": "77.0394 34"
+                        },
+                        {
+                          "String": "165.0192 27"
+                        },
+                        {
+                          "String": "188.1382 8"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-000i-0900000000-8a4cd655663f5152287f",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-000i-0900000000-8a4cd655663f5152287f"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=187.1343:999,121.0295:126,77.0394:34,165.0192:27,188.1382:8",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=187.1343:999,121.0295:126,77.0394:34,165.0192:27,188.1382:8"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Antwerp_Univ-AN115728",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Antwerp_Univ-AN115728"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Belova L, Covaci A, University of Antwerp, Belgium; Caballero-Casero N, University of Cordoba, Spain."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Agilent 6560 QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NEGATIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "20 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CID"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZORBAX Extend-C18 3.5um, 2.1x50mm, Agilent Technologies"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.802 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "335.15"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M-H]-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "187.1342 999"
+                        },
+                        {
+                          "String": "121.0296 290"
+                        },
+                        {
+                          "String": "77.04 120"
+                        },
+                        {
+                          "String": "141.1288 29"
+                        },
+                        {
+                          "String": "165.0201 21"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-000i-0900000000-fdda88787d6643796018",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-000i-0900000000-fdda88787d6643796018"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=187.1342:999,121.0296:290,77.04:120,141.1288:29,165.0201:21",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=187.1342:999,121.0296:290,77.04:120,141.1288:29,165.0201:21"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Antwerp_Univ-AN115729",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Antwerp_Univ-AN115729"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Belova L, Covaci A, University of Antwerp, Belgium; Caballero-Casero N, University of Cordoba, Spain."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Agilent 6560 QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NEGATIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "25 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CID"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZORBAX Extend-C18 3.5um, 2.1x50mm, Agilent Technologies"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.802 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "335.15"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M-H]-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "187.1339 999"
+                        },
+                        {
+                          "String": "121.0297 356"
+                        },
+                        {
+                          "String": "77.0397 352"
+                        },
+                        {
+                          "String": "185.1182 25"
+                        },
+                        {
+                          "String": "141.1272 24"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-000i-2900000000-9ce49e1d221481677475",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-000i-2900000000-9ce49e1d221481677475"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=187.1339:999,121.0297:356,77.0397:352,185.1182:25,141.1272:24",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=187.1339:999,121.0297:356,77.0397:352,185.1182:25,141.1272:24"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Antwerp_Univ-AN115730",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Antwerp_Univ-AN115730"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Belova L, Covaci A, University of Antwerp, Belgium; Caballero-Casero N, University of Cordoba, Spain."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Agilent 6560 QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NEGATIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "30 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CID"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZORBAX Extend-C18 3.5um, 2.1x50mm, Agilent Technologies"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.802 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "335.15"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M-H]-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "187.1339 999"
+                        },
+                        {
+                          "String": "77.0396 693"
+                        },
+                        {
+                          "String": "121.0289 629"
+                        },
+                        {
+                          "String": "141.1273 70"
+                        },
+                        {
+                          "String": "185.1179 59"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-009i-3900000000-50b6e6b6be05237e3fb0",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-009i-3900000000-50b6e6b6be05237e3fb0"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=187.1339:999,77.0396:693,121.0289:629,141.1273:70,185.1179:59",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=187.1339:999,77.0396:693,121.0289:629,141.1273:70,185.1179:59"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Antwerp_Univ-AN115731",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Antwerp_Univ-AN115731"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Belova L, Covaci A, University of Antwerp, Belgium; Caballero-Casero N, University of Cordoba, Spain."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Agilent 6560 QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NEGATIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "35 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CID"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZORBAX Extend-C18 3.5um, 2.1x50mm, Agilent Technologies"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.799 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "335.15"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M-H]-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "77.04 999"
+                        },
+                        {
+                          "String": "121.0292 310"
+                        },
+                        {
+                          "String": "187.1326 255"
+                        },
+                        {
+                          "String": "139.1125 54"
+                        },
+                        {
+                          "String": "97.0667 50"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-004i-9500000000-44c327afe78cee02c251",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-004i-9500000000-44c327afe78cee02c251"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=77.04:999,121.0292:310,187.1326:255,139.1125:54,97.0667:50",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=77.04:999,121.0292:310,187.1326:255,139.1125:54,97.0667:50"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Antwerp_Univ-AN115732",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Antwerp_Univ-AN115732"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Belova L, Covaci A, University of Antwerp, Belgium; Caballero-Casero N, University of Cordoba, Spain."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Agilent 6560 QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NEGATIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "40 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CID"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZORBAX Extend-C18 3.5um, 2.1x50mm, Agilent Technologies"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.799 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "335.15"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M-H]-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "77.0405 999"
+                        },
+                        {
+                          "String": "187.1329 123"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-004i-9100000000-1a6029b26942115ce82a",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-004i-9100000000-1a6029b26942115ce82a"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=77.0405:999,187.1329:123,",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=77.0405:999,187.1329:123,"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Antwerp_Univ-AN115733",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Antwerp_Univ-AN115733"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Belova L, Covaci A, University of Antwerp, Belgium; Caballero-Casero N, University of Cordoba, Spain."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Agilent 6560 QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NEGATIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "45 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CID"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZORBAX Extend-C18 3.5um, 2.1x50mm, Agilent Technologies"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.799 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "335.15"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M-H]-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "77.0401 999"
+                        },
+                        {
+                          "String": "121.0295 397"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-004i-9300000000-81069c8a3cdfe29d09df",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-004i-9300000000-81069c8a3cdfe29d09df"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=77.0401:999,121.0295:397,",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=77.0401:999,121.0295:397,"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Antwerp_Univ-AN115734",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Antwerp_Univ-AN115734"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Belova L, Covaci A, University of Antwerp, Belgium; Caballero-Casero N, University of Cordoba, Spain."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Agilent 6560 QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NEGATIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "50 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CID"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZORBAX Extend-C18 3.5um, 2.1x50mm, Agilent Technologies"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.809 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "335.15"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M-H]-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "77.0403 999"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-004i-9000000000-7a017ed129af3552c897",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-004i-9000000000-7a017ed129af3552c897"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=77.0403:999,",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=77.0403:999,"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Antwerp_Univ-AN115735",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Antwerp_Univ-AN115735"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Belova L, Covaci A, University of Antwerp, Belgium; Caballero-Casero N, University of Cordoba, Spain."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Agilent 6560 QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NEGATIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "55 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CID"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZORBAX Extend-C18 3.5um, 2.1x50mm, Agilent Technologies"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.809 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "335.15"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M-H]-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "77.0398 999"
+                        },
+                        {
+                          "String": "121.0283 440"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-004i-9300000000-dc43a90b03a5e22b4c26",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-004i-9300000000-dc43a90b03a5e22b4c26"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=77.0398:999,121.0283:440,",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=77.0398:999,121.0283:440,"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Antwerp_Univ-AN115736",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Antwerp_Univ-AN115736"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Belova L, Covaci A, University of Antwerp, Belgium; Caballero-Casero N, University of Cordoba, Spain."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Agilent 6560 QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QTOF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NEGATIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "60 eV"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CID"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZORBAX Extend-C18 3.5um, 2.1x50mm, Agilent Technologies"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.809 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "335.15"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M-H]-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "77.0402 999"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-004i-9000000000-6cdfacad9fed0bdfce1e",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-004i-9000000000-6cdfacad9fed0bdfce1e"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=77.0402:999,",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=77.0402:999,"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID145459124%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID145459124%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "Same Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/145459124/cids/JSON?cids_type=same_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Name": "Same Parent, Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/145459124/cids/JSON?cids_type=same_parent_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID145459124%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID145459124%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/518181159",
+                    "Value": {
+                      "Number": [
+                        518181159
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/145459124/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        10
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "NIH Initiatives"
+                        },
+                        {
+                          "String": "Research and Development"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 17,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "ChEBI Ontology",
+            "Description": "ChEBI Ontology tree.  ChEBI is an acronym for Chemical Entities of Biological Interest, which is a freely available dictionary of molecular entities focused on 'small' chemical compounds. ChEBI incorporates an ontological classification, whereby the relationships between molecular entities or classes of entities and their parents and/or children are specified.",
+            "URL": "https://www.ebi.ac.uk/chebi/",
+            "Information": [
+              {
+                "ReferenceNumber": 18,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=2",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NORMAN Suspect List Exchange Classification",
+            "Description": "A classification from the NORMAN Suspect List Exchange, which serve as a central access point to find lists of chemicals with environmental concerns.",
+            "URL": "https://www.norman-network.com/nds/SLE/",
+            "Information": [
+              {
+                "ReferenceNumber": 19,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=101",
+                "Value": {
+                  "Number": [
+                    101
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "MolGenie Organic Chemistry Ontology",
+            "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign compounds to structural classes, currently mapped to >1.7 million per- and polyfluoroalkyl substances (PFAS) extracted from the datasets explained in Barnabas et al (2022) DOI: 10.1039/D2DD00019A",
+            "URL": "https://github.com/MolGenie/ontology/",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=134",
+                "Value": {
+                  "Number": [
+                    134
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "ChEBI",
+        "SourceID": "CHEBI:OBO:145459124",
+        "Name": "Mono-carboxy isononyl phthalate",
+        "Description": "Chemical Entities of Biological Interest (ChEBI) is a database and ontology of molecular entities focused on 'small' chemical compounds, that is part of the Open Biomedical Ontologies effort. The term \"molecular entity\" refers to any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer, etc., identifiable as a separately distinguishable entity.",
+        "URL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:165209",
+        "ANID": 13716965
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IOWADRRGIUUGJH-UHFFFAOYSA-N_1",
+        "Name": "Mono-carboxy-isononyl phthalate",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IOWADRRGIUUGJH-UHFFFAOYSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 15070539
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IOWADRRGIUUGJH-UHFFFAOYSA-N_2",
+        "Name": "Mono-carboxy-isononyl phthalate",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IOWADRRGIUUGJH-UHFFFAOYSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 15070540
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IOWADRRGIUUGJH-UHFFFAOYSA-N_3",
+        "Name": "Mono-carboxy-isononyl phthalate",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IOWADRRGIUUGJH-UHFFFAOYSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 15070541
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IOWADRRGIUUGJH-UHFFFAOYSA-N_4",
+        "Name": "Mono-carboxy-isononyl phthalate",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IOWADRRGIUUGJH-UHFFFAOYSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 15070542
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IOWADRRGIUUGJH-UHFFFAOYSA-N_5",
+        "Name": "Mono-carboxy-isononyl phthalate",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IOWADRRGIUUGJH-UHFFFAOYSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 15070543
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IOWADRRGIUUGJH-UHFFFAOYSA-N_6",
+        "Name": "Mono-carboxy-isononyl phthalate",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IOWADRRGIUUGJH-UHFFFAOYSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 15070544
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IOWADRRGIUUGJH-UHFFFAOYSA-N_7",
+        "Name": "Mono-carboxy-isononyl phthalate",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IOWADRRGIUUGJH-UHFFFAOYSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 15070545
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IOWADRRGIUUGJH-UHFFFAOYSA-N_8",
+        "Name": "Mono-carboxy-isononyl phthalate",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IOWADRRGIUUGJH-UHFFFAOYSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 15070546
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IOWADRRGIUUGJH-UHFFFAOYSA-N_9",
+        "Name": "Mono-carboxy-isononyl phthalate",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IOWADRRGIUUGJH-UHFFFAOYSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 15070547
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IOWADRRGIUUGJH-UHFFFAOYSA-N_10",
+        "Name": "Mono-carboxy-isononyl phthalate",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IOWADRRGIUUGJH-UHFFFAOYSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 15070548
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IOWADRRGIUUGJH-UHFFFAOYSA-N_11",
+        "Name": "Mono-carboxy-isononyl phthalate",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IOWADRRGIUUGJH-UHFFFAOYSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 15070549
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "MassBank Europe",
+        "SourceID": "IOWADRRGIUUGJH-UHFFFAOYSA-N_12",
+        "Name": "Mono-carboxy-isononyl phthalate",
+        "Description": "MassBank Europe (MassBank.EU) was created in 2011 as an open access database of mass spectra of emerging substances to support identification of unknown substances within the NORMAN Network (https://www.norman-network.com/). MassBank.EU is the partner project of MassBank.JP, hosted at the Helmholtz Centre for Environmental Research (UFZ) Leipzig and jointly maintained by UFZ, LCSB (University of Luxembourg) and IPB Halle.",
+        "URL": "https://massbank.eu/MassBank/search?inchi_key=IOWADRRGIUUGJH-UHFFFAOYSA-N",
+        "LicenseURL": "https://github.com/MassBank/MassBank-web/blob/main/MassBank-Project/LICENSE.txt",
+        "ANID": 15070550
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "Metabolomics Workbench",
+        "SourceID": "87181",
+        "Name": "Mono-carboxy isononyl phthalate",
+        "Description": "The Metabolomics Workbench serves as a national and international repository for metabolomics data and metadata and provides analysis tools and access to metabolite standards, protocols, tutorials, training, and more.",
+        "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=87181",
+        "ANID": 20238448
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "NORMAN Suspect List Exchange",
+        "SourceID": "nrm_145459124",
+        "Name": "Mono-carboxy-isononyl phthalate",
+        "Description": "The NORMAN network enhances the exchange of information on emerging environmental substances, and encourages the validation and harmonisation of common measurement methods and monitoring tools so that the requirements of risk assessors and risk managers can be better met. The NORMAN Suspect List Exchange (NORMAN-SLE) is a central access point to find suspect lists relevant for various environmental monitoring questions, described in DOI:10.1186/s12302-022-00680-6",
+        "LicenseNote": "Data: CC-BY 4.0; Code (hosted by ECI, LCSB): Artistic-2.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/",
+        "ANID": 13171107
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q106038663",
+        "Name": "Mono-carboxy isononyl phthalate",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q106038663",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44111805
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "ChEBI",
+        "SourceID": "OBO",
+        "Name": "ChEBI Ontology",
+        "Description": "The ChEBI Ontology is a structured classification of the entities contained within ChEBI.",
+        "URL": "http://www.ebi.ac.uk/chebi/userManualForward.do#ChEBI%20Ontology"
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "NORMAN Suspect List Exchange",
+        "SourceID": "norman_sle_tree",
+        "Name": "NORMAN Suspect List Exchange Classification",
+        "Description": "The NORMAN Suspect List Exchange (NORMAN-SLE) is a central access point for NORMAN members (and others) to find suspect lists relevant for their environmental monitoring questions.",
+        "URL": "https://www.norman-network.com/nds/SLE/",
+        "LicenseNote": "Data: CC-BY 4.0; Code (hosted by ECI, LCSB): Artistic-2.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "MolGenie",
+        "SourceID": "mol_classes",
+        "Name": "MolGenie Organic Chemistry Ontology",
+        "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign chemical entities to structural classes, split into three main subsections: calculated properties, compounds and substructural concepts. The ontology contains chemistry structural classes with a focus on elements and small organic compounds, but not inorganic, polymer, biopolymer, metal complexes, metal organic frameworks (MOFs) and other chemistry entities. The ontology has been mapped to several collections of chemicals, including (a) Chemicals of Biological Interest (ChEBI), (b) the ChEMBL database of bioactive molecules, (c) the LOTUS natural product collection, (d) per- and polyfluoroalkyl substances (PFAS) extracted from Barnabas et al (2022) DOI: 10.1039/D2DD00019A (e) PubChemLite and (f) the ZeroPM Global Chemical Inventory.",
+        "URL": "https://github.com/MolGenie/ontology/",
+        "LicenseNote": "CC-BY 4.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  }
+}

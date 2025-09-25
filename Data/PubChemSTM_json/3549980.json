@@ -1,0 +1,3288 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 3549980,
+    "RecordTitle": "Valproate",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Description": "Valproate",
+                "Value": {
+                  "Number": [
+                    3549980
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Crystal Structures",
+            "Description": "This section provides links to crystallographic information from various sources.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "MoveToTop": true,
+              "ShowAtMost": 1
+            },
+            "Section": [
+              {
+                "TOCHeading": "COD Number",
+                "Description": "An identifier assigned to the crystal structure in the Crystallography Open Database (COD).",
+                "URL": "https://www.crystallography.net/cod",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "COD records with this CID as component",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2022240",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=Crystallography+Open+Database&sourceid=2022240"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Name": "Record Description",
+                "Description": "Ontology Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Valproate (Valproic acid) can cause developmental toxicity according to an independent committee of scientific and health experts.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3549980"
+                        },
+                        {
+                          "Start": 11,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3121"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 2,
+                "Name": "Record Description",
+                "Description": "Ontology Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Valproate is a branched-chain saturated fatty acid anion that is the conjugate base of valproic acid. It has a role as an antimanic drug. It is functionally related to a valerate. It is a conjugate base of a valproic acid.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3549980"
+                        },
+                        {
+                          "Start": 87,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3121"
+                        },
+                        {
+                          "Start": 170,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valerate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-114781"
+                        },
+                        {
+                          "Start": 208,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3121"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "LiverTox Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Valproate or valproic acid is a branched chain organic acid that is used as therapy of epilepsy, bipolar disorders and migraine headaches and is a well known cause of several distinctive forms of acute and chronic liver injury.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3549980"
+                        },
+                        {
+                          "Start": 13,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3121"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "ExtendedReference": [
+                  {
+                    "Citation": "A7818: Gerstner T, Bell N, Konig S: Oral valproic acid for epilepsy--long-term experience in therapy and side effects. Expert Opin Pharmacother. 2008 Feb;9(2):285-92. doi: 10.1517/14656566.9.2.285 . PMID:18201150",
+                    "Matched": {
+                      "PCLID": 900176503,
+                      "Citation": "A7818: Gerstner T, Bell N, Konig S: Oral valproic acid for epilepsy--long-term experience in therapy and side effects. Expert Opin Pharmacother. 2008 Feb;9(2):285-92. doi: 10.1517/14656566.9.2.285 . PMID:18201150"
+                    }
+                  },
+                  {
+                    "Citation": "A7819: Russell S: Carnitine as an antidote for acute valproate toxicity in children. Curr Opin Pediatr. 2007 Apr;19(2):206-10. PMID:17496767",
+                    "Matched": {
+                      "PCLID": 900177985,
+                      "Citation": "A7819: Russell S: Carnitine as an antidote for acute valproate toxicity in children. Curr Opin Pediatr. 2007 Apr;19(2):206-10. PMID:17496767"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Valproic acid (VPA) is considered to be a drug of first choice and one of the most frequently-prescribed antiepileptic drugs worldwide for the therapy of generalized and focal epilepsies, including special epileptic. It is a broad-spectrum antiepileptic drug and is usually well tolerated. Rarely, serious complications may occur in some patients, including hemorrhagic pancreatitis, coagulopathies, bone marrow suppression, VPA-induced hepatotoxicity and encephalopathy, but there is still a lack of knowledge about the incidence and occurrence of these special side effects. VPA has been approved for stabilization of manic episodes in patients with bipolar disorder. It is also used to treat migraine headaches and schizophrenia. As the use of VPA increases, the number of both accidental and intentional exposures increases. This is paralleled by more reports of VPA-induced toxicity. VPA is relatively contraindicated in pregnancy due to its teratogenicity. It is a known folate antagonist, which can cause neural tube defects. Thus, folic acid supplements may alleviate teratogenic problems. Women who become pregnant whilst taking valproate should be counselled as to its risks. VPA is an inhibitor of the enzyme histone deacetylase 1 (HDAC1). HDAC1 is needed for HIV to remain in infected cells. Patients treated with valproic acid in addition to highly active antiretroviral therapy (HAART) showed a median 75% reduction in latent HIV infection. VPA is believed to affect the function of the neurotransmitter GABA (as a GABA transaminase inhibitor) in the human brain. Valproic Acid dissociates to the valproate ion in the gastrointestinal tract. (A7818, A7819).",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3121"
+                        },
+                        {
+                          "Start": 977,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/folate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-135405876"
+                        },
+                        {
+                          "Start": 1039,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/folic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-135398658"
+                        },
+                        {
+                          "Start": 1138,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3549980"
+                        },
+                        {
+                          "Start": 1326,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3121"
+                        },
+                        {
+                          "Start": 1518,
+                          "Length": 4,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GABA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-119"
+                        },
+                        {
+                          "Start": 1529,
+                          "Length": 4,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GABA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-119"
+                        },
+                        {
+                          "Start": 1578,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproic%20Acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3121"
+                        },
+                        {
+                          "Start": 1611,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3549980"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-propylpentanoate"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C8H16O2/c1-3-5-7(6-4-2)8(9)10/h7H,3-6H2,1-2H3,(H,9,10)/p-1"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NIJJYAXOARWZEE-UHFFFAOYSA-M"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CCCC(CCC)C(=O)[O-]"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C8H15O2-"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "ChEBI ID",
+                "Description": "Identifier from database and ontology of molecular entities focused on 'small' chemical compounds used by the Chemical Entities of Biological Interest (ChEBI)",
+                "URL": "https://www.ebi.ac.uk/chebi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "URL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:60654",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CHEBI:60654"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "URL": "https://www.wikidata.org/wiki/Q27104876",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q27104876"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikipedia",
+                "Description": "Wikidata entity identifier for this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "URL": "https://en.wikipedia.org/wiki/Valproate",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Valproate"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Entry Terms",
+                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Valproate"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-propylpentanoate"
+                        },
+                        {
+                          "String": "Valproate"
+                        },
+                        {
+                          "String": "CHEBI:60654"
+                        },
+                        {
+                          "String": "RefChem:901604"
+                        },
+                        {
+                          "String": "CHEMBL433"
+                        },
+                        {
+                          "String": "2-propylvalerate"
+                        },
+                        {
+                          "String": "NIJJYAXOARWZEE-UHFFFAOYSA-M"
+                        },
+                        {
+                          "String": "BDBM50009834"
+                        },
+                        {
+                          "String": "STL483398"
+                        },
+                        {
+                          "String": "CCG-204971"
+                        },
+                        {
+                          "String": "NCGC00162288-01"
+                        },
+                        {
+                          "String": "NCGC00162288-02"
+                        },
+                        {
+                          "String": "NCGC00162288-03"
+                        },
+                        {
+                          "String": "NCGC00162288-04"
+                        },
+                        {
+                          "String": "NCGC00162288-06"
+                        },
+                        {
+                          "String": "NCGC00162288-19"
+                        },
+                        {
+                          "String": "AB00053565-06"
+                        },
+                        {
+                          "String": "AB00053565_07"
+                        },
+                        {
+                          "String": "AB00053565_08"
+                        },
+                        {
+                          "String": "A846062"
+                        },
+                        {
+                          "String": "Q27104876"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Valproate sodium"
+                        },
+                        {
+                          "String": "Dipropylacetate"
+                        },
+                        {
+                          "String": "Depakene"
+                        },
+                        {
+                          "String": "Epilim"
+                        },
+                        {
+                          "String": "Sodium valproate"
+                        },
+                        {
+                          "String": "Valproic acid sodium"
+                        },
+                        {
+                          "String": "VALPROIC ACID"
+                        },
+                        {
+                          "String": "2-Propylpentanoic acid"
+                        },
+                        {
+                          "String": "2 Propylpentanoic Acid"
+                        },
+                        {
+                          "String": "AC1MTG1K"
+                        },
+                        {
+                          "String": "Sodium 2-propylpentanoate"
+                        },
+                        {
+                          "String": "Valproic acid sodium salt"
+                        },
+                        {
+                          "String": "bismuth,2-propylpentanoate"
+                        },
+                        {
+                          "String": "2-Propylvaleric acid sodium salt"
+                        },
+                        {
+                          "String": "ZINC03008621"
+                        },
+                        {
+                          "String": "CID3549980"
+                        },
+                        {
+                          "String": "CJ-10534"
+                        },
+                        {
+                          "String": "LS-194211"
+                        },
+                        {
+                          "String": "60364-28-5"
+                        },
+                        {
+                          "String": "99-66-1"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Value": {
+                  "DateISO8601": [
+                    "2005-09-08"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-09-07"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "143.20"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "XLogP3",
+                "Description": "XLogP3 is a predicted octanol-water partition coefficient, computed using the algorithm described in J. Chem. Inf. Model. 2007, 47, 6, 2140-2148. It is used as a measure of hydrophilicity or hydrophobicity of a molecule.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/17985865/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by XLogP3 3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        3.4
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        4
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "143.107204717"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "143.107204717"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        40.1
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        10
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        -1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        87.9
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Classes",
+            "Description": "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties, radiological properties, or other factors.",
+            "Section": [
+              {
+                "TOCHeading": "Drugs",
+                "Description": "Chemicals are used as active ingredients in drug/pharmaceutical products, including human drugs, animal drugs, biologics, etc.",
+                "Section": [
+                  {
+                    "TOCHeading": "Human Drugs",
+                    "Description": "Chemicals are used as active ingredients in human drug products.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 5,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Breast Feeding; Lactation; Milk, Human; Anticonvulsants; Antimanic Agents; GABA Agents",
+                              "Markup": [
+                                {
+                                  "Start": 75,
+                                  "Length": 4,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GABA",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-119"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID3549980%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID3549980%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Parent Compound",
+            "Description": "A parent compound is conceptually the \"important\" part of the molecule when the molecule has more than one covalent component. Specifically, a parent component must have at least one carbon and contain at least 70% of the heavy (non-hydrogen) atoms of all the unique covalent units (ignoring stoichiometry). Note that this is a very empirical definition and is subject to change.",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 3121 (Valproic Acid)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 24,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=3121",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 24,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3121"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Name": "Same Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3549980/cids/JSON?cids_type=same_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Name": "Same Parent, Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3549980/cids/JSON?cids_type=same_parent_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    168
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Name": "Same Parent, Exact Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3549980/cids/JSON?cids_type=same_parent&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    124
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3549980/cids/JSON?cids_type=component&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID3549980%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID3549980%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/505897529",
+                    "Value": {
+                      "Number": [
+                        505897529
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3549980/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        40
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Journal Publishers"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "NIH Initiatives"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NCBI LinkOut",
+            "Description": "NCBI LinkOut is a service that allows one to link directly from NCBI databases to a wide range of information and services beyond NCBI systems.",
+            "URL": "https://www.ncbi.nlm.nih.gov/projects/linkout/",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 14,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Drug and Medication Information",
+        "Description": "This section provides drug and medication information for this compound, including drug indications, labeling, clinical trials, idiosyncrasies, tolerance, reported fatal doses, etc.",
+        "Section": [
+          {
+            "TOCHeading": "LiverTox Summary",
+            "Description": "Summary of liver toxicity for this compound, provided by LiverTox.  This section provides an overview of drug induced liver injury, diagnostic criteria, assessment of causality and severity, descriptions of different clinical patterns (phenotypes), information on management and treatment, and standardized nomenclature.  The role of liver biopsy and major histological patterns of drug induced liver disease are also given.",
+            "URL": "https://www.ncbi.nlm.nih.gov/books/NBK547852/",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Valproate or valproic acid is a branched chain organic acid that is used as therapy of epilepsy, bipolar disorders and migraine headaches and is a well known cause of several distinctive forms of acute and chronic liver injury.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3549980"
+                        },
+                        {
+                          "Start": 13,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3121"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Drug Classes",
+            "Description": "Drug classes of this compound, based on its therapeutic uses and/or structure. The data presented in this section is from LiverTox.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/source/15404",
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Breast Feeding; Lactation; Milk, Human; Anticonvulsants; Antimanic Agents; GABA Agents",
+                      "Markup": [
+                        {
+                          "Start": 75,
+                          "Length": 4,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GABA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-119"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Anticonvulsants"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Clinical Trials",
+            "Description": "Clinical trials are research studies performed in people to evaluate a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment (e.g., a drug or diet) or medical device (e.g., a pacemaker) is safe and effective in people.  This section provides information on clinical trials for this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "ClinicalTrials.gov",
+                "Description": "Brief clinical trials summary from ClinicalTrials.gov at the U.S. National Library of Medicine.",
+                "URL": "http://clinicaltrials.gov/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "ClinicalTrials.gov",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials",
+                      "ExternalTableNumRows": 43
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EU Clinical Trials Register",
+                "Description": "Brief clinical trials summary from the EU Clinical Trials Register.",
+                "URL": "https://www.clinicaltrialsregister.eu/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "EU Clinical Trials Register",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials_eu",
+                      "ExternalTableNumRows": 6
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Pharmacology and Biochemistry",
+        "Description": "Pharmacology and biochemistry information related to this compound, including the pharmacodynamics, pharmacokinetics, metabolism, mechanism of action, biological half-life, biochemical reactions, and many others.",
+        "Section": [
+          {
+            "TOCHeading": "MeSH Pharmacological Classification",
+            "Description": "Pharmacological action classes from the Medical Subject Headings (MeSH) thesaurus.",
+            "URL": "https://meshb.nlm.nih.gov/record/ui?ui=D020228",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "Anticonvulsants",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Drugs used to prevent SEIZURES or reduce their severity."
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Name": "Enzyme Inhibitors",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Compounds or agents that combine with an enzyme in such a manner as to prevent the normal substrate-enzyme combination and the catalytic reaction."
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 23,
+                "Name": "GABA Agents",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Substances used for their pharmacological actions on GABAergic systems. GABAergic agents include agonists, antagonists, degradation or uptake inhibitors, depleters, precursors, and modulators of receptor function."
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 24,
+                "Name": "Antimanic Agents",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Agents that are used to treat bipolar disorders or mania associated with other affective disorders."
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Metabolism/Metabolites",
+            "Description": "Metabolites are substances made or used when the body breaks down food, drugs or chemicals, or its own tissue (for example, fat or muscle tissue). This process is called metabolism and makes energy and the materials needed for growth, reproduction, and maintaining health. Metabolism also helps get rid of toxic substances.",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "ExtendedReference": [
+                  {
+                    "Citation": "A308: Wishart DS, Knox C, Guo AC, Cheng D, Shrivastava S, Tzur D, Gautam B, Hassanali M: DrugBank: a knowledgebase for drugs, drug actions and drug targets. Nucleic Acids Res. 2008 Jan;36(Database issue):D901-6. Epub 2007 Nov 29. PMID:18048412",
+                    "Matched": {
+                      "PCLID": 900178224,
+                      "Citation": "A308: Wishart DS, Knox C, Guo AC, Cheng D, Shrivastava S, Tzur D, Gautam B, Hassanali M: DrugBank: a knowledgebase for drugs, drug actions and drug targets. Nucleic Acids Res. 2008 Jan;36(Database issue):D901-6. Epub 2007 Nov 29. PMID:18048412"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Valproic acid is rapidly absorbed from gastrointestinal tract. Valproic acid is metabolized almost entirely by the liver. In adult patients on monotherapy, 30-50% of an administered dose appears in urine as a glucuronide conjugate. Mitochondrial oxidation is the other major metabolic pathway, typically accounting for over 40% of the dose. These products include 2-n-propylpent-2-enoic acid (delta 2,3 VPE) and several coenzyme A (CoA) derivatives including VPA-CoA, and delta 2,3 VPE-CoA. Usually, less than 15-20% of the dose is eliminated by other oxidative mechanisms. Less than 3% of an administered dose is excreted unchanged in urine (A308). Half Life: 9-16 hours (following oral administration of 250 mg to 1000 mg).",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3121"
+                        },
+                        {
+                          "Start": 63,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3121"
+                        },
+                        {
+                          "Start": 364,
+                          "Length": 27,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-n-propylpent-2-enoic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-104893"
+                        },
+                        {
+                          "Start": 393,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/delta2%2C3%20VPE",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6437068"
+                        },
+                        {
+                          "Start": 420,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/coenzyme%20A",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-87642"
+                        },
+                        {
+                          "Start": 432,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CoA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "multiple-CIDs"
+                        },
+                        {
+                          "Start": 463,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CoA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "multiple-CIDs"
+                        },
+                        {
+                          "Start": 472,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/delta2%2C3%20VPE",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6437068"
+                        },
+                        {
+                          "Start": 486,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CoA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "multiple-CIDs"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+        "Section": [
+          {
+            "TOCHeading": "Uses",
+            "Description": "Major uses of this chemical, including both consumer uses and industrial uses.",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "ExtendedReference": [
+                  {
+                    "Citation": "A308: Wishart DS, Knox C, Guo AC, Cheng D, Shrivastava S, Tzur D, Gautam B, Hassanali M: DrugBank: a knowledgebase for drugs, drug actions and drug targets. Nucleic Acids Res. 2008 Jan;36(Database issue):D901-6. Epub 2007 Nov 29. PMID:18048412",
+                    "Matched": {
+                      "PCLID": 900178224,
+                      "Citation": "A308: Wishart DS, Knox C, Guo AC, Cheng D, Shrivastava S, Tzur D, Gautam B, Hassanali M: DrugBank: a knowledgebase for drugs, drug actions and drug targets. Nucleic Acids Res. 2008 Jan;36(Database issue):D901-6. Epub 2007 Nov 29. PMID:18048412"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "For treatment and management of seizure disorders, mania, and prophylactic treatment of migraine headache. In epileptics, valproic acid is used to control absence seizures, tonic-clonic seizures (grand mal), complex partial seizures, and the seizures associated with Lennox-Gastaut syndrome (A308).",
+                      "Markup": [
+                        {
+                          "Start": 122,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3121"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "A15078: Jafarian I, Eskandari MR, Mashayekhi V, Ahadpour M, Hosseini MJ: Toxicity of valproic acid in isolated rat liver mitochondria. Toxicol Mech Methods. 2013 Oct;23(8):617-23. doi: 10.3109/15376516.2013.821567. Epub 2013 Aug 1. PMID:23819490",
+                        "Matched": {
+                          "PCLID": 900176975,
+                          "Citation": "A15078: Jafarian I, Eskandari MR, Mashayekhi V, Ahadpour M, Hosseini MJ: Toxicity of valproic acid in isolated rat liver mitochondria. Toxicol Mech Methods. 2013 Oct;23(8):617-23. doi: 10.3109/15376516.2013.821567. Epub 2013 Aug 1. PMID:23819490"
+                        }
+                      },
+                      {
+                        "Citation": "A15079: Hsieh CL, Wang HE, Tsai WJ, Peng CC, Peng RY: Multiple point action mechanism of valproic acid-teratogenicity alleviated by folic acid, vitamin C, and N-acetylcysteine in chicken embryo model. Toxicology. 2012 Jan 27;291(1-3):32-42. doi: 10.1016/j.tox.2011.10.015. Epub 2011 Oct 25. PMID:22051200",
+                        "Matched": {
+                          "PCLID": 900176519,
+                          "Citation": "A15079: Hsieh CL, Wang HE, Tsai WJ, Peng CC, Peng RY: Multiple point action mechanism of valproic acid-teratogenicity alleviated by folic acid, vitamin C, and N-acetylcysteine in chicken embryo model. Toxicology. 2012 Jan 27;291(1-3):32-42. doi: 10.1016/j.tox.2011.10.015. Epub 2011 Oct 25. PMID:22051200"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Valproic Acid binds to and inhibits GABA transaminase. This leads to increased brain concentrations of gamma-aminobutyric acid (GABA), an inhibitory neurotransmitter in the CNS. Acute poisoning by VPA can lead to severe CNS depression including coma, confusion, somnolence, dizziness or hallucinations.  Hypotension, respiratory depression and hypo/hyperthermia are also common. VPA is also hepatotoxic, which is likely due to its mitochondrial toxicity. VPA appears to exert its mitochondrial toxicity by impairing mitochondrial functions leading to oxidative stress and cytochrome c expulsion, which leads to apoptosis (A15078). VPA is contraindicated in pregnancy due to its teratogenicity. VPA is a known folate antagonist, which can cause neural tube defects in developing fetuses. Thus, folic acid supplements in pregnant women may alleviate teratogenic problems associated with VPA use. VPA and its metabolites inhibit the biosynthesis of carnitine by decreasing the concentration of alpha-ketoglutarate (through direct inhibition of alpha-ketoglutarate dehydrogenase) and may contribute to carnitine deficiency. It is postulated that carnitine supplementation may increase the beta-oxidation of VPA, thereby limiting cytosolic omega-oxidation and the production of toxic metabolites that are involved in liver toxicity and ammonia accumulation. VPA-induced hepatotoxicity and hyperammonemic encephalopathy may be promoted either by a pre-existing carnitine deficiency or by deficiency induced by VPA per se.  VPA has been shown to downregulate levels of superoxide dismutase (SOD), glutathione (GSH), histone deacetylase (HDAC) and folate. It has also been shown to upregulate H2O2 and homocysteine. Elevated levels of H2O2 negatively affect the NADPH reducing system for dihydrofolate reductase (DHFR) and methylene tetrahydrofolate reductase (MTHFR) (A15079).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproic%20Acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            },
+                            {
+                              "Start": 36,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GABA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-119"
+                            },
+                            {
+                              "Start": 103,
+                              "Length": 23,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gamma-aminobutyric%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-119"
+                            },
+                            {
+                              "Start": 128,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GABA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-119"
+                            },
+                            {
+                              "Start": 709,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/folate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135405876"
+                            },
+                            {
+                              "Start": 793,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/folic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398658"
+                            },
+                            {
+                              "Start": 946,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carnitine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10917"
+                            },
+                            {
+                              "Start": 991,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alpha-ketoglutarate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-164533"
+                            },
+                            {
+                              "Start": 1041,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alpha-ketoglutarate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-164533"
+                            },
+                            {
+                              "Start": 1098,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carnitine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10917"
+                            },
+                            {
+                              "Start": 1142,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carnitine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10917"
+                            },
+                            {
+                              "Start": 1331,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ammonia",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-222"
+                            },
+                            {
+                              "Start": 1455,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carnitine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10917"
+                            },
+                            {
+                              "Start": 1590,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutathione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-124886"
+                            },
+                            {
+                              "Start": 1603,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GSH",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-124886"
+                            },
+                            {
+                              "Start": 1640,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/folate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135405876"
+                            },
+                            {
+                              "Start": 1694,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/homocysteine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-778"
+                            },
+                            {
+                              "Start": 1754,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NADPH",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5884"
+                            },
+                            {
+                              "Start": 1780,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dihydrofolate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398604"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hepatotoxicity",
+                "Description": "This section provides a short description about the hepatotoxicity associated with this compound, the rate of serum enzyme elevations during use, and the frequency and character of the clinically apparent liver injury associated with the compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Prospective studies suggest that 5% to 10% of persons develop ALT elevations during long term valproate therapy, but these abnormalities are usually asymptomatic and can resolve even with continuation of drug. Unlike phenytoin and carbamazepine, valproate does not induce elevations in serum GGT levels. More importantly and not uncommonly, valproate can cause several forms of clinically apparent hepatotoxicity. Indeed, more than 100 fatal cases of acute or chronic liver injury due to valproate have been reported in the literature. Three clinically distinguishable forms of hepatotoxicity (besides simple aminotransferase elevations) can occur with valproate.",
+                          "Markup": [
+                            {
+                              "Start": 94,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 217,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenytoin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1775"
+                            },
+                            {
+                              "Start": 231,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbamazepine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2554"
+                            },
+                            {
+                              "Start": 246,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 341,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 488,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 653,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "The first syndrome is hyperammonemia with minimal or no evidence of hepatic injury. This syndrome typically presents with progressive and episodic confusion followed by obtundation and coma. The time to onset is often within a few weeks of starting valproate or increasing the dose, but it can present months or even years after starting the medication (Case 1). The diagnosis is made by the finding of elevations in serum ammonia with normal (or near normal) serum aminotransferase and bilirubin levels. Valproate levels are usually normal or minimally high. The syndrome resolves within a few days of stopping valproate, but may reverse more rapidly with carnitine supplementation or renal hemodialysis.",
+                          "Markup": [
+                            {
+                              "Start": 249,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 423,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ammonia",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-222"
+                            },
+                            {
+                              "Start": 487,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bilirubin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280352"
+                            },
+                            {
+                              "Start": 505,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 612,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 657,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carnitine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10917"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "The second form of injury from valproate is an acute hepatocellular injury with jaundice, typically accompanied by hepatocellular or mixed pattern of enzyme elevations (Case 2). This acute liver injury pattern usually has its onset within 1 to 6 months of starting valproate. The pattern of serum enzyme elevations can be hepatocellular or mixed; sometimes the serum aminotransferase levels are not markedly elevated, despite the severity of injury.",
+                          "Markup": [
+                            {
+                              "Start": 31,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 265,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Immunoallergic features (fever, rash, eosinophilia) are usually absent, but rare cases with prominent features of hypersensitivity have been reported (Case 3). Multiple instances of fatal acute hepatic failure due to valproate have been published and valproate is regularly listed as a cause of drug induced acute liver failure. Liver histology is distinctive and reveals a microvesicular steatosis with central lobular necrosis, mild to moderate inflammation and cholestasis. In cases with a prolonged course, fibrosis, bile duct proliferation and regenerative nodules may be present. Prospective studies using historical controls suggest that carnitine (particularly intravenously) may be beneficial if given soon after presentation.",
+                          "Markup": [
+                            {
+                              "Start": 217,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 251,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 645,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carnitine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10917"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "The third form of hepatic injury due to valproate is a Reye-like syndrome described in children on valproate who develop fever and lethargy (suggestive of a viral infection) followed by confusion, stupor and coma, with raised ammonia levels and marked ALT elevations but normal or minimally elevated bilirubin levels. Metabolic acidosis is also common and the syndrome can be rapidly fatal. Valproate may simply be an aspirin-like agent capable of triggering Reye syndrome if it is being taken when the child develops either influenza or varicella infection.",
+                          "Markup": [
+                            {
+                              "Start": 40,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 99,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 226,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ammonia",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-222"
+                            },
+                            {
+                              "Start": 300,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bilirubin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280352"
+                            },
+                            {
+                              "Start": 391,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 418,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/aspirin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2244"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "All three forms of valproate hepatotoxicity have features of mitochondrial injury, and liver histology usually demonstrates microvesicular steatosis with variable amounts of inflammation and cholestasis. Young age (",
+                          "Markup": [
+                            {
+                              "Start": 19,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Likelihood score: A (well known cause of several forms of clinically apparent liver injury)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Health Effects",
+                "Description": "Principal effect(s) of exposure to each substance, listed by OSHA Health Code, Health Effects from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L1132: Wikipedia. Valproic Acid. Last Updated 30 July 2009. http://en.wikipedia.org/wiki/Valproic_acid",
+                        "Matched": {
+                          "PCLID": 900178213,
+                          "Citation": "L1132: Wikipedia. Valproic Acid. Last Updated 30 July 2009. http://en.wikipedia.org/wiki/Valproic_acid"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Valproic acid causes hyperammonemia, which can lead to brain damage. Rarely, it can cause blood dyscrasia, impaired liver function, jaundice, thrombocytopenia, and prolonged coagulation times. In about 5% of pregnant users, valproic acid will cross the placenta and cause congenital anomalies. Valproic acid may also cause acute hematological toxicities, especially in children, including rare reports of myelodysplasia and acute leukemia-like syndrome (L1132). May cause a potentially dangerous rash that may develop into Stevens Johnson syndrome, an extremely rare but potentially fatal skin disease. Acute overdoses of VPA can lead to hypo/hyperthermia, tachycardia, hypotension, respiratory depression, coma, confusion, somnolence, dizziness, headaches and cerebral edema. Extended use of VPA can cause hepatotoxicity.  Allopecia, anorexia, renal failure, tremors and miosis are also associated with chronic toxicity.  VPA is a known teratogen (due to folate antagonism). The teratogenicity of VPA is mostly found at genetic and somatic levels, causing teratogenesis involving neural tube defects (NTDs), anencephaly, lumbosacral meningomyelocele, and leg dysfunction due to spina bifida aperta.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            },
+                            {
+                              "Start": 224,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            },
+                            {
+                              "Start": 294,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            },
+                            {
+                              "Start": 956,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/folate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135405876"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Effects During Pregnancy and Lactation",
+                "Description": "Drug effects during pregnancy and lactation.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "◉ Summary of Use during Lactation"
+                        },
+                        {
+                          "String": "Valproic acid levels in breastmilk are low and infant serum levels range from undetectable to low. Breastfeeding during valproic acid monotherapy does not appear to adversely affect infant growth or development; however, and breastfed infants had higher IQs and enhanced verbal abilities than nonbreastfed infants at 6 years of age in one study. A safety scoring system finds valproic acid possible to use during breastfeeding, and a computer model predicted a relatively low infant exposure, consistent with literature reports. If valproic acid is required by the mother, it is not a reason to discontinue breastfeeding.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            },
+                            {
+                              "Start": 120,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            },
+                            {
+                              "Start": 376,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            },
+                            {
+                              "Start": 532,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "No definite adverse reactions to valproic acid in breastfed infants have been reported. Theoretically, breastfed infants are at risk for valproic acid-induced hepatotoxicity, so infants should be monitored for jaundice and other signs of liver damage during maternal therapy. A questionable case of thrombocytopenia has been reported, so monitor the infant for unusual bruising or bleeding. A rare case of infant baldness might have been caused by valproate in milk. Observe the infant for jaundice and unusual bruising or bleeding. Combination therapy with sedating anticonvulsants or psychotropics may result in infant sedation or withdrawal reactions.",
+                          "Markup": [
+                            {
+                              "Start": 33,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            },
+                            {
+                              "Start": 137,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            },
+                            {
+                              "Start": 448,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "◉ Effects in Breastfed Infants"
+                        },
+                        {
+                          "String": "A mother with epilepsy was taking valproic acid 2.4 grams daily and primidone 250 mg 3 times daily during pregnancy and postpartum. During the second week postpartum, her breastfed infant was sedated. Breastfeeding was stopped and the drowsiness cleared. The sedation was possibly caused by primidone in breastmilk although valproic acid might have contributed by increasing primidone levels.",
+                          "Markup": [
+                            {
+                              "Start": 34,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            },
+                            {
+                              "Start": 68,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/primidone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4909"
+                            },
+                            {
+                              "Start": 291,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/primidone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4909"
+                            },
+                            {
+                              "Start": 324,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            },
+                            {
+                              "Start": 375,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/primidone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4909"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Petechiae, thrombocytopenia, anemia, and mild hematuria occurred in a 2.5-month-old breastfed infant whose mother was taking valproic acid 600 mg twice daily. Blood hemoglobin and reticulocytes normalized between 12 and 19 days after discontinuing breastfeeding. The petechiae resolved 35 days after discontinuing breastfeeding and the infant’s platelet count had almost reached the normal range by this time. By day 83, the infant’s platelet count was well within the normal range. The authors believed the adverse effect to be caused by valproic acid in breastmilk. However, other authors believe that these symptoms were more likely caused by idiopathic thrombocytopenic purpura following a viral infection.",
+                          "Markup": [
+                            {
+                              "Start": 125,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            },
+                            {
+                              "Start": 539,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Two breastfed infants aged 1 and 3 months whose mothers were taking valproic acid monotherapy 750 and 500 mg daily developed normally and had no abnormal laboratory values. Their plasma levels were 6% and 1.5% or their mother’s serum levels, respectively.",
+                          "Markup": [
+                            {
+                              "Start": 68,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Six breastfed infants whose mothers were taking valproic acid 750 or 1000 mg daily had no adverse reactions to valproic acid in breastmilk.",
+                          "Markup": [
+                            {
+                              "Start": 48,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            },
+                            {
+                              "Start": 111,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "An exclusively breastfed infants whose mother was taking valproate 1.8 g, topiramate 300 mg, and levetiracetam 2 g, daily during pregnancy and lactation appeared healthy to the investigators throughout the 6- to 8-week study period.",
+                          "Markup": [
+                            {
+                              "Start": 57,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 74,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/topiramate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5284627"
+                            },
+                            {
+                              "Start": 97,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/levetiracetam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5284583"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "In a long-term study on infants exposed to anticonvulsants during breastfeeding, no difference in average intelligence quotient at 3 years of age was found between infants who were breastfed (n = 11) a median of 6 months and those not breastfed (n = 24) when their mothers were taking valproate monotherapy. At 6 years of age, extensive psychological and intelligence testing found that the breastfed infants had statistically significantly higher IQ values (106 vs 94), than the nonbreastfed infants.",
+                          "Markup": [
+                            {
+                              "Start": 285,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "A prospective cohort study in Norway followed infants of mothers who took antiepileptic drugs during pregnancy and lactation and compared them to infants of mothers with untreated epilepsy and infants with fathers who took antiepileptics as control groups. Of the 223 mothers studied, 27 were taking valproate monotherapy. Infants were assessed at 6, 18 and 36 months of age. Continuous breastfeeding in children of women using antiepileptic drugs was associated with no greater impaired development than those with no breastfeeding or breastfeeding for less than 6 months.",
+                          "Markup": [
+                            {
+                              "Start": 300,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "A woman with bipolar disorder who delivered twins and was taking sodium valproate in a therapeutic dosage was started on quetiapine 200 mg and olanzapine 15 mg at 11 pm daily after 20 days postpartum. She withheld breastfeeding during the night and discarded milk pumped at 7 am. She then breastfed her infants until 11 pm. The mother continued feeding the infants on this schedule for 15 months. Monthly follow-up of the infants indicated normal growth and neither the pediatricians nor the parents noted any adverse effects in the infants.",
+                          "Markup": [
+                            {
+                              "Start": 65,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sodium%20valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16760703"
+                            },
+                            {
+                              "Start": 121,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quetiapine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5002"
+                            },
+                            {
+                              "Start": 143,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/olanzapine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398745"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "The 4-month-old breastfed infant of a mother taking divalproex for bipolar disorder developed patchy hair loss. The extent of nursing and dosage of divalproex were not stated. Divalproex was discontinued and 2 months later, the infant’s hair was normal. The hair loss was possibly caused by valproate.",
+                          "Markup": [
+                            {
+                              "Start": 52,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/divalproex",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23663956"
+                            },
+                            {
+                              "Start": 148,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/divalproex",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23663956"
+                            },
+                            {
+                              "Start": 176,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Divalproex",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23663956"
+                            },
+                            {
+                              "Start": 291,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "A review of 10 years of reports to the European adverse drug reaction database EudraVigilance found 7 unspecified serious adverse reactions reported in breastfed infants associated with valproic acid. Further details of the cases were not reported.",
+                          "Markup": [
+                            {
+                              "Start": 186,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "◉ Effects on Lactation and Breastmilk"
+                        },
+                        {
+                          "String": "Relevant published information was not found as of the revision date."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exposure Routes",
+                "Description": "The way people or other living organisms may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Inhalation.\u000ARapid absorption from gastrointestinal tract. Although the rate of valproate ion absorption may vary with the formulation administered (liquid, solid, or sprinkle), conditions of use (e.g., fasting or postprandial) and the method of administration (e.g., whether the contents of the capsule are sprinkled on food or the capsule is taken intact), these differences should be of minor clinical importance under the steady state conditions achieved in chronic use in the treatment of epilepsy. Food has a greater influence on the rate of absorption of the Depakote tablet (increases Tmax from 4 to 8 hours) than on the absorption of Depakote sprinkle capsules (increase Tmax from 3.3 to 4.8 hours). Furthermore, studies suggest that total daily systemic bioavailability (extent of absorption) is the primary determinant of seizure control.",
+                          "Markup": [
+                            {
+                              "Start": 79,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3549980"
+                            },
+                            {
+                              "Start": 565,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Depakote",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23663956"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Signs and Symptoms",
+                "Description": "Symptoms of exposure to this chemical through various routes (for example, ingestion, inhalation, skin contact, and eye contact).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Acute toxicity symptoms include hypo/hyperthermia, tachycardia, hepatic toxicity, hypotension, respiratory depression, coma, confusion, somnolence, dizziness, headaches and cerebral edema. Allopecia, anorexia, liver toxicity, renal failure, tremors and miosis are also associated with chronic toxicity."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data",
+                "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Oral, mouse: LD50 = 1098 mg/kg; Oral, rat: LD50 = 670 mg/kg.\u000AIn general, serum or plasma valproic acid concentrations are in a range of 20–100 mg/l during controlled therapy, but may reach 150–1500 mg/l following acute poisoning.",
+                          "Markup": [
+                            {
+                              "Start": 89,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valproic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3121"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Treatment",
+                "Description": "Treatment when exposed to toxin",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "A15080: Lheureux PE, Hantson P: Carnitine in the treatment of valproic acid-induced toxicity. Clin Toxicol (Phila). 2009 Feb;47(2):101-11. doi: 10.1080/15563650902752376. PMID:19280426",
+                        "Matched": {
+                          "PCLID": 900177074,
+                          "Citation": "A15080: Lheureux PE, Hantson P: Carnitine in the treatment of valproic acid-induced toxicity. Clin Toxicol (Phila). 2009 Feb;47(2):101-11. doi: 10.1080/15563650902752376. PMID:19280426"
+                        }
+                      },
+                      {
+                        "Citation": "T36: Rumack BH (2009). POISINDEX(R) Information System. Englewood, CO: Micromedex, Inc. CCIS Volume 141, edition expires Aug, 2009.",
+                        "Matched": {
+                          "PCLID": 900176852,
+                          "Citation": "T36: Rumack BH (2009). POISINDEX(R) Information System. Englewood, CO: Micromedex, Inc. CCIS Volume 141, edition expires Aug, 2009."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "In case of acute oral exposure, administer charcoal as a slurry. Consider gastric lavage after ingestion of a potentially life-threatening amount of the compound if it can be performed soon after ingestion (generally within 1 hour). Protect the patient’s airway by placement in Trendelenburg position (head down) and on their left side (left lateral decubitus position) or by endotracheal intubation. Control any seizures first. Some experimental and clinical data suggest that early intravenous supplementation with l-carnitine could improve survival in severe VPA-induced hepatotoxicity. Carnitine administration has been shown to speed the decrease of ammonemia in patients with VPA-induced encephalopathy. As it does not appear to be harmful, l-carnitine is commonly recommended in severe VPA poisoning, especially in children (A15080). In case of inhalation, move patient to fresh air, monitor for respiratory distress. If the exposure occurred via eye contact, irrigate exposed eyes with copious amounts of room temperature water for at least 15 minutes. Remove contaminated clothing and wash exposed area thoroughly with soap and water if the exposure occurred via dermal contact. (T36).\u000A",
+                          "Markup": [
+                            {
+                              "Start": 43,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 517,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/l-carnitine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10917"
+                            },
+                            {
+                              "Start": 590,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Carnitine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10917"
+                            },
+                            {
+                              "Start": 747,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/l-carnitine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10917"
+                            },
+                            {
+                              "Start": 832,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/A15080",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5827"
+                            },
+                            {
+                              "Start": 1030,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1137,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Springer Nature References",
+            "Description": "Literature references related to scientific contents from Springer Nature journals and books. These references have been ranked automatically by an algorithm which calculates the relevance for each substance in a Springer Nature document. It is based on: (1) the TF-IDF, adapted to chemical structures, (2) location information in the text (e.g. title, abstract, keywords), and (3) the document size.  Springer Nature aims to provide only highly qualitative and relevant content but references of lower relevance aren't withheld as they might contain also very useful information.",
+            "Information": [
+              {
+                "ReferenceNumber": 10,
+                "Value": {
+                  "ExternalTableName": "collection=springernature&query_type=sid&query=341826296"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Nature Journal References",
+            "Description": "Literature references provided by Nature journals including Nature Chemistry, Nature Synthesis, Nature Chemical Biology, Nature Communications, Nature Catalysis, etc.",
+            "Information": [
+              {
+                "ReferenceNumber": 8,
+                "URL": "http://dx.doi.org/10.1038/nchembio.147",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Yeh et al. Discovering chemical modifiers of oncogene-regulated hematopoietic differentiation Nature Chemical Biology, doi: 10.1038/nchembio.147, published online 26 January 2009 http://www.nature.com/naturechemicalbiology"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Literature",
+            "Description": "Chemical-organism co-occurrences in literature highlight chemical-organism pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalOrganismNeighbor"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "OrganismName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3549980/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "WIPO PATENTSCOPE",
+            "Description": "Use the provided link to show patents associated with this chemical structure in WIPO's PATENTSCOPE system.",
+            "URL": "https://www.wipo.int/patentscope/en/",
+            "Information": [
+              {
+                "ReferenceNumber": 25,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Patents are available for this chemical structure:"
+                    },
+                    {
+                      "String": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=NIJJYAXOARWZEE-UHFFFAOYSA-M",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 86,
+                          "URL": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=NIJJYAXOARWZEE-UHFFFAOYSA-M"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Patents",
+            "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalChemical"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+            "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalDisease"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalGene"
+                    },
+                    {
+                      "String": "Gene"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and organisms mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalOrganism"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Interactions and Pathways",
+        "Description": "This section provides information on the biomolecular interactions of this compound with drugs, genes, proteins, etc., as well as the pathways in which this compound is involved.",
+        "Section": [
+          {
+            "TOCHeading": "Chemical-Target Interactions",
+            "Description": "Interactions between targets and this compound",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "ExternalTableName": "consolidatedcompoundtarget"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Biological Test Results",
+        "Description": "A PubChem substance or compound summary page displays biological test results from the PubChem BioAssay database, if/as available, for the chemical structure currently displayed. You can embed biological test results displays within your own web pages, for a PubChem Compound or Substance of interest, by using the BioActivity Widget.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/widgets",
+        "Section": [
+          {
+            "TOCHeading": "BioAssay Results",
+            "Description": "Bioactivity data for this compound, reported in PubChem BioAssay records.",
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Value": {
+                  "ExternalTableName": "bioactivity"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "MeSH Tree",
+            "Description": "The Medical Subject Headings (MeSH) tree for this entity.  MeSH is a controlled and hierarchically-organized vocabulary produced by the National Library of Medicine.",
+            "URL": "https://www.nlm.nih.gov/mesh",
+            "Information": [
+              {
+                "ReferenceNumber": 16,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChEBI Ontology",
+            "Description": "ChEBI Ontology tree.  ChEBI is an acronym for Chemical Entities of Biological Interest, which is a freely available dictionary of molecular entities focused on 'small' chemical compounds. ChEBI incorporates an ontological classification, whereby the relationships between molecular entities or classes of entities and their parents and/or children are specified.",
+            "URL": "https://www.ebi.ac.uk/chebi/",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=2",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "MolGenie Organic Chemistry Ontology",
+            "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign compounds to structural classes, currently mapped to >1.7 million per- and polyfluoroalkyl substances (PFAS) extracted from the datasets explained in Barnabas et al (2022) DOI: 10.1039/D2DD00019A",
+            "URL": "https://github.com/MolGenie/ontology/",
+            "Information": [
+              {
+                "ReferenceNumber": 20,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=134",
+                "Value": {
+                  "Number": [
+                    134
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "California Office of Environmental Health Hazard Assessment (OEHHA)",
+        "SourceID": "25624:3549980",
+        "Name": "Valproate (Valproic acid)",
+        "Description": "The CA Office of Environmental Health Hazard Assessment (OEHHA) is the lead state agency for the assessment of health risks posed by environmental contaminants. OEHHA implements the Safe Drinking Water and Toxic Enforcement Act of 1986, commonly known as Proposition 65, and compiles the state's list of substances that cause cancer or reproductive harm.",
+        "URL": "https://oehha.ca.gov/proposition-65/chemicals/valproate-valproic-acid",
+        "ANID": 39339359
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "ChEBI",
+        "SourceID": "CHEBI:OBO:3549980",
+        "Name": "Valproate",
+        "Description": "Chemical Entities of Biological Interest (ChEBI) is a database and ontology of molecular entities focused on 'small' chemical compounds, that is part of the Open Biomedical Ontologies effort. The term \"molecular entity\" refers to any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer, etc., identifiable as a separately distinguishable entity.",
+        "URL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:60654",
+        "ANID": 2440642
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "LiverTox",
+        "SourceID": "Valproate",
+        "Name": "Valproate",
+        "Description": "LIVERTOX provides up-to-date, accurate, and easily accessed information on the diagnosis, cause, frequency, patterns, and management of liver injury attributable to prescription and nonprescription medications, herbals and dietary supplements.",
+        "URL": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Valproate/",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 2262511
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D2558",
+        "Name": "Valproic acid",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D2558",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "http://www.t3db.ca/downloads",
+        "ANID": 20442490
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "ClinicalTrials.gov",
+        "SourceID": "cid3549980",
+        "Description": "ClinicalTrials.gov is an NIH registry and results database of publicly and privately supported clinical studies of human participants conducted around the world.",
+        "URL": "https://clinicaltrials.gov/",
+        "LicenseNote": "The ClinicalTrials.gov data carry an international copyright outside the United States and its Territories or Possessions. Some ClinicalTrials.gov data may be subject to the copyright of third parties; you should consult these entities for any additional terms of use.",
+        "LicenseURL": "https://clinicaltrials.gov/ct2/about-site/terms-conditions#Use",
+        "ANID": 5189142
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "Crystallography Open Database (COD)",
+        "SourceID": "CID 3549980",
+        "Description": "The Crystallography Open Database is an open-access collection of crystal structures of organic, inorganic, metal-organic compounds, and minerals, excluding biopolymers.",
+        "LicenseNote": "All data in the COD and the database itself are dedicated to the public domain and licensed under the CC0 License. Users of the data should acknowledge the original authors of the structural data.",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 30818370
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "Drugs and Lactation Database (LactMed)",
+        "SourceID": "LM403",
+        "Name": "Valproic Acid",
+        "Description": "The LactMed(R) database contains information on drugs and other chemicals to which breastfeeding mothers may be exposed. https://www.ncbi.nlm.nih.gov/books/NBK501922/",
+        "URL": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM403/",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "ANID": 24796925
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "EU Clinical Trials Register",
+        "SourceID": "cid3549980",
+        "Description": "The EU Clinical Trials Register contains information on interventional clinical trials on medicines conducted in the European Union (EU), or the European Economic Area (EEA) which started after 1 May 2004.",
+        "URL": "https://www.clinicaltrialsregister.eu/",
+        "ANID": 6481410
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "Nature Chemical Biology",
+        "SourceID": "nchembio.147-comp3",
+        "Description": "Nature Chemical Biology is an international monthly journal that provides a high-visibility forum for the publication of top-tier original research and commentary for the chemical biology community. Chemical biology combines the scientific ideas and approaches of chemistry, biology and allied disciplines to understand and manipulate biological systems with molecular precision.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/56459047",
+        "ANID": 8534845
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "Springer Nature",
+        "SourceID": "341826296",
+        "Description": "Springer Nature is the world's largest academic book publisher, publisher of the world's most influential journals, and a pioneer in the field of open research. SpringerLink provides electronic access to its book and journal content.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/341826296",
+        "ANID": 47675260
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q27104876",
+        "Name": "valproate",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q27104876",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44219807
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "Wikipedia",
+        "SourceID": "c_91",
+        "Name": "Valproate",
+        "Description": "Link to the chemical information in Wikipedia.",
+        "URL": "https://en.wikipedia.org/wiki/Valproate",
+        "ANID": 24321627
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0022502",
+        "Name": "Valproate",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0022502.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "DescTree",
+        "Name": "MeSH Tree",
+        "Description": "MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "ChEBI",
+        "SourceID": "OBO",
+        "Name": "ChEBI Ontology",
+        "Description": "The ChEBI Ontology is a structured classification of the entities contained within ChEBI.",
+        "URL": "http://www.ebi.ac.uk/chebi/userManualForward.do#ChEBI%20Ontology"
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "MolGenie",
+        "SourceID": "mol_classes",
+        "Name": "MolGenie Organic Chemistry Ontology",
+        "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign chemical entities to structural classes, split into three main subsections: calculated properties, compounds and substructural concepts. The ontology contains chemistry structural classes with a focus on elements and small organic compounds, but not inorganic, polymer, biopolymer, metal complexes, metal organic frameworks (MOFs) and other chemistry entities. The ontology has been mapped to several collections of chemicals, including (a) Chemicals of Biological Interest (ChEBI), (b) the ChEMBL database of bioactive molecules, (c) the LOTUS natural product collection, (d) per- and polyfluoroalkyl substances (PFAS) extracted from Barnabas et al (2022) DOI: 10.1039/D2DD00019A (e) PubChemLite and (f) the ZeroPM Global Chemical Inventory.",
+        "URL": "https://github.com/MolGenie/ontology/",
+        "LicenseNote": "CC-BY 4.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0001382",
+        "Name": "Anticonvulsants",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0001382.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0007520",
+        "Name": "Enzyme Inhibitors",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0007520.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0027993",
+        "Name": "GABA Agents",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0027993.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0028007",
+        "Name": "Antimanic Agents",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0028007.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "PATENTSCOPE (WIPO)",
+        "Name": "SID 389399253",
+        "Description": "The PATENTSCOPE database from WIPO includes patent and chemical structure search (with a free account) that gives access to millions of patent documents. The World Intellectual Property Organisation (WIPO) is a specialized United Nations (UN) agency headquartered in Geneva (Switzerland). Our mission is to lead the development of a balanced and effective international Intellectual Property (IP) system that enables innovation and creativity for the benefit of all. We help governments, businesses and society realize the benefits of Intellectual Property and are notably a world reference source for IP information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/389399253"
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "NCBI",
+        "SourceID": "LinkOut",
+        "Description": "LinkOut is a service that allows one to link directly from NCBI databases to a wide range of information and services beyond NCBI systems.",
+        "URL": "https://www.ncbi.nlm.nih.gov/projects/linkout"
+      }
+    ]
+  }
+}

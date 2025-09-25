@@ -1,0 +1,3508 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 27880,
+    "RecordTitle": "Ferric nitrilotriacetate",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Name": "3D Conformer of Parent",
+                "Description": "Nitrilotriacetic Acid",
+                "Value": {
+                  "Number": [
+                    8758
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 10,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "induces diabetes in animals (iron loading)"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-[bis(carboxylatomethyl)amino]acetate;iron(3+)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C6H9NO6.Fe/c8-4(9)1-7(2-5(10)11)3-6(12)13;/h1-3H2,(H,8,9)(H,10,11)(H,12,13);/q;+3/p-3"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "FXDLIMJMHVKXAR-UHFFFAOYSA-K"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C(C(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Fe+3]"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C6H6FeNO6"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "URL": "https://commonchemistry.cas.org/detail?cas_rn=16448-54-7",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "16448-54-7"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "16448-54-7"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "16448-54-7"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "16448-54-7"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "16448-54-7"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/Z3U5ED15B9",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Z3U5ED15B9"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID60167764",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID60167764"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Nikkaji Number",
+                "Description": "Substance identifier used in the Japan Chemical Substance Dictionary (Nikkaji).",
+                "URL": "https://jglobal.jst.go.jp/en/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J448.355C",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "J448.355C"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "URL": "https://www.wikidata.org/wiki/Q27225484",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q27225484"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Entry Terms",
+                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ferric nitrilotriacetate"
+                        },
+                        {
+                          "String": "FE(III)-NTA"
+                        },
+                        {
+                          "String": "Fe-NTA"
+                        },
+                        {
+                          "String": "FeNAc3"
+                        },
+                        {
+                          "String": "iron nitrilotriacetate"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Ferric nitrilotriacetate"
+                        },
+                        {
+                          "String": "Iron nitrilotriacetate"
+                        },
+                        {
+                          "String": "Iron(3+) NTA"
+                        },
+                        {
+                          "String": "16448-54-7"
+                        },
+                        {
+                          "String": "Iron, (nitrilotriacetato)-"
+                        },
+                        {
+                          "String": "Fe-NTA"
+                        },
+                        {
+                          "String": "Iron-nitrilotriacetate chelate"
+                        },
+                        {
+                          "String": "Iron-nitrilotriacetic acid chelate"
+                        },
+                        {
+                          "String": "Z3U5ED15B9"
+                        },
+                        {
+                          "String": "iron(iii) nitrilotriacetate"
+                        },
+                        {
+                          "String": "(N,N-Bis(carboxymethyl)glycinato(3-)-N,O,O',O'')iron"
+                        },
+                        {
+                          "String": "Iron, (N,N-bis(carboxymethyl)glycinato(3-)-N,O,O',O'')-"
+                        },
+                        {
+                          "String": "DTXSID60167764"
+                        },
+                        {
+                          "String": "Iron, (N,N-bis((carboxy-kappaO)methyl)glycinato(3-)-kappaN,kappaO)-, (T-4)-"
+                        },
+                        {
+                          "String": "CHEBI:132238"
+                        },
+                        {
+                          "String": "FeNAc3"
+                        },
+                        {
+                          "String": "FE(III)-NTA"
+                        },
+                        {
+                          "String": "RefChem:140270"
+                        },
+                        {
+                          "String": "DTXCID0090255"
+                        },
+                        {
+                          "String": "2-[bis(carboxylatomethyl)amino]acetate;iron(3+)"
+                        },
+                        {
+                          "String": "CCRIS 3419"
+                        },
+                        {
+                          "String": "HSDB 1306"
+                        },
+                        {
+                          "String": "Iron, (nitrilotriacetato(3-))-"
+                        },
+                        {
+                          "String": "UNII-Z3U5ED15B9"
+                        },
+                        {
+                          "String": "Acetic acid, nitrilotri-, iron(III) chelate"
+                        },
+                        {
+                          "String": "Iron, (N,N-bis(carboxymethyl)glycinato(3-)-N,O,O',O'')-, (T-4)-"
+                        },
+                        {
+                          "String": "SCHEMBL244500"
+                        },
+                        {
+                          "String": "FXDLIMJMHVKXAR-UHFFFAOYSA-K"
+                        },
+                        {
+                          "String": "FERRIC NITRILOTRIACETATE [HSDB]"
+                        },
+                        {
+                          "String": "Q27225484"
+                        },
+                        {
+                          "String": "IRON, (N,N-BIS((CARBOXY-.KAPPA.O)METHYL)GLYCINATO(3-)-.KAPPA.N,.KAPPA.O)-, (T-4)-"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Iron(III) NTA"
+                        },
+                        {
+                          "String": "C6H6FeNO6"
+                        },
+                        {
+                          "String": "iron nitrilotriacetic acid"
+                        },
+                        {
+                          "String": "AC1L1E5S"
+                        },
+                        {
+                          "String": "C6-H6-Fe-N-O6"
+                        },
+                        {
+                          "String": "CID27880"
+                        },
+                        {
+                          "String": "CID:27880"
+                        },
+                        {
+                          "String": "FE(III)-NTA COMPLEX (1:1"
+                        },
+                        {
+                          "String": "Nitrilotriacetic acid iron(III) salt"
+                        },
+                        {
+                          "String": "LS-84263"
+                        },
+                        {
+                          "String": "SID:53789493"
+                        },
+                        {
+                          "String": "2-[bis(2-oxido-2-oxoethyl)amino]acetate; iron(3+)"
+                        },
+                        {
+                          "String": "2-[bis(carboxylatomethyl)amino]acetate,iron(3+)"
+                        },
+                        {
+                          "String": "C020326"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "DateISO8601": [
+                    "2005-08-08"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-08-30"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "243.96"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        7
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        3
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "243.954447"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "243.954447"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        124
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        14
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        171
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Experimental Properties",
+            "Description": "Various experimentally determined properties for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+            "Section": [
+              {
+                "TOCHeading": "Decomposition",
+                "Description": "Information on the decomposition of this compound, including the decomposition conditions and products.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 1945"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 1945",
+                        "Matched": {
+                          "PCLID": 900054608,
+                          "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 1945"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "When heated to decomposition it emits toxic fumes of /nitrogen oxides/."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID27880%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID27880%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Parent Compound",
+            "Description": "A parent compound is conceptually the \"important\" part of the molecule when the molecule has more than one covalent component. Specifically, a parent component must have at least one carbon and contain at least 70% of the heavy (non-hydrogen) atoms of all the unique covalent units (ignoring stoichiometry). Note that this is a very empirical definition and is subject to change.",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 8758 (Nitrilotriacetic Acid)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 32,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=8758",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 32,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8758"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Component Compounds",
+            "Description": "Component parts of the compound when it consists of multiple covalently-bonded units.  In PubChem, a covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or single atom without covalent bonds).",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 8758 (Nitrilotriacetic Acid)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 32,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=8758",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 32,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8758"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "CID 23925 (Iron)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 16,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=23925",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 16,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23925"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Name": "Same Parent, Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/27880/cids/JSON?cids_type=same_parent_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    422
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Same Parent, Exact Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/27880/cids/JSON?cids_type=same_parent&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    417
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/27880/cids/JSON?cids_type=component&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID27880%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID27880%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/500783688",
+                    "Value": {
+                      "Number": [
+                        500783688
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/27880/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        27
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Journal Publishers"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Entrez Crosslinks",
+            "Description": "Cross-references to associated records in other Entrez databases such as PubMed, Gene, Protein, etc.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Name": "PubMed Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed&db=pccompound&cmd=Link&from_uid=27880",
+                "Value": {
+                  "Number": [
+                    42
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Taxonomy Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_taxonomy&db=pccompound&cmd=Link&from_uid=27880",
+                "Value": {
+                  "Number": [
+                    4
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "OMIM Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_omim&db=pccompound&cmd=Link&from_uid=27880",
+                "Value": {
+                  "Number": [
+                    3
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Gene Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_gene&db=pccompound&cmd=Link&from_uid=27880",
+                "Value": {
+                  "Number": [
+                    84
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NCBI LinkOut",
+            "Description": "NCBI LinkOut is a service that allows one to link directly from NCBI databases to a wide range of information and services beyond NCBI systems.",
+            "URL": "https://www.ncbi.nlm.nih.gov/projects/linkout/",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 11,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Drug and Medication Information",
+        "Description": "This section provides drug and medication information for this compound, including drug indications, labeling, clinical trials, idiosyncrasies, tolerance, reported fatal doses, etc.",
+        "Section": [
+          {
+            "TOCHeading": "Therapeutic Uses",
+            "Description": "Therapeutic uses information for this compound, provided by the Hazardous Substances Data Bank (HSDB).",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:605293",
+                  "Smith et al; Res Vet Sci 23 (3): 263-8 (1977)"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:605293",
+                    "Matched": {
+                      "PCLID": 15672245,
+                      "Citation": "Smith IM, Hill R, Licence ST. Increased survival from acute Salmonella gallinarum infection in chicks given diets with high levels of some forms of iron. Research in Veterinary Science. 1977 Nov;23(3):263–8. doi: 10.1016/s0034-5288(18)33115-1.",
+                      "PMID": 605293,
+                      "DOI": "10.1016/s0034-5288(18)33115-1"
+                    }
+                  },
+                  {
+                    "Citation": "Smith et al; Res Vet Sci 23 (3): 263-8 (1977)",
+                    "Matched": {
+                      "PCLID": 15672245,
+                      "Citation": "Smith IM, Hill R, Licence ST. Increased survival from acute Salmonella gallinarum infection in chicks given diets with high levels of some forms of iron. Research in Veterinary Science. 1977 Nov;23(3):263–8. doi: 10.1016/s0034-5288(18)33115-1.",
+                      "PMID": 605293,
+                      "DOI": "10.1016/s0034-5288(18)33115-1"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "EXPTL USE: Amount exceeding 100 ppm extra dietary iron as ferric nitrilotriacetate produced highly significant increase in survival among chicks infected with Salmonella gallinarum strain 9.",
+                      "Markup": [
+                        {
+                          "Start": 50,
+                          "Length": 4,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Iron"
+                        },
+                        {
+                          "Start": 58,
+                          "Length": 24,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferric%20nitrilotriacetate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-27880"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "SALTMAN ET AL; ANN CLIN LAB SCI 6(2) 167-76 (1976)"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "SALTMAN ET AL; ANN CLIN LAB SCI 6(2) 167-76 (1976)",
+                    "Matched": {
+                      "PCLID": 906284829,
+                      "Citation": "SALTMAN ET AL; ANN CLIN LAB SCI 6(2) 167-76 (1976)"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "EXPTL USE: Suitable application of iron complexes with nitrilotriacetate should be efficacious in treatment of iron deficiency anemia.",
+                      "Markup": [
+                        {
+                          "Start": 35,
+                          "Length": 4,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Iron"
+                        },
+                        {
+                          "Start": 55,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nitrilotriacetate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3081459"
+                        },
+                        {
+                          "Start": 111,
+                          "Length": 4,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Iron"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Pharmacology and Biochemistry",
+        "Description": "Pharmacology and biochemistry information related to this compound, including the pharmacodynamics, pharmacokinetics, metabolism, mechanism of action, biological half-life, biochemical reactions, and many others.",
+        "Section": [
+          {
+            "TOCHeading": "MeSH Pharmacological Classification",
+            "Description": "Pharmacological action classes from the Medical Subject Headings (MeSH) thesaurus.",
+            "URL": "https://meshb.nlm.nih.gov/record/ui?ui=D020228",
+            "Information": [
+              {
+                "ReferenceNumber": 19,
+                "Name": "Carcinogens",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Substances that increase the risk of NEOPLASMS in humans or animals. Both genotoxic chemicals, which affect DNA directly, and nongenotoxic chemicals, which induce neoplasms by other mechanism, are included."
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 20,
+                "Name": "Mutagens",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Chemical agents that increase the rate of genetic mutation by interfering with the function of nucleic acids. A clastogen is a specific mutagen that causes breaks in chromosomes."
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Absorption, Distribution and Excretion",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 279"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 279",
+                    "Matched": {
+                      "PCLID": 900042129,
+                      "Citation": "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 279"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Although concentration /NTA/ decrease rapidly with cessation of intake, a small amount was retained in bone after each dose... /Nitrilotriacetic acid/",
+                      "Markup": [
+                        {
+                          "Start": 128,
+                          "Length": 21,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Nitrilotriacetic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-8758"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 279"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 279",
+                    "Matched": {
+                      "PCLID": 900042129,
+                      "Citation": "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 279"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "NTA-(14)C administered orally to rats. 95% was excreted in urine. Less than 1%...as CO2. Absorption of NTA from GI tract varied: dog greater than rat greater than rabbit and monkey. ... Deposited in skeleton. Concentration ... increases with number of doses administered. Most active areas for accumulation are at sites of very active bone formation. /NTA/"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "AWAI M; NIPPON KETSUEKI GAKKAI ZASSHI 41(6) 1293-1300 (1978)"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "AWAI M; NIPPON KETSUEKI GAKKAI ZASSHI 41(6) 1293-1300 (1978)",
+                    "Matched": {
+                      "PCLID": 900049846,
+                      "Citation": "AWAI M; NIPPON KETSUEKI GAKKAI ZASSHI 41(6) 1293-1300 (1978)"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "After injecting large amount of ferric nitrilotriacetate, complete saturation of transferrins followed. Most excess serum Fe3+-nta existed in association with serum protein rather than as free Fe3+-nta.",
+                      "Markup": [
+                        {
+                          "Start": 32,
+                          "Length": 24,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferric%20nitrilotriacetate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-27880"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 910"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 910",
+                    "Matched": {
+                      "PCLID": 900121800,
+                      "Citation": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 910"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "In cell, Fe2+ is converted to Fe3+ in ferritin, the latter not being absorbed until cell is physiologically \"depleted.\" In the blood strain, iron could be quickly oxidized by dissolved oxygen to Fe3+, which complexes with specific Fe-transport beta1-globulin.",
+                      "Markup": [
+                        {
+                          "Start": 141,
+                          "Length": 4,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Iron"
+                        },
+                        {
+                          "Start": 185,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Oxygen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Mechanism of Action",
+            "Description": "In medicine, the term \"mechanism of action\" (also called MOA) is used to describe how a drug or other substance produces an effect in the body. For example, a drug's mechanism of action could be how it affects a specific target in a cell, such as an enzyme, or a cell function, such as cell growth. Knowing the mechanism of action of a drug may help provide information about the safety of the drug and how it affects the body. It may also help identify the right dose of a drug and which patients are most likely to respond to treatment.",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:7528688",
+                  "Uchida K et al; FEBS Lett 357 (2): 165-7 (1995)"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:7528688",
+                    "Matched": {
+                      "PCLID": 9729417,
+                      "Citation": "Uchida K, Fukuda A, Kawakishi S, Toyokuni S, Hiai H, Ikeda S, Horio F. Acute nephrotoxicity of a carcinogenic iron chelate Selective inhibition of a proteolytic conversion of <i>α</i><sub>2U</sub>‐globulin to the kidney fatty acid‐binding protein. FEBS Letters. 1995 Jan 03;357(2):165–7. doi: 10.1016/0014-5793(94)01330-4.",
+                      "PMID": 7528688,
+                      "DOI": "10.1016/0014-5793(94)01330-4"
+                    }
+                  },
+                  {
+                    "Citation": "Uchida K et al; FEBS Lett 357 (2): 165-7 (1995)",
+                    "Matched": {
+                      "PCLID": 900108797,
+                      "Citation": "Uchida K et al; FEBS Lett 357 (2): 165-7 (1995)"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "The mechanism of acute nephrotoxicity of an iron chelate in vivo has been investigated. Administration of a renal carcinogen ferric nitrilotriacetate (Fe-NTA) (15 mg Fe/kg bw, ip) led to selective loss of a renal protein with an apparent molecular mass of 17 kDa. Analysis of the 17 kDa protein by NH2-terminal sequence demonstrated its identity over 16 NH2-terminal residues as a kidney fatty acid-binding protein (k-FABP) that is a proteolytically modified form of alpha 2U-globulin, a major urinary protein of adult male rats. An immunochemical study using anti-alpha 2U-globulin polyclonal antibodies confirmed that a single injection of Fe-NTA led to a decrease in k-FABP levels. However, a 19-kDa protein identical to the alpha 2U-globulin progressively appeared in the kidney, suggesting that the proteolytic processing of alpha 2U-globulin in the renal proximal tubules was suppressed by the treatment with Fe-NTA. By monitoring k-FABP and its precursor alpha 2U-globulin, it was determined that repeated exposure to Fe-NTA caused suppression of both proteolytic and endocytotic activity of the kidney.",
+                      "Markup": [
+                        {
+                          "Start": 125,
+                          "Length": 24,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferric%20nitrilotriacetate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-27880"
+                        },
+                        {
+                          "Start": 151,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fe-NTA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-27880"
+                        },
+                        {
+                          "Start": 642,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fe-NTA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-27880"
+                        },
+                        {
+                          "Start": 915,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fe-NTA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-27880"
+                        },
+                        {
+                          "Start": 1025,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fe-NTA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-27880"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+        "Section": [
+          {
+            "TOCHeading": "Uses",
+            "Description": "Major uses of this chemical, including both consumer uses and industrial uses.",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "MEDICATION"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Safety and Hazards",
+        "Description": "Information on safety and hazards for this compound, including safety/hazards properties, reactivity, incompatibilities, management techniques, first aid treatments, and more.  For toxicity and related information, please see the Toxicity section.",
+        "Section": [
+          {
+            "TOCHeading": "Hazards Identification",
+            "Description": "This section identifies the hazards of the chemical presented on the safety data sheet (SDS) and the appropriate warning information associated with those hazards.  The information in this section includes, but are not limited to, the hazard classification of the chemical, signal word, pictograms, hazard statements and precautionary statements.",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "Skin, Eye, and Respiratory Irritations",
+                "Description": "Skin, eye and respiratory irritations caused by exposure to this chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+                        "Matched": {
+                          "PCLID": 906280942,
+                          "Citation": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Inhalation of ferric salts as dusts and mists is irritating to the respiratory tract. Ferric salts are regarded as skin irritants. /Iron salts/",
+                          "Markup": [
+                            {
+                              "Start": 14,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferric",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16048613"
+                            },
+                            {
+                              "Start": 86,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferric",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16048613"
+                            },
+                            {
+                              "Start": 132,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "International Labour Office. Encyclopaedia of Occupational Health and Safety. 4th edition, Volumes 1-4 1998. Geneva, Switzerland: International Labour Office, 1998., p. 63.15"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "International Labour Office. Encyclopaedia of Occupational Health and Safety. 4th edition, Volumes 1-4 1998. Geneva, Switzerland: International Labour Office, 1998., p. 63.15",
+                        "Matched": {
+                          "PCLID": 900070021,
+                          "Citation": "International Labour Office. Encyclopaedia of Occupational Health and Safety. 4th edition, Volumes 1-4 1998. Geneva, Switzerland: International Labour Office, 1998., p. 63.15"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "If inhaled, iron is a local irritant to the lung and gastrointestinal tract. /Iron compounds/",
+                          "Markup": [
+                            {
+                              "Start": 12,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 78,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Accidental Release Measures",
+            "Description": "This section provides recommendations on the appropriate response to spills, leaks, or releases, including containment and cleanup practices to prevent or minimize exposure to people, properties, or the environment. It may also include recommendations distinguishing between responses for large and small spills where the spill volume has a significant impact on the hazard.",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "Disposal Methods",
+                "Description": "Disposal methods or procedures for this chemical or hazardous waste containing it.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SRP: The most favorable course of action is to use an alternative chemical product with less inherent propensity for occupational exposure or environmental contamination. Recycle any unused portion of the material for its approved use or return it to the manufacturer or supplier. Ultimate disposal of the chemical must consider: the material's impact on air quality; potential migration in soil or water; effects on animal, aquatic, and plant life; and conformance with environmental and public health regulations.",
+                          "Markup": [
+                            {
+                              "Start": 399,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Management of Hazardous Waste Leachate, EPA Contract No.68-03-2766 p.E-52 (1982)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Management of Hazardous Waste Leachate, EPA Contract No.68-03-2766 p.E-52 (1982)",
+                        "Matched": {
+                          "PCLID": 900115183,
+                          "Citation": "USEPA; Management of Hazardous Waste Leachate, EPA Contract No.68-03-2766 p.E-52 (1982)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The following wastewater treatment technologies have been investigated for iron (Fe+2): Concentration process: Biological treatment. /Iron (Fe+2)/",
+                          "Markup": [
+                            {
+                              "Start": 75,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 81,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fe%2B2",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27284"
+                            },
+                            {
+                              "Start": 134,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 140,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fe%2B2",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27284"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Preventive Measures",
+                "Description": "Preventive measures to take to avoid suffering negative health effects from this chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SRP: The scientific literature for the use of contact lenses in industry is conflicting. The benefit or detrimental effects of wearing contact lenses depend not only upon the substance, but also on factors including the form of the substance, characteristics and duration of the exposure, the uses of other eye protection equipment, and the hygiene of the lenses. However, there may be individual substances whose irritating or corrosive properties are such that the wearing of contact lenses would be harmful to the eye. In those specific cases, contact lenses should not be worn. In any event, the usual eye protection equipment should be worn even when contact lenses are in place."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1501"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1501",
+                        "Matched": {
+                          "PCLID": 900011406,
+                          "Citation": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1501"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "All ... /iron/ preparations should be kept in child-proof bottles. /Iron preparations/",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 68,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Regulatory Information",
+            "Description": "This section lists the regulations related to the safety, health, and environment of the chemical and its associated products. The regulatory information, which may encompass national and/or regional regulations pertaining to the chemical or mixtures, is presented solely for informational purposes. For additional details, please consult the links to the information sources provided under each data entry.",
+            "Section": [
+              {
+                "TOCHeading": "Federal Drinking Water Guidelines",
+                "Description": "Federal drinking water guidelines (e.g. maximum containment level (MCL)) for this chemical.  In general, these guidelines are recommendations and not legally enforceable.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present",
+                        "Matched": {
+                          "PCLID": 906275520,
+                          "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EPA 300 ug/L /Iron/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. 48 204 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. 48 204 (1990)",
+                        "Matched": {
+                          "PCLID": 900074406,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. 48 204 (1990)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Evaluation: There is sufficient evidence for the carcinogenicity of nitrilotriacetic acid and its sodium salts in experimental animals. No data were available from studies in humans on the carcinogenicity of nitrilotriacetic acid and its salts. In formulating the overall evaluation, the Woring Group took note of the fact that nitrilotriacetic acid is liberated to some extent from nitrilotriacetate salts in solution. Overall evaluation: Nitrilotriacetic acid and its salts are possibly carcinogenic in humans (Group 2B)>",
+                          "Markup": [
+                            {
+                              "Start": 68,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nitrilotriacetic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8758"
+                            },
+                            {
+                              "Start": 208,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nitrilotriacetic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8758"
+                            },
+                            {
+                              "Start": 328,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nitrilotriacetic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8758"
+                            },
+                            {
+                              "Start": 383,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nitrilotriacetate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3081459"
+                            },
+                            {
+                              "Start": 440,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Nitrilotriacetic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8758"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134992728"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 353-4"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 353-4",
+                        "Matched": {
+                          "PCLID": 900094415,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 353-4"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Basic treatment: Establish a patent airway. Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if necessary. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for shock and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with normal saline during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 ml/kg up to 200 ml of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool. /Iron and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 160,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 306,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 349,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/normal%20saline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5234"
+                            },
+                            {
+                              "Start": 472,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 565,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 354"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 354",
+                        "Matched": {
+                          "PCLID": 900141442,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 354"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious. Monitor cardiac rhythm and treat arrhythmias if necessary ... . Start an IV with lactated Ringer's /SRP: \"To keep open\", minimal flow rate/. Watch for signs of fluid overload. For hypotension with signs of hypovolemia, administer fluid cautiously. Watch for signs of fluid overload ... . Use proparacaine hydrochloride to assist eye irrigation ... . /Iron and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 414,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            },
+                            {
+                              "Start": 473,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Olson, K.R. (Ed.); Poisoning & Drug Overdose. 4th ed. Lange    Medical Books/McGraw-Hill. New York, N.Y. 2004., p. 231"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Olson, K.R. (Ed.); Poisoning & Drug Overdose. 4th ed. Lange    Medical Books/McGraw-Hill. New York, N.Y. 2004., p. 231",
+                        "Matched": {
+                          "PCLID": 900077146,
+                          "Citation": "Olson, K.R. (Ed.); Poisoning & Drug Overdose. 4th ed. Lange    Medical Books/McGraw-Hill. New York, N.Y. 2004., p. 231"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Maintain an open airway and assist ventilation if necessary. Treat shock caused by hemorrhagic gastrointestinitis aggressively with intravenous crystalloid fluids, and replace blood if needed. Patients are often markedly hypovolemic owing to gastrointestinal losses and third spacing of fluids into the intestinal wall and interstitial space. Treat coma, seizures, and metabolic acidosis if they occur. For seriously intoxicated victims (eg, shock, severe acidosis, and/or serum iron > 500-600 mcg/dL) administer deferoxamine. Monitor the urine for the urine for the characteristic orange or pink deferoxamine-iron complex. Therapy may be stopped when the urine returns to normal or when the serum iron level decreases to the normal range. Prolonged deferoxamine has been associated with adult respiratory distress syndrome and Yersinia sepsis.",
+                          "Markup": [
+                            {
+                              "Start": 479,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 513,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/deferoxamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2973"
+                            },
+                            {
+                              "Start": 597,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/deferoxamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2973"
+                            },
+                            {
+                              "Start": 610,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 698,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 750,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/deferoxamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2973"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Olson, K.R. (Ed.); Poisoning & Drug Overdose. 4th ed. Lange    Medical Books/McGraw-Hill. New York, N.Y. 2004., p. 231"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Olson, K.R. (Ed.); Poisoning & Drug Overdose. 4th ed. Lange    Medical Books/McGraw-Hill. New York, N.Y. 2004., p. 231",
+                        "Matched": {
+                          "PCLID": 900077146,
+                          "Citation": "Olson, K.R. (Ed.); Poisoning & Drug Overdose. 4th ed. Lange    Medical Books/McGraw-Hill. New York, N.Y. 2004., p. 231"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Activated charcoal is not effective. Ipecac is not recommended, because it can aggravate iron-induced gastrointestinal irritation and interfere with whole bowel irrigation. Consider gastric lavage if product was a liquid formulation or tablets were chewed. Do-not use phosphate-containing solutions for lavage; these may result in life-threatening hypernatremia, hyperphosphatemia, and hypocalcemia. Bicarbonate and deferoxamine lavage are of doubtful efficacy. Deferoxamine lavage is not effective and may enhance iron absorption. Whole-bowel irrigation is very effective for ingested tablets and may be considered first-line treatment, especially if large numbers of tablets are visible on plain abdominal x-ray. Massive ingestions may lead to concretions or bezoars. Repeated or prolonged whole-bowel irrigation may remove tablets. Endoscopy or surgical gastrotomy is rarely required.",
+                          "Markup": [
+                            {
+                              "Start": 10,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 89,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 268,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phosphate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1061"
+                            },
+                            {
+                              "Start": 400,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Bicarbonate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-769"
+                            },
+                            {
+                              "Start": 416,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/deferoxamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2973"
+                            },
+                            {
+                              "Start": 462,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Deferoxamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2973"
+                            },
+                            {
+                              "Start": 515,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Olson, K.R. (Ed.); Poisoning & Drug Overdose. 4th ed. Lange    Medical Books/McGraw-Hill. New York, N.Y. 2004., p. 231"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Olson, K.R. (Ed.); Poisoning & Drug Overdose. 4th ed. Lange    Medical Books/McGraw-Hill. New York, N.Y. 2004., p. 231",
+                        "Matched": {
+                          "PCLID": 900077146,
+                          "Citation": "Olson, K.R. (Ed.); Poisoning & Drug Overdose. 4th ed. Lange    Medical Books/McGraw-Hill. New York, N.Y. 2004., p. 231"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Hemodialysis and hemoperfusion are not effective for removing iron but may be necessary to remove iron-deferoxamine complex in patients with renal failure. Exchange transfusion is occasionally used for massive pediatric ingestions but is of questionable efficacy.",
+                          "Markup": [
+                            {
+                              "Start": 62,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 98,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 103,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/deferoxamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2973"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Uchida K et al; Arch Bioch Biophys 317 (2): 405-11 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Uchida K et al; Arch Bioch Biophys 317 (2): 405-11 (1995)",
+                        "Matched": {
+                          "PCLID": 20537226,
+                          "Citation": "Uchida K, Fukuda A, Kawakishi S, Hiai H, Toyokuni S. A Renal Carcinogen Ferric Nitrilotriacetate Mediates a Temporary Accumulation of Aldehyde-Modified Proteins Within Cytosolic Compartment of Rat-Kidney. Archives of Biochemistry and Biophysics. 1995 Mar;317(2):405–11. doi: 10.1006/abbi.1995.1181.",
+                          "PMID": 7893156,
+                          "DOI": "10.1006/abbi.1995.1181"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ ...A single intraperitoneal Fe-NTA treatment (15 or 30 mg Fe/kg bw) induced a rapid accumulation of thiobarbituric acid-reactive substances, a direct consequence of membrane lipid peroxidation, mostly within the cytosolic compartment of rat kidney. The accumulation of lipid peroxidation-derived aldehydes was associated with an apparent accumulation (from 67.9 nmol in untreated controls to 83.3 nmol/mg protein in Fe-NTA-treated rats at 3 hr after treatment) and subsequent elimination of aberrant proteins as assessed by a 2,4-dinitrophenylhydrazine postlabeling assay. Immunoblot analysis with two different polyclonal antibodies against 4-hydroxy-2-nonenal-modified and malondialdehyde-modified proteins detected a temporary accumulation of aldehyde-modified proteins in the cytosol. An immunohistochemical technique with serial sectioning revealed that immunoreactivities of these antibodies were observed in the identical portion of the renal proximal tubules.",
+                          "Markup": [
+                            {
+                              "Start": 65,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fe-NTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27880"
+                            },
+                            {
+                              "Start": 137,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/thiobarbituric%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2723628"
+                            },
+                            {
+                              "Start": 453,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fe-NTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27880"
+                            },
+                            {
+                              "Start": 563,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2%2C4-dinitrophenylhydrazine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3772977"
+                            },
+                            {
+                              "Start": 679,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxy-2-nonenal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10997283"
+                            },
+                            {
+                              "Start": 712,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/malondialdehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10964"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:8150530",
+                      "Toyokuni S et al; Int J Cancer 57 (1): 123-8 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:8150530",
+                        "Matched": {
+                          "PCLID": 2192578,
+                          "Citation": "Toyokuni S, Mori T, Dizdaroglu M. DNA base modifications in renal chromatin of Wistar rats treated with a renal carcinogen, ferric nitrilotriacetate. Int J Cancer. 1994 Apr 01;57(1):123–8. doi: 10.1002/ijc.2910570122. PMID: 8150530.",
+                          "PMID": 8150530,
+                          "DOI": "10.1002/ijc.2910570122"
+                        }
+                      },
+                      {
+                        "Citation": "Toyokuni S et al; Int J Cancer 57 (1): 123-8 (1994)",
+                        "Matched": {
+                          "PCLID": 2192578,
+                          "Citation": "Toyokuni S, Mori T, Dizdaroglu M. DNA base modifications in renal chromatin of Wistar rats treated with a renal carcinogen, ferric nitrilotriacetate. Int J Cancer. 1994 Apr 01;57(1):123–8. doi: 10.1002/ijc.2910570122. PMID: 8150530.",
+                          "PMID": 8150530,
+                          "DOI": "10.1002/ijc.2910570122"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ ...The levels of typical hydroxyl radical-induced DNA base modifications in renal chromatin of male Wistar rats treated with a single or repeated administrations of Fe-NTA /were investigated/. Five pyrimidine-derived and 5 purine-derived modified DNA bases were identified and quantified by gas chromatography/mass spectrometry with selected-ion monitoring. The modified bases were 5-hydroxy-5-methylhydantoin, 5-(hydroxymethyl)uracil, 5-hydroxycytosine, thymine glycol, 5,6-dihydroxyuracil, 4,6-diamino-5-formamidopyrimidine, 8-hydroxyadenine, xanthine, 2-hydroxyadenine and 8-hydroxyguanine. The amounts of most of these compounds were significantly increased over control levels in renal chromatin of Fe-NTA-treated rats as measured 3 and 24 hr after treatment. Elevated levels of modified bases were accompanied by proximal tubular necrosis. On the 19th day, however, accumulation of modified DNA bases was not observed. Morphologically, scattered karyomegalic cells were seen in the proximal tubules, but necrosis was rarely found. Some of the identified DNA base lesions are known to be promutagenic, although others have not been investigated. Presence of modified DNA bases concomitant with necrosis and regeneration of the renal proximal tubules may be a critical step in Fe-NTA-induced carcinogenesis.",
+                          "Markup": [
+                            {
+                              "Start": 62,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 202,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fe-NTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27880"
+                            },
+                            {
+                              "Start": 235,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pyrimidine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9260"
+                            },
+                            {
+                              "Start": 260,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/purine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1044"
+                            },
+                            {
+                              "Start": 419,
+                              "Length": 27,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5-hydroxy-5-methylhydantoin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3014609"
+                            },
+                            {
+                              "Start": 448,
+                              "Length": 23,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5-%28hydroxymethyl%29uracil",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-78168"
+                            },
+                            {
+                              "Start": 473,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5-hydroxycytosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3014752"
+                            },
+                            {
+                              "Start": 492,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/thymine%20glycol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-18058"
+                            },
+                            {
+                              "Start": 508,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5%2C6-dihydroxyuracil",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-67956"
+                            },
+                            {
+                              "Start": 529,
+                              "Length": 33,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4%2C6-diamino-5-formamidopyrimidine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-114926"
+                            },
+                            {
+                              "Start": 564,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyadenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5355054"
+                            },
+                            {
+                              "Start": 582,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/xanthine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1188"
+                            },
+                            {
+                              "Start": 592,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxyadenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-76900"
+                            },
+                            {
+                              "Start": 613,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyguanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135420630"
+                            },
+                            {
+                              "Start": 741,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fe-NTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27880"
+                            },
+                            {
+                              "Start": 1318,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fe-NTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27880"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:3975899",
+                      "Hamazaki S et al; Toxicol Appl Pharmacol 77 (2): 267-74 (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:3975899",
+                        "Matched": {
+                          "PCLID": 17773366,
+                          "Citation": "Hamazaki S, Okada S, Ebina Y, Midorikawa O. Acute renal failure and glucosuria induced by ferric nitrilotriacetate in rats. Toxicol Appl Pharmacol. 1985 Feb;77(2):267–74. doi: 10.1016/0041-008x(85)90326-6. PMID: 3975899.",
+                          "PMID": 3975899,
+                          "DOI": "10.1016/0041-008x(85)90326-6"
+                        }
+                      },
+                      {
+                        "Citation": "Hamazaki S et al; Toxicol Appl Pharmacol 77 (2): 267-74 (1985)",
+                        "Matched": {
+                          "PCLID": 17773366,
+                          "Citation": "Hamazaki S, Okada S, Ebina Y, Midorikawa O. Acute renal failure and glucosuria induced by ferric nitrilotriacetate in rats. Toxicol Appl Pharmacol. 1985 Feb;77(2):267–74. doi: 10.1016/0041-008x(85)90326-6. PMID: 3975899.",
+                          "PMID": 3975899,
+                          "DOI": "10.1016/0041-008x(85)90326-6"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ ...Acute and subchronic toxicity of a ferric iron chelate of NTA (Fe-NTA) was investigated in rats. When Fe-NTA was given ip, acute tubular necrosis and renal failure occurred following a single injection of 15 mg iron/kg.",
+                          "Markup": [
+                            {
+                              "Start": 75,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferric",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16048613"
+                            },
+                            {
+                              "Start": 103,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fe-NTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27880"
+                            },
+                            {
+                              "Start": 142,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fe-NTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27880"
+                            },
+                            {
+                              "Start": 251,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:3975899",
+                      "Hamazaki S et al; Toxicol Appl Pharmacol 77 (2): 267-74 (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:3975899",
+                        "Matched": {
+                          "PCLID": 17773366,
+                          "Citation": "Hamazaki S, Okada S, Ebina Y, Midorikawa O. Acute renal failure and glucosuria induced by ferric nitrilotriacetate in rats. Toxicol Appl Pharmacol. 1985 Feb;77(2):267–74. doi: 10.1016/0041-008x(85)90326-6. PMID: 3975899.",
+                          "PMID": 3975899,
+                          "DOI": "10.1016/0041-008x(85)90326-6"
+                        }
+                      },
+                      {
+                        "Citation": "Hamazaki S et al; Toxicol Appl Pharmacol 77 (2): 267-74 (1985)",
+                        "Matched": {
+                          "PCLID": 17773366,
+                          "Citation": "Hamazaki S, Okada S, Ebina Y, Midorikawa O. Acute renal failure and glucosuria induced by ferric nitrilotriacetate in rats. Toxicol Appl Pharmacol. 1985 Feb;77(2):267–74. doi: 10.1016/0041-008x(85)90326-6. PMID: 3975899.",
+                          "PMID": 3975899,
+                          "DOI": "10.1016/0041-008x(85)90326-6"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Repeated injections of sublethal doses produced degeneration and necrosis of the proximal tubular epithelium and was associated with polyuria, glucosuria, aminoaciduria, and azotemia. After 9 days of treatment, regeneration of the tubular epithelium with atypical cells was observed. Except for a parenchymal iron deposit, no marked changes were observed in other organs. None of these effects were observed in animals given noncomplexed NTA.",
+                          "Markup": [
+                            {
+                              "Start": 369,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for IRON (3+) NTA (22 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 100,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1306#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/IRON%283%2B%29%20NTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27880"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Populations at Special Risk",
+                "Description": "People within the general population vary greatly in their sensitivity to chemical agents on an individual or mixture basis.  Some segments of the general population may be at greatest risk for adverse outcomes.  Well-known groups at special risk include children, women of childbearing age, the elderly and are also defined by nutritional status, occupations, contamination of local food supplies, gender and genetic inheritance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Joint FAO/WHO Expert Committee on Food Additives; WHO Food Additives Ser 18: Iron (1983). Available from, as of September 14, 2004: https://www.inchem.org/documents/jecfa/jecmono/v18je18.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Joint FAO/WHO Expert Committee on Food Additives; WHO Food Additives Ser 18: Iron (1983). Available from, as of September 14, 2004: https://www.inchem.org/documents/jecfa/jecmono/v18je18.htm",
+                        "Matched": {
+                          "PCLID": 900052269,
+                          "Citation": "Joint FAO/WHO Expert Committee on Food Additives; WHO Food Additives Ser 18: Iron (1983). Available from, as of September 14, 2004: https://www.inchem.org/documents/jecfa/jecmono/v18je18.htm"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "...There is concern that the individual with metabolic defects that impair the ability to regulate iron absorption will be at risk from excessive exposure to iron, primarily as a result of acceleration of accumulation of iron in the body and an earlier onset of clinical symptoms of the disease. /Iron salts/",
+                          "Markup": [
+                            {
+                              "Start": 99,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 158,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 221,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 297,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 279"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 279",
+                        "Matched": {
+                          "PCLID": 900042129,
+                          "Citation": "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 279"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "STUDY OF PHOTOCHEMISTRY OF FERRIC NTA COMPLEXES...UNDERTAKEN & IRRADIATION CHARACTERISTIC OF SUNLIGHT...USED. IN ADDITION TO FORMALDEHYDE, CO2 & IMINODIACETIC ACID (IDA) WERE FORMED... /FERRIC NTA COMPLEXES/",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/FERRIC",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16048613"
+                            },
+                            {
+                              "Start": 125,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/FORMALDEHYDE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-712"
+                            },
+                            {
+                              "Start": 145,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/IMINODIACETIC%20ACID",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8897"
+                            },
+                            {
+                              "Start": 186,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/FERRIC",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16048613"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Associated Disorders and Diseases",
+        "Description": "Disorders and diseases associated with the compound.  The contexts of the associations listed in this section vary. For example, a compound may cause its associated diseases (e.g., carcinogens and cancers) or have a therapeutic effect in treatment of the diseases (e.g., antihistamines and allergies), or be used as a marker/indicator for the diseases (e.g., glucose and diabetes).",
+        "DisplayControls": {
+          "CreateTable": {
+            "FromInformationIn": "Subsections",
+            "NumberOfColumns": 2,
+            "ColumnHeadings": [
+              "Disease",
+              "References"
+            ],
+            "ColumnContents": [
+              "Name",
+              "Value"
+            ]
+          }
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 4,
+            "Value": {
+              "ExternalTableName": "consolidateddiseaseassociation"
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NLM Curated PubMed Citations",
+            "Description": "The NLM Curated PubMed Citations section links to all PubMed records that are tagged with the same MeSH term that has been associated with a particular compound.",
+            "URL": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0142-6",
+            "Information": [
+              {
+                "ReferenceNumber": 18,
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed_mesh&db=pccompound&cmd=Link&from_uid=27880",
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Literature",
+            "Description": "Chemical-organism co-occurrences in literature highlight chemical-organism pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalOrganismNeighbor"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "OrganismName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/27880/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Patents",
+            "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalChemical"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+            "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalDisease"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalGene"
+                    },
+                    {
+                      "String": "Gene"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and organisms mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalOrganism"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Interactions and Pathways",
+        "Description": "This section provides information on the biomolecular interactions of this compound with drugs, genes, proteins, etc., as well as the pathways in which this compound is involved.",
+        "Section": [
+          {
+            "TOCHeading": "Chemical-Target Interactions",
+            "Description": "Interactions between targets and this compound",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Value": {
+                  "ExternalTableName": "consolidatedcompoundtarget"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Biological Test Results",
+        "Description": "A PubChem substance or compound summary page displays biological test results from the PubChem BioAssay database, if/as available, for the chemical structure currently displayed. You can embed biological test results displays within your own web pages, for a PubChem Compound or Substance of interest, by using the BioActivity Widget.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/widgets",
+        "Section": [
+          {
+            "TOCHeading": "BioAssay Results",
+            "Description": "Bioactivity data for this compound, reported in PubChem BioAssay records.",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "ExternalTableName": "bioactivity"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "MeSH Tree",
+            "Description": "The Medical Subject Headings (MeSH) tree for this entity.  MeSH is a controlled and hierarchically-organized vocabulary produced by the National Library of Medicine.",
+            "URL": "https://www.nlm.nih.gov/mesh",
+            "Information": [
+              {
+                "ReferenceNumber": 12,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChemIDplus",
+            "Description": "Classification of this compound, provided by ChemIDplus, which is a free web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases.  ChemIDplus groups chemicals based on the source locators (i.e., what information resources have data for a given chemical).",
+            "URL": "https://chem.nlm.nih.gov/chemidplus/",
+            "Information": [
+              {
+                "ReferenceNumber": 14,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                "Value": {
+                  "Number": [
+                    84
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA DSSTox Classification",
+            "Description": "Classification from the U.S. Environmental Protection Agency's Distributed Structure-Searchable Toxicity (DSSTox) database. DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology. A distinguishing feature of this effort is the accurate mapping of bioassay and physicochemical property data associated with chemical substances to their corresponding chemical structures. ",
+            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=105",
+                "Value": {
+                  "Number": [
+                    105
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "MolGenie Organic Chemistry Ontology",
+            "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign compounds to structural classes, currently mapped to >1.7 million per- and polyfluoroalkyl substances (PFAS) extracted from the datasets explained in Barnabas et al (2022) DOI: 10.1039/D2DD00019A",
+            "URL": "https://github.com/MolGenie/ontology/",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=134",
+                "Value": {
+                  "Number": [
+                    134
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "CAS Common Chemistry",
+        "SourceID": "16448-54-7",
+        "Name": "Ferric nitrilotriacetate",
+        "Description": "CAS Common Chemistry is an open community resource for accessing chemical information. Nearly 500,000 chemical substances from CAS REGISTRY cover areas of community interest, including common and frequently regulated chemicals, and those relevant to high school and undergraduate chemistry classes. This chemical information, curated by our expert scientists, is provided in alignment with our mission as a division of the American Chemical Society.",
+        "URL": "https://commonchemistry.cas.org/detail?cas_rn=16448-54-7",
+        "LicenseNote": "The data from CAS Common Chemistry is provided under a CC-BY-NC 4.0 license, unless otherwise stated.",
+        "LicenseURL": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "ANID": 12814096
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "ChemIDplus",
+        "SourceID": "0016448547",
+        "Name": "Iron(3+) NTA",
+        "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0016448547",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 846092
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "DTXSID60167764",
+        "Name": "Iron(3+) NTA",
+        "Description": "DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology.",
+        "URL": "https://comptox.epa.gov/dashboard/DTXSID60167764",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 1223082
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "FDA Global Substance Registration System (GSRS)",
+        "SourceID": "Z3U5ED15B9",
+        "Name": "FERRIC NITRILOTRIACETATE",
+        "Description": "The FDA Global Substance Registration System (GSRS) enables the efficient and accurate exchange of information on what substances are in regulated products. Instead of relying on names, which vary across regulatory domains, countries, and regions, the GSRS knowledge base makes it possible for substances to be defined by standardized, scientific descriptions.",
+        "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/Z3U5ED15B9",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 5840737
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "1306",
+        "Name": "IRON (3+) NTA",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1306",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 1168
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134992728",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0016448547",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19477207
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "Comparative Toxicogenomics Database (CTD)",
+        "SourceID": "C020326::Compound",
+        "Name": "ferric nitrilotriacetate",
+        "Description": "CTD is a robust, publicly available database that aims to advance understanding about how environmental exposures affect human health.",
+        "URL": "https://ctdbase.org/detail.go?type=chem&acc=C020326",
+        "LicenseNote": "It is to be used only for research and educational purposes. Any reproduction or use for commercial purpose is prohibited without the prior express written permission of NC State University.",
+        "LicenseURL": "http://ctdbase.org/about/legal.jsp",
+        "ANID": 9014547
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "Japan Chemical Substance Dictionary (Nikkaji)",
+        "SourceID": "J448.355C",
+        "Description": "The Japan Chemical Substance Dictionary (Nikkaji) has a search system that helps obtain knowledge from dissimilar fields and discover concepts that cross boundaries of specializations.",
+        "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J448.355C",
+        "ANID": 21915382
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q27225484",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q27225484",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44288646
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0073939",
+        "Name": "ferric nitrilotriacetate",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0073939.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "DescTree",
+        "Name": "MeSH Tree",
+        "Description": "MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "ChemIDplus",
+        "SourceID": "ChemIDplus_tree",
+        "Name": "ChemIDplus Chemical Information Classification",
+        "Description": "ChemIDplus is a TOXNET (TOXicology data NETwork) databases that contain chemicals and drugs related information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/chemidplus",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "dsstoxlist_tree",
+        "Name": "CompTox Chemicals Dashboard Chemical Lists",
+        "Description": "This classification lists the chemical categories from the EPA CompTox Chemicals Dashboard.",
+        "URL": "https://comptox.epa.gov/dashboard/chemical-lists/",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "MolGenie",
+        "SourceID": "mol_classes",
+        "Name": "MolGenie Organic Chemistry Ontology",
+        "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign chemical entities to structural classes, split into three main subsections: calculated properties, compounds and substructural concepts. The ontology contains chemistry structural classes with a focus on elements and small organic compounds, but not inorganic, polymer, biopolymer, metal complexes, metal organic frameworks (MOFs) and other chemistry entities. The ontology has been mapped to several collections of chemicals, including (a) Chemicals of Biological Interest (ChEBI), (b) the ChEMBL database of bioactive molecules, (c) the LOTUS natural product collection, (d) per- and polyfluoroalkyl substances (PFAS) extracted from Barnabas et al (2022) DOI: 10.1039/D2DD00019A (e) PubChemLite and (f) the ZeroPM Global Chemical Inventory.",
+        "URL": "https://github.com/MolGenie/ontology/",
+        "LicenseNote": "CC-BY 4.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "PubMed from MeSH",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0003416",
+        "Name": "Carcinogens",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0003416.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0014274",
+        "Name": "Mutagens",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0014274.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "NCBI",
+        "SourceID": "LinkOut",
+        "Description": "LinkOut is a service that allows one to link directly from NCBI databases to a wide range of information and services beyond NCBI systems.",
+        "URL": "https://www.ncbi.nlm.nih.gov/projects/linkout"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3486 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 62925,
+    "RecordTitle": "19-Norpregn-4-en-20-yn-3-one, 17-hydroxy-, (17alpha)-, mixt. with (17alpha)-19-norpregna-1,3,5(10)-trien-20-yne-3,17-diol",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Status",
+            "Description": "The reason why three-dimensional (3D) conformers for this compound cannot be generated.  PubChem generates 3D conformers for each compound that satisfies the following conditions: [1] not too large (with <= 50 non-hydrogen atoms), [2] not too flexible (with <= 15 rotatable bonds), [3] consisting of only supported elements (H, C, N, O, F, Si, P, S, Cl, Br, and I), [4] having only a single covalent unit (i.e., not a salt or a mixture), [5] contains only atom types recognized by the MMFF94s force field used for conformer generation, and [6] has fewer than six undefined atom or bond stereo centers.  Compounds that do not satisfy any of these conditions are not considered for 3-D conformer generation.  In some rare cases, a compound satisfies all conditions but the conformer generation for the compound fails for some reason. More detailed information on 3D conformer generation can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Conformer generation is disallowed since mixture or salt"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 60,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "contains norethindrone & ethinyl estradiol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2021.10.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "(8R,9S,10R,13S,14S,17R)-17-ethynyl-17-hydroxy-13-methyl-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one;(8R,9S,13S,14S,17R)-17-ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-diol",
+                          "Markup": [
+                            {
+                              "Start": 2,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 5,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 9,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 13,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 17,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 21,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 130,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 133,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 137,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 141,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 145,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 201,
+                              "Length": 1,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by InChI 1.0.6 (PubChem release 2021.10.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C20H26O2.C20H24O2/c2*1-3-20(22)11-9-18-17-6-4-13-12-14(21)5-7-15(13)16(17)8-10-19(18,20)2/h1,12,15-18,22H,4-11H2,2H3;1,5,7,12,16-18,21-22H,4,6,8-11H2,2H3/t15-,16+,17+,18-,19-,20-;16-,17-,18+,19+,20+/m01/s1"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by InChI 1.0.6 (PubChem release 2021.10.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NAPPWIFDUAHTRY-XYDRQXHOSA-N"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2024.12.12)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC(=O)CC[C@H]34.C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)O"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2021.10.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C40H50O4"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "URL": "https://commonchemistry.cas.org/detail?cas_rn=37270-71-6",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "37270-71-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "37270-71-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 55,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "37270-71-6"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Deprecated CAS",
+                "Description": "The Chemical Abstract Service (CAS) registry numbers that are no longer used.  These numbers are old, deprecated, and/or deleted, but users may still encounter them in some (old) references.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "53464-69-0"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID00958416",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID00958416"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 59,
+                    "URL": "https://www.wikidata.org/wiki/Q17004476",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q17004476"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Entry Terms",
+                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "norethindrone acetate, ethinyl estradiol, ferrous fumarate drug combination"
+                        },
+                        {
+                          "String": "(17 alpha)-17-hydroxy-19-norpregn-4-en-20-yn-3-one, mixture with (17 alpha)-19-norpregna-1,3,5(10)-trien-20-yne-3,17-diol"
+                        },
+                        {
+                          "String": "ethynylestradiol mixture with norethindrone"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Zenchent"
+                        },
+                        {
+                          "String": "Ortho-Novum 1/35"
+                        },
+                        {
+                          "String": "37270-71-6"
+                        },
+                        {
+                          "String": "DT-5061"
+                        },
+                        {
+                          "String": "norethindrone acetate, ethinyl estradiol, ferrous fumarate drug combination"
+                        },
+                        {
+                          "String": "RefChem:908299"
+                        },
+                        {
+                          "String": "19-Norpregn-4-en-20-yn-3-one, 17-hydroxy-, (17alpha)-, mixt. with (17alpha)-19-norpregna-1,3,5(10)-trien-20-yne-3,17-diol"
+                        },
+                        {
+                          "String": "ethinylestradiol & norethisterone"
+                        },
+                        {
+                          "String": "ethinylestradiol + norethisterone"
+                        },
+                        {
+                          "String": "ethinylestradiol / norethisterone"
+                        },
+                        {
+                          "String": "ethinylestradiol and norethisterone"
+                        },
+                        {
+                          "String": "Ovcon"
+                        },
+                        {
+                          "String": "Lo Minastrin Fe"
+                        },
+                        {
+                          "String": "NORETHINDRONE AND ETHINYL ESTRADIOL"
+                        },
+                        {
+                          "String": "Nortrel 7/7/7"
+                        },
+                        {
+                          "String": "Binovum"
+                        },
+                        {
+                          "String": "Netasyn"
+                        },
+                        {
+                          "String": "Norminest"
+                        },
+                        {
+                          "String": "Trinovum"
+                        },
+                        {
+                          "String": "Neocon"
+                        },
+                        {
+                          "String": "Brevion"
+                        },
+                        {
+                          "String": "Duagynon"
+                        },
+                        {
+                          "String": "Gynovlar"
+                        },
+                        {
+                          "String": "Norimen"
+                        },
+                        {
+                          "String": "Norimin"
+                        },
+                        {
+                          "String": "Ovyrmen"
+                        },
+                        {
+                          "String": "Ovysmen"
+                        },
+                        {
+                          "String": "Primidos"
+                        },
+                        {
+                          "String": "Oestro-primolut"
+                        },
+                        {
+                          "String": "Zoran"
+                        },
+                        {
+                          "String": "LoDose"
+                        },
+                        {
+                          "String": "Femcon Fe"
+                        },
+                        {
+                          "String": "(8R,9S,10R,13S,14S,17R)-17-ethynyl-17-hydroxy-13-methyl-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one;(8R,9S,13S,14S,17R)-17-ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-diol"
+                        },
+                        {
+                          "String": "E-Con"
+                        },
+                        {
+                          "String": "Ortho-Novum 777"
+                        },
+                        {
+                          "String": "Ovcon 35"
+                        },
+                        {
+                          "String": "Ovcon 50"
+                        },
+                        {
+                          "String": "Norinyl 1-35"
+                        },
+                        {
+                          "String": "Aranelle"
+                        },
+                        {
+                          "String": "Balziva"
+                        },
+                        {
+                          "String": "Ortho-novum 10/11"
+                        },
+                        {
+                          "String": "Ortho-novum 7/7/7"
+                        },
+                        {
+                          "String": "Ortho Novum 7-7-7"
+                        },
+                        {
+                          "String": "BREVICON 21-DAY"
+                        },
+                        {
+                          "String": "BREVICON 28-DAY"
+                        },
+                        {
+                          "String": "Eve 20"
+                        },
+                        {
+                          "String": "Kaitlib Fe"
+                        },
+                        {
+                          "String": "MODICON 21"
+                        },
+                        {
+                          "String": "MODICON 28"
+                        },
+                        {
+                          "String": "OVCON-35"
+                        },
+                        {
+                          "String": "OVCON-50"
+                        },
+                        {
+                          "String": "TRI-NORINYL 21-DAY"
+                        },
+                        {
+                          "String": "TRI-NORINYL 28-DAY"
+                        },
+                        {
+                          "String": "Balziva-21"
+                        },
+                        {
+                          "String": "Balziva-28"
+                        },
+                        {
+                          "String": "Ortho-Novum 10/11-28"
+                        },
+                        {
+                          "String": "DT 5061"
+                        },
+                        {
+                          "String": "Cyclafem 1/35"
+                        },
+                        {
+                          "String": "NORETHIN 1/35E-21"
+                        },
+                        {
+                          "String": "NORETHIN 1/35E-28"
+                        },
+                        {
+                          "String": "Norinyl 1 35"
+                        },
+                        {
+                          "String": "SH B 259 AB"
+                        },
+                        {
+                          "String": "Cyclafem 7/7/7"
+                        },
+                        {
+                          "String": "NORCEPT-E 1/35 21"
+                        },
+                        {
+                          "String": "NORCEPT-E 1/35 28"
+                        },
+                        {
+                          "String": "GENCEPT 10/11-21"
+                        },
+                        {
+                          "String": "GENCEPT 10/11-28"
+                        },
+                        {
+                          "String": "NORINYL 1+35 21-DAY"
+                        },
+                        {
+                          "String": "NORINYL 1+35 28-DAY"
+                        },
+                        {
+                          "String": "ORTHO-NOVUM 1/35-21"
+                        },
+                        {
+                          "String": "ORTHO-NOVUM 1/35-28"
+                        },
+                        {
+                          "String": "ORTHO-NOVUM 7/14-21"
+                        },
+                        {
+                          "String": "ORTHO-NOVUM 7/14-28"
+                        },
+                        {
+                          "String": "ORTHO-NOVUM 10/11-21"
+                        },
+                        {
+                          "String": "ORTHO-NOVUM 7/7/7-21"
+                        },
+                        {
+                          "String": "ORTHO-NOVUM 7/7/7-28"
+                        },
+                        {
+                          "String": "Nortrel 1/35-21"
+                        },
+                        {
+                          "String": "Nortrel 1/35-28"
+                        },
+                        {
+                          "String": "DT 5062"
+                        },
+                        {
+                          "String": "Cyonanz"
+                        },
+                        {
+                          "String": "Nortrel 0.5/35-21"
+                        },
+                        {
+                          "String": "Nortrel 0.5/35-28"
+                        },
+                        {
+                          "String": "Leena"
+                        },
+                        {
+                          "String": "Norethindrone Ethinyl Estradiol"
+                        },
+                        {
+                          "String": "N.E.E. 1/35 21"
+                        },
+                        {
+                          "String": "N.E.E. 1/35 28"
+                        },
+                        {
+                          "String": "SH 7.1122"
+                        },
+                        {
+                          "String": "Necon 7/7/7 28-Day Tablets"
+                        },
+                        {
+                          "String": "Norethindron-ethinylestradiol mixt."
+                        },
+                        {
+                          "String": "DT-5062(1/35)"
+                        },
+                        {
+                          "String": "Norethindrone-ethinylestradiol mixt."
+                        },
+                        {
+                          "String": "NORETHINDRONE AND ETHINYL ESTRADIOL (7/14)"
+                        },
+                        {
+                          "String": "Ethinylestradiol-norethisterone mixt."
+                        },
+                        {
+                          "String": "Norethisterone-ethinylestradiol mixt."
+                        },
+                        {
+                          "String": "Norethisterone-ethynylestradiol mixt."
+                        },
+                        {
+                          "String": "NORETHINDRONE AND ETHINYL ESTRADIOL (10/11)"
+                        },
+                        {
+                          "String": "Alyacen 1/35"
+                        },
+                        {
+                          "String": "Alyacen 7/7/7"
+                        },
+                        {
+                          "String": "Nylia 1/35"
+                        },
+                        {
+                          "String": "Nylia 7/7/7"
+                        },
+                        {
+                          "String": "SCHEMBL3835489"
+                        },
+                        {
+                          "String": "Ethynylestradiol / norethindrone"
+                        },
+                        {
+                          "String": "SCHEMBL29438192"
+                        },
+                        {
+                          "String": "DTXSID00958416"
+                        },
+                        {
+                          "String": "Ethynyl estradiol / norethindrone"
+                        },
+                        {
+                          "String": "Norethindrone / Ethinyl estradiol"
+                        },
+                        {
+                          "String": "N049500000"
+                        },
+                        {
+                          "String": "17-Hydroxy-19-norpregn-4-en-20-yn-3-one--19-norpregna-1(10),2,4-trien-20-yne-3,17-diol (1/1)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Modicon"
+                        },
+                        {
+                          "String": "Brevicon"
+                        },
+                        {
+                          "String": "Estrostep"
+                        },
+                        {
+                          "String": "Loestrin"
+                        },
+                        {
+                          "String": "Loveston"
+                        },
+                        {
+                          "String": "Synphase"
+                        },
+                        {
+                          "String": "Anovlar"
+                        },
+                        {
+                          "String": "Triella"
+                        },
+                        {
+                          "String": "Tri-Norinyl"
+                        },
+                        {
+                          "String": "Brevinor"
+                        },
+                        {
+                          "String": "Con-fer"
+                        },
+                        {
+                          "String": "Amenorone forte"
+                        },
+                        {
+                          "String": "AC1L1Y1Y"
+                        },
+                        {
+                          "String": "2-Methyl-cyclopenta-1,3-dien"
+                        },
+                        {
+                          "String": "GENCEPT 1/35-21"
+                        },
+                        {
+                          "String": "GENCEPT 1/35-28"
+                        },
+                        {
+                          "String": "ethynylestradiol mixture with norethindrone"
+                        },
+                        {
+                          "String": "Norethindron-ethinylestradiol mixt"
+                        },
+                        {
+                          "String": "Ethynylestradiol mixed with norethindrone"
+                        },
+                        {
+                          "String": "Norethindrone mixed with ethynylestradiol"
+                        },
+                        {
+                          "String": "Norethindrone-ethinylestradiol mixt"
+                        },
+                        {
+                          "String": "Ethinylestradiol-norethisterone mixt"
+                        },
+                        {
+                          "String": "Norethisterone-ethinylestradiol mixt"
+                        },
+                        {
+                          "String": "Norethisterone-ethynylestradiol mixt"
+                        },
+                        {
+                          "String": "CID62925"
+                        },
+                        {
+                          "String": "GENCEPT 0.5/35-21"
+                        },
+                        {
+                          "String": "GENCEPT 0.5/35-28"
+                        },
+                        {
+                          "String": "Norethisterone mixed with ethinyl oestradiol"
+                        },
+                        {
+                          "String": "CID:62925"
+                        },
+                        {
+                          "String": "C20H24O2.C20H26O2"
+                        },
+                        {
+                          "String": "C20H26O2.C20H24O2"
+                        },
+                        {
+                          "String": "ETHINYL ESTRADIOL; NORETHINDRONE"
+                        },
+                        {
+                          "String": "Norethindrone mixture with ethinyl estradiol"
+                        },
+                        {
+                          "String": "LS-97443"
+                        },
+                        {
+                          "String": "SID:134224744"
+                        },
+                        {
+                          "String": "Ethinyl estradiol mixture with norethindrone"
+                        },
+                        {
+                          "String": "LS-178555"
+                        },
+                        {
+                          "String": "C20-H26-O2.C20-H24-O2"
+                        },
+                        {
+                          "String": "C020416"
+                        },
+                        {
+                          "String": "ORTHO-NOVUM 10/11-28 IN PLASTIC CONTAINER"
+                        },
+                        {
+                          "String": "(17 alpha)-17-hydroxy-19-norpregn-4-en-20-yn-3-one, mixture with (17 alpha)-19-norpregna-1,3,5(10)-trien-20-yne-3,17-diol"
+                        },
+                        {
+                          "String": "(17alpha)-17-Hydroxy-19-norpregn-4-en-20-yn-3-one, mixture with (17alpha)-19-norpregna-1,3,5(10)-trien-20-yne-3,17-diol"
+                        },
+                        {
+                          "String": "19-Nor-17-alpha-pregn-4-en-20-yn-3-one, 17-hydroxy-, mixed with 19-nor-17-alpha-pregna-1,3,5(10)-trien-20-yne-3,17-diol"
+                        },
+                        {
+                          "String": "(17|A)-17-Ethynyl-17-hydroxyestr-4-en-3-one - (17|A)-17-ethynylestr a-1,3,5(10)-triene-3,17-diol (1:1)"
+                        },
+                        {
+                          "String": "(8R,9S,10R,13S,14S,17R)-17-ethynyl-17-hydroxy-13-methyl-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one; (8R,9S,13S,14S,17R)-17-ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-diol"
+                        },
+                        {
+                          "String": "19-Norpregn-4-en-20-yn-3-one, 17-hydroxy-, (17.alpha.)-, mixt. with (17.alpha.)-19-norpregna-1,3,5(10)-trien-20-yne-3,17-diol"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Value": {
+                  "DateISO8601": [
+                    "2005-08-08"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-08-30"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2021.10.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "594.8"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        3
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        4
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2021.10.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "594.37091007"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2021.10.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "594.37091007"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        77.8
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        44
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2021.10.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1100
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        11
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Reference": [
+                      "Computed by PubChem (release 2021.10.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Classes",
+            "Description": "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties, radiological properties, or other factors.",
+            "Section": [
+              {
+                "TOCHeading": "Drugs",
+                "Description": "Chemicals are used as active ingredients in drug/pharmaceutical products, including human drugs, animal drugs, biologics, etc.",
+                "Section": [
+                  {
+                    "TOCHeading": "Human Drugs",
+                    "Description": "Chemicals are used as active ingredients in human drug products.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 8,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 9,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 10,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 24,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 25,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 26,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 27,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 28,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 29,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 30,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 31,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription; Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 32,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 33,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 34,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 35,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 36,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 37,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 38,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 39,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 40,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 41,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 42,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 43,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 44,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 45,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 46,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 47,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 48,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 49,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 50,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 51,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 52,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 53,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Prescription; Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 54,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 58,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Oral hormonal contraceptives"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID62925%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID62925%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Component Compounds",
+            "Description": "Component parts of the compound when it consists of multiple covalently-bonded units.  In PubChem, a covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or single atom without covalent bonds).",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 5991 (Ethinylestradiol)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 27,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=5991",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 27,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5991"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "CID 6230 (Norethindrone)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 24,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=6230",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 24,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/6230"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Name": "Same Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/62925/cids/JSON?cids_type=same_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    3
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 61,
+                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/62925/cids/JSON?cids_type=component&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 61,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID62925%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 61,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID62925%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/516554207",
+                    "Value": {
+                      "Number": [
+                        516554207
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/62925/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        23
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Journal Publishers"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Entrez Crosslinks",
+            "Description": "Cross-references to associated records in other Entrez databases such as PubMed, Gene, Protein, etc.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Name": "PubMed Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed&db=pccompound&cmd=Link&from_uid=62925",
+                "Value": {
+                  "Number": [
+                    8
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 61,
+                "Name": "OMIM Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_omim&db=pccompound&cmd=Link&from_uid=62925",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 61,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Drug and Medication Information",
+        "Description": "This section provides drug and medication information for this compound, including drug indications, labeling, clinical trials, idiosyncrasies, tolerance, reported fatal doses, etc.",
+        "Section": [
+          {
+            "TOCHeading": "WHO Essential Medicines",
+            "Description": "The WHO Essential Medicines present a list of minimum medicine needs for a basic health-care system, listing the most efficacious, safe and cost-effective medicines for priority conditions.",
+            "URL": "https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines/essential-medicines-lists",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 4,
+                "ColumnsFromNamedLists": {
+                  "Name": [
+                    "Drug",
+                    "Drug Classes",
+                    "Formulation",
+                    "Indication"
+                  ],
+                  "UseNamesAsColumnHeadings": true
+                }
+              },
+              "ShowAtMost": 2
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 58,
+                "Name": "Drug",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Ethinylestradiol + norethisterone",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 33,
+                          "URL": "https://list.essentialmeds.org/medicines/185"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 16,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ethinylestradiol",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5991"
+                        },
+                        {
+                          "Start": 19,
+                          "Length": 14,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norethisterone",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6230"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 58,
+                "Name": "Drug Classes",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Oral hormonal contraceptives"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 58,
+                "Name": "Formulation",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Oral - Solid: 35 Âµg + 1 mg"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 58,
+                "Name": "Indication",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Contact with health services for contraceptive management"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA National Drug Code Directory",
+            "Description": "The National Drug Code (NDC) is a unique product identifier in three-segment number used in the United States for human drugs (the Drug Listing Act of 1972).",
+            "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory",
+            "DisplayControls": {
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 56,
+                "Value": {
+                  "ExternalTableName": "collection=fdandc&query_type=synonym&query='^NORETHINDRONE AND ETHINYL ESTRADIOL$'"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Drug Labels",
+            "Description": "This section provides the drug labeling information for drug products associated with this compound. This information is from The National Library of Medicine (NLM)'s DailyMed, which provides the most recent labeling submitted to the Food and Drug Administration (FDA) by companies and currently in use (i.e., \"in use\" labeling). DailyMed contains labeling for prescription and nonprescription drugs for human and animal use, and for additional products such as medical gases, devices, cosmetics, dietary supplements, and medical foods.",
+            "URL": "https://dailymed.nlm.nih.gov/dailymed/",
+            "DisplayControls": {
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Name": "Drug and label",
+                "Value": {
+                  "ExternalTableName": "collection=dailymed&query_type=synonym&query='^NORETHINDRONE AND ETHINYL ESTRADIOL$'"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Clinical Trials",
+            "Description": "Clinical trials are research studies performed in people to evaluate a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment (e.g., a drug or diet) or medical device (e.g., a pacemaker) is safe and effective in people.  This section provides information on clinical trials for this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "ClinicalTrials.gov",
+                "Description": "Brief clinical trials summary from ClinicalTrials.gov at the U.S. National Library of Medicine.",
+                "URL": "http://clinicaltrials.gov/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "ClinicalTrials.gov",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials",
+                      "ExternalTableNumRows": 9
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Pharmacology and Biochemistry",
+        "Description": "Pharmacology and biochemistry information related to this compound, including the pharmacodynamics, pharmacokinetics, metabolism, mechanism of action, biological half-life, biochemical reactions, and many others.",
+        "Section": [
+          {
+            "TOCHeading": "MeSH Pharmacological Classification",
+            "Description": "Pharmacological action classes from the Medical Subject Headings (MeSH) thesaurus.",
+            "URL": "https://meshb.nlm.nih.gov/record/ui?ui=D020228",
+            "Information": [
+              {
+                "ReferenceNumber": 70,
+                "Name": "Contraceptives, Oral, Combined",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Fixed drug combinations administered orally for contraceptive purposes."
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 71,
+                "Name": "Contraceptives, Oral, Hormonal",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Oral contraceptives which owe their effectiveness to hormonal preparations."
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 72,
+                "Name": "Contraceptives, Oral, Sequential",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Drugs administered orally and sequentially for contraceptive purposes."
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 73,
+                "Name": "Contraceptives, Oral, Synthetic",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Oral contraceptives which owe their effectiveness to synthetic preparations."
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ATC Code",
+            "Description": "The Anatomical Therapeutic Chemical (ATC) Classification System is used for the classification of drugs. This pharmaceutical coding system divides drugs into different groups according to the organ or system on which they act and/or their therapeutic and chemical characteristics. Each bottom-level ATC code stands for a pharmaceutically used substance, or a combination of substances, in a single indication (or use). This means that one drug can have more than one code: acetylsalicylic acid (aspirin), for example, has A01AD05 as a drug for local oral treatment, B01AC06 as a platelet inhibitor, and N02BA01 as an analgesic and antipyretic. On the other hand, several different brands share the same code if they have the same active substance and indications.",
+            "URL": "https://www.whocc.no/atc/structure_and_principles/",
+            "Information": [
+              {
+                "ReferenceNumber": 58,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "G03AA05"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135020488"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Associated Disorders and Diseases",
+        "Description": "Disorders and diseases associated with the compound.  The contexts of the associations listed in this section vary. For example, a compound may cause its associated diseases (e.g., carcinogens and cancers) or have a therapeutic effect in treatment of the diseases (e.g., antihistamines and allergies), or be used as a marker/indicator for the diseases (e.g., glucose and diabetes).",
+        "DisplayControls": {
+          "CreateTable": {
+            "FromInformationIn": "Subsections",
+            "NumberOfColumns": 2,
+            "ColumnHeadings": [
+              "Disease",
+              "References"
+            ],
+            "ColumnContents": [
+              "Name",
+              "Value"
+            ]
+          }
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 6,
+            "Value": {
+              "ExternalTableName": "consolidateddiseaseassociation"
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NLM Curated PubMed Citations",
+            "Description": "The NLM Curated PubMed Citations section links to all PubMed records that are tagged with the same MeSH term that has been associated with a particular compound.",
+            "URL": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0142-6",
+            "Information": [
+              {
+                "ReferenceNumber": 69,
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed_mesh&db=pccompound&cmd=Link&from_uid=62925",
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Literature",
+            "Description": "Chemical-organism co-occurrences in literature highlight chemical-organism pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalOrganismNeighbor"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "OrganismName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 61,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/62925/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Patents",
+            "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalChemical"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+            "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalDisease"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalGene"
+                    },
+                    {
+                      "String": "Gene"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and organisms mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 61,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalOrganism"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "MeSH Tree",
+            "Description": "The Medical Subject Headings (MeSH) tree for this entity.  MeSH is a controlled and hierarchically-organized vocabulary produced by the National Library of Medicine.",
+            "URL": "https://www.nlm.nih.gov/mesh",
+            "Information": [
+              {
+                "ReferenceNumber": 62,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChemIDplus",
+            "Description": "Classification of this compound, provided by ChemIDplus, which is a free web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases.  ChemIDplus groups chemicals based on the source locators (i.e., what information resources have data for a given chemical).",
+            "URL": "https://chem.nlm.nih.gov/chemidplus/",
+            "Information": [
+              {
+                "ReferenceNumber": 64,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                "Value": {
+                  "Number": [
+                    84
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA DSSTox Classification",
+            "Description": "Classification from the U.S. Environmental Protection Agency's Distributed Structure-Searchable Toxicity (DSSTox) database. DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology. A distinguishing feature of this effort is the accurate mapping of bioassay and physicochemical property data associated with chemical substances to their corresponding chemical structures. ",
+            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+            "Information": [
+              {
+                "ReferenceNumber": 65,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=105",
+                "Value": {
+                  "Number": [
+                    105
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA Drug Type and Pharmacologic Classification",
+            "Description": "The FDA Drug Type and Pharmacologic Classification is based on the FDA drug type and pharm classes data from the National Drug Code (NDC) Directory.",
+            "Information": [
+              {
+                "ReferenceNumber": 67,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=116",
+                "Value": {
+                  "Number": [
+                    116
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemicals in PubChem from Regulatory Sources",
+            "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources.",
+            "Information": [
+              {
+                "ReferenceNumber": 68,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=135",
+                "Value": {
+                  "Number": [
+                    135
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "CAS Common Chemistry",
+        "SourceID": "37270-71-6",
+        "Name": "19-Norpregn-4-en-20-yn-3-one, 17-hydroxy-, (17α)-, mixt. with (17α)-19-norpregna-1,3,5(10)-trien-20-yne-3,17-diol",
+        "Description": "CAS Common Chemistry is an open community resource for accessing chemical information. Nearly 500,000 chemical substances from CAS REGISTRY cover areas of community interest, including common and frequently regulated chemicals, and those relevant to high school and undergraduate chemistry classes. This chemical information, curated by our expert scientists, is provided in alignment with our mission as a division of the American Chemical Society.",
+        "URL": "https://commonchemistry.cas.org/detail?cas_rn=37270-71-6",
+        "LicenseNote": "The data from CAS Common Chemistry is provided under a CC-BY-NC 4.0 license, unless otherwise stated.",
+        "LicenseURL": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "ANID": 12992254
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "ChemIDplus",
+        "SourceID": "0037270716",
+        "Name": "Norethindrone acetate, ethinyl estradiol, ferrous fumarate drug combination",
+        "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0037270716",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 893822
+      },
+      {
+        "ReferenceNumber": 55,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "DTXSID00958416",
+        "Name": "17-Hydroxy-19-norpregn-4-en-20-yn-3-one--19-norpregna-1(10),2,4-trien-20-yne-3,17-diol (1/1)",
+        "Description": "DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology.",
+        "URL": "https://comptox.epa.gov/dashboard/DTXSID00958416",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 17624135
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135020488",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0037270716",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19496606
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "ClinicalTrials.gov",
+        "SourceID": "cid62925",
+        "Description": "ClinicalTrials.gov is an NIH registry and results database of publicly and privately supported clinical studies of human participants conducted around the world.",
+        "URL": "https://clinicaltrials.gov/",
+        "LicenseNote": "The ClinicalTrials.gov data carry an international copyright outside the United States and its Territories or Possessions. Some ClinicalTrials.gov data may be subject to the copyright of third parties; you should consult these entities for any additional terms of use.",
+        "LicenseURL": "https://clinicaltrials.gov/ct2/about-site/terms-conditions#Use",
+        "ANID": 5188310
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "Comparative Toxicogenomics Database (CTD)",
+        "SourceID": "C020416::Compound",
+        "Name": "norethindrone acetate, ethinyl estradiol, ferrous fumarate drug combination",
+        "Description": "CTD is a robust, publicly available database that aims to advance understanding about how environmental exposures affect human health.",
+        "URL": "https://ctdbase.org/detail.go?type=chem&acc=C020416",
+        "LicenseNote": "It is to be used only for research and educational purposes. Any reproduction or use for commercial purpose is prohibited without the prior express written permission of NC State University.",
+        "LicenseURL": "http://ctdbase.org/about/legal.jsp",
+        "ANID": 9014556
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "DailyMed",
+        "SourceID": "209618017f3b7516b20dabd9457bb544",
+        "Name": "NORETHINDRONE AND ETHINYL ESTRADIOL",
+        "Description": "The U.S. National Library of Medicine's DailyMed provides trustworthy information about marketed drugs. DailyMed is the official provider of FDA label information (package inserts).",
+        "URL": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=NORETHINDRONE+AND+ETHINYL+ESTRADIOL",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "ANID": 30965108
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "0498fe24dcc6a8eee157dca73e742919",
+        "Name": "BREVICON 21-DAY",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38970214
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "715059ef53f4c6cc282b0cbf56d633a8",
+        "Name": "FEMCON FE",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38970337
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "6b89f5d19ca1332afcb51ff6907d0f19",
+        "Name": "NORTREL 7/7/7",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38970709
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "d004ba69abd5aa5c37e9bd4a6afa2244",
+        "Name": "NORETHIN 1/35E-28",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38970849
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "5430e7bc0601f98a03cefea72bffed4e",
+        "Name": "NORETHIN 1/35E-21",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38970917
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "504672d0c64cee06c18b0181552c1679",
+        "Name": "CYCLAFEM 1/35",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38971143
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "022c853f790dca9a6bedc1e1f327b8da",
+        "Name": "NORINYL 1+35 21-DAY",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38971255
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "ea34fbceaf57cef82a9a2311f4a4d1b5",
+        "Name": "ORTHO-NOVUM 1/35-21",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38971691
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "38216e519a2238a22ee6378d0ac22458",
+        "Name": "CYCLAFEM 7/7/7",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38971707
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "02c805c34f158bcbbf4a96dd350ef5cf",
+        "Name": "ALYACEN 1/35",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38971971
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "dde66c087e882a0689c22a2cd435a39b",
+        "Name": "NORTREL 1/35-21",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38972356
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "f7ce7f39815312c106b12c3c44219eb0",
+        "Name": "NORCEPT-E 1/35 28",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38972454
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "e67d42467963503ae5d4640f7f0fae14",
+        "Name": "GENCEPT 10/11-21",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38972467
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "a1773c539c788b472a90993d86bd8aea",
+        "Name": "NORETHINDRONE AND ETHINYL ESTRADIOL (7/14)",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38972527
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "d1105dda7689bf1ddf1fa2aa8993d78d",
+        "Name": "ORTHO-NOVUM 10/11-21",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38972703
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "3e6b6e6373d1c1dd8f75903814361a65",
+        "Name": "BALZIVA-21",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38972819
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "64da2b6d0cd9361f583efcec720a5bfb",
+        "Name": "LO MINASTRIN FE",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38972909
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "5c4681bb53c53e00e833e10cd298c784",
+        "Name": "NORCEPT-E 1/35 21",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38973273
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "8d3b120518cc52c16cb636f409799831",
+        "Name": "ORTHO-NOVUM 7/14-28",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38973353
+      },
+      {
+        "ReferenceNumber": 27,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "5e1003c65c361d20a30bdcfd9f87533b",
+        "Name": "BALZIVA-28",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38973530
+      },
+      {
+        "ReferenceNumber": 28,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "dc2856112b10426dbd6a03f48b53fa07",
+        "Name": "MODICON 21",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38973643
+      },
+      {
+        "ReferenceNumber": 29,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "0391bd4b48138f73c4fbb3222d9484d1",
+        "Name": "BREVICON 28-DAY",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38973706
+      },
+      {
+        "ReferenceNumber": 30,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "2586722888683b2f6c917cefd5ecc46f",
+        "Name": "CYONANZ",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38974487
+      },
+      {
+        "ReferenceNumber": 31,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "f2ae8a6dfc5101321b8159880b06bb36",
+        "Name": "NORETHINDRONE AND ETHINYL ESTRADIOL (10/11)",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38974556
+      },
+      {
+        "ReferenceNumber": 32,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "05b635bd74191f512e2e1bd445fb942b",
+        "Name": "TRI-NORINYL 21-DAY",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38974617
+      },
+      {
+        "ReferenceNumber": 33,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "69aa23f265924ac298f8b89c99e0701b",
+        "Name": "NORTREL 0.5/35-21",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38974730
+      },
+      {
+        "ReferenceNumber": 34,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "bfc0edbb8be0d1c33c41df8fb5b542dd",
+        "Name": "MODICON 28",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38974857
+      },
+      {
+        "ReferenceNumber": 35,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "6a2d92f7740add028e41a40c76836e3d",
+        "Name": "ORTHO-NOVUM 7/7/7-21",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38975151
+      },
+      {
+        "ReferenceNumber": 36,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "8b38dd69485e6664e39ca73fd7c830ef",
+        "Name": "N.E.E. 1/35 21",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38975187
+      },
+      {
+        "ReferenceNumber": 37,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "f75849f0b710fc9c68b1c224f4934f1c",
+        "Name": "NYLIA 7/7/7",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38975314
+      },
+      {
+        "ReferenceNumber": 38,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "f4a47758f146ba2c857d6b337913ee6d",
+        "Name": "ORTHO-NOVUM 10/11-28",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38975823
+      },
+      {
+        "ReferenceNumber": 39,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "ebe32ab7774bbc639cd7ce91709bcbeb",
+        "Name": "NORINYL 1+35 28-DAY",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38976703
+      },
+      {
+        "ReferenceNumber": 40,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "8ef12e73df99d70cc3286d511a47637d",
+        "Name": "NORTREL 1/35-28",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38976874
+      },
+      {
+        "ReferenceNumber": 41,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "9fc9c964d8567e410a1a6859362004a6",
+        "Name": "N.E.E. 1/35 28",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38976979
+      },
+      {
+        "ReferenceNumber": 42,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "1b4798a5f5d285c1453a56631324f997",
+        "Name": "KAITLIB FE",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38977025
+      },
+      {
+        "ReferenceNumber": 43,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "bf869a7b7409bd562b482f0575026974",
+        "Name": "ORTHO-NOVUM 7/7/7-28",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38977367
+      },
+      {
+        "ReferenceNumber": 44,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "e9a5d16270879ccc9014a64fe4d8538c",
+        "Name": "OVCON-50",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38977407
+      },
+      {
+        "ReferenceNumber": 45,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "6f30028fc940bad5a88750c5ca132825",
+        "Name": "GENCEPT 10/11-28",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38977759
+      },
+      {
+        "ReferenceNumber": 46,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "cd006fa78ac1ec670e06f94f5ebbd923",
+        "Name": "NORTREL 0.5/35-28",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38977960
+      },
+      {
+        "ReferenceNumber": 47,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "daa2e8c79556fb5f1d2105e3e684b465",
+        "Name": "NYLIA 1/35",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38977962
+      },
+      {
+        "ReferenceNumber": 48,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "100f4b42cbe1d321525a0838f9b3be65",
+        "Name": "ALYACEN 7/7/7",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38978123
+      },
+      {
+        "ReferenceNumber": 49,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "fd946464d9ac92139113ae69f1f3c143",
+        "Name": "TRI-NORINYL 28-DAY",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38978129
+      },
+      {
+        "ReferenceNumber": 50,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "37a02369b28c183029ff51d465d84e25",
+        "Name": "ORTHO-NOVUM 7/14-21",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38978130
+      },
+      {
+        "ReferenceNumber": 51,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "bd4e720b8a26d2f2f0cd2dcaeaf97778",
+        "Name": "ARANELLE",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38978282
+      },
+      {
+        "ReferenceNumber": 52,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "631edc8b5c85167bef3b38bf81a3e4bb",
+        "Name": "OVCON-35",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38978543
+      },
+      {
+        "ReferenceNumber": 53,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "29941aab073b8028d79917d62136c0ad",
+        "Name": "NORETHINDRONE AND ETHINYL ESTRADIOL",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38978675
+      },
+      {
+        "ReferenceNumber": 54,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "ccae1e2d24183532e9e514c8cf587195",
+        "Name": "ORTHO-NOVUM 1/35-28",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38979265
+      },
+      {
+        "ReferenceNumber": 58,
+        "SourceName": "WHO Model Lists of Essential Medicines",
+        "SourceID": "185",
+        "Name": "Ethinylestradiol + norethisterone",
+        "Description": "The WHO Model Lists of Essential Medicines contains the medications considered to be most effective and safe to meet the most important needs in a health system. It has been updated every two years since 1977.",
+        "URL": "https://list.essentialmeds.org/medicines/185",
+        "LicenseNote": "Permission from WHO is not required for the use of WHO materials issued under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Intergovernmental Organization (CC BY-NC-SA 3.0 IGO) license.",
+        "LicenseURL": "https://www.who.int/about/policies/publishing/copyright",
+        "ANID": 13127872
+      },
+      {
+        "ReferenceNumber": 56,
+        "SourceName": "National Drug Code (NDC) Directory",
+        "SourceID": "9b087412554fca600f901113f3182f28",
+        "Name": "NORETHINDRONE AND ETHINYL ESTRADIOL",
+        "Description": "The National Drug Code (NDC) is a unique, three-segment number that serves as FDA's identifier for drugs. The NDC Directory contains information on active and certified finished and unfinished drugs submitted to FDA.",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 31125032
+      },
+      {
+        "ReferenceNumber": 59,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q17004476",
+        "Name": "ethinylestradiol/norethisterone",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q17004476",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44203972
+      },
+      {
+        "ReferenceNumber": 60,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0074135",
+        "Name": "norethindrone acetate, ethinyl estradiol, ferrous fumarate drug combination",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0074135.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 61,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 62,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "DescTree",
+        "Name": "MeSH Tree",
+        "Description": "MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 64,
+        "SourceName": "ChemIDplus",
+        "SourceID": "ChemIDplus_tree",
+        "Name": "ChemIDplus Chemical Information Classification",
+        "Description": "ChemIDplus is a TOXNET (TOXicology data NETwork) databases that contain chemicals and drugs related information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/chemidplus",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true
+      },
+      {
+        "ReferenceNumber": 65,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "dsstoxlist_tree",
+        "Name": "CompTox Chemicals Dashboard Chemical Lists",
+        "Description": "This classification lists the chemical categories from the EPA CompTox Chemicals Dashboard.",
+        "URL": "https://comptox.epa.gov/dashboard/chemical-lists/",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 67,
+        "SourceName": "National Drug Code (NDC) Directory",
+        "SourceID": "fdandc_tree",
+        "Name": "FDA Drug Type and Pharmacologic Classification",
+        "Description": "The FDA Drug Type and Pharmacologic Classification is created based on the FDA drug types and pharm classes data from the National Drug Code (NDC) Directory.",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking"
+      },
+      {
+        "ReferenceNumber": 68,
+        "SourceName": "PubChem",
+        "SourceID": "regtree",
+        "Name": "Chemicals in PubChem from Regulatory Sources",
+        "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources."
+      },
+      {
+        "ReferenceNumber": 69,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "PubMed from MeSH",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 70,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0005117",
+        "Name": "Contraceptives, Oral, Combined",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0005117.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 71,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0005118",
+        "Name": "Contraceptives, Oral, Hormonal",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0005118.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 72,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0005119",
+        "Name": "Contraceptives, Oral, Sequential",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0005119.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 73,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0005120",
+        "Name": "Contraceptives, Oral, Synthetic",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0005120.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      }
+    ]
+  }
+}

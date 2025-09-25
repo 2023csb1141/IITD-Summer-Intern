@@ -1,0 +1,3907 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 2733928,
+    "RecordTitle": "Levacecarnine hydrochloride",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "3D Conformer of Parent",
+                "Description": "O-acetylcarnitinium",
+                "Value": {
+                  "Number": [
+                    439756
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Crystal Structures",
+            "Description": "This section provides links to crystallographic information from various sources.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "MoveToTop": true,
+              "ShowAtMost": 1
+            },
+            "Section": [
+              {
+                "TOCHeading": "COD Number",
+                "Description": "An identifier assigned to the crystal structure in the Crystallography Open Database (COD).",
+                "URL": "https://www.crystallography.net/cod",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "COD Number",
+                    "URL": "https://www.crystallography.net/cod/2004210.html",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2004210"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Associated Article",
+                "Description": "Publication associated with the crystal structure of the compound. Typically it is the paper in which the crystal structure was originally reported.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Associated Article",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Weber, H. P.; Anderson, R. C.; Shapiro, M.; Villhauer, E. B.; Gullion, T.. Acetyl-L-carnitine Hydrochloride. Acta Crystallographica Section C 1995;51(12):2570-2572. DOI: 10.1107/S0108270195008420",
+                          "Markup": [
+                            {
+                              "Start": 82,
+                              "Length": 1,
+                              "Type": "Small"
+                            },
+                            {
+                              "Start": 170,
+                              "Length": 40,
+                              "URL": "http://doi.org/10.1107/S0108270195008420"
+                            },
+                            {
+                              "Start": 75,
+                              "Length": 32,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Acetyl-L-carnitine%20Hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2733928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Crystal Structure Data",
+                "Description": "Information about this crystal structure record.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Crystal Structure Depiction",
+                    "URL": "https://www.crystallography.net/cod/2004210.html",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/30602958_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Hermann-Mauguin space group symbol",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "P 21 21 21"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Hall space group symbol",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "P 2ac 2ab"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Space group number",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "19"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "a",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "8.5710"
+                        }
+                      ],
+                      "Unit": "Å"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "b",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "8.8420"
+                        }
+                      ],
+                      "Unit": "Å"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "c",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "16.6070"
+                        }
+                      ],
+                      "Unit": "Å"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "α",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "90"
+                        }
+                      ],
+                      "Unit": "°"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "β",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "90"
+                        }
+                      ],
+                      "Unit": "°"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "γ",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "90"
+                        }
+                      ],
+                      "Unit": "°"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Z'",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Component",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1 x OC(=O)C[C@H](C[N+](C)(C)C)OC(=O)C (O-acetylcarnitinium)",
+                          "Markup": [
+                            {
+                              "Start": 39,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/439756"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Component",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1 x [Cl-] (Chloride Ion)",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/312"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Primary Hazards",
+        "Description": "Link to the Safety and Hazard section of this page and link to the Laboratory Chemical Safety Summary (LCSS) datasheet for this compound.",
+        "DisplayControls": {
+          "HideThisSection": true,
+          "MoveToTop": true
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 27,
+            "Value": {
+              "StringWithMarkup": [
+                {
+                  "String": "          ",
+                  "Markup": [
+                    {
+                      "Start": 0,
+                      "Length": 1,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg",
+                      "Type": "Icon",
+                      "Extra": "Irritant"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Reference": [
+                  "International Journal of Toxicology 31(Suppl. 3):296-341, 2012"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "International Journal of Toxicology 31(Suppl. 3):296-341, 2012",
+                    "Matched": {
+                      "PCLID": 906421389,
+                      "Citation": "International Journal of Toxicology 31(Suppl. 3):296-341, 2012"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "The CIR Expert Panel concluded the following ingredients are safe in the present practices of use and concentration described in the safety assessment when formulated to be non-irritating...Acetyl Carnitine HCl...",
+                      "Markup": [
+                        {
+                          "Start": 190,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Acetyl%20Carnitine%20HCl",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-2733928"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "L-Acetylcarnitine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).",
+                      "Markup": [
+                        {
+                          "Start": 58,
+                          "Length": 37,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/511145"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-Acetylcarnitine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "multiple-CIDs"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 19,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Acetyl-L-Carnitine Hydrochloride is a nutritional supplement composed of the hydrochloride salt form of the acetylated form of the endogenously produced L-carnitine, with potential neuroprotective, cognitive-enhancing, anti-depressive and immunomodulating activities. L-carnitine is responsible for the transport of fatty acids into the mitochondria for breakdown. It may also relieve peripheral neuropathy induced by chemotherapy, diabetes or other diseases. In addition, acetyl-L-carnitine may modulate the immune response by increasing T-lymphocytes maturation and may downregulate pro-inflammatory cytokines in response to viruses, such as SARS-CoV-2.  It may also disrupt the ACE2 signaling pathway and inhibit the production of reactive oxygen species (ROS).",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 32,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Acetyl-L-Carnitine%20Hydrochloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-2733928"
+                        },
+                        {
+                          "Start": 153,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-carnitine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-10917"
+                        },
+                        {
+                          "Start": 268,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-carnitine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-10917"
+                        },
+                        {
+                          "Start": 473,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetyl-L-carnitine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-7045767"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[(2R)-2-acetyloxy-3-carboxypropyl]-trimethylazanium;chloride",
+                          "Markup": [
+                            {
+                              "Start": 3,
+                              "Length": 1,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C9H17NO4.ClH/c1-7(11)14-8(5-9(12)13)6-10(2,3)4;/h8H,5-6H2,1-4H3;1H/t8-;/m1./s1"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "JATPLOXBFFRHDN-DDWIOCJRSA-N"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC(=O)O[C@H](CC(=O)O)C[N+](C)(C)C.[Cl-]"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C9H18NO4.Cl"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 27,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C9H18ClNO4"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5080-50-2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "URL": "https://commonchemistry.cas.org/detail?cas_rn=5080-50-2",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5080-50-2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5080-50-2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "CAS",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5080-50-2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5080-50-2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5080-50-2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5080-50-2"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "European Community (EC) Number",
+                "Description": "The European Community (EC) number is a seven-digit identifier assigned by the European Chemicals Agency (ECHA) to substances for regulatory purposes within the European Union. EC numbers are sometimes referred to as EINECS, ELINCS, or NLP numbers, because the EC Inventory comprises three individual inventories (EINECS, ELINCS, and the NLP list).",
+                "URL": "https://echa.europa.eu/information-on-chemicals/ec-inventory",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.112.119",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "610-570-8"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.217.077",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "690-015-4"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/NDW10MX58T",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NDW10MX58T"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ChEMBL ID",
+                "Description": "ChEMBL compound identifier",
+                "URL": "https://www.ebi.ac.uk/chembl/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "URL": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1321219",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CHEMBL1321219"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Metabolomics Workbench ID",
+                "Description": "Registration number used by Metabolomics Workbench",
+                "URL": "https://www.metabolomicsworkbench.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=70054",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "70054"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "NCI Thesaurus Code",
+                "Description": "Stable, unique code for biomedical concept",
+                "URL": "https://ncithesaurus.nci.nih.gov",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "URL": "https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C61624",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C61624"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "NSC Number",
+                "Description": "The National Service Center (NSC) number is a numeric identifier for substances submitted to the National Cancer Institute (NCI) for testing and evaluation. It is a registration number for the Developmental Therapeutics Program (DTP) repository.",
+                "URL": "https://dtp.cancer.gov/organization/dscb/compoundSubmission/faqs.htm",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "NSC Number",
+                    "URL": "https://dtp.cancer.gov/dtpstandard/servlet/dwindex?searchtype=NSC&outputformat=html&searchlist=747431",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "747431"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "URL": "https://www.wikidata.org/wiki/Q27295965",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q27295965"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Entry Terms",
+                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Branigen"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Acetyl-L-carnitine hydrochloride"
+                        },
+                        {
+                          "String": "acetyl l-carnitine hydrochloride"
+                        },
+                        {
+                          "String": "Acetylcarnitine hydrochloride"
+                        },
+                        {
+                          "String": "NDW10MX58T"
+                        },
+                        {
+                          "String": "Branigen"
+                        },
+                        {
+                          "String": "ACETYL-L-CARNITINE CHLORIDE"
+                        },
+                        {
+                          "String": "ACETYL CARNITINE HCL"
+                        },
+                        {
+                          "String": "Levacecarnine hydrochloride"
+                        },
+                        {
+                          "String": "ACETYLCARNITINE HYDROCHLORIDE [MI]"
+                        },
+                        {
+                          "String": "ACETYLCARNITINE HYDROCHLORIDE [MART.]"
+                        },
+                        {
+                          "String": "ACETYLCARNITINE HYDROCHLORIDE [WHO-DD]"
+                        },
+                        {
+                          "String": "1-PROPANAMINIUM, 2-(ACETYLOXY)-3-CARBOXY-N,N,N-TRIMETHYL-, CHLORIDE (1:1), (2R)-"
+                        },
+                        {
+                          "String": "AMMONIUM, (3-CARBOXY-2-HYDROXYPROPYL)TRIMETHYL-, CHLORIDE, ACETATE, (-)-"
+                        },
+                        {
+                          "String": "DTXCID1020693"
+                        },
+                        {
+                          "String": "ACETYLCARNITINE HYDROCHLORIDE (MART.)"
+                        },
+                        {
+                          "String": "((2R)-2-acetoxy-3-carboxy-propyl)-trimethyl-ammonium;chloride"
+                        },
+                        {
+                          "String": "[(2R)-2-acetoxy-3-carboxy-propyl]-trimethyl-ammonium;chloride"
+                        },
+                        {
+                          "String": "RefChem:799005"
+                        },
+                        {
+                          "String": "ACETYL CARNITINE HCL [INCI]"
+                        },
+                        {
+                          "String": "610-570-8"
+                        },
+                        {
+                          "String": "DTXSID3040693"
+                        },
+                        {
+                          "String": "5080-50-2"
+                        },
+                        {
+                          "String": "o-Acetyl-L-carnitine hydrochloride"
+                        },
+                        {
+                          "String": "Acetylcarnitine chloride"
+                        },
+                        {
+                          "String": "UNII-NDW10MX58T"
+                        },
+                        {
+                          "String": "Acetylcarnitine L-form HCl"
+                        },
+                        {
+                          "String": "MFCD00082230"
+                        },
+                        {
+                          "String": "Acetylcarnitine hydrochloride, l-"
+                        },
+                        {
+                          "String": "Acetylcarnitine L-form hydrochloride"
+                        },
+                        {
+                          "String": "O-Acetyl-L-carnitine HCl"
+                        },
+                        {
+                          "String": "(R)-3-Acetoxy-4-(trimethylammonio)butyrate hydrochloride"
+                        },
+                        {
+                          "String": "Branigan"
+                        },
+                        {
+                          "String": "NSC 747431"
+                        },
+                        {
+                          "String": "R-(-)-2-Acetyloxy-3-carboxy-N,N,N-trimethyl-1-propanaminium chloride"
+                        },
+                        {
+                          "String": "L-ACETYLCARNITINE"
+                        },
+                        {
+                          "String": "acetyl L-carnitine chloride"
+                        },
+                        {
+                          "String": "(R)-2-Acetoxy-3-carboxy-N,N,N-trimethylpropan-1-aminium chloride"
+                        },
+                        {
+                          "String": "SMR000875234"
+                        },
+                        {
+                          "String": "Acetyl-L-carnitine (hydrochloride)"
+                        },
+                        {
+                          "String": "O-Acetyl-L-carnitine (hydrochloride)"
+                        },
+                        {
+                          "String": "bmse000464"
+                        },
+                        {
+                          "String": "MLS001332367"
+                        },
+                        {
+                          "String": "MLS001332368"
+                        },
+                        {
+                          "String": "orb1305315"
+                        },
+                        {
+                          "String": "CHEMBL1321219"
+                        },
+                        {
+                          "String": "SCHEMBL29376874"
+                        },
+                        {
+                          "String": "acetyl-l-car-nitine hydrochloride"
+                        },
+                        {
+                          "String": "HMS2233G09"
+                        },
+                        {
+                          "String": "N-Acetyl-L-carnitine hydrochloride"
+                        },
+                        {
+                          "String": "AC-004"
+                        },
+                        {
+                          "String": "MSK164815"
+                        },
+                        {
+                          "String": "NSC747431"
+                        },
+                        {
+                          "String": "SBB062879"
+                        },
+                        {
+                          "String": "AKOS005138019"
+                        },
+                        {
+                          "String": "AKOS015963427"
+                        },
+                        {
+                          "String": "CCG-266869"
+                        },
+                        {
+                          "String": "FA31584"
+                        },
+                        {
+                          "String": "AS-11664"
+                        },
+                        {
+                          "String": "SY057425"
+                        },
+                        {
+                          "String": "Acetyl-L-carnitine Hydrochloride, >/=99%"
+                        },
+                        {
+                          "String": "A1394"
+                        },
+                        {
+                          "String": "1-Propanaminium,N,N-trimethyl-, chloride, (2R)-"
+                        },
+                        {
+                          "String": "[(2R)-2-acetoxy-3-carboxy-propyl]-trimethyl-ammonium"
+                        },
+                        {
+                          "String": "Q27295965"
+                        },
+                        {
+                          "String": "(3R)-3-acetyloxy-4-(trimethylamino)butanoic acid, chloride"
+                        },
+                        {
+                          "String": "[(2R)-2-(acetyloxy)-3-carboxypropyl]trimethylazanium chloride"
+                        },
+                        {
+                          "String": "O-Acetyl-L-carnitine hydrochloride, >=99% (titration), powder"
+                        },
+                        {
+                          "String": "(R)-2-Acetoxy-3-carboxy-N,N,N-trimethyl-1-propanaminium Chloride"
+                        },
+                        {
+                          "String": "(3-Carboxy-2-hydroxypropyl)trimethylammonium acetate (ester) chloride"
+                        },
+                        {
+                          "String": "1-Propanaminium, 2-(acetyloxy)-3-carboxy-N,N,N-trimethyl-, chloride, (2R)- (1:1)"
+                        },
+                        {
+                          "String": "1-Propanaminium, 2-(acetyloxy)-3-carboxy-N,N,N-trimethyl-, chloride, (R)-"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Nicetile"
+                        },
+                        {
+                          "String": "chloride"
+                        },
+                        {
+                          "String": "ALCAR"
+                        },
+                        {
+                          "String": "Normobren"
+                        },
+                        {
+                          "String": "Zibren"
+                        },
+                        {
+                          "String": "Oristar ach"
+                        },
+                        {
+                          "String": "AC1MBZZE"
+                        },
+                        {
+                          "String": "Acetyl-L-Carnitine HCl"
+                        },
+                        {
+                          "String": "C9H17NO4.HCl"
+                        },
+                        {
+                          "String": "Acetyl dl-carnitine chloride"
+                        },
+                        {
+                          "String": "C9H18NO4.Cl"
+                        },
+                        {
+                          "String": "C9-H18-N-O4.Cl"
+                        },
+                        {
+                          "String": "ACETYL-L-CARNITINE HCL 5GM"
+                        },
+                        {
+                          "String": "NSC-747431"
+                        },
+                        {
+                          "String": "ACT03195"
+                        },
+                        {
+                          "String": "ACETYLLCARNITINE HYDROCHLORIDE"
+                        },
+                        {
+                          "String": "ST-200"
+                        },
+                        {
+                          "String": "ACETYL-L-CARNITINE HCL 500GM"
+                        },
+                        {
+                          "String": "CID2733928"
+                        },
+                        {
+                          "String": "BC215760"
+                        },
+                        {
+                          "String": "B6273"
+                        },
+                        {
+                          "String": "FT-0627640"
+                        },
+                        {
+                          "String": "ST24036109"
+                        },
+                        {
+                          "String": "(S)-3-Acetoxy-4-(trimethylammonio)butanoate hydrochloride"
+                        },
+                        {
+                          "String": "M-1725"
+                        },
+                        {
+                          "String": "Acetyl-L-carnitine hydrochloride, 98% - 1G 1g"
+                        },
+                        {
+                          "String": "A828304"
+                        },
+                        {
+                          "String": "( inverted exclamation markA)-Acetylcarnitine chloride"
+                        },
+                        {
+                          "String": "[(2R)-2-acetyloxy-3-carboxypropyl]-trimethylazanium;chloride"
+                        },
+                        {
+                          "String": "B0084-012173"
+                        },
+                        {
+                          "String": "ALC"
+                        },
+                        {
+                          "String": "(R)-2-Acetyloxy-3-carboxy-N,N,N-trimethyl-1-propanaminium chloride"
+                        },
+                        {
+                          "String": "[(2R)-2-acetyloxy-4-hydroxy-4-oxobutyl]-trimethylazanium chloride"
+                        },
+                        {
+                          "String": "1-Propanaminium, 2-(acetyloxy)-3-carboxy-N,N,N-trimethyl-, chloride, (2R)-"
+                        },
+                        {
+                          "String": "(2R)-2-(Acetyloxy)-3-carboxy-N,N,N-trimethyl-1-propanaminium Chloride; 2-(Acetyloxy)-3-carboxy-N,N,N-trimethyl-1-propanaminium, chloride, (R)-; Ammonium, (3-carboxy-2-hydroxypropyl)trimethyl-, chloride, acetate, (-)- (8CI); Acetyl L-carnitine hydrochloride; Acetylcarnitine chloride; Branigen; L-Acetylcarnitine chloride; Levacecarnine hydrochloride; Normobren; O-Acetylcarnitine hydrochloride; ST 200; Zibren; l-Acetylcarnitine hydrochloride; 1-Propanaminium, 2-(acetyloxy)-3-carboxy-N,N,N-trimethyl-, chloride (1:1), (2R)-; 1-Propanaminium, 2-(acetyloxy)-3-carboxy-N,N,N-trimethyl-, chloride, (2R)- (9CI); 1-Propanaminium, 2-(acetyloxy)-3-carboxy-N,N,N-trimethyl-, chloride, (R)-;"
+                        },
+                        {
+                          "String": "2504-11-2"
+                        },
+                        {
+                          "String": "3040-38-8"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Value": {
+                  "DateISO8601": [
+                    "2005-07-19"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-09-13"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "239.69"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        6
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "239.0924357"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "239.0924357"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        63.6
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        15
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        219
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Experimental Properties",
+            "Description": "Various experimentally determined properties for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+            "Section": [
+              {
+                "TOCHeading": "Solubility",
+                "Description": "The solubility of a substance is the amount of that substance that will dissolve in a given amount of solvent. The default solvent is water, if not indicated.",
+                "URL": "https://chem.libretexts.org/Courses/Purdue/Purdue%3A_Chem_26505%3A_Organic_Chemistry_I_(Lipton)/Chapter_4._Intermolecular_Forces_and_Physical_Properties/4.4_Solubility",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": ">36 [ug/mL] (The mean of the results at pH 7.4)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Classes",
+            "Description": "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties, radiological properties, or other factors.",
+            "Section": [
+              {
+                "TOCHeading": "Cosmetics",
+                "Description": "Chemicals are used as ingredients in cosmetic products.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Reference": [
+                      "International Journal of Toxicology 31(Suppl. 3):296-341, 2012"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "International Journal of Toxicology 31(Suppl. 3):296-341, 2012",
+                        "Matched": {
+                          "PCLID": 906421389,
+                          "Citation": "International Journal of Toxicology 31(Suppl. 3):296-341, 2012"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cosmetic ingredients (Acetyl Carnitine HCl) -> CIR (Cosmetic Ingredient Review)",
+                          "Markup": [
+                            {
+                              "Start": 22,
+                              "Length": 20,
+                              "URL": "https://cir-reports.cir-safety.org/cir-ingredient-status-report/?id=a0235c4e-aa25-4257-994b-686bde861d89"
+                            },
+                            {
+                              "Start": 22,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Acetyl%20Carnitine%20HCl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2733928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Spectral Information",
+        "Description": "Spectral data for this compound, including 1-D and 2-D nuclear magnetic resonance (NMR), Infrared (IR), Raman, and Ultraviolet (UV) spectroscopy, mass spectrometry (MS), and chromatography.",
+        "Section": [
+          {
+            "TOCHeading": "1D NMR Spectra",
+            "Description": "One-dimensional (1D) nuclear magnetic resonance (NMR) spectra.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 2
+            },
+            "Section": [
+              {
+                "TOCHeading": "1H NMR Spectra",
+                "Description": "Hydrogen-1 nuclear magnetic resonance (NMR) spectroscopy (also known as H1 NMR or proton NMR) is a version of NMR spectroscopy used to elucidate the structure of hydrogen-containing compounds.",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Source of Spectrum",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sigma-Aldrich Co. LLC."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Source of Sample",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sigma-Aldrich Co. LLC."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Catalog Number",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "360929"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Copyright",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Copyright © 2021-2025 Sigma-Aldrich Co. LLC. - Database Compilation Copyright © 2021-2025 John Wiley & Sons, Inc. All Rights Reserved."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Thumbnail",
+                    "URL": "https://spectrabase.com/spectrum/Cc7LQbTORS0",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/13606155_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "13C NMR Spectra",
+                "Description": "Carbon-13 nuclear magnetic resonance (NMR) spectroscopy (also known as 13C NMR) is a version of NMR spectroscopy used to elucidate the structure of carbon-containing compounds.",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Source of Spectrum",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sigma-Aldrich Co. LLC."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Source of Sample",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sigma-Aldrich Co. LLC."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Catalog Number",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "360929"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Copyright",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Copyright © 2021-2025 Sigma-Aldrich Co. LLC. - Database Compilation Copyright © 2021-2025 John Wiley & Sons, Inc. All Rights Reserved."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Thumbnail",
+                    "URL": "https://spectrabase.com/spectrum/K9oVq7Z2QZ9",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/13606154_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "IR Spectra",
+            "Description": "Infrared spectroscopy (IR spectroscopy) is the spectroscopy that deals with the infrared region of the electromagnetic spectrum extending from 780 nm to about 20000 nm.  The IR spectra tells you what types of vibrational mode (motion) responses occur in a molecule interacting with infrared light.  It is used to help determine the functional groups in a molecule.",
+            "URL": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Spectroscopy/Vibrational_Spectroscopy/Infrared_Spectroscopy",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 2
+            },
+            "Section": [
+              {
+                "TOCHeading": "FTIR Spectra",
+                "Description": "Fourier transform infrared spectroscopy (FTIR) results for this chemical.",
+                "URL": "https://chem.libretexts.org/Courses/Howard_University/Howard%3A_Physical_Chemistry_Laboratory/14._Fourier_Transform_Infrared_Spectroscopy_(FTIR)",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Technique",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Mull"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Source of Spectrum",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sigma-Aldrich Co. LLC."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Source of Sample",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Aldrich"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Catalog Number",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "360929"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Copyright",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Copyright © 2018-2025 Sigma-Aldrich Co. LLC. - Database Compilation Copyright © 2018-2025 John Wiley & Sons, Inc. All Rights Reserved."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Thumbnail",
+                    "URL": "https://spectrabase.com/spectrum/24Ar4Yx3VmY",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/10529881_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ATR-IR Spectra",
+                "Description": "Attenuated total reflection infrared (ATR-IR) spectral data.  ATR is a sampling technique that enables samples to be examined directly in the solid or liquid state without further preparation.  ATR-IR can be applied to the same chemical or biological systems as the transmission IR.  An advantage of ATR-IR over the transmission IR is the limited path length into the sample, because ATR-IR avoids the problem of strong attenuation of the IR signal in highly absorbing media such as aqueous solutions.",
+                "URL": "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumental_Analysis/Spectrometer/ATR-FTIR",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Name": "Source of Sample",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Aldrich"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Name": "Catalog Number",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "360929"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Name": "Copyright",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Copyright © 2018-2025 Sigma-Aldrich Co. LLC. - Database Compilation Copyright © 2018-2025 John Wiley & Sons, Inc. All Rights Reserved."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Name": "Thumbnail",
+                    "URL": "https://spectrabase.com/spectrum/4Vk33izMGc0",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/10529880_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID2733928%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID2733928%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Parent Compound",
+            "Description": "A parent compound is conceptually the \"important\" part of the molecule when the molecule has more than one covalent component. Specifically, a parent component must have at least one carbon and contain at least 70% of the heavy (non-hydrogen) atoms of all the unique covalent units (ignoring stoichiometry). Note that this is a very empirical definition and is subject to change.",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 439756 (O-acetylcarnitinium)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 32,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=439756",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 32,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/439756"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Component Compounds",
+            "Description": "Component parts of the compound when it consists of multiple covalently-bonded units.  In PubChem, a covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or single atom without covalent bonds).",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 439756 (O-acetylcarnitinium)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 32,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=439756",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 32,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/439756"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "CID 313 (Hydrochloric Acid)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 27,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=313",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 27,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/313"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "Same Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2733928/cids/JSON?cids_type=same_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    8
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 27,
+                "Name": "Same Stereo Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2733928/cids/JSON?cids_type=same_stereo&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    6
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 27,
+                "Name": "Same Isotope Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2733928/cids/JSON?cids_type=same_isotopes&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    3
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 27,
+                "Name": "Same Parent, Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2733928/cids/JSON?cids_type=same_parent_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    140
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 27,
+                "Name": "Same Parent, Stereo Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2733928/cids/JSON?cids_type=same_parent_stereo&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    76
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 27,
+                "Name": "Same Parent, Isotope Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2733928/cids/JSON?cids_type=same_parent_isotopes&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    52
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 27,
+                "Name": "Same Parent, Exact Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2733928/cids/JSON?cids_type=same_parent&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    24
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 27,
+                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2733928/cids/JSON?cids_type=component&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 27,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID2733928%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 27,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID2733928%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/505794734",
+                    "Value": {
+                      "Number": [
+                        505794734
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2733928/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        104
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Journal Publishers"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "NIH Initiatives"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 27,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Drug and Medication Information",
+        "Description": "This section provides drug and medication information for this compound, including drug indications, labeling, clinical trials, idiosyncrasies, tolerance, reported fatal doses, etc.",
+        "Section": [
+          {
+            "TOCHeading": "Drug Labels",
+            "Description": "This section provides the drug labeling information for drug products associated with this compound. This information is from The National Library of Medicine (NLM)'s DailyMed, which provides the most recent labeling submitted to the Food and Drug Administration (FDA) by companies and currently in use (i.e., \"in use\" labeling). DailyMed contains labeling for prescription and nonprescription drugs for human and animal use, and for additional products such as medical gases, devices, cosmetics, dietary supplements, and medical foods.",
+            "URL": "https://dailymed.nlm.nih.gov/dailymed/",
+            "DisplayControls": {
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Name": "Active ingredient and drug",
+                "Value": {
+                  "ExternalTableName": "collection=dailymed_i&query_type=synonym&query='^LEVACECARNINE HYDROCHLORIDE$'"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Clinical Trials",
+            "Description": "Clinical trials are research studies performed in people to evaluate a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment (e.g., a drug or diet) or medical device (e.g., a pacemaker) is safe and effective in people.  This section provides information on clinical trials for this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "ClinicalTrials.gov",
+                "Description": "Brief clinical trials summary from ClinicalTrials.gov at the U.S. National Library of Medicine.",
+                "URL": "http://clinicaltrials.gov/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "ClinicalTrials.gov",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials",
+                      "ExternalTableNumRows": 4
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EU Clinical Trials Register",
+                "Description": "Brief clinical trials summary from the EU Clinical Trials Register.",
+                "URL": "https://www.clinicaltrialsregister.eu/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "EU Clinical Trials Register",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials_eu",
+                      "ExternalTableNumRows": 3
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Pharmacology and Biochemistry",
+        "Description": "Pharmacology and biochemistry information related to this compound, including the pharmacodynamics, pharmacokinetics, metabolism, mechanism of action, biological half-life, biochemical reactions, and many others.",
+        "Section": [
+          {
+            "TOCHeading": "MeSH Pharmacological Classification",
+            "Description": "Pharmacological action classes from the Medical Subject Headings (MeSH) thesaurus.",
+            "URL": "https://meshb.nlm.nih.gov/record/ui?ui=D020228",
+            "Information": [
+              {
+                "ReferenceNumber": 38,
+                "Name": "Vitamin B Complex",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "A group of water-soluble vitamins, some of which are COENZYMES."
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 39,
+                "Name": "Nootropic Agents",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Drugs used to specifically facilitate learning or memory, particularly to prevent the cognitive deficits associated with dementias. These drugs act by a variety of mechanisms."
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+        "Section": [
+          {
+            "TOCHeading": "Uses",
+            "Description": "Major uses of this chemical, including both consumer uses and industrial uses.",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Name": "Cosmetic Ingredient Review Link",
+                "Reference": [
+                  "International Journal of Toxicology 31(Suppl. 3):296-341, 2012"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "International Journal of Toxicology 31(Suppl. 3):296-341, 2012",
+                    "Matched": {
+                      "PCLID": 906421389,
+                      "Citation": "International Journal of Toxicology 31(Suppl. 3):296-341, 2012"
+                    }
+                  }
+                ],
+                "URL": "https://cir-reports.cir-safety.org/cir-ingredient-status-report/?id=a0235c4e-aa25-4257-994b-686bde861d89",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CIR ingredient: Acetyl Carnitine HCl",
+                      "Markup": [
+                        {
+                          "Start": 16,
+                          "Length": 20,
+                          "URL": "https://cir-reports.cir-safety.org/cir-ingredient-status-report/?id=a0235c4e-aa25-4257-994b-686bde861d89"
+                        },
+                        {
+                          "Start": 16,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Acetyl%20Carnitine%20HCl",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-2733928"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Safety and Hazards",
+        "Description": "Information on safety and hazards for this compound, including safety/hazards properties, reactivity, incompatibilities, management techniques, first aid treatments, and more.  For toxicity and related information, please see the Toxicity section.",
+        "Section": [
+          {
+            "TOCHeading": "Hazards Identification",
+            "Description": "This section identifies the hazards of the chemical presented on the safety data sheet (SDS) and the appropriate warning information associated with those hazards.  The information in this section includes, but are not limited to, the hazard classification of the chemical, signal word, pictograms, hazard statements and precautionary statements.",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "GHS Classification",
+                "Description": "GHS (Globally Harmonized System of Classification and Labelling of Chemicals) is a United Nations system to identify hazardous chemicals and to inform users about these hazards. GHS has been adopted by many countries around the world and is now also used as the basis for international and national transport regulations for dangerous goods. The GHS hazard statements, class categories, pictograms, signal words, and the precautionary statements can be found on the PubChem GHS page.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Note",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "This chemical does not meet GHS hazard criteria for 3.4% (2  of 59) of reports.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 79,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Pictogram(s)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "          ",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg",
+                              "Type": "Icon",
+                              "Extra": "Irritant"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Signal",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Warning",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "Type": "Color",
+                              "Extra": "GHSWarning"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "GHS Hazard Statements",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "H315 (94.9%): Causes skin irritation [Warning Skin corrosion/irritation]",
+                          "Markup": [
+                            {
+                              "Start": 38,
+                              "Length": 7,
+                              "Type": "Color",
+                              "Extra": "GHSWarning"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "H319 (96.6%): Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+                          "Markup": [
+                            {
+                              "Start": 45,
+                              "Length": 7,
+                              "Type": "Color",
+                              "Extra": "GHSWarning"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "H335 (93.2%): May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+                          "Markup": [
+                            {
+                              "Start": 48,
+                              "Length": 7,
+                              "Type": "Color",
+                              "Extra": "GHSWarning"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Precautionary Statement Codes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "P261, P264, P264+P265, P271, P280, P302+P352, P304+P340, P305+P351+P338, P319, P321, P332+P317, P337+P317, P362+P364, P403+P233, P405, and P501",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P261"
+                            },
+                            {
+                              "Start": 6,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P264"
+                            },
+                            {
+                              "Start": 12,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P264+P265"
+                            },
+                            {
+                              "Start": 23,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P271"
+                            },
+                            {
+                              "Start": 29,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P280"
+                            },
+                            {
+                              "Start": 35,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P302+P352"
+                            },
+                            {
+                              "Start": 46,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P304+P340"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P305+P351+P338"
+                            },
+                            {
+                              "Start": 73,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P319"
+                            },
+                            {
+                              "Start": 79,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P321"
+                            },
+                            {
+                              "Start": 85,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P332+P317"
+                            },
+                            {
+                              "Start": 96,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P337+P317"
+                            },
+                            {
+                              "Start": 107,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P362+P364"
+                            },
+                            {
+                              "Start": 118,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P403+P233"
+                            },
+                            {
+                              "Start": 129,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P405"
+                            },
+                            {
+                              "Start": 139,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P501"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "ECHA C&L Notifications Summary",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Aggregated GHS information provided per 59 reports by companies from 13 notifications to the ECHA C&L Inventory. Each notification may be associated with multiple companies.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 177,
+                              "Type": "Italics"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Reported as not meeting GHS hazard criteria per 2 of 59 reports by companies.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 77,
+                              "Type": "Italics"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "There are 11 notifications provided by 57 of 59 reports by companies with hazard statement code(s).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 99,
+                              "Type": "Italics"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Information may vary between notifications depending on impurities, additives, and other factors. The percentage value in parenthesis indicates the notified classification ratio from companies that provide hazard codes. Only hazard codes with percentage values above 10% are shown. For more detailed information, please visit  ECHA C&L website.",
+                          "Markup": [
+                            {
+                              "Start": 327,
+                              "Length": 20,
+                              "URL": "https://echa.europa.eu/information-on-chemicals/cl-inventory-database/-/discli/details/28617"
+                            },
+                            {
+                              "Start": 0,
+                              "Length": 348,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Pictogram(s)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "          ",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg",
+                              "Type": "Icon",
+                              "Extra": "Irritant"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Signal",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Warning",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "Type": "Color",
+                              "Extra": "GHSWarning"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "GHS Hazard Statements",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "H315 (100%): Causes skin irritation [Warning Skin corrosion/irritation]",
+                          "Markup": [
+                            {
+                              "Start": 37,
+                              "Length": 7,
+                              "Type": "Color",
+                              "Extra": "GHSWarning"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "H319 (100%): Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+                          "Markup": [
+                            {
+                              "Start": 44,
+                              "Length": 7,
+                              "Type": "Color",
+                              "Extra": "GHSWarning"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Precautionary Statement Codes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "P264, P264+P265, P280, P302+P352, P305+P351+P338, P321, P332+P317, P337+P317, and P362+P364",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P264"
+                            },
+                            {
+                              "Start": 6,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P264+P265"
+                            },
+                            {
+                              "Start": 17,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P280"
+                            },
+                            {
+                              "Start": 23,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P302+P352"
+                            },
+                            {
+                              "Start": 34,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P305+P351+P338"
+                            },
+                            {
+                              "Start": 50,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P321"
+                            },
+                            {
+                              "Start": 56,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P332+P317"
+                            },
+                            {
+                              "Start": 67,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P337+P317"
+                            },
+                            {
+                              "Start": 82,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#P362+P364"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "ECHA C&L Notifications Summary",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The GHS information provided by 1 company from 1 notification to the ECHA C&L Inventory.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 92,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hazard Classes and Categories",
+                "Description": "The Hazard Classes and Categories are aligned with GHS (Globally Harmonized System of Classification and Labelling of Chemicals) hazard statement codes.  The percentage data in the parenthesis from ECHA indicates that the hazard classes and categories information are consolidated from multiple companies.  Also, see the detailed explanation from the above GHS classification section.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/",
+                "DisplayControls": {
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Skin Irrit. 2 (94.9%)"
+                        },
+                        {
+                          "String": "Eye Irrit. 2 (96.6%)"
+                        },
+                        {
+                          "String": "STOT SE 3 (93.2%)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Skin Irrit. 2 (100%)"
+                        },
+                        {
+                          "String": "Eye Irrit. 2 (100%)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Regulatory Information",
+            "Description": "This section lists the regulations related to the safety, health, and environment of the chemical and its associated products. The regulatory information, which may encompass national and/or regional regulations pertaining to the chemical or mixtures, is presented solely for informational purposes. For additional details, please consult the links to the information sources provided under each data entry.",
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Name": "The Australian Inventory of Industrial Chemicals",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Chemical: 1-Propanaminium, 2-(acetyloxy)-3-carboxy-N,N,N-trimethyl-, chloride, (2R)-",
+                      "Markup": [
+                        {
+                          "Start": 69,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-312"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "Defined Scope Of Assessment:"
+                    },
+                    {
+                      "String": "This chemical has been assessed as a component of cosmetic products."
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Cosmetic Ingredient Review Conclusion",
+                    "Reference": [
+                      "International Journal of Toxicology 31(Suppl. 3):296-341, 2012"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "International Journal of Toxicology 31(Suppl. 3):296-341, 2012",
+                        "Matched": {
+                          "PCLID": 906421389,
+                          "Citation": "International Journal of Toxicology 31(Suppl. 3):296-341, 2012"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The CIR Expert Panel concluded the following ingredients are safe in the present practices of use and concentration described in the safety assessment when formulated to be non-irritating...Acetyl Carnitine HCl...",
+                          "Markup": [
+                            {
+                              "Start": 190,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Acetyl%20Carnitine%20HCl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2733928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Name": "Cosmetic Ingredient Review Finding(s)",
+                    "Reference": [
+                      "International Journal of Toxicology 31(Suppl. 3):296-341, 2012"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "International Journal of Toxicology 31(Suppl. 3):296-341, 2012",
+                        "Matched": {
+                          "PCLID": 906421389,
+                          "Citation": "International Journal of Toxicology 31(Suppl. 3):296-341, 2012"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Safe for use in cosmetics, with qualifications"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Springer Nature References",
+            "Description": "Literature references related to scientific contents from Springer Nature journals and books. These references have been ranked automatically by an algorithm which calculates the relevance for each substance in a Springer Nature document. It is based on: (1) the TF-IDF, adapted to chemical structures, (2) location information in the text (e.g. title, abstract, keywords), and (3) the document size.  Springer Nature aims to provide only highly qualitative and relevant content but references of lower relevance aren't withheld as they might contain also very useful information.",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Value": {
+                  "ExternalTableName": "collection=springernature&query_type=sid&query=341438937"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Wiley References",
+            "Description": "Literature references related to scientific contents from Wiley journals and books.",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "ExternalTableName": "collection=wiley&query_type=sid&query=386269428"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Literature",
+            "Description": "Chemical-organism co-occurrences in literature highlight chemical-organism pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalOrganismNeighbor"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "OrganismName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 27,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2733928/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Patents",
+            "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalChemical"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+            "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalDisease"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalGene"
+                    },
+                    {
+                      "String": "Gene"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and organisms mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalOrganism"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Biological Test Results",
+        "Description": "A PubChem substance or compound summary page displays biological test results from the PubChem BioAssay database, if/as available, for the chemical structure currently displayed. You can embed biological test results displays within your own web pages, for a PubChem Compound or Substance of interest, by using the BioActivity Widget.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/widgets",
+        "Section": [
+          {
+            "TOCHeading": "BioAssay Results",
+            "Description": "Bioactivity data for this compound, reported in PubChem BioAssay records.",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Value": {
+                  "ExternalTableName": "bioactivity"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "MeSH Tree",
+            "Description": "The Medical Subject Headings (MeSH) tree for this entity.  MeSH is a controlled and hierarchically-organized vocabulary produced by the National Library of Medicine.",
+            "URL": "https://www.nlm.nih.gov/mesh",
+            "Information": [
+              {
+                "ReferenceNumber": 29,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NCI Thesaurus Tree",
+            "Description": "NCI Thesaurus (NCIt) hierarchy",
+            "URL": "https://ncithesaurus.nci.nih.gov",
+            "Information": [
+              {
+                "ReferenceNumber": 35,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=112",
+                "Value": {
+                  "Number": [
+                    112
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChemIDplus",
+            "Description": "Classification of this compound, provided by ChemIDplus, which is a free web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases.  ChemIDplus groups chemicals based on the source locators (i.e., what information resources have data for a given chemical).",
+            "URL": "https://chem.nlm.nih.gov/chemidplus/",
+            "Information": [
+              {
+                "ReferenceNumber": 32,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                "Value": {
+                  "Number": [
+                    84
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "UN GHS Classification",
+            "Description": "The United Nations' Globally Harmonized System of Classification and Labelling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, and health and safety information on hazardous chemical substances and mixtures.",
+            "URL": "https://unece.org/about-ghs",
+            "Information": [
+              {
+                "ReferenceNumber": 31,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=83",
+                "Value": {
+                  "Number": [
+                    83
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NORMAN Suspect List Exchange Classification",
+            "Description": "A classification from the NORMAN Suspect List Exchange, which serve as a central access point to find lists of chemicals with environmental concerns.",
+            "URL": "https://www.norman-network.com/nds/SLE/",
+            "Information": [
+              {
+                "ReferenceNumber": 33,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=101",
+                "Value": {
+                  "Number": [
+                    101
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA Substance Registry Services Tree",
+            "Description": "Substance Registry Services (SRS) is the Environmental Protection Agency's (EPA) central system for information about substances that are tracked or regulated by EPA or other sources. It is a resource for basic information about chemicals, biological organisms, and other substances of interest to EPA and its state and tribal partners. SRS makes it possible to identify which EPA data systems, environmental statutes, or other sources have information about a substance and which synonym is used by that system or statute.",
+            "Information": [
+              {
+                "ReferenceNumber": 36,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=123",
+                "Value": {
+                  "Number": [
+                    123
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemicals in PubChem from Regulatory Sources",
+            "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources.",
+            "Information": [
+              {
+                "ReferenceNumber": 37,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=135",
+                "Value": {
+                  "Number": [
+                    135
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "Australian Industrial Chemicals Introduction Scheme (AICIS)",
+        "SourceID": "inv_41516",
+        "Name": "1-Propanaminium, 2-(acetyloxy)-3-carboxy-N,N,N-trimethyl-, chloride, (2R)-",
+        "Description": "The Australian Industrial Chemicals Introduction Scheme (AICIS) helps protect the environment by finding out the risks of industrial chemicals and recommending ways to promote their safer use. They regulate chemicals (including polymers) that are manufactured or imported into Australia for an industrial use, such as in inks, paints, adhesives, solvents, cosmetics and personal care products, cleaning products, as well as in manufacturing, construction and mining applications.",
+        "URL": "https://services.industrialchemicals.gov.au/search-inventory/",
+        "LicenseURL": "https://www.industrialchemicals.gov.au/copyright",
+        "ANID": 39399540
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "CAS Common Chemistry",
+        "SourceID": "5080-50-2",
+        "Name": "Acetyl L-carnitine hydrochloride",
+        "Description": "CAS Common Chemistry is an open community resource for accessing chemical information. Nearly 500,000 chemical substances from CAS REGISTRY cover areas of community interest, including common and frequently regulated chemicals, and those relevant to high school and undergraduate chemistry classes. This chemical information, curated by our expert scientists, is provided in alignment with our mission as a division of the American Chemical Society.",
+        "URL": "https://commonchemistry.cas.org/detail?cas_rn=5080-50-2",
+        "LicenseNote": "The data from CAS Common Chemistry is provided under a CC-BY-NC 4.0 license, unless otherwise stated.",
+        "LicenseURL": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "ANID": 12743810
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "ChemIDplus",
+        "SourceID": "0005080502",
+        "Name": "Acetylcarnitine L-form hydrochloride",
+        "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0005080502",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 808386
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "DTP/NCI",
+        "SourceID": "NSC 747431",
+        "Name": "Acetyl-L-carnitine hydrochloride",
+        "Description": "The NCI Development Therapeutics Program (DTP) provides services and resources to the academic and private-sector research communities worldwide to facilitate the discovery and development of new cancer therapeutic agents.",
+        "URL": "https://dtp.cancer.gov/dtpstandard/servlet/dwindex?searchtype=NSC&outputformat=html&searchlist=747431",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse",
+        "ANID": 6610405
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "European Chemicals Agency (ECHA)",
+        "SourceID": "610-570-8",
+        "Name": "Acetyl-L-carnitine Hydrochloride",
+        "Description": "The European Chemicals Agency (ECHA) is an agency of the European Union which is the driving force among regulatory authorities in implementing the EU's groundbreaking chemicals legislation for the benefit of human health and the environment as well as for innovation and competitiveness.",
+        "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.112.119",
+        "LicenseNote": "Use of the information, documents and data from the ECHA website is subject to the terms and conditions of this Legal Notice, and subject to other binding limitations provided for under applicable law, the information, documents and data made available on the ECHA website may be reproduced, distributed and/or used, totally or in part, for non-commercial purposes provided that ECHA is acknowledged as the source: \"Source: European Chemicals Agency, http://echa.europa.eu/\". Such acknowledgement must be included in each copy of the material. ECHA permits and encourages organisations and individuals to create links to the ECHA website under the following cumulative conditions: Links can only be made to webpages that provide a link to the Legal Notice page.",
+        "LicenseURL": "https://echa.europa.eu/web/guest/legal-notice",
+        "ANID": 2096111
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "European Chemicals Agency (ECHA)",
+        "SourceID": "690-015-4",
+        "Name": "(3R)-3-acetyloxy-4-(trimethylazaniumyl)butanoate hydrochloride",
+        "Description": "The European Chemicals Agency (ECHA) is an agency of the European Union which is the driving force among regulatory authorities in implementing the EU's groundbreaking chemicals legislation for the benefit of human health and the environment as well as for innovation and competitiveness.",
+        "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.217.077",
+        "LicenseNote": "Use of the information, documents and data from the ECHA website is subject to the terms and conditions of this Legal Notice, and subject to other binding limitations provided for under applicable law, the information, documents and data made available on the ECHA website may be reproduced, distributed and/or used, totally or in part, for non-commercial purposes provided that ECHA is acknowledged as the source: \"Source: European Chemicals Agency, http://echa.europa.eu/\". Such acknowledgement must be included in each copy of the material. ECHA permits and encourages organisations and individuals to create links to the ECHA website under the following cumulative conditions: Links can only be made to webpages that provide a link to the Legal Notice page.",
+        "LicenseURL": "https://echa.europa.eu/web/guest/legal-notice",
+        "ANID": 15158207
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "FDA Global Substance Registration System (GSRS)",
+        "SourceID": "NDW10MX58T",
+        "Name": "LEVACECARNINE HYDROCHLORIDE",
+        "Description": "The FDA Global Substance Registration System (GSRS) enables the efficient and accurate exchange of information on what substances are in regulated products. Instead of relying on names, which vary across regulatory domains, countries, and regions, the GSRS knowledge base makes it possible for substances to be defined by standardized, scientific descriptions.",
+        "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/NDW10MX58T",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 5851092
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "Burnham Center for Chemical Genomics",
+        "SourceID": "SID56320707",
+        "Name": "SID56320707",
+        "Description": "Aqueous solubility in buffer at pH 7.4",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1996#section=Data-Table",
+        "ANID": 744685
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "ChEMBL",
+        "SourceID": "Compound::CHEMBL1321219",
+        "Description": "ChEMBL or ChEMBLdb is a manually curated chemical database of bioactive molecules with drug-like properties. It is maintained by the European Bioinformatics Institute (EBI), of the European Molecular Biology Laboratory (EMBL), based at the Wellcome Trust Genome Campus, Hinxton, UK.",
+        "URL": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1321219",
+        "LicenseNote": "Access to the web interface of ChEMBL is made under the EBI's Terms of Use (http://www.ebi.ac.uk/Information/termsofuse.html). The ChEMBL data is made available on a Creative Commons Attribution-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-sa/3.0/).",
+        "LicenseURL": "http://www.ebi.ac.uk/Information/termsofuse.html",
+        "ANID": 31872441
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "ClinicalTrials.gov",
+        "SourceID": "cid2733928",
+        "Description": "ClinicalTrials.gov is an NIH registry and results database of publicly and privately supported clinical studies of human participants conducted around the world.",
+        "URL": "https://clinicaltrials.gov/",
+        "LicenseNote": "The ClinicalTrials.gov data carry an international copyright outside the United States and its Territories or Possessions. Some ClinicalTrials.gov data may be subject to the copyright of third parties; you should consult these entities for any additional terms of use.",
+        "LicenseURL": "https://clinicaltrials.gov/ct2/about-site/terms-conditions#Use",
+        "ANID": 5191004
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "Cosmetic Ingredient Review (CIR)",
+        "SourceID": "a0235c4e-aa25-4257-994b-686bde861d89",
+        "Name": "Acetyl Carnitine HCl",
+        "Description": "The Cosmetic Ingredient Review (CIR) studies individual chemical compounds as they are used in cosmetic products. CIR relies heavily on the International Nomenclature of Cosmetic Ingredients (INCI) when identifying the ingredients to be assessed. The Expert Panel for Cosmetic Ingredient Safety (Panel) assess the safety of ingredients for use in cosmetics. The function of an ingredient in cosmetics is noted. The Panel reviews the data relevant to the safety of an ingredient and concludes whether an ingredient is safe in cosmetics in the present practices of use and concentration described in a safety assessment.",
+        "URL": "https://cir-reports.cir-safety.org/cir-ingredient-status-report/?id=a0235c4e-aa25-4257-994b-686bde861d89",
+        "LicenseURL": "https://cir-safety.org/terms-use",
+        "ANID": 38996523
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "E. coli Metabolome Database (ECMDB)",
+        "SourceID": "ECMDB24022",
+        "Description": "The ECMDB is an expertly curated database containing extensive metabolomic data and metabolic pathway diagrams about Escherichia coli (strain K12, MG1655).",
+        "URL": "https://ecmdb.ca/compounds/M2MDB006139",
+        "LicenseNote": "ECMDB is offered to the public as a freely available resource.",
+        "LicenseURL": "https://ecmdb.ca/citations",
+        "ANID": 19453888
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "NCI Thesaurus (NCIt)",
+        "SourceID": "C61624::Compound",
+        "Description": "NCI Thesaurus (NCIt), from the U.S. National Cancer Institute, provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.",
+        "URL": "https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C61624",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse",
+        "ANID": 19441798
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "Crystallography Open Database (COD)",
+        "SourceID": "2004210",
+        "Description": "The Crystallography Open Database is an open-access collection of crystal structures of organic, inorganic, metal-organic compounds, and minerals, excluding biopolymers.",
+        "ExtendedReference": [
+          {
+            "DOI": "10.1107/S0108270195008420",
+            "PublicationTitle": "Acetyl-<small>L</small>-carnitine Hydrochloride",
+            "PublicationAuthor": [
+              "Weber, H. P.",
+              "Anderson, R. C.",
+              "Shapiro, M.",
+              "Villhauer, E. B.",
+              "Gullion, T."
+            ],
+            "PublicationName": "Acta Crystallographica Section C",
+            "PublicationVolume": "51",
+            "PublicationIssue": "12",
+            "PublicationPage": "2570",
+            "PublicationDate": {
+              "Year": 1995
+            },
+            "Matched": {
+              "PCLID": 665493350,
+              "Citation": "Weber HP, Anderson RC, Shapiro M, Villhauer EB, Gullion T. Acetyl-L-carnitine Hydrochloride. Acta Crystallogr C Cryst Struct Commun. 1995 Dec 15;51(12):2570–2. doi: 10.1107/s0108270195008420.",
+              "DOI": "10.1107/s0108270195008420"
+            }
+          }
+        ],
+        "URL": "https://www.crystallography.net/cod/2004210.html",
+        "LicenseNote": "All data in the COD and the database itself are dedicated to the public domain and licensed under the CC0 License. Users of the data should acknowledge the original authors of the structural data.",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 30602958
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "DailyMed",
+        "SourceID": "7fc8523e1c6d524132294c981762d7c3",
+        "Name": "LEVACECARNINE HYDROCHLORIDE",
+        "Description": "The U.S. National Library of Medicine's DailyMed provides trustworthy information about marketed drugs. DailyMed is the official provider of FDA label information (package inserts).",
+        "URL": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=LEVACECARNINE+HYDROCHLORIDE",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "ANID": 45862787
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EU Clinical Trials Register",
+        "SourceID": "cid2733928",
+        "Description": "The EU Clinical Trials Register contains information on interventional clinical trials on medicines conducted in the European Union (EU), or the European Economic Area (EEA) which started after 1 May 2004.",
+        "URL": "https://www.clinicaltrialsregister.eu/",
+        "ANID": 6481274
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "European Chemicals Agency (ECHA)",
+        "SourceID": "28617",
+        "Name": "Acetyl-L-carnitine Hydrochloride (EC: 610-570-8)",
+        "Description": "The information provided here is aggregated from the \"Notified classification and labelling\" from ECHA's C&L Inventory. Read more: https://echa.europa.eu/information-on-chemicals/cl-inventory-database",
+        "URL": "https://echa.europa.eu/information-on-chemicals/cl-inventory-database/-/discli/details/28617",
+        "LicenseNote": "Use of the information, documents and data from the ECHA website is subject to the terms and conditions of this Legal Notice, and subject to other binding limitations provided for under applicable law, the information, documents and data made available on the ECHA website may be reproduced, distributed and/or used, totally or in part, for non-commercial purposes provided that ECHA is acknowledged as the source: \"Source: European Chemicals Agency, http://echa.europa.eu/\". Such acknowledgement must be included in each copy of the material. ECHA permits and encourages organisations and individuals to create links to the ECHA website under the following cumulative conditions: Links can only be made to webpages that provide a link to the Legal Notice page.",
+        "LicenseURL": "https://echa.europa.eu/web/guest/legal-notice",
+        "ANID": 1859380
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "European Chemicals Agency (ECHA)",
+        "SourceID": "222416",
+        "Name": "(3R)-3-acetyloxy-4-(trimethylazaniumyl)butanoate hydrochloride (EC: 690-015-4)",
+        "Description": "The information provided here is aggregated from the \"Notified classification and labelling\" from ECHA's C&L Inventory. Read more: https://echa.europa.eu/information-on-chemicals/cl-inventory-database",
+        "URL": "https://echa.europa.eu/information-on-chemicals/cl-inventory-database/-/discli/details/222416",
+        "LicenseNote": "Use of the information, documents and data from the ECHA website is subject to the terms and conditions of this Legal Notice, and subject to other binding limitations provided for under applicable law, the information, documents and data made available on the ECHA website may be reproduced, distributed and/or used, totally or in part, for non-commercial purposes provided that ECHA is acknowledged as the source: \"Source: European Chemicals Agency, http://echa.europa.eu/\". Such acknowledgement must be included in each copy of the material. ECHA permits and encourages organisations and individuals to create links to the ECHA website under the following cumulative conditions: Links can only be made to webpages that provide a link to the Legal Notice page.",
+        "LicenseURL": "https://echa.europa.eu/web/guest/legal-notice",
+        "ANID": 1950770
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "Metabolomics Workbench",
+        "SourceID": "70054",
+        "Name": "Acetyl-L-carnitine hydrochloride",
+        "Description": "The Metabolomics Workbench serves as a national and international repository for metabolomics data and metadata and provides analysis tools and access to metabolite standards, protocols, tutorials, training, and more.",
+        "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=70054",
+        "ANID": 20222657
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "SpectraBase",
+        "SourceID": "4Vk33izMGc0",
+        "Name": "Acetyl-L-carnitine hydrochloride",
+        "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+        "URL": "https://spectrabase.com/spectrum/4Vk33izMGc0",
+        "ANID": 10529880
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "SpectraBase",
+        "SourceID": "24Ar4Yx3VmY",
+        "Name": "Acetyl-L-carnitine hydrochloride",
+        "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+        "URL": "https://spectrabase.com/spectrum/24Ar4Yx3VmY",
+        "ANID": 10529881
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "SpectraBase",
+        "SourceID": "K9oVq7Z2QZ9",
+        "Name": "Acetyl-L-carnitine hydrochloride",
+        "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+        "URL": "https://spectrabase.com/spectrum/K9oVq7Z2QZ9",
+        "ANID": 13606154
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "SpectraBase",
+        "SourceID": "Cc7LQbTORS0",
+        "Name": "Acetyl-L-carnitine hydrochloride",
+        "Description": "Wiley Science Solutions (https://sciencesolutions.wiley.com) is a leading publisher of spectral databases and KnowItAll spectroscopy software. SpectraBase provides fast text access to hundreds of thousands of NMR, IR, Raman, UV-Vis, and mass spectra.",
+        "URL": "https://spectrabase.com/spectrum/Cc7LQbTORS0",
+        "ANID": 13606155
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "Springer Nature",
+        "SourceID": "341438937",
+        "Description": "Springer Nature is the world's largest academic book publisher, publisher of the world's most influential journals, and a pioneer in the field of open research. SpringerLink provides electronic access to its book and journal content.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/341438937",
+        "ANID": 47572615
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q27295965",
+        "Name": "acetylcarnitine hydrochloride",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q27295965",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44325449
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "Wiley",
+        "SourceID": "386269428",
+        "Description": "Wiley drives the world forward with research and education. Through publishing, platforms and services, we help students, researchers, universities, and corporations to achieve their goals in an ever-changing world.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/386269428",
+        "ANID": 48985013
+      },
+      {
+        "ReferenceNumber": 27,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 28,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0444058",
+        "Name": "Branigen",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0444058.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 29,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "DescTree",
+        "Name": "MeSH Tree",
+        "Description": "MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 31,
+        "SourceName": "GHS Classification (UNECE)",
+        "SourceID": "UN_GHS_tree",
+        "Name": "GHS Classification",
+        "Description": "The United Nations' Globally Harmonized System of Classification and Labeling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, health and safety information on hazardous chemical substances and mixtures.",
+        "URL": "http://www.unece.org/trans/danger/publi/ghs/ghs_welcome_e.html"
+      },
+      {
+        "ReferenceNumber": 32,
+        "SourceName": "ChemIDplus",
+        "SourceID": "ChemIDplus_tree",
+        "Name": "ChemIDplus Chemical Information Classification",
+        "Description": "ChemIDplus is a TOXNET (TOXicology data NETwork) databases that contain chemicals and drugs related information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/chemidplus",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true
+      },
+      {
+        "ReferenceNumber": 33,
+        "SourceName": "NORMAN Suspect List Exchange",
+        "SourceID": "norman_sle_tree",
+        "Name": "NORMAN Suspect List Exchange Classification",
+        "Description": "The NORMAN Suspect List Exchange (NORMAN-SLE) is a central access point for NORMAN members (and others) to find suspect lists relevant for their environmental monitoring questions.",
+        "URL": "https://www.norman-network.com/nds/SLE/",
+        "LicenseNote": "Data: CC-BY 4.0; Code (hosted by ECI, LCSB): Artistic-2.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 35,
+        "SourceName": "NCI Thesaurus (NCIt)",
+        "SourceID": "NCIt",
+        "Name": "NCI Thesaurus",
+        "Description": "The NCI Thesaurus (NCIt) provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.",
+        "URL": "https://ncit.nci.nih.gov",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse"
+      },
+      {
+        "ReferenceNumber": 36,
+        "SourceName": "EPA Substance Registry Services",
+        "SourceID": "epasrs_tree",
+        "Name": "EPA SRS List Classification",
+        "Description": "Substance Registry Services (SRS) is the Environmental Protection Agency's (EPA) central system for information about substances that are tracked or regulated by EPA or other sources.",
+        "URL": "https://maldi.nist.gov",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 37,
+        "SourceName": "PubChem",
+        "SourceID": "regtree",
+        "Name": "Chemicals in PubChem from Regulatory Sources",
+        "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources."
+      },
+      {
+        "ReferenceNumber": 38,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0022792",
+        "Name": "Vitamin B Complex",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0022792.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 39,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0028009",
+        "Name": "Nootropic Agents",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0028009.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      }
+    ]
+  }
+}

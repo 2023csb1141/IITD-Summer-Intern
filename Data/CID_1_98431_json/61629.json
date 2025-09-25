@@ -1,0 +1,639 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 61629,
+    "RecordTitle": "Calcium perchlorate",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 19,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Status",
+            "Description": "The reason why three-dimensional (3D) conformers for this compound cannot be generated.  PubChem generates 3D conformers for each compound that satisfies the following conditions: [1] not too large (with <= 50 non-hydrogen atoms), [2] not too flexible (with <= 15 rotatable bonds), [3] consisting of only supported elements (H, C, N, O, F, Si, P, S, Cl, Br, and I), [4] having only a single covalent unit (i.e., not a salt or a mixture), [5] contains only atom types recognized by the MMFF94s force field used for conformer generation, and [6] has fewer than six undefined atom or bond stereo centers.  Compounds that do not satisfy any of these conditions are not considered for 3-D conformer generation.  In some rare cases, a compound satisfies all conditions but the conformer generation for the compound fails for some reason. More detailed information on 3D conformer generation can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "Information": [
+              {
+                "ReferenceNumber": 19,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Conformer generation is disallowed since MMFF94s unsupported element, MMFF94s unsupported atom valence, mixture or salt"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Primary Hazards",
+        "Description": "Link to the Safety and Hazard section of this page and link to the Laboratory Chemical Safety Summary (LCSS) datasheet for this compound.",
+        "DisplayControls": {
+          "HideThisSection": true,
+          "MoveToTop": true
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 19,
+            "Value": {
+              "StringWithMarkup": [
+                {
+                  "String": "          ",
+                  "Markup": [
+                    {
+                      "Start": 0,
+                      "Length": 1,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS03.svg",
+                      "Type": "Icon",
+                      "Extra": "Oxidizer"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Description": "Physical Description",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Calcium perchlorate is a white to yellow crystalline solid. Density 2.651 g / cm3. Contact may irritate skin, eyes, and mucous membranes. May be toxic by ingestion.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Calcium%20perchlorate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-61629"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "calcium;diperchlorate"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/Ca.2ClHO4/c;2*2-1(3,4)5/h;2*(H,2,3,4,5)/q+2;;/p-2"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZQAOXERLHGRFIC-UHFFFAOYSA-L"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Ca+2]"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Ca(ClO4)2"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 19,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CaCl2O8"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "13477-36-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "13477-36-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "13477-36-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "13477-36-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "13477-36-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "13477-36-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "13477-36-6"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "European Community (EC) Number",
+                "Description": "The European Community (EC) number is a seven-digit identifier assigned by the European Chemicals Agency (ECHA) to substances for regulatory purposes within the European Union. EC numbers are sometimes referred to as EINECS, ELINCS, or NLP numbers, because the EC Inventory comprises three individual inventories (EINECS, ELINCS, and the NLP list).",
+                "URL": "https://echa.europa.eu/information-on-chemicals/ec-inventory",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.033.411",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "236-768-0"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/8249MC3K19",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "8249MC3K19"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UN Number",
+                "Description": "United Nations numbers (UN numbers) are four-digit numbers assigned by the United Nations Committee of Experts on the Transport of Dangerous Goods. They are used in international commerce and transportation to identify hazardous materials and articles (such as explosives, flammable liquids, oxidizers, toxic liquids, etc.). With a few exceptions, UN numbers are usually identical to DOT (Department of Transportation) IDs [also known as NA (North America) numbers], which are issued by the United States Department of Transportation. Therefore, UN numbers are also called DOT IDs and NA numbers.",
+                "URL": "https://www.phmsa.dot.gov/hazmat/erg/emergency-response-guidebook-erg",
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/erg/#1455",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1455 (CALCIUM PERCHLORATE)",
+                          "Markup": [
+                            {
+                              "Start": 6,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CALCIUM%20PERCHLORATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-61629"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/erg/#1455",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1455 (Calcium perchlorate)",
+                          "Markup": [
+                            {
+                              "Start": 6,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Calcium%20perchlorate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-61629"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID20890703",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID20890703"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Nikkaji Number",
+                "Description": "Substance identifier used in the Japan Chemical Substance Dictionary (Nikkaji).",
+                "URL": "https://jglobal.jst.go.jp/en/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J43.734D",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "J43.734D"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "URL": "https://www.wikidata.org/wiki/Q906306",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q906306"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikipedia",
+                "Description": "Wikidata entity identifier for this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "URL": "https://en.wikipedia.org/wiki/Calcium_perchlorate",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Calcium perchlorate"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Calcium perchlorate"
+                        },
+                        {
+                          "String": "13477-36-6"
+                        },
+                        {
+                          "String": "calcium diperchlorate"
+                        },
+                        {
+                          "String": "Perchloric acid, calcium salt"
+                        },
+                        {
+                          "String": "Perchloric acid, calcium salt (2:1)"
+                        },
+                        {
+                          "String": "EINECS 236-768-0"
+                        },
+                        {
+                          "String": "8249MC3K19"
+                        },
+                        {
+                          "String": "DTXSID20890703"
+                        },
+                        {
+                          "String": "RefChem:573542"
+                        },
+                        {
+                          "String": "DTXCID501029951"
+                        },
+                        {
+                          "String": "PERCHLORIC ACID CALCIUM SALT (2:1)"
+                        },
+                        {
+                          "String": "236-768-0"
+                        },
+                        {
+                          "String": "calcium;diperchlorate"
+                        },
+                        {
+                          "String": "UNII-8249MC3K19"
+                        },
+                        {
+                          "String": "UN1455"
+                        },
+                        {
+                          "String": "CaCl2O8"
+                        },
+                        {
+                          "String": "SCHEMBL236689"
+                        },
+                        {
+                          "String": "Calcium perchlorate, AldrichCPR"
+                        },
+                        {
+                          "String": "SCHEMBL29373408"
+                        },
+                        {
+                          "String": "ZQAOXERLHGRFIC-UHFFFAOYSA-L"
+                        },
+                        {
+                          "String": "CALCIUM PERCHLORATE 4-HYDRATE"
+                        },
+                        {
+                          "String": "AKOS030241903"
+                        },
+                        {
+                          "String": "DB-243232"
+                        },
+                        {
+                          "String": "Calcium perchlorate [UN1455]  [Oxidizer]"
+                        },
+                        {
+                          "String": "NS00087401"
+                        },
+                        {
+                          "String": "Q906306"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "hydrated"
+                        },
+                        {
+                          "String": "Calcium perchlorate hydrate"
+                        },
+                        {
+                          "String": "Ca.2ClHO4"
+                        },
+                        {
+                          "String": "Ca.2ClO4"
+                        },
+                        {
+                          "String": "Ca.2Cl-H-O4"
+                        },
+                        {
+                          "String": "AC1L1VM5"
+                        },
+                        {
+                          "String": "Calcium perchlorate hydrate 250g"
+                        },
+                        {
+                          "String": "calcium(2+) diperchlorate ion"
+                        },
+                        {
+                          "String": "Calcium perchlorate tetrahydrate"
+                        },
+                        {
+                          "String": "CTK4C9016"
+                        },
+                        {
+                          "String": "CID61629"
+                        },
+                        {
+                          "String": "Perchloric acid calcium salt (2:1e"
+                        },
+                        {
+                          "String": "8184AF"
+                        },
+                        {
+                          "String": "MFCD00150199"
+                        },
+                        {
+                          "String": "NA1455"
+                        },
+                        {
+                          "String": "Perchloric acid,calcium salt (2:1)"
+                        },
+                        {
+                          "String": "CALCIUM PERCHLORATE HYDRATE 1KG"
+                        },
+                        {
+                          "String": "KS-0000191T"
+                        },
+                        {
+                          "String": "Perchloric acid,calcium salt, tetrahydrate (8CI,9CI)"
+                        },
+                        {
+                          "String": "A1237888"
+       

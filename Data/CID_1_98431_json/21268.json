@@ -1,0 +1,3233 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 21268,
+    "RecordTitle": "alpha-Ethenyl-1,3-benzodioxole-5-methanol",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Description": "alpha-Ethenyl-1,3-benzodioxole-5-methanol",
+                "Value": {
+                  "Number": [
+                    21268
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1-(1,3-benzodioxol-5-yl)prop-2-en-1-ol"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C10H10O3/c1-2-8(11)7-3-4-9-10(5-7)13-6-12-9/h2-5,8,11H,1,6H2"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "VVBJNJFYBCLUAH-UHFFFAOYSA-N"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C=CC(C1=CC2=C(C=C1)OCO2)O"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C10H10O3"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "URL": "https://commonchemistry.cas.org/detail?cas_rn=5208-87-7",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5208-87-7"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5208-87-7"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5208-87-7"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5208-87-7"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5208-87-7"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/C9B19855E2",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C9B19855E2"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID0020731",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID0020731"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Nikkaji Number",
+                "Description": "Substance identifier used in the Japan Chemical Substance Dictionary (Nikkaji).",
+                "URL": "https://jglobal.jst.go.jp/en/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J2.229B",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "J2.229B"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "URL": "https://www.wikidata.org/wiki/Q27275352",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q27275352"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Entry Terms",
+                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1'-hydroxysafrole"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1'-HYDROXYSAFROLE"
+                        },
+                        {
+                          "String": "5208-87-7"
+                        },
+                        {
+                          "String": "Piperonyl alcohol, alpha-vinyl-"
+                        },
+                        {
+                          "String": "1,3-Benzodioxole-5-(2-propen-1-ol)"
+                        },
+                        {
+                          "String": "1,2-Methylenedioxy-4-(1-hydroxyallyl)benzene"
+                        },
+                        {
+                          "String": "alpha-Ethenyl-1,3-benzodioxole-5-methanol"
+                        },
+                        {
+                          "String": "1,3-Benzodioxole-5-methanol, alpha-ethenyl-"
+                        },
+                        {
+                          "String": "C9B19855E2"
+                        },
+                        {
+                          "String": "DTXSID0020731"
+                        },
+                        {
+                          "String": "RefChem:70678"
+                        },
+                        {
+                          "String": "DTXCID60731"
+                        },
+                        {
+                          "String": "1-(1,3-benzodioxol-5-yl)prop-2-en-1-ol"
+                        },
+                        {
+                          "String": "1-(benzo[d][1,3]dioxol-5-yl)prop-2-en-1-ol"
+                        },
+                        {
+                          "String": "1'-Hyroxysafrole"
+                        },
+                        {
+                          "String": "1-(2H-1,3-benzodioxol-5-yl)prop-2-en-1-ol"
+                        },
+                        {
+                          "String": "CCRIS 341"
+                        },
+                        {
+                          "String": "HSDB 3492"
+                        },
+                        {
+                          "String": "BRN 0167676"
+                        },
+                        {
+                          "String": "UNII-C9B19855E2"
+                        },
+                        {
+                          "String": "Piperonyl alcohol, .alpha.-vinyl-"
+                        },
+                        {
+                          "String": "starbld0032503"
+                        },
+                        {
+                          "String": "1,3-Benzodioxole-5-methanol, .alpha.-ethenyl-"
+                        },
+                        {
+                          "String": "1'-HYDROXYISOSAFROLE"
+                        },
+                        {
+                          "String": "4-19-00-00802 (Beilstein Handbook Reference)"
+                        },
+                        {
+                          "String": "SCHEMBL6869336"
+                        },
+                        {
+                          "String": "1'-HYDROXYSAFROLE [HSDB]"
+                        },
+                        {
+                          "String": "AKOS006275901"
+                        },
+                        {
+                          "String": "DB-132071"
+                        },
+                        {
+                          "String": "1-(1,3-dioxaindan-5-yl)prop-2-en-1-ol"
+                        },
+                        {
+                          "String": "CS-0267130"
+                        },
+                        {
+                          "String": "EN300-1995939"
+                        },
+                        {
+                          "String": "2-(3,4-METHYLENEDIOXYPHENYL)ALLYL ALCOHOL"
+                        },
+                        {
+                          "String": ".ALPHA.-VINYL-1,3-BENZODIOXOLE-5-METHANOL"
+                        },
+                        {
+                          "String": ".ALPHA.-ETHENYL-1,3-BENZODIOXOLE-5-METHANOL"
+                        },
+                        {
+                          "String": "Q27275352"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AC1L2HYZ"
+                        },
+                        {
+                          "String": "CTK4J5384"
+                        },
+                        {
+                          "String": "C10H10O3"
+                        },
+                        {
+                          "String": "CID21268"
+                        },
+                        {
+                          "String": "CID:21268"
+                        },
+                        {
+                          "String": "C10-H10-O3"
+                        },
+                        {
+                          "String": "LS-7453"
+                        },
+                        {
+                          "String": "1,3-Benzodioxole-5-methanol,a-ethenyl-"
+                        },
+                        {
+                          "String": "SID:126522426"
+                        },
+                        {
+                          "String": "3-(3,4-methylenedioxyphenyl)-3-hydroxypropene"
+                        },
+                        {
+                          "String": "C012376"
+                        },
+                        {
+                          "String": "(1S)-1-(1,3-benzodioxol-5-yl)prop-2-en-1-ol"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "DateISO8601": [
+                    "2005-08-08"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-08-30"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "178.18"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "XLogP3",
+                "Description": "XLogP3 is a predicted octanol-water partition coefficient, computed using the algorithm described in J. Chem. Inf. Model. 2007, 47, 6, 2140-2148. It is used as a measure of hydrophilicity or hydrophobicity of a molecule.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/17985865/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by XLogP3 3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1.9
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        3
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "178.062994177"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "178.062994177"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        38.7
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        13
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        193
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Experimental Properties",
+            "Description": "Various experimentally determined properties for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+            "Section": [
+              {
+                "TOCHeading": "Vapor Pressure",
+                "Description": "Vapor pressure (or equilibrium vapor pressure) is the pressure of a vapor in thermodynamic equilibrium with its condensed phases in a closed system.",
+                "URL": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/11%3A_Liquids_and_Intermolecular_Forces/11.05%3A_Vapor_Pressure",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "0.0000778 [mmHg]"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Classes",
+            "Description": "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties, radiological properties, or other factors.",
+            "Information": [
+              {
+                "ReferenceNumber": 6,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Other Classes -> Other Aromatic Compounds"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID21268%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID21268%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Same Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/21268/cids/JSON?cids_type=same_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    3
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Same Parent, Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/21268/cids/JSON?cids_type=same_parent_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    3
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID21268%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID21268%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/500714096",
+                    "Value": {
+                      "Number": [
+                        500714096
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/21268/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        57
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Journal Publishers"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Entrez Crosslinks",
+            "Description": "Cross-references to associated records in other Entrez databases such as PubMed, Gene, Protein, etc.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "PubMed Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed&db=pccompound&cmd=Link&from_uid=21268",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Taxonomy Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_taxonomy&db=pccompound&cmd=Link&from_uid=21268",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Gene Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_gene&db=pccompound&cmd=Link&from_uid=21268",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 13,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Pharmacology and Biochemistry",
+        "Description": "Pharmacology and biochemistry information related to this compound, including the pharmacodynamics, pharmacokinetics, metabolism, mechanism of action, biological half-life, biochemical reactions, and many others.",
+        "Section": [
+          {
+            "TOCHeading": "Metabolism/Metabolites",
+            "Description": "Metabolites are substances made or used when the body breaks down food, drugs or chemicals, or its own tissue (for example, fat or muscle tissue). This process is called metabolism and makes energy and the materials needed for growth, reproduction, and maintaining health. Metabolism also helps get rid of toxic substances.",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V10 239 (1976)"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V10 239 (1976)",
+                    "Matched": {
+                      "PCLID": 900134370,
+                      "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V10 239 (1976)"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "When 1'-hydroxysafrole was given orally or by ip injection to male rats, about 40% was excreted unchanged; this was not affected by phenobarbital or 3-methylcholanthrene admin. No 1'-hydroxysafrole was excreted in the bile.",
+                      "Markup": [
+                        {
+                          "Start": 5,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 132,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenobarbital",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-4763"
+                        },
+                        {
+                          "Start": 149,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3-methylcholanthrene",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-1674"
+                        },
+                        {
+                          "Start": 180,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "The Royal Society of Chemistry. Foreign Compound Metabolism in Mammals. Volume 6: A Review of the Literature Published during 1978 and 1979. London: The Royal Society of Chemistry, 1981., p. 194"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "The Royal Society of Chemistry. Foreign Compound Metabolism in Mammals. Volume 6: A Review of the Literature Published during 1978 and 1979. London: The Royal Society of Chemistry, 1981., p. 194",
+                    "Matched": {
+                      "PCLID": 900093710,
+                      "Citation": "The Royal Society of Chemistry. Foreign Compound Metabolism in Mammals. Volume 6: A Review of the Literature Published during 1978 and 1979. London: The Royal Society of Chemistry, 1981., p. 194"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "The urinary metabolites of 1'-hydroxysafrole included 3'-hydroxyisosafrole, 3,4-methylenedioxyphenyl vinyl ketone, the dimethylamino & piperidyl mannich bases, & 3,4-methylenedioxyhippuric acid ...",
+                      "Markup": [
+                        {
+                          "Start": 27,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 54,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3%27-hydroxyisosafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5869753"
+                        },
+                        {
+                          "Start": 76,
+                          "Length": 37,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3%2C4-methylenedioxyphenyl%20vinyl%20ketone",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-160188"
+                        },
+                        {
+                          "Start": 162,
+                          "Length": 31,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3%2C4-methylenedioxyhippuric%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-2331949"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:14422",
+                  "STROLIN BENEDETTI M; TOXICOLOGY 7 (1): 69 (1977)"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:14422",
+                    "Matched": {
+                      "PCLID": 12285239,
+                      "Citation": "Benedetti MS, Malnoë A, Broillet AL. Absorption, metabolism and excretion of safrole in the rat and man. Toxicology. 1977 Feb;7(1):69–83. doi: 10.1016/0300-483x(77)90039-7. PMID: 14422.",
+                      "PMID": 14422,
+                      "DOI": "10.1016/0300-483x(77)90039-7"
+                    }
+                  },
+                  {
+                    "Citation": "STROLIN BENEDETTI M; TOXICOLOGY 7 (1): 69 (1977)",
+                    "Matched": {
+                      "PCLID": 900048311,
+                      "Citation": "STROLIN BENEDETTI M; TOXICOLOGY 7 (1): 69 (1977)"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "In men & rats, small oral doses of safrole were absorbed rapidly & then excreted almost entirely within 24 hr in the urine. 1'-hydroxysafrole, a proximate carcinogen of safrole, & 3'-hydroxyisosafrole were detected as conjugates in the urine of the rat; however, it was not possible to demonstrate their presence in man.",
+                      "Markup": [
+                        {
+                          "Start": 35,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        },
+                        {
+                          "Start": 124,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 169,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        },
+                        {
+                          "Start": 180,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3%27-hydroxyisosafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5869753"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:656641",
+                  "PEELE JD JR; BULL ENVIRON CONTAM TOXICOL 19 (4): 396 (1978)"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:656641",
+                    "Matched": {
+                      "PCLID": 25173940,
+                      "Citation": "Peele JD, Oswald EO. Metabolism of the proximate carcinogen 1′-hydroxysafrole and the isomer 3′-hydroxyisosafrole. Bulletin of Environmental Contamination and Toxicology. 1978 Jan;19(1):396–402. doi: 10.1007/bf01685816.",
+                      "PMID": 656641,
+                      "DOI": "10.1007/bf01685816"
+                    }
+                  },
+                  {
+                    "Citation": "PEELE JD JR; BULL ENVIRON CONTAM TOXICOL 19 (4): 396 (1978)",
+                    "Matched": {
+                      "PCLID": 25173940,
+                      "Citation": "Peele JD, Oswald EO. Metabolism of the proximate carcinogen 1′-hydroxysafrole and the isomer 3′-hydroxyisosafrole. Bulletin of Environmental Contamination and Toxicology. 1978 Jan;19(1):396–402. doi: 10.1007/bf01685816.",
+                      "PMID": 656641,
+                      "DOI": "10.1007/bf01685816"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "In the neutral extraction of urine from animals injected with 1'-hydroxysafrole, unmetabolized 1'-hydroxysafrole, 3'-hydroxyisosafrole, 3,4-methylenedioxyphenyl vinyl ketone & 2 unidentified metabolites (mol wt 180 & 226) were present. In the basic urine extraction, the dimethylamino & piperidyl mannich base metabolites were detected; the only acidic metabolite found was 3,4-methylenedioxyhippuric acid.",
+                      "Markup": [
+                        {
+                          "Start": 62,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 95,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 114,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3%27-hydroxyisosafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5869753"
+                        },
+                        {
+                          "Start": 136,
+                          "Length": 37,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3%2C4-methylenedioxyphenyl%20vinyl%20ketone",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-160188"
+                        },
+                        {
+                          "Start": 374,
+                          "Length": 31,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3%2C4-methylenedioxyhippuric%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-2331949"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "For more Metabolism/Metabolites (Complete) data for 1'-HYDROXYSAFROLE (8 total), please visit the HSDB record page.",
+                      "Markup": [
+                        {
+                          "Start": 98,
+                          "Length": 16,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/3492#section=Metabolism-Metabolites-(Complete)"
+                        },
+                        {
+                          "Start": 52,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-HYDROXYSAFROLE",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Mechanism of Action",
+            "Description": "In medicine, the term \"mechanism of action\" (also called MOA) is used to describe how a drug or other substance produces an effect in the body. For example, a drug's mechanism of action could be how it affects a specific target in a cell, such as an enzyme, or a cell function, such as cell growth. Knowing the mechanism of action of a drug may help provide information about the safety of the drug and how it affects the body. It may also help identify the right dose of a drug and which patients are most likely to respond to treatment.",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:7299840",
+                  "PHILLIPS DH ET AL; J SUPRAMOL STRUCT CELL BIOCHEM 16 (1): 83 (1981)"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:7299840",
+                    "Matched": {
+                      "PCLID": 13773823,
+                      "Citation": "Phillips DH, Hanawalt PC, Miller JA, Miller EC. The in vivo formation and repair of DNA adducts from 1'-hydroxysafrole. J Supramol Struct Cell Biochem. 1981;16(1):83–90. doi: 10.1002/jsscb.1981.380160108. PMID: 7299840.",
+                      "PMID": 7299840,
+                      "DOI": "10.1002/jsscb.1981.380160108"
+                    }
+                  },
+                  {
+                    "Citation": "PHILLIPS DH ET AL; J SUPRAMOL STRUCT CELL BIOCHEM 16 (1): 83 (1981)",
+                    "Matched": {
+                      "PCLID": 13773823,
+                      "Citation": "Phillips DH, Hanawalt PC, Miller JA, Miller EC. The in vivo formation and repair of DNA adducts from 1'-hydroxysafrole. J Supramol Struct Cell Biochem. 1981;16(1):83–90. doi: 10.1002/jsscb.1981.380160108. PMID: 7299840.",
+                      "PMID": 7299840,
+                      "DOI": "10.1002/jsscb.1981.380160108"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "1'-hydroxysafrole is a proximate carcinogenic metabolite of the naturally occurring hepatocarcinogen safrole. Comparison of the nucleoside adducts obtained from hepatic DNA of adult female mice treated with 2',3'-(3)h-1'-hydroxysafrole with those formed by reaction of deoxyribonucleosides with electrophilic derivatives of 1'-hydroxysafrole indicated that the 4 in vivo adducts studied were derived from an ester of 1'-hydroxysafrole.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 101,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        },
+                        {
+                          "Start": 218,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 324,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 417,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:6577945",
+                  "Boberg EW et al; Cancer Res 43 (11): 5163-73 (1983)"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:6577945",
+                    "Matched": {
+                      "PCLID": 24585472,
+                      "Citation": "Boberg EW, Miller EC, Miller JA, Poland A, Liem A. Strong evidence from studies with brachymorphic mice and pentachlorophenol that 1'-sulfoöxysafrole is the major ultimate electrophilic and carcinogenic metabolite of 1'-hydroxysafrole in mouse liver. Cancer Res. 1983 Nov;43(11):5163–73. PMID: 6577945.",
+                      "PMID": 6577945
+                    }
+                  },
+                  {
+                    "Citation": "Boberg EW et al; Cancer Res 43 (11): 5163-73 (1983)",
+                    "Matched": {
+                      "PCLID": 900110805,
+                      "Citation": "Boberg EW et al; Cancer Res 43 (11): 5163-73 (1983)"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "The role of sulfation of 1'-hydroxysafrole in the formation of hepatic macromolecular adducts and in hepatic tumor formation in mice given 1'-hydroxysafrole was investigated by the use of: (a) mice treated with the specific sulfotransferase inhibitor pentachlorophenol; and (b) brachymorphic mice, which are characterized by a deficiency in the hepatic synthesis of 3'-phosphoadenosine 5'-phosphosulfate. Cytosolic sulfotransferase activity for 1'-hydroxysafrole in both mouse and rat liver was significantly inhibited by 10 microM pentachlorophenol, usually by greater than 90%. Prior administration of nontoxic amounts of pentachlorophenol, either in the diet of adult female CD-1 mice or by i.p. injection of 12-day-old male C57BL/6 X C3H F1 (hereafter called B6C3F1) mice, resulted in an 85% decrease in the level of adducts formed from 1'-hydroxysafrole in hepatic DNA and RNA as compared to those of non-pentachlorophenol-treated animals. Likewise, the chronic administration of a nontoxic level of pentachlorophenol in the diet of adult female CD-1 mice strongly inhibited hepatic tumor induction by long-term dietary administration of either safrole or 1'-hydroxysafrole. Initiation of hepatic tumors by a single i.p. injection of 1'-hydroxysafrole to 12-day-old male B6C3F1 mice was strongly inhibited by prior treatment with pentachlorophenol. Under these conditions, the hepatocarcinogenicity of diethylnitrosamine was not inhibited by pentachlorophenol. Supplementation with adenosine triphosphate and sulfate of hepatic cytosols from adult female or 12-day-old brachymorphic progeny of a B6C3 background outbred to B6C3F1 mice (B6C3F2), of either sex, resulted in 5- to 10-fold less binding of 1'-hydroxysafrole to added RNA than when cytosols from phenotypically normal B6C3F2 mice were used. On administration of [3H]-1'-hydroxysafrole to adult female or 12-day-old brachymorphic B6C3F2 mice of either sex, the levels of hepatic DNA and RNA adducts were 7- to 12-fold lower than those obtained in phenotypically normal B6C3F2 mice of the same age and sex. Brachymorphic mice were also much less responsive than their phenotypically normal littermates to the induction of liver tumors by 1'-hydroxysafrole; lower incidences were observed both when the carcinogen was fed chronically to adult females and when it was administered to males only prior to weaning. Thus, all of these data strongly support the conclusion that 1'-sulfooxysafrole is the major ultimate electrophilic and tumor-initiating metabolite of 1'-hydroxysafrole.",
+                      "Markup": [
+                        {
+                          "Start": 25,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 139,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 251,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pentachlorophenol",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-992"
+                        },
+                        {
+                          "Start": 366,
+                          "Length": 37,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3%27-phosphoadenosine%205%27-phosphosulfate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-10214"
+                        },
+                        {
+                          "Start": 445,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 532,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pentachlorophenol",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-992"
+                        },
+                        {
+                          "Start": 624,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pentachlorophenol",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-992"
+                        },
+                        {
+                          "Start": 841,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 910,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pentachlorophenol",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-992"
+                        },
+                        {
+                          "Start": 1005,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pentachlorophenol",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-992"
+                        },
+                        {
+                          "Start": 1150,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        },
+                        {
+                          "Start": 1161,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 1239,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 1335,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pentachlorophenol",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-992"
+                        },
+                        {
+                          "Start": 1407,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diethylnitrosamine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5921"
+                        },
+                        {
+                          "Start": 1447,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pentachlorophenol",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-992"
+                        },
+                        {
+                          "Start": 1487,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/adenosine%20triphosphate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5957"
+                        },
+                        {
+                          "Start": 1514,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sulfate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-1117"
+                        },
+                        {
+                          "Start": 1707,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 1833,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 2202,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 2436,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-sulfooxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-125117"
+                        },
+                        {
+                          "Start": 2526,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:15310247",
+                  "Ueng YF et al; Chem Res Toxicol 17 (8): 1151-6 (2004)"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:15310247",
+                    "Matched": {
+                      "PCLID": 9860018,
+                      "Citation": "Ueng YF, Hsieh CH, Don MJ, Chi CW, Ho LK. Identification of the main human cytochrome P450 enzymes involved in safrole 1'-hydroxylation. Chem Res Toxicol. 2004 Aug;17(8):1151–6. doi: 10.1021/tx030055p. PMID: 15310247.",
+                      "PMID": 15310247,
+                      "DOI": "10.1021/tx030055p"
+                    }
+                  },
+                  {
+                    "Citation": "Ueng YF et al; Chem Res Toxicol 17 (8): 1151-6 (2004)",
+                    "Matched": {
+                      "PCLID": 9860018,
+                      "Citation": "Ueng YF, Hsieh CH, Don MJ, Chi CW, Ho LK. Identification of the main human cytochrome P450 enzymes involved in safrole 1'-hydroxylation. Chem Res Toxicol. 2004 Aug;17(8):1151–6. doi: 10.1021/tx030055p. PMID: 15310247.",
+                      "PMID": 15310247,
+                      "DOI": "10.1021/tx030055p"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "... The carcinogenicity of safrole is mediated through 1'-hydroxysafrole formation, followed by sulfonation to an unstable sulfate that reacts to form DNA adducts. To identify the main cytochrome P450 (P450) involved in human hepatic safrole 1'-hydroxylation (SOH), ... the SOH activities of human liver microsomes and Escherichia coli membranes expressing bicistronic human P450s /were determined/. Human liver (n = 18) microsomal SOH activities were in the range of 3.5-16.9 nmol/min/mg protein with a mean value of 8.7 +/- 0.7 nmol/min/mg protein. In human liver (n = 3) microsomes, the mean K(m) and V(max) values of SOH were 5.7 +/- 1.2 mM and 0.14 +/- 0.03 micromol/min/nmol P450, respectively. The mean intrinsic clearance (V(max)/K(m)) was 25.3 +/- 2.3 microL/min/nmol P450. SOH was sensitive to the inhibition by a CYP2C9 inhibitor, sulfaphenazole, and CYP2E1 inhibitors, 4-methylpyrazole and diethyldithiocarbamate. The liver microsomal SOH activity showed significant correlations with tolbutamide hydroxylation (r = 0.569) and chlorzoxazone hydroxylation (r = 0.770) activities, which were the model reactions catalyzed by CYP2C9 and CYP2E1, respectively. Human CYP2C9 and CYP2E1 showed SOH activities at least 2-fold higher than the other P450s. CYP2E1 showed an intrinsic clearance 3-fold greater than CYP2C9. These results demonstrated that CYP2C9 and CYP2E1 were the main P450s involved in human hepatic SOH.",
+                      "Markup": [
+                        {
+                          "Start": 27,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        },
+                        {
+                          "Start": 55,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 123,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sulfate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-1117"
+                        },
+                        {
+                          "Start": 234,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        },
+                        {
+                          "Start": 842,
+                          "Length": 14,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sulfaphenazole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5335"
+                        },
+                        {
+                          "Start": 881,
+                          "Length": 16,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-methylpyrazole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3406"
+                        },
+                        {
+                          "Start": 902,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diethyldithiocarbamate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-28343"
+                        },
+                        {
+                          "Start": 997,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tolbutamide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5505"
+                        },
+                        {
+                          "Start": 1039,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorzoxazone",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-2733"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:15377158",
+                  "Jeurissen SM et al. Chem Res Toxicol 17 (9): 1245-50 (2004)"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:15377158",
+                    "Matched": {
+                      "PCLID": 11894180,
+                      "Citation": "Jeurissen SM, Bogaards JJ, Awad HM, Boersma MG, Brand W, Fiamegos YC, van Beek TA, Alink GM, Sudhölter EJ, Cnubben NH, Rietjens IM. Human cytochrome p450 enzyme specificity for bioactivation of safrole to the proximate carcinogen 1'-hydroxysafrole. Chem Res Toxicol. 2004 Sep;17(9):1245–50. doi: 10.1021/tx040001v. PMID: 15377158.",
+                      "PMID": 15377158,
+                      "DOI": "10.1021/tx040001v"
+                    }
+                  },
+                  {
+                    "Citation": "Jeurissen SM et al. Chem Res Toxicol 17 (9): 1245-50 (2004)",
+                    "Matched": {
+                      "PCLID": 11894180,
+                      "Citation": "Jeurissen SM, Bogaards JJ, Awad HM, Boersma MG, Brand W, Fiamegos YC, van Beek TA, Alink GM, Sudhölter EJ, Cnubben NH, Rietjens IM. Human cytochrome p450 enzyme specificity for bioactivation of safrole to the proximate carcinogen 1'-hydroxysafrole. Chem Res Toxicol. 2004 Sep;17(9):1245–50. doi: 10.1021/tx040001v. PMID: 15377158.",
+                      "PMID": 15377158,
+                      "DOI": "10.1021/tx040001v"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "In the present study, the cytochrome P450 mediated bioactivation of safrole to its proximate carcinogenic metabolite, 1'-hydroxysafrole, has been investigated for the purpose of identifying the human P450 enzymes involved. The 1'-hydroxylation of safrole was characterized in a variety of in vitro test systems, including Supersomes, expressing individual human P450 enzymes to a high level, and microsomes derived from cell lines expressing individual human P450 enzymes to a lower, average human liver level. Additionally, a correlation study was performed, in which safrole was incubated with a series of 15 human liver microsomes, and the 1'-hydroxylation rates obtained were correlated with the activities of these microsomes toward specific substrates for nine different isoenzymes. To complete the study, a final experiment was performed in which pooled human liver microsomes were incubated with safrole in the presence and absence of coumarin, a selective P450 2A6 substrate. On the basis of the results of these experiments, important roles for P450 2C9*1, P450 2A6, P450 2D6*1, and P450 2E1 were elucidated. The possible consequences of these results for the effects of genetic polymorphisms and life style factors on the bioactivation of safrole are discussed. Polymorphisms in P450 2C9, P450 2A6, and P450 2D6, leading to poor metabolizer phenotypes, may reduce the relative risk on the harmful effects of safrole, whereas life style factors, such as the use of alcohol, an inducer of P450 2E1, and barbiturates, inducers of P450 2C9, and polymorphisms in P450 2D6 and P450 2A6, leading to ultraextensive metabolizer phenotypes, may increase the relative risk.",
+                      "Markup": [
+                        {
+                          "Start": 68,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        },
+                        {
+                          "Start": 118,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 247,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        },
+                        {
+                          "Start": 569,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        },
+                        {
+                          "Start": 904,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        },
+                        {
+                          "Start": 943,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/coumarin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-323"
+                        },
+                        {
+                          "Start": 1250,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        },
+                        {
+                          "Start": 1419,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+        "Section": [
+          {
+            "TOCHeading": "General Manufacturing Information",
+            "Description": "General manufacturing information for this chemical, provided by the Hazardous Substances Data Bank (HSDB) and EPA TSCA Chemical Substance Inventory.",
+            "DisplayControls": {
+              "ListType": "Columns"
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "INCHEM; Chemical Safety Inofrmation form Intergovernmental Organizations. International Programme on Chemical Safety Poisons Information Monograph 355 Plant. Myristica fragrans Houtt. (PIM 355). Available from, as of Jul 19, 2007: https://www.inchem.org/documents/pims/plant/pim355.htm"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "INCHEM; Chemical Safety Inofrmation form Intergovernmental Organizations. International Programme on Chemical Safety Poisons Information Monograph 355 Plant. Myristica fragrans Houtt. (PIM 355). Available from, as of Jul 19, 2007: https://www.inchem.org/documents/pims/plant/pim355.htm",
+                    "Matched": {
+                      "PCLID": 900143229,
+                      "Citation": "INCHEM; Chemical Safety Inofrmation form Intergovernmental Organizations. International Programme on Chemical Safety Poisons Information Monograph 355 Plant. Myristica fragrans Houtt. (PIM 355). Available from, as of Jul 19, 2007: https://www.inchem.org/documents/pims/plant/pim355.htm"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Safrole is a known mild hepatocarcinogen. Although safrole itself is not carcinogenic, it is metabolized to form 1'-hydroxysafrole which is carcinogenic. /Safrole/",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        },
+                        {
+                          "Start": 51,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        },
+                        {
+                          "Start": 113,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-21268"
+                        },
+                        {
+                          "Start": 155,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Safrole",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5144"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Safety and Hazards",
+        "Description": "Information on safety and hazards for this compound, including safety/hazards properties, reactivity, incompatibilities, management techniques, first aid treatments, and more.  For toxicity and related information, please see the Toxicity section.",
+        "Section": [
+          {
+            "TOCHeading": "Hazards Identification",
+            "Description": "This section identifies the hazards of the chemical presented on the safety data sheet (SDS) and the appropriate warning information associated with those hazards.  The information in this section includes, but are not limited to, the hazard classification of the chemical, signal word, pictograms, hazard statements and precautionary statements.",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "Hazards Summary",
+                "Description": "This section provides an overview of the key hazards information of this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A mutagen and tumorigen; [RTECS] Emergency treatment: Sassafras oil; Safrole is the toxic agent in sassafras oil; Safrole is classified as 2B (possible human carcinogen) by IARC; Safrole is metabolized in the body to 1'-hydroxysafrole; Ingestion of 5 ml of sassafras oil can cause severe symptoms (tachycardia, hypotension, and respiratory paralysis) or death; Large doses may damage the liver; Drinking 10 cups of sassafras tea caused sweating in one adult subject; [HSDB] See Safrole.",
+                          "Markup": [
+                            {
+                              "Start": 69,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Safrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5144"
+                            },
+                            {
+                              "Start": 114,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Safrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5144"
+                            },
+                            {
+                              "Start": 179,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Safrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5144"
+                            },
+                            {
+                              "Start": 217,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            },
+                            {
+                              "Start": 478,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Safrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5144"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Accidental Release Measures",
+            "Description": "This section provides recommendations on the appropriate response to spills, leaks, or releases, including containment and cleanup practices to prevent or minimize exposure to people, properties, or the environment. It may also include recommendations distinguishing between responses for large and small spills where the spill volume has a significant impact on the hazard.",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "Disposal Methods",
+                "Description": "Disposal methods or procedures for this chemical or hazardous waste containing it.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SRP: The most favorable course of action is to use an alternative chemical product with less inherent propensity for occupational exposure or environmental contamination. Recycle any unused portion of the material for its approved use or return it to the manufacturer or supplier. Ultimate disposal of the chemical must consider: the material's impact on air quality; potential migration in soil or water; effects on animal, aquatic, and plant life; and conformance with environmental and public health regulations.",
+                          "Markup": [
+                            {
+                              "Start": 399,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Safety Information",
+            "Description": "Miscellaneous safety information for this chemical that is not shown in other sections, such as history, incidents, special reports, and so on.",
+            "Section": [
+              {
+                "TOCHeading": "Special Reports",
+                "Description": "Special reports on the safety and hazard of this chemical.  Most of them are government documents and review articles.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 16:  Safrole (1981)",
+                          "Markup": [
+                            {
+                              "Start": 81,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Safrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5144"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Miller EC et al; Carcinogenesis a Comprehensive Survey 10: 93-107 (2985). The role of reactive sulfates as ultimate carcinogens /are reviewed/. ... Studies of metabolic activation and DNA adduct formation of /the/ proximate carcinogen, 1'-hydroxysafrole /is presented/.",
+                          "Markup": [
+                            {
+                              "Start": 236,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational hepatotoxin - Secondary hepatotoxins: the potential for toxic effect in the occupational setting is based on cases of poisoning by human ingestion or animal experimentation."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 277"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 277",
+                        "Matched": {
+                          "PCLID": 900003039,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 277"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Basic treatment: Establish a patent airway (oropharyngeal or nasopharyngeal airway, if needed). Suction if necessary. Watch  for signs of respiratory insufficiency and assist ventilations if necessary. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with 0.9% saline (NS) during transport ... . Administer activated charcoal ... . Do not use emetics. Cover skin burns with dry, sterile dressings after decontamination ... . Maintain body temperature. /Phenols and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 220,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 472,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 576,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 277"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 277",
+                        "Matched": {
+                          "PCLID": 900003039,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 277"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in severe respiratory distress. Positive pressure ventilation techniques with a bag valve mask device may be beneficial. Consider drug therapy for pulmonary edema ... .  Monitor cardiac rhythm and treat arrhythmias if necessary ... . Start IV administration of D5W /SRP: \"To keep open\", minimal flow rate/. Use 0.9% saline (NS) or lactated Ringer's (LR) if  signs of hypovolemia are present. For hypotension with signs of hypovolemia, administer fluid cautiously. Consider  vasopressors if patient is hypotensive with a normal fluid volume. Watch for signs of fluid overload ... . Administer 1% solution methylene blue if patient is symptomatic with severe hypoxia, cyanosis, and cardiac compromise not responding to oxygen. ... Treat seizures with diazepam or lorazepam. ... Use proparacaine hydrochloride to assist eye irrigation ... . /Phenols and related  compounds/",
+                          "Markup": [
+                            {
+                              "Start": 767,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methylene%20blue",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6099"
+                            },
+                            {
+                              "Start": 880,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 912,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 924,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lorazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3958"
+                            },
+                            {
+                              "Start": 943,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V10 240 (1976)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V10 240 (1976)",
+                        "Matched": {
+                          "PCLID": 900120781,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V10 240 (1976)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/GENOTOXICITY/ 1'-hydroxysafrole ... induced unscheduled DNA repair synthesis in cultured human fibroblasts.",
+                          "Markup": [
+                            {
+                              "Start": 15,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V10 240 (1976)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V10 240 (1976)",
+                        "Matched": {
+                          "PCLID": 900120781,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V10 240 (1976)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ 1'-hydroxysafrole ... produced a greater incidence of liver tumors in male infant mice than did equimolar concn of safrole; 4 sc injections were given on days 1, 7, 14 & 21 of life. In male rats given 5500 mg 1'-hydroxysafrole/kg of diet for 8.5-10 mo, incidence of liver tumors in rats killed at 12 or 16 mo was higher than that in rats receiving safrole; in addn, forestomach papillomas were produced by 1'-hydroxysafrole. when groups of 18 adult rats ... given twice weekly sc injections of 18.6 umol 1'-hydroxysafrole or 1'-acetoxysafrole for 10 wk, followed by observation for 17-18 mo, local tumors occurred in both groups. A high incidence (20/65) of interscapular sarcomas (mainly angiosarcomas)...observed in mice fed 1'-hydroxysafrole.",
+                          "Markup": [
+                            {
+                              "Start": 58,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            },
+                            {
+                              "Start": 173,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5144"
+                            },
+                            {
+                              "Start": 267,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            },
+                            {
+                              "Start": 406,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5144"
+                            },
+                            {
+                              "Start": 464,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            },
+                            {
+                              "Start": 562,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            },
+                            {
+                              "Start": 583,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-acetoxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-36868"
+                            },
+                            {
+                              "Start": 785,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:2881629",
+                      "Boberg EW et al; Carcinogenesis 8 (4): 531-9 (1987)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:2881629",
+                        "Matched": {
+                          "PCLID": 8290001,
+                          "Citation": "Boberg EW, Liem A, Miller EC, Miller JA. Inhibition by pentachlorophenol of the initiating and promoting activities of 1'-hydroxysafrole for the formation of enzyme-altered foci and tumors in rat liver. Carcinogenesis. 1987 Apr;8(4):531–9. doi: 10.1093/carcin/8.4.531. PMID: 2881629.",
+                          "PMID": 2881629,
+                          "DOI": "10.1093/carcin/8.4.531"
+                        }
+                      },
+                      {
+                        "Citation": "Boberg EW et al; Carcinogenesis 8 (4): 531-9 (1987)",
+                        "Matched": {
+                          "PCLID": 906289805,
+                          "Citation": "Boberg EW et al; Carcinogenesis 8 (4): 531-9 (1987)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The hepatocarcinogen 1'-hydroxysafrole (HOS) exhibited weak initiating activity and strong promoting activity for the induction of enzyme-altered foci and tumors in rat liver. Thus, administration of a single dose of HOS to rats 18 hr after a 70% hepatectomy, followed by administration of phenobarbital (PB) in the diet for 6 months, induced a low, but statistically significant, number of foci of enzyme-altered cells. This treatment did not result in gross liver tumors, even when the PB treatment was continued for 16 months. Large numbers of enzyme-altered foci developed when HOS was administered in the diet at levels of 0.05-0.25% to rats previously administered a single dose of N,N-diethylnitrosamine (DEN) 24 hr after a 70% hepatectomy. Similarly, rats given a single dose of DEN 24 hr after a partial hepatectomy and then fed 0.10 or 0.25% of HOS in the diet for 10 months developed a high incidence of hepatocellular carcinomas. In the absence of pretreatment with DEN, dietary administration for at least 4 months of 0.10 or 0.25% of HOS induced significant numbers of enzyme-altered foci; these data and liver tumor induction by continuous feeding of HOS, in the absence of pretreatment with DEN, provide additional evidence for an initiating, as well as a promoting, activity of HOS in rat liver. Concurrent administration of the hepatic sulfotransferase inhibitor pentachlorophenol with HOS in each of the above assays almost completely inhibited the initiating and promoting activities of HOS for the formation of enzyme-altered foci and tumors; these data strongly suggest that both the initiating and promoting activities are mediated by the sulfuric acid ester, 1'-sulfooxysafrole. HOS also exhibited initiating activity in adult mouse liver. Thus, dietary administration of 0.25% of HOS for only 1 month, followed by administration of the hepatic tumor promoter 1,4-bis[2-(3,5-dichloropyridyloxy)]benzene resulted in a high incidence and multiplicity of hepatomas by 10 months. In the absence of the promoter, administration of HOS for only 1 month induced no hepatomas; 1,4-bis[2-(3,5-dichloropyridyloxy)]benzene alone induced only a low incidence. In mice not given the promoter, continuous administration of HOS for 3-6 months was required for hepatoma development by 16 months.",
+                          "Markup": [
+                            {
+                              "Start": 79,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            },
+                            {
+                              "Start": 348,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenobarbital",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4763"
+                            },
+                            {
+                              "Start": 746,
+                              "Length": 22,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/N%2CN-diethylnitrosamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5921"
+                            },
+                            {
+                              "Start": 1439,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pentachlorophenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-992"
+                            },
+                            {
+                              "Start": 1741,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-sulfooxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-125117"
+                            },
+                            {
+                              "Start": 1942,
+                              "Length": 42,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-bis%5B2-%283%2C5-dichloropyridyloxy%29%5Dbenzene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5382"
+                            },
+                            {
+                              "Start": 2151,
+                              "Length": 42,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-bis%5B2-%283%2C5-dichloropyridyloxy%29%5Dbenzene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5382"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 16:  Safrole (1981). Available from, as of June 14, 2007: https://www.inchem.org/pages/jecfa.html"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 16:  Safrole (1981). Available from, as of June 14, 2007: https://www.inchem.org/pages/jecfa.html",
+                        "Matched": {
+                          "PCLID": 900040993,
+                          "Citation": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 16:  Safrole (1981). Available from, as of June 14, 2007: https://www.inchem.org/pages/jecfa.html"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Safrole and 1'-hydroxysafrole were fed in the diet to adult mice at final levels of 0.50 and 0.55%, respectively, for 12 months. The survivors were sacrificed at 17 months. A control group was included and the number of mice per sex per group ranged from 45 to 55. It was necessary to increase the dietary level of 1'-hydroxysafrole gradually because the 0.55% level was acutely toxic in uninitiated females. The acute toxicity was associated with marked liver toxicity. Both safrole and 1'-hydroxysafrole produced depression of weight gain and increased mortality by the end of 12 months of treatment. No liver tumors were observed in either the male or female controls. Eleven male and 25 female safrole- treated mice had liver tumors. No male mice and 30 female 1'-hydroxysafrole-treated mice had liver tumors. There were also five sc angiosarcomas in the female 1'-hydroxysafrole-treated mice.",
+                          "Markup": [
+                            {
+                              "Start": 58,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Safrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5144"
+                            },
+                            {
+                              "Start": 70,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            },
+                            {
+                              "Start": 373,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            },
+                            {
+                              "Start": 534,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5144"
+                            },
+                            {
+                              "Start": 546,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            },
+                            {
+                              "Start": 756,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/safrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5144"
+                            },
+                            {
+                              "Start": 823,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            },
+                            {
+                              "Start": 924,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-hydroxysafrole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 16:  Safrole (1981). Available from, as of June 14, 2007: https://www.inchem.org/pages/jecfa.html"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 16:  Safrole (1981). Available from, as of June 14, 2007: https://www.inchem.org/pages/jecfa.html",
+                        "Matched": {
+                          "PCLID": 900040993,
+                          "Citation": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 16:  Safrole (1981). Available from, as of June 14, 2007: https://www.inchem.org/pages/jecfa.html"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... A total dose of 4.43 umol of 1'-hydroxysasfrole was administered sc to preweanling male mice. The dose was divided and administered on days 1, 8, 15 and 22 of age. The test groups contained 60 mice and the control group 66. The mice were sacrificed at 15 months of age. Six control mice had liver carcinomas; none were multiple. Thirty test mice had liver tumors; these tumors were multiple in 20 of the mice."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for 1'-HYDROXYSAFROLE (11 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 104,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/3492#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%27-HYDROXYSAFROLE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21268"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Associated Disorders and Diseases",
+        "Description": "Disorders and diseases associated with the compound.  The contexts of the associations listed in this section vary. For example, a compound may cause its associated diseases (e.g., carcinogens and cancers) or have a therapeutic effect in treatment of the diseases (e.g., antihistamines and allergies), or be used as a marker/indicator for the diseases (e.g., glucose and diabetes).",
+        "DisplayControls": {
+          "CreateTable": {
+            "FromInformationIn": "Subsections",
+            "NumberOfColumns": 2,
+            "ColumnHeadings": [
+              "Disease",
+              "References"
+            ],
+            "ColumnContents": [
+              "Name",
+              "Value"
+            ]
+          }
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 3,
+            "Value": {
+              "ExternalTableName": "consolidateddiseaseassociation"
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NLM Curated PubMed Citations",
+            "Description": "The NLM Curated PubMed Citations section links to all PubMed records that are tagged with the same MeSH term that has been associated with a particular compound.",
+            "URL": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0142-6",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed_mesh&db=pccompound&cmd=Link&from_uid=21268",
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Springer Nature References",
+            "Description": "Literature references related to scientific contents from Springer Nature journals and books. These references have been ranked automatically by an algorithm which calculates the relevance for each substance in a Springer Nature document. It is based on: (1) the TF-IDF, adapted to chemical structures, (2) location information in the text (e.g. title, abstract, keywords), and (3) the document size.  Springer Nature aims to provide only highly qualitative and relevant content but references of lower relevance aren't withheld as they might contain also very useful information.",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "ExternalTableName": "collection=springernature&query_type=sid&query=341162859"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Thieme References",
+            "Description": "Literature references related to scientific contents from Thieme Chemistry journals and books. The Thieme Chemistry content within this section is provided under a CC-BY-NC-ND 4.0 license (https://creativecommons.org/licenses/by-nc-nd/4.0/), unless otherwise stated.",
+            "Information": [
+              {
+                "ReferenceNumber": 10,
+                "Value": {
+                  "ExternalTableName": "collection=thiemechemistry&query_type=sid&query=516639488"
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "ExternalTableName": "collection=thiemechemistry&query_type=sid&query=516673203"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Literature",
+            "Description": "Chemical-organism co-occurrences in literature highlight chemical-organism pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalOrganismNeighbor"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "OrganismName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/21268/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "WIPO PATENTSCOPE",
+            "Description": "Use the provided link to show patents associated with this chemical structure in WIPO's PATENTSCOPE system.",
+            "URL": "https://www.wipo.int/patentscope/en/",
+            "Information": [
+              {
+                "ReferenceNumber": 23,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Patents are available for this chemical structure:"
+                    },
+                    {
+                      "String": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=VVBJNJFYBCLUAH-UHFFFAOYSA-N",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 86,
+                          "URL": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=VVBJNJFYBCLUAH-UHFFFAOYSA-N"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Interactions and Pathways",
+        "Description": "This section provides information on the biomolecular interactions of this compound with drugs, genes, proteins, etc., as well as the pathways in which this compound is involved.",
+        "Section": [
+          {
+            "TOCHeading": "Chemical-Target Interactions",
+            "Description": "Interactions between targets and this compound",
+            "Information": [
+              {
+                "ReferenceNumber": 3,
+                "Value": {
+                  "ExternalTableName": "consolidatedcompoundtarget"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Biological Test Results",
+        "Description": "A PubChem substance or compound summary page displays biological test results from the PubChem BioAssay database, if/as available, for the chemical structure currently displayed. You can embed biological test results displays within your own web pages, for a PubChem Compound or Substance of interest, by using the BioActivity Widget.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/widgets",
+        "Section": [
+          {
+            "TOCHeading": "BioAssay Results",
+            "Description": "Bioactivity data for this compound, reported in PubChem BioAssay records.",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "ExternalTableName": "bioactivity"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "MeSH Tree",
+            "Description": "The Medical Subject Headings (MeSH) tree for this entity.  MeSH is a controlled and hierarchically-organized vocabulary produced by the National Library of Medicine.",
+            "URL": "https://www.nlm.nih.gov/mesh",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChemIDplus",
+            "Description": "Classification of this compound, provided by ChemIDplus, which is a free web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases.  ChemIDplus groups chemicals based on the source locators (i.e., what information resources have data for a given chemical).",
+            "URL": "https://chem.nlm.nih.gov/chemidplus/",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                "Value": {
+                  "Number": [
+                    84
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA DSSTox Classification",
+            "Description": "Classification from the U.S. Environmental Protection Agency's Distributed Structure-Searchable Toxicity (DSSTox) database. DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology. A distinguishing feature of this effort is the accurate mapping of bioassay and physicochemical property data associated with chemical substances to their corresponding chemical structures. ",
+            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+            "Information": [
+              {
+                "ReferenceNumber": 18,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=105",
+                "Value": {
+                  "Number": [
+                    105
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "MolGenie Organic Chemistry Ontology",
+            "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign compounds to structural classes, currently mapped to >1.7 million per- and polyfluoroalkyl substances (PFAS) extracted from the datasets explained in Barnabas et al (2022) DOI: 10.1039/D2DD00019A",
+            "URL": "https://github.com/MolGenie/ontology/",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=134",
+                "Value": {
+                  "Number": [
+                    134
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "CAS Common Chemistry",
+        "SourceID": "5208-87-7",
+        "Name": "α-Ethenyl-1,3-benzodioxole-5-methanol",
+        "Description": "CAS Common Chemistry is an open community resource for accessing chemical information. Nearly 500,000 chemical substances from CAS REGISTRY cover areas of community interest, including common and frequently regulated chemicals, and those relevant to high school and undergraduate chemistry classes. This chemical information, curated by our expert scientists, is provided in alignment with our mission as a division of the American Chemical Society.",
+        "URL": "https://commonchemistry.cas.org/detail?cas_rn=5208-87-7",
+        "LicenseNote": "The data from CAS Common Chemistry is provided under a CC-BY-NC 4.0 license, unless otherwise stated.",
+        "LicenseURL": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "ANID": 13081832
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "ChemIDplus",
+        "SourceID": "0005208877",
+        "Name": "1'-Hydroxysafrole",
+        "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0005208877",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 808903
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "DTXSID0020731",
+        "Name": "1'-Hydroxysafrole",
+        "Description": "DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology.",
+        "URL": "https://comptox.epa.gov/dashboard/DTXSID0020731",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 1149182
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "FDA Global Substance Registration System (GSRS)",
+        "SourceID": "C9B19855E2",
+        "Name": "1'-HYDROXYSAFROLE",
+        "Description": "The FDA Global Substance Registration System (GSRS) enables the efficient and accurate exchange of information on what substances are in regulated products. Instead of relying on names, which vary across regulatory domains, countries, and regions, the GSRS knowledge base makes it possible for substances to be defined by standardized, scientific descriptions.",
+        "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/C9B19855E2",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 5826522
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "3492",
+        "Name": "1'-HYDROXYSAFROLE",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/3492",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 2616
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "Comparative Toxicogenomics Database (CTD)",
+        "SourceID": "C012376::Compound",
+        "Name": "1'-hydroxysafrole",
+        "Description": "CTD is a robust, publicly available database that aims to advance understanding about how environmental exposures affect human health.",
+        "URL": "https://ctdbase.org/detail.go?type=chem&acc=C012376",
+        "LicenseNote": "It is to be used only for research and educational purposes. Any reproduction or use for commercial purpose is prohibited without the prior express written permission of NC State University.",
+        "LicenseURL": "http://ctdbase.org/about/legal.jsp",
+        "ANID": 9013804
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz2835",
+        "Name": "1'-Hydroxysafrole",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "URL": "https://haz-map.com/Agents/2835",
+        "LicenseNote": "Copyright (c) 2022 Haz-Map(R). All rights reserved.\u000AUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "LicenseURL": "https://haz-map.com/About",
+        "ANID": 17278002
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "Japan Chemical Substance Dictionary (Nikkaji)",
+        "SourceID": "J2.229B",
+        "Description": "The Japan Chemical Substance Dictionary (Nikkaji) has a search system that helps obtain knowledge from dissimilar fields and discover concepts that cross boundaries of specializations.",
+        "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J2.229B",
+        "ANID": 22316292
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "Springer Nature",
+        "SourceID": "341162859",
+        "Description": "Springer Nature is the world's largest academic book publisher, publisher of the world's most influential journals, and a pioneer in the field of open research. SpringerLink provides electronic access to its book and journal content.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/341162859",
+        "ANID": 47735510
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "Thieme Chemistry",
+        "SourceID": "516639488",
+        "Description": "Thieme Chemistry is part of the privately owned Thieme Group and publishes highly evaluated information about synthetic and general chemistry for professional chemists and advanced students since 1909. \u000A \u000AOur portfolio includes the journals SYNFACTS, SYNLETT, SYNTHESIS and SynOpen, the synthetic methodology reference work Science of Synthesis, the German chemical encyclopedia ROEMPP, and monographs in electronic and printed format. The Thieme Chemistry contribution within PubChem is provided under a CC-BY-NC-ND 4.0 license (https://creativecommons.org/licenses/by-nc-nd/4.0/), unless otherwise stated.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/516639488",
+        "LicenseNote": "The Thieme Chemistry contribution within PubChem is provided under a CC-BY-NC-ND 4.0 license, unless otherwise stated.",
+        "LicenseURL": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "ANID": 50713514
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "Thieme Chemistry",
+        "SourceID": "516673203",
+        "Description": "Thieme Chemistry is part of the privately owned Thieme Group and publishes highly evaluated information about synthetic and general chemistry for professional chemists and advanced students since 1909. \u000A \u000AOur portfolio includes the journals SYNFACTS, SYNLETT, SYNTHESIS and SynOpen, the synthetic methodology reference work Science of Synthesis, the German chemical encyclopedia ROEMPP, and monographs in electronic and printed format. The Thieme Chemistry contribution within PubChem is provided under a CC-BY-NC-ND 4.0 license (https://creativecommons.org/licenses/by-nc-nd/4.0/), unless otherwise stated.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/516673203",
+        "LicenseNote": "The Thieme Chemistry contribution within PubChem is provided under a CC-BY-NC-ND 4.0 license, unless otherwise stated.",
+        "LicenseURL": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "ANID": 50767541
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q27275352",
+        "Name": "1'-hydroxysafrole",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q27275352",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44308938
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0059349",
+        "Name": "1'-hydroxysafrole",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0059349.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "DescTree",
+        "Name": "MeSH Tree",
+        "Description": "MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "ChemIDplus",
+        "SourceID": "ChemIDplus_tree",
+        "Name": "ChemIDplus Chemical Information Classification",
+        "Description": "ChemIDplus is a TOXNET (TOXicology data NETwork) databases that contain chemicals and drugs related information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/chemidplus",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "dsstoxlist_tree",
+        "Name": "CompTox Chemicals Dashboard Chemical Lists",
+        "Description": "This classification lists the chemical categories from the EPA CompTox Chemicals Dashboard.",
+        "URL": "https://comptox.epa.gov/dashboard/chemical-lists/",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "MolGenie",
+        "SourceID": "mol_classes",
+        "Name": "MolGenie Organic Chemistry Ontology",
+        "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign chemical entities to structural classes, split into three main subsections: calculated properties, compounds and substructural concepts. The ontology contains chemistry structural classes with a focus on elements and small organic compounds, but not inorganic, polymer, biopolymer, metal complexes, metal organic frameworks (MOFs) and other chemistry entities. The ontology has been mapped to several collections of chemicals, including (a) Chemicals of Biological Interest (ChEBI), (b) the ChEMBL database of bioactive molecules, (c) the LOTUS natural product collection, (d) per- and polyfluoroalkyl substances (PFAS) extracted from Barnabas et al (2022) DOI: 10.1039/D2DD00019A (e) PubChemLite and (f) the ZeroPM Global Chemical Inventory.",
+        "URL": "https://github.com/MolGenie/ontology/",
+        "LicenseNote": "CC-BY 4.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "PubMed from MeSH",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "PATENTSCOPE (WIPO)",
+        "Name": "SID 389169261",
+        "Description": "The PATENTSCOPE database from WIPO includes patent and chemical structure search (with a free account) that gives access to millions of patent documents. The World Intellectual Property Organisation (WIPO) is a specialized United Nations (UN) agency headquartered in Geneva (Switzerland). Our mission is to lead the development of a balanced and effective international Intellectual Property (IP) system that enables innovation and creativity for the benefit of all. We help governments, businesses and society realize the benefits of Intellectual Property and are notably a world reference source for IP information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/389169261"
+      }
+    ]
+  }
+}

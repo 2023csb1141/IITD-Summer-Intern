@@ -1,0 +1,3575 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 30005,
+    "RecordTitle": "Mercaptomerin",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Status",
+            "Description": "The reason why three-dimensional (3D) conformers for this compound cannot be generated.  PubChem generates 3D conformers for each compound that satisfies the following conditions: [1] not too large (with <= 50 non-hydrogen atoms), [2] not too flexible (with <= 15 rotatable bonds), [3] consisting of only supported elements (H, C, N, O, F, Si, P, S, Cl, Br, and I), [4] having only a single covalent unit (i.e., not a salt or a mixture), [5] contains only atom types recognized by the MMFF94s force field used for conformer generation, and [6] has fewer than six undefined atom or bond stereo centers.  Compounds that do not satisfy any of these conditions are not considered for 3-D conformer generation.  In some rare cases, a compound satisfies all conditions but the conformer generation for the compound fails for some reason. More detailed information on 3D conformer generation can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Conformer generation is disallowed since MMFF94s unsupported element, MMFF94s unsupported atom valence, mixture or salt"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 6,
+                "ExtendedReference": [
+                  {
+                    "Citation": "L1: Fred Senese (2005). \"Why is mercury a liquid at STP?\". General Chemistry Online at Frostburg State University. http://antoine.frostburg.edu/chem/senese/101/inorganic/faq/why-is-mercury-liquid.shtml",
+                    "Matched": {
+                      "PCLID": 906299748,
+                      "Citation": "L1: Fred Senese (2005). \"Why is mercury a liquid at STP?\". General Chemistry Online at Frostburg State University. http://antoine.frostburg.edu/chem/senese/101/inorganic/faq/why-is-mercury-liquid.shtml"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Mercaptomerin is an organomercuric compound. Mercury is a heavy, silvery d-block metal and one of six elements that are liquid at or near room temperature and pressure. It is a naturally occuring substance, and combines with other elements such as chlorine, sulfur, or oxygen to form inorganic mercury compounds (salts). Mercury also combines with carbon to make organic mercury compounds. (L1)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mercaptomerin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-30005"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Mercury"
+                        },
+                        {
+                          "Start": 248,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Chlorine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Chlorine"
+                        },
+                        {
+                          "Start": 258,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sulfur",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Sulfur"
+                        },
+                        {
+                          "Start": 269,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Oxygen"
+                        },
+                        {
+                          "Start": 294,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Mercury"
+                        },
+                        {
+                          "Start": 321,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Mercury"
+                        },
+                        {
+                          "Start": 348,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Carbon"
+                        },
+                        {
+                          "Start": 371,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Mercury"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 8,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "RN given refers to parent cpd; structure in Merck Index, 9th ed, #5700"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[3-[(3-carboxylato-2,2,3-trimethylcyclopentanecarbonyl)amino]-2-methoxypropyl]mercury(1+);hydron;2-sulfidoacetate"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C14H24NO4.C2H4O2S.Hg/c1-9(19-5)8-15-11(16)10-6-7-14(4,12(17)18)13(10,2)3;3-2(4)1-5;/h9-10H,1,6-8H2,2-5H3,(H,15,16)(H,17,18);5H,1H2,(H,3,4);/q;;+1/p-1"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "JGMQLDDGSMLGDU-UHFFFAOYSA-M"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[H+].[H+].CC1(C(CCC1(C)C(=O)[O-])C(=O)NCC(C[Hg+])OC)C.C(C(=O)[O-])[S-]"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C16H27HgNO6S"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "20223-84-1"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "20223-84-1"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "20223-84-1"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related CAS",
+                "Description": "The Chemical Abstract Service (CAS) registry numbers for related chemicals (e.g., parents, components, mixtures, salt forms, etc.)",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "21259-76-7 (di-hydrochloride salt)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/21259-76-7",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID901046256",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID901046256"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "NCI Thesaurus Code",
+                "Description": "Stable, unique code for biomedical concept",
+                "URL": "https://ncithesaurus.nci.nih.gov",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "URL": "https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C166828",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C166828"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "URL": "https://www.wikidata.org/wiki/Q27261617",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q27261617"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Entry Terms",
+                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "mercaptomerin"
+                        },
+                        {
+                          "String": "mercaptomerine"
+                        },
+                        {
+                          "String": "thiomerin"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MERCAPTOMERIN"
+                        },
+                        {
+                          "String": "Mercaptomerine"
+                        },
+                        {
+                          "String": "Thiomerin"
+                        },
+                        {
+                          "String": "Mercaptomerina"
+                        },
+                        {
+                          "String": "Mercaptomerinum"
+                        },
+                        {
+                          "String": "20223-84-1"
+                        },
+                        {
+                          "String": "58TLO7I2HN"
+                        },
+                        {
+                          "String": "DTXSID901046256"
+                        },
+                        {
+                          "String": "Mercury, (3-(3-carboxy-2,2,3-trimethylcyclopentanecarboxamido)-2-methoxypropyl)(hydrogen mercaptoacetato)-"
+                        },
+                        {
+                          "String": "RefChem:156556"
+                        },
+                        {
+                          "String": "DTXCID701505915"
+                        },
+                        {
+                          "String": "3-((3-(((carboxymethyl)sulfanyl)mercurio)-2-methoxypropyl)carbamoyl)-1,2,2-trimethylcyclopentane-1-carboxylic acid"
+                        },
+                        {
+                          "String": "Diucardyn"
+                        },
+                        {
+                          "String": "Diucardyn sodium"
+                        },
+                        {
+                          "String": "Mercaptomerine sodique"
+                        },
+                        {
+                          "String": "Sodium mercaptomerin"
+                        },
+                        {
+                          "String": "Thiomerin sodium"
+                        },
+                        {
+                          "String": "[3-[(3-carboxylato-2,2,3-trimethylcyclopentanecarbonyl)amino]-2-methoxypropyl]mercury(1+);hydron;2-sulfidoacetate"
+                        },
+                        {
+                          "String": "Mercaptomerin [INN:BAN]"
+                        },
+                        {
+                          "String": "Mercaptomerine [INN-French]"
+                        },
+                        {
+                          "String": "Mercaptomerinum [INN-Latin]"
+                        },
+                        {
+                          "String": "Mercaptomerina [INN-Spanish]"
+                        },
+                        {
+                          "String": "HSDB 3356"
+                        },
+                        {
+                          "String": "UNII-58TLO7I2HN"
+                        },
+                        {
+                          "String": "N-(gamma-Carboxymethyl-mercapto-mercuri-beta methoxy)propyl camphoramic acid"
+                        },
+                        {
+                          "String": "Mercurate(2-), (3-(((3-carboxylato-2,2,3-trimethylcyclopentyl)carbonyl)amino)-2-methoxypropyl)(mercaptoacetato(2-)-O,S)-, dihydrogen, (T-4)-"
+                        },
+                        {
+                          "String": "SCHEMBL1650120"
+                        },
+                        {
+                          "String": "Mercurate(2-), (3-(((3-carboxylato-2,2,3-trimethylcyclopentyl)carbonyl)amino)-2-methoxypropyl)((mercapto-kappaS)acetato(2-)-kappaO)-, dihydrogen, (T-4)-"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AC1L1ILW"
+                        },
+                        {
+                          "String": "Acetic acid, mercapto-, mercury complex"
+                        },
+                        {
+                          "String": "CID30005"
+                        },
+                        {
+                          "String": "C16-H25-Hg-N-O6-S.2H"
+                        },
+                        {
+                          "String": "LS-89695"
+                        },
+                        {
+                          "String": "Cyclopentanecarboxylic acid, 3-(((2-methoxypropyl)amino)carbonyl)-1,2,2-trimethyl-, mercury complex"
+                        },
+                        {
+                          "String": "[3-[(3-carboxylato-2,2,3-trimethylcyclopentanecarbonyl)amino]-2-methoxypropyl]mercury(1+); hydron; 2-sulfidoacetate"
+                        },
+                        {
+                          "String": "Mercurate(2-), [3-[[(3-carboxylato-2,2,3-trimethylcyclopentyl)carbonyl]amino]-2-methoxypropyl][mercaptoacetato(2-)-O,S]-, dihydrogen, (T-4)-"
+                        },
+                        {
+                          "String": "Mercury, [3-(3-carboxy-2,2,3-trimethylcyclopentanecarboxamido)-2-methoxypropyl](hydrogen mercaptoacetato)-"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "DateISO8601": [
+                    "2005-08-08"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-08-30"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "562.0"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        3
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        7
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "563.126552"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "563.126552"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        120
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        25
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        417
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        3
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        4
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Experimental Properties",
+            "Description": "Various experimentally determined properties for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+            "Section": [
+              {
+                "TOCHeading": "Solubility",
+                "Description": "The solubility of a substance is the amount of that substance that will dissolve in a given amount of solvent. The default solvent is water, if not indicated.",
+                "URL": "https://chem.libretexts.org/Courses/Purdue/Purdue%3A_Chem_26505%3A_Organic_Chemistry_I_(Lipton)/Chapter_4._Intermolecular_Forces_and_Physical_Properties/4.4_Solubility",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Budavari, S. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Whitehouse Station, NJ: Merck and Co., Inc., 1996., p. 1002"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Budavari, S. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Whitehouse Station, NJ: Merck and Co., Inc., 1996., p. 1002",
+                        "Matched": {
+                          "PCLID": 900131902,
+                          "Citation": "Budavari, S. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Whitehouse Station, NJ: Merck and Co., Inc., 1996., p. 1002"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Decomposes 150-155 °C; insol in benzene /Mercaptomerin sodium/",
+                          "Markup": [
+                            {
+                              "Start": 32,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-241"
+                            },
+                            {
+                              "Start": 41,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mercaptomerin%20sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Other Experimental Properties",
+                "Description": "Other experimental properties of this chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Rossoff, I.S. Handbook of Veterinary Drugs. New York: Springer Publishing Company, 1974., p. 339"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Rossoff, I.S. Handbook of Veterinary Drugs. New York: Springer Publishing Company, 1974., p. 339",
+                        "Matched": {
+                          "PCLID": 906280582,
+                          "Citation": "Rossoff, I.S. Handbook of Veterinary Drugs. New York: Springer Publishing Company, 1974., p. 339"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Discolors polyethylene devices /Mercaptomerin sodium/",
+                          "Markup": [
+                            {
+                              "Start": 32,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mercaptomerin%20sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Osol, A. (ed.). Remington's Pharmaceutical Sciences. 16th ed. Easton, Pennsylvania: Mack Publishing Co., 1980., p. 877"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Osol, A. (ed.). Remington's Pharmaceutical Sciences. 16th ed. Easton, Pennsylvania: Mack Publishing Co., 1980., p. 877",
+                        "Matched": {
+                          "PCLID": 900155888,
+                          "Citation": "Osol, A. (ed.). Remington's Pharmaceutical Sciences. 16th ed. Easton, Pennsylvania: Mack Publishing Co., 1980., p. 877"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "White, hygroscopic powder or amorphous solid having a characteristic honeycomb structure; 1 in 50 solution is neutral or slightly alkaline to litmus; freely soluble in water; soluble in alcohol; slightly soluble in chloroform and ether. /Mercaptomerin sodium/",
+                          "Markup": [
+                            {
+                              "Start": 168,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 215,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloroform",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6212"
+                            },
+                            {
+                              "Start": 238,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mercaptomerin%20sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Spectral Information",
+        "Description": "Spectral data for this compound, including 1-D and 2-D nuclear magnetic resonance (NMR), Infrared (IR), Raman, and Ultraviolet (UV) spectroscopy, mass spectrometry (MS), and chromatography.",
+        "Section": [
+          {
+            "TOCHeading": "Other Spectra",
+            "Description": "Spectral information for this compound that is not shown in other sections.",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Sunshine, I. (ed.). CRC Handbook of Analytical Toxicology. Cleveland: The Chemical Rubber Co., 1969., p. 70"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Sunshine, I. (ed.). CRC Handbook of Analytical Toxicology. Cleveland: The Chemical Rubber Co., 1969., p. 70",
+                    "Matched": {
+                      "PCLID": 900122603,
+                      "Citation": "Sunshine, I. (ed.). CRC Handbook of Analytical Toxicology. Cleveland: The Chemical Rubber Co., 1969., p. 70"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "The Sadtler Pharmaceutical IR Specfinder (index number R389) shows 5 distinct bands across the 14 to 2 micron range; the strongest band appears at 6.4 microns with other bands at 9.3, 8.2, 7.2 & 3.4 microns"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID30005%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID30005%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Parent Compound",
+            "Description": "A parent compound is conceptually the \"important\" part of the molecule when the molecule has more than one covalent component. Specifically, a parent component must have at least one carbon and contain at least 70% of the heavy (non-hydrogen) atoms of all the unique covalent units (ignoring stoichiometry). Note that this is a very empirical definition and is subject to change.",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 30006 ([3-[(3-Carboxy-2,2,3-trimethylcyclopentanecarbonyl)amino]-2-methoxypropyl]mercury(1+))",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 97,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=30006",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 97,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/30006"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Component Compounds",
+            "Description": "Component parts of the compound when it consists of multiple covalently-bonded units.  In PubChem, a covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or single atom without covalent bonds).",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 30006 ([3-[(3-Carboxy-2,2,3-trimethylcyclopentanecarbonyl)amino]-2-methoxypropyl]mercury(1+))",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 97,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=30006",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 97,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/30006"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "CID 783 (Hydrogen)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=783",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/783"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "CID 1133 (Thioglycolic Acid)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 28,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=1133",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 28,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1133"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Name": "Same Parent, Exact Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/30005/cids/JSON?cids_type=same_parent&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    6
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 9,
+                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/30005/cids/JSON?cids_type=component&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    3
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 9,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID30005%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 9,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID30005%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/500799974",
+                    "Value": {
+                      "Number": [
+                        500799974
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/30005/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        19
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Associated Chemicals",
+            "Description": "Chemicals related to this compound, according to the Hazardous Substances Data Bank (HSDB).  It includes stereoisomers (e.g., enantiomers, cis-trans isomers), salt forms, mixtures, and structural analogues, etc.",
+            "URL": "https://www.nlm.nih.gov/databases/download/hsdb.html",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Mercaptomerin sodium;21259-76-7",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mercaptomerin%20sodium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-30556"
+                        },
+                        {
+                          "Start": 21,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/21259-76-7",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-30556"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NCBI LinkOut",
+            "Description": "NCBI LinkOut is a service that allows one to link directly from NCBI databases to a wide range of information and services beyond NCBI systems.",
+            "URL": "https://www.ncbi.nlm.nih.gov/projects/linkout/",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 9,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Drug and Medication Information",
+        "Description": "This section provides drug and medication information for this compound, including drug indications, labeling, clinical trials, idiosyncrasies, tolerance, reported fatal doses, etc.",
+        "Section": [
+          {
+            "TOCHeading": "Therapeutic Uses",
+            "Description": "Therapeutic uses information for this compound, provided by the Hazardous Substances Data Bank (HSDB).",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Budavari, S. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Whitehouse Station, NJ: Merck and Co., Inc., 1996., p. 1002"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Budavari, S. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Whitehouse Station, NJ: Merck and Co., Inc., 1996., p. 1002",
+                    "Matched": {
+                      "PCLID": 900131902,
+                      "Citation": "Budavari, S. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Whitehouse Station, NJ: Merck and Co., Inc., 1996., p. 1002"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Therap cat (Vet): Diuretic /Mercaptomerin sodium/",
+                      "Markup": [
+                        {
+                          "Start": 28,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mercaptomerin%20sodium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-30556"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Reported Fatal Dose",
+            "Description": "The fatal dose (also called lethal dose) is the amount of a chemical that is likely to cause death; it varies in relation to the type of animal and the route of administration.  This section provides information on the fatal human dose from the Hazardous Substances Data Bank (HSDB).",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+            "Information": [
+              {
+                "ReferenceNumber": 6,
+                "ExtendedReference": [
+                  {
+                    "Citation": "T17: Baselt RC (2000). Disposition of Toxic Drugs and Chemicals in Man, 5th ed. Foster City, CA: Chemical Toxicology Institute.",
+                    "Matched": {
+                      "PCLID": 900176509,
+                      "Citation": "T17: Baselt RC (2000). Disposition of Toxic Drugs and Chemicals in Man, 5th ed. Foster City, CA: Chemical Toxicology Institute."
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "100 mg for an adult human (average for organic mercurials). (T17)"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Pharmacology and Biochemistry",
+        "Description": "Pharmacology and biochemistry information related to this compound, including the pharmacodynamics, pharmacokinetics, metabolism, mechanism of action, biological half-life, biochemical reactions, and many others.",
+        "Section": [
+          {
+            "TOCHeading": "Absorption, Distribution and Excretion",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Sunshine, I. (ed.). CRC Handbook of Analytical Toxicology. Cleveland: The Chemical Rubber Co., 1969., p. 359"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Sunshine, I. (ed.). CRC Handbook of Analytical Toxicology. Cleveland: The Chemical Rubber Co., 1969., p. 359",
+                    "Matched": {
+                      "PCLID": 906279058,
+                      "Citation": "Sunshine, I. (ed.). CRC Handbook of Analytical Toxicology. Cleveland: The Chemical Rubber Co., 1969., p. 359"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "2 ML MERCAPTOMERIN SODIUM INJECTED IV: 60-90% EXCRETED IN URINE DURING 24 HR. 2 ML INJECTED SUBCUTANEOUS: 50% EXCRETED IN URINE WITHIN 2-3 HR. /MERCAPTOMERIN SODIUM; FROM TABLE/",
+                      "Markup": [
+                        {
+                          "Start": 5,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MERCAPTOMERIN%20SODIUM",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-30556"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MERCAPTOMERIN%20SODIUM",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-30556"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Metabolism/Metabolites",
+            "Description": "Metabolites are substances made or used when the body breaks down food, drugs or chemicals, or its own tissue (for example, fat or muscle tissue). This process is called metabolism and makes energy and the materials needed for growth, reproduction, and maintaining health. Metabolism also helps get rid of toxic substances.",
+            "Information": [
+              {
+                "ReferenceNumber": 6,
+                "ExtendedReference": [
+                  {
+                    "Citation": "T11: World Health Organization (2002). Air Quality Guidelines. Chapter 6.9: Mercury.",
+                    "Matched": {
+                      "PCLID": 906299692,
+                      "Citation": "T11: World Health Organization (2002). Air Quality Guidelines. Chapter 6.9: Mercury."
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Organic mercury is absorbed mainly by the gastrointestinal tract, then distributed throughout the body via the bloodstream. Organic mercury complexes with free cysteine and the cysteine and sulfhydryl groups on proteins such as haemoglobin. These complexes are able to mimic methionine and thus be transported throughout the body, including through the blood-brain barrier and placenta. Organic mercury is metabolized into inorganic mercury, which is eventually excreted in the urine and faeces. (T11)",
+                      "Markup": [
+                        {
+                          "Start": 8,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Mercury"
+                        },
+                        {
+                          "Start": 132,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Mercury"
+                        },
+                        {
+                          "Start": 160,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cysteine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5862"
+                        },
+                        {
+                          "Start": 177,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cysteine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5862"
+                        },
+                        {
+                          "Start": 275,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methionine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-876"
+                        },
+                        {
+                          "Start": 395,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Mercury"
+                        },
+                        {
+                          "Start": 433,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Mercury"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+        "Section": [
+          {
+            "TOCHeading": "Uses",
+            "Description": "Major uses of this chemical, including both consumer uses and industrial uses.",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Description": "PEER REVIEWED",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "MEDICATION (VET)"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Methods of Manufacturing",
+            "Description": "Methods of producing this compound in an industrial scale, provided by the Hazardous Substances Data Bank (HSDB).",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Budavari, S. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Whitehouse Station, NJ: Merck and Co., Inc., 1996., p. 1002"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Budavari, S. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Whitehouse Station, NJ: Merck and Co., Inc., 1996., p. 1002",
+                    "Matched": {
+                      "PCLID": 900131902,
+                      "Citation": "Budavari, S. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Whitehouse Station, NJ: Merck and Co., Inc., 1996., p. 1002"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Lehman, US patent 2,576,349 (1951 to Wyeth); Wendt, Bruce, J Org Chem 23: 1448 (1958); Wendt, US patent 2,834,795 (1958 to Am Home Prod). /Mercaptomerin sodium/",
+                      "Markup": [
+                        {
+                          "Start": 139,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mercaptomerin%20sodium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-30556"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Formulations/Preparations",
+            "Description": "Information on Formulations/Preparations of this chemical, collected by the Hazardous Substances Data Bank (HSDB) from various sources.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Reynolds, J.E.F., Prasad, A.B. (eds.) Martindale-The Extra Pharmacopoeia. 28th ed. London: The Pharmaceutical Press, 1982., p. 606"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Reynolds, J.E.F., Prasad, A.B. (eds.) Martindale-The Extra Pharmacopoeia. 28th ed. London: The Pharmaceutical Press, 1982., p. 606",
+                    "Matched": {
+                      "PCLID": 900119420,
+                      "Citation": "Reynolds, J.E.F., Prasad, A.B. (eds.) Martindale-The Extra Pharmacopoeia. 28th ed. London: The Pharmaceutical Press, 1982., p. 606"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Mercaptomerin Sodium Injection (USP). ... A sterile solution in water for injections, containing 118 to 132 mg in 1 ml; pH 8 to 9.5. Nord P (Injectabile Mercaptomerini) is similar. /Mercaptomerin Sodium/",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mercaptomerin%20Sodium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-30556"
+                        },
+                        {
+                          "Start": 64,
+                          "Length": 5,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-962"
+                        },
+                        {
+                          "Start": 182,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mercaptomerin%20Sodium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-30556"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 4,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Reynolds, J.E.F., Prasad, A.B. (eds.) Martindale-The Extra Pharmacopoeia. 28th ed. London: The Pharmaceutical Press, 1982., p. 6-6"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Reynolds, J.E.F., Prasad, A.B. (eds.) Martindale-The Extra Pharmacopoeia. 28th ed. London: The Pharmaceutical Press, 1982., p. 6-6",
+                    "Matched": {
+                      "PCLID": 900135444,
+                      "Citation": "Reynolds, J.E.F., Prasad, A.B. (eds.) Martindale-The Extra Pharmacopoeia. 28th ed. London: The Pharmaceutical Press, 1982., p. 6-6"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Proprietary names: Thiomerin (Wyeth, Canada; Wyeth, USA). /Mercaptomerin Sodium/",
+                      "Markup": [
+                        {
+                          "Start": 19,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Thiomerin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-30005"
+                        },
+                        {
+                          "Start": 59,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mercaptomerin%20Sodium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-30556"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 4,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Rossoff, I.S. Handbook of Veterinary Drugs. New York: Springer Publishing Company, 1974., p. 339"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Rossoff, I.S. Handbook of Veterinary Drugs. New York: Springer Publishing Company, 1974., p. 339",
+                    "Matched": {
+                      "PCLID": 906280582,
+                      "Citation": "Rossoff, I.S. Handbook of Veterinary Drugs. New York: Springer Publishing Company, 1974., p. 339"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "VET: CONTAINS 33% MERCURY. WHEN DILUTED TO CONTAIN 125 MG/ML EACH ML CONTAINS 40 MG ELEMENTAL MERCURY. /MERCAPTOMERIN SODIUM/",
+                      "Markup": [
+                        {
+                          "Start": 18,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Mercury"
+                        },
+                        {
+                          "Start": 94,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Mercury"
+                        },
+                        {
+                          "Start": 104,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MERCAPTOMERIN%20SODIUM",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-30556"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Safety and Hazards",
+        "Description": "Information on safety and hazards for this compound, including safety/hazards properties, reactivity, incompatibilities, management techniques, first aid treatments, and more.  For toxicity and related information, please see the Toxicity section.",
+        "Section": [
+          {
+            "TOCHeading": "Hazards Identification",
+            "Description": "This section identifies the hazards of the chemical presented on the safety data sheet (SDS) and the appropriate warning information associated with those hazards.  The information in this section includes, but are not limited to, the hazard classification of the chemical, signal word, pictograms, hazard statements and precautionary statements.",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "EPA Hazardous Waste Number",
+                "Description": "Identifier for hazardous waste containing this chemical.",
+                "URL": "https://www.epa.gov/hw/defining-hazardous-waste-listed-characteristic-and-mixed-radiological-wastes",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "D009; Mercury. A waste containing mercury may or may not be characterized as a hazardous waste following testing by the Toxicity Characteristic Leaching Procedure as prescribed by the Resource Conservation and Recovery Act (RCRA) regulations. /Mercury/",
+                          "Markup": [
+                            {
+                              "Start": 6,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 34,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 244,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Safety and Hazard Properties",
+            "Description": "This section lists the chemical's safety and hazard characteristics, such as the explosive/flammable limits, critical temperature and pressure, exposure limits, etc.",
+            "Section": [
+              {
+                "TOCHeading": "OSHA Standards",
+                "Description": "Occupational Safety and Health Administration (OSHA) standards are rules that describe the methods that employers must use to protect their employees from hazards. These standards limit the amount of hazardous chemicals workers can be exposed to, require the use of certain safe practices and equipment, and require employers to monitor hazards and keep records of workplace injuries and illnesses.",
+                "URL": "https://www.osha.gov/laws-regs",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "29 CFR 1910.1000 (7/1/99)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "29 CFR 1910.1000 (7/1/99)",
+                        "Matched": {
+                          "PCLID": 900031402,
+                          "Citation": "29 CFR 1910.1000 (7/1/99)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Permissible Exposure Limit: Table Z-2 8-hr Time Weighted Avg: 0.01 mg/cu m. /Organo alkyl mercury/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "29 CFR 1910.1000 (7/1/99)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "29 CFR 1910.1000 (7/1/99)",
+                        "Matched": {
+                          "PCLID": 900031402,
+                          "Citation": "29 CFR 1910.1000 (7/1/99)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Permissible Exposure Limit: Table Z-2 Acceptable Ceiling Concentration: 0.04 mg/cu m. /Organo alkyl mercury/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards. DHHS (NIOSH) Publication No. 97-140. Washington, D.C. U.S. Government Printing Office, 1997., p. 367"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards. DHHS (NIOSH) Publication No. 97-140. Washington, D.C. U.S. Government Printing Office, 1997., p. 367",
+                        "Matched": {
+                          "PCLID": 906297022,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards. DHHS (NIOSH) Publication No. 97-140. Washington, D.C. U.S. Government Printing Office, 1997., p. 367"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Vacated 1989 OSHA PEL TWA 0.01 mg/cu m; STEL 0.03 mg/cu m, skin designation, is still enforced in some states. /Mercury (organo) alkyl compounds, as Hg/",
+                          "Markup": [
+                            {
+                              "Start": 112,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "NIOSH Recommendations",
+                "Description": "The National Institute for Occupational Safety and Health (NIOSH) recommendations for chemical safety concerning this compound.",
+                "URL": "https://www.cdc.gov/niosh/index.htm",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards. DHHS (NIOSH) Publication No. 97-140. Washington, D.C. U.S. Government Printing Office, 1997., p. 192"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards. DHHS (NIOSH) Publication No. 97-140. Washington, D.C. U.S. Government Printing Office, 1997., p. 192",
+                        "Matched": {
+                          "PCLID": 900042384,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards. DHHS (NIOSH) Publication No. 97-140. Washington, D.C. U.S. Government Printing Office, 1997., p. 192"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Recommended Exposure Limit: 10 Hr Time-Weighted Avg: 0.01 mg/cu m. /Mercury (organo) alkyl compounds (as Hg)/",
+                          "Markup": [
+                            {
+                              "Start": 68,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards. DHHS (NIOSH) Publication No. 97-140. Washington, D.C. U.S. Government Printing Office, 1997., p. 192"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards. DHHS (NIOSH) Publication No. 97-140. Washington, D.C. U.S. Government Printing Office, 1997., p. 192",
+                        "Matched": {
+                          "PCLID": 900042384,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards. DHHS (NIOSH) Publication No. 97-140. Washington, D.C. U.S. Government Printing Office, 1997., p. 192"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Recommended Exposure Limit: 15 Min Short-Term Exposure Limit: 0.03 mg/cu m. /Mercury (organo) alkyl compounds (as Hg)/",
+                          "Markup": [
+                            {
+                              "Start": 77,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Accidental Release Measures",
+            "Description": "This section provides recommendations on the appropriate response to spills, leaks, or releases, including containment and cleanup practices to prevent or minimize exposure to people, properties, or the environment. It may also include recommendations distinguishing between responses for large and small spills where the spill volume has a significant impact on the hazard.",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "Disposal Methods",
+                "Description": "Disposal methods or procedures for this chemical or hazardous waste containing it.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SRP: At the time of review, criteria for land treatment or burial (sanitary landfill) disposal practices are subject to significant revision. Prior to implementing land disposal of waste residue (including waste sludge), consult with environmental regulatory agencies for guidance on acceptable disposal practices."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Handling and Storage",
+            "Description": "This section provides guidance on the safe handling practices and storage conditions for this chemical.  The information in this section includes precautions for safe handling, such as recommendations for handling incompatible chemicals, minimizing the release of the chemical into the environment, and providing advice on general hygiene practices (e.g., eating, drinking, and smoking in work areas is prohibited).  In addition, this section provides recommendations on the conditions for safe storage (including any incompatibilities) as well as advice on specific storage requirements (e.g., ventilation requirements).  ",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "Storage Conditions",
+                "Description": "Conditions for safe storage of this compound, including any incompatible chemicals and specific storage requirements (e.g., ventilation requirements).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Sunshine, I. (ed.). CRC Handbook of Analytical Toxicology. Cleveland: The Chemical Rubber Co., 1969., p. 71"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Sunshine, I. (ed.). CRC Handbook of Analytical Toxicology. Cleveland: The Chemical Rubber Co., 1969., p. 71",
+                        "Matched": {
+                          "PCLID": 900085141,
+                          "Citation": "Sunshine, I. (ed.). CRC Handbook of Analytical Toxicology. Cleveland: The Chemical Rubber Co., 1969., p. 71"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "PROTECT FROM LIGHT & MOISTURE. /MERCAPTOMERIN SODIUM; FROM TABLE/",
+                          "Markup": [
+                            {
+                              "Start": 32,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MERCAPTOMERIN%20SODIUM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Exposure Control and Personal Protection",
+            "Description": "This section provides information on the exposure limits, engineering controls, and personal protective measures that can be used to minimize worker exposure.  The information in this section includes OSHA Permissible Exposure Limits (PELs), American Conference of Governmental Industrial Hygienists (ACGIH) Threshold Limit Values (TLVs), and any other exposure limit used or recommended by the chemical manufacturer, importer, or employer preparing the safety data sheet, where available. In addition, this section contains information on appropriate engineering controls (e.g., use local exhaust ventilation, or use only in an enclosed system) as well as recommendations for personal protective measures to prevent illness or injury from exposure to chemicals, such as personal protective equipment (PPE) (e.g., appropriate types of eye, face, skin or respiratory protection needed based on hazards and potential exposure).",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "Immediately Dangerous to Life or Health (IDLH)",
+                "Description": "The Immediately Dangerous to Life or Health air concentration values (IDLH values) characterize high-risk exposure concentrations and conditions and are used as a component of respirator selection criteria.  IDLH values are established (1) to ensure that the worker can escape from a given contaminated environment in the event of failure of the respiratory protection equipment and (2) to indicate a maximum level above which only a highly reliable breathing apparatus, providing maximum worker protection, is permitted.",
+                "URL": "https://www.cdc.gov/niosh/idlh/default.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards. DHHS (NIOSH) Publication No. 97-140. Washington, D.C. U.S. Government Printing Office, 1997., p. 192"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards. DHHS (NIOSH) Publication No. 97-140. Washington, D.C. U.S. Government Printing Office, 1997., p. 192",
+                        "Matched": {
+                          "PCLID": 900042384,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards. DHHS (NIOSH) Publication No. 97-140. Washington, D.C. U.S. Government Printing Office, 1997., p. 192"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2 mg/cu m (as Hg) /Mercury (organo) alkyl compounds (as Hg)/",
+                          "Markup": [
+                            {
+                              "Start": 19,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Threshold Limit Values (TLV)",
+                "Description": "The threshold limit value (TLV) of a chemical is an airborne concentration at which a worker can be exposed day after day for a working lifetime without adverse effect.  There are three types of TLVs for chemicals. [1] Threshold limit value - time-weighted average (TLV-TWA): average exposure on the basis of a 8h/day, 40h/week work schedule. [2] Threshold limit value - short-term exposure limit (TLV-STEL): a 15-minute TWA exposure that should not be exceeded at any time during a workday, even if the 8-hour TWA is within the TLV-TWA. [3] Threshold limit value - ceiling limit (TLV-C): absolute exposure limit that should not be exceeded at any time. TLVs are developed by the American Conference of Governmental Industrial Hygienist.  While TLVs are widely accepted occupational exposure limits, they are not standards enforced by the U.S. Government.",
+                "URL": "https://www.acgih.org/science/tlv-bei-guidelines/tlv-chemical-substances-introduction/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "American Conference of Governmental Industrial Hygienists TLVs and BEIs. Threshold Limit Values for Chemical Substances and Physical Agents and Biological Exposure Indices. Cincinnati, OH, 2008, p. 37"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "American Conference of Governmental Industrial Hygienists TLVs and BEIs. Threshold Limit Values for Chemical Substances and Physical Agents and Biological Exposure Indices. Cincinnati, OH, 2008, p. 37",
+                        "Matched": {
+                          "PCLID": 900091562,
+                          "Citation": "American Conference of Governmental Industrial Hygienists TLVs and BEIs. Threshold Limit Values for Chemical Substances and Physical Agents and Biological Exposure Indices. Cincinnati, OH, 2008, p. 37"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "8 hr Time Weighted Avg (TWA): 0.01 mg/cu m; 15 min Short Term Exposure Limit (STEL): 0.03 mg/cu m. Skin. /Mercury, alkyl cmpds, as Hg/",
+                          "Markup": [
+                            {
+                              "Start": 106,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Regulatory Information",
+            "Description": "This section lists the regulations related to the safety, health, and environment of the chemical and its associated products. The regulatory information, which may encompass national and/or regional regulations pertaining to the chemical or mixtures, is presented solely for informational purposes. For additional details, please consult the links to the information sources provided under each data entry.",
+            "Section": [
+              {
+                "TOCHeading": "Atmospheric Standards",
+                "Description": "This section provides atmospheric standards related to the chemical, established by regulatory agencies.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Clean Air Act as amended in 1990, Sect. 112 (b) (1) Public Law 101-549 Nov. 15, 1990"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Clean Air Act as amended in 1990, Sect. 112 (b) (1) Public Law 101-549 Nov. 15, 1990",
+                        "Matched": {
+                          "PCLID": 900011037,
+                          "Citation": "Clean Air Act as amended in 1990, Sect. 112 (b) (1) Public Law 101-549 Nov. 15, 1990"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Listed as a hazardous air pollutant (HAP) generally known or suspected to cause serious health problems. The Clean Air Act, as amended in 1990, directs EPA to set standards requiring major sources to sharply reduce routine emissions of toxic pollutants. EPA is required to establish and phase in specific performance based standards for all air emission sources that emit one or more of the listed pollutants. Mercaptomerin is included on this list.",
+                          "Markup": [
+                            {
+                              "Start": 410,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mercaptomerin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30005"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Federal Drinking Water Standards",
+                "Description": "Federal drinking water standards (e.g. maximum containment level (MCL)) for this chemical.  These standards are legally enforceable.",
+                "URL": "https://www.epa.gov/dwreginfo/drinking-water-regulations",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present",
+                        "Matched": {
+                          "PCLID": 906275520,
+                          "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EPA 2 ug/l /Mercury/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Federal Drinking Water Guidelines",
+                "Description": "Federal drinking water guidelines (e.g. maximum containment level (MCL)) for this chemical.  In general, these guidelines are recommendations and not legally enforceable.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present",
+                        "Matched": {
+                          "PCLID": 906275520,
+                          "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EPA 2 ug/l /Mercury/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "State Drinking Water Guidelines",
+                "Description": "State drinking water guidelines (e.g. maximum containment level (MCL)) for this chemical.  In general, these guidelines are recommendations and not legally enforceable.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present",
+                        "Matched": {
+                          "PCLID": 906275520,
+                          "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "(AZ) ARIZONA 3 ug/l /Mercury/",
+                          "Markup": [
+                            {
+                              "Start": 21,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present",
+                        "Matched": {
+                          "PCLID": 906275520,
+                          "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "(ME) MAINE 2 ug/l /Mercury/",
+                          "Markup": [
+                            {
+                              "Start": 19,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Clean Water Act Requirements",
+                "Description": "The Clean Water Act (CWA) of 1972 establishes the basic structure for regulating discharges of pollutants into the waters of the United States and regulating quality standards for surface waters.  Under CWA, the U.S. Environmental Protection Agency (EPA) developed the Toxic Pollutant List (40 CFR Part 401.15) and the Priority Pollutant List (40 CFR Part 423, Appendix A). These lists are to be used by EPA and States to develop the Effluent Guidelines regulations and ensure water quality criteria and standards.",
+                "URL": "https://www.epa.gov/laws-regulations/summary-clean-water-act",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "40 CFR 401.15 (7/1/99)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "40 CFR 401.15 (7/1/99)",
+                        "Matched": {
+                          "PCLID": 900041396,
+                          "Citation": "40 CFR 401.15 (7/1/99)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Toxic pollutant designated pursuant to section 307(a)(1) of the Federal Water Pollution Control Act and is subject to effluent limitations. /Mercury and cmpd/",
+                          "Markup": [
+                            {
+                              "Start": 72,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 141,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "RCRA Requirements",
+                "Description": "The Resource Conservation and Recovery Act (RCRA) is the public law that creates the framework for the proper management of hazardous and non-hazardous solid waste. The law describes the waste management program mandated by Congress that gave EPA authority to develop the RCRA program. The term RCRA is often used interchangeably to refer to the law, regulations and EPA policy and guidance.",
+                "URL": "https://www.epa.gov/rcra",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "40 CFR 261.24 (7/1/99"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "40 CFR 261.24 (7/1/99",
+                        "Matched": {
+                          "PCLID": 900018233,
+                          "Citation": "40 CFR 261.24 (7/1/99"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "D009; A solid waste containing mercury may or may not become characterized as a hazardous waste when subjected to the Toxicity Characteristic Leaching Procedure listed in 40 CFR 261.24, and if so characterized, must be managed as a hazardous waste. /Mercury/",
+                          "Markup": [
+                            {
+                              "Start": 31,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 250,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "A25: Ziemba SE, Menard SL, McCabe MJ Jr, Rosenspire AJ: T-cell receptor signaling is mediated by transient Lck activity, which is inhibited by inorganic mercury. FASEB J. 2009 Jun;23(6):1663-71. doi: 10.1096/fj.08-117283. Epub 2009 Jan 23. PMID:19168706",
+                        "Matched": {
+                          "PCLID": 900176526,
+                          "Citation": "A25: Ziemba SE, Menard SL, McCabe MJ Jr, Rosenspire AJ: T-cell receptor signaling is mediated by transient Lck activity, which is inhibited by inorganic mercury. FASEB J. 2009 Jun;23(6):1663-71. doi: 10.1096/fj.08-117283. Epub 2009 Jan 23. PMID:19168706"
+                        }
+                      },
+                      {
+                        "Citation": "A26: Yukutake Y, Tsuji S, Hirano Y, Adachi T, Takahashi T, Fujihara K, Agre P, Yasui M, Suematsu M: Mercury chloride decreases the water permeability of aquaporin-4-reconstituted proteoliposomes. Biol Cell. 2008 Jun;100(6):355-63. doi: 10.1042/BC20070132. PMID:18167118",
+                        "Matched": {
+                          "PCLID": 900178047,
+                          "Citation": "A26: Yukutake Y, Tsuji S, Hirano Y, Adachi T, Takahashi T, Fujihara K, Agre P, Yasui M, Suematsu M: Mercury chloride decreases the water permeability of aquaporin-4-reconstituted proteoliposomes. Biol Cell. 2008 Jun;100(6):355-63. doi: 10.1042/BC20070132. PMID:18167118"
+                        }
+                      },
+                      {
+                        "Citation": "A8: Madsen KM, Christensen EI: Effects of mercury on lysosomal protein digestion in the kidney proximal tubule. Lab Invest. 1978 Feb;38(2):165-74. PMID:203771",
+                        "Matched": {
+                          "PCLID": 900178194,
+                          "Citation": "A8: Madsen KM, Christensen EI: Effects of mercury on lysosomal protein digestion in the kidney proximal tubule. Lab Invest. 1978 Feb;38(2):165-74. PMID:203771"
+                        }
+                      },
+                      {
+                        "Citation": "L7: ATSDR - Agency for Toxic Substances and Disease Registry (2008). Toxicological profile for mercury. U.S. Public Health Service in collaboration with U.S. Environmental Protection Agency (EPA). http://www.atsdr.cdc.gov/toxprofiles/tp46.html",
+                        "Matched": {
+                          "PCLID": 900176826,
+                          "Citation": "L7: ATSDR - Agency for Toxic Substances and Disease Registry (2008). Toxicological profile for mercury. U.S. Public Health Service in collaboration with U.S. Environmental Protection Agency (EPA). http://www.atsdr.cdc.gov/toxprofiles/tp46.html"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "High-affinity binding of the divalent mercuric ion to thiol or sulfhydryl groups of proteins is believed to be the major mechanism for the activity of mercury. Through alterations in intracellular thiol status, mercury can promote oxidative stress, lipid peroxidation, mitochondrial dysfunction, and changes in heme metabolism. Mercury is known to bind to microsomal and mitochondrial enzymes, resulting in cell injury and death. For example, mercury is known to inhibit aquaporins, halting water flow across the cell membrane. It also inhibits the protein LCK, which causes decreased T-cell signalling and immune system depression. Mercury is also believed to inhibit neuronal excitability by acting on the postsynaptic neuronal membrane. It also affects the nervous system by inhibiting protein kinase C and alkaline phosphatase, which impairs brain microvascular formation and function, as well as alters the blood-brain barrier. Organic mercury exerts developmental effects by binding to tubulin, preventing microtubule assembly and causing mitotic inhibition. Mercury also produces an autoimmune response, likely by modification of major histocompatibility complex (MHC) class II molecules, self peptides, T-cell receptors, or cell-surface adhesion molecules. (L7, A8, A25, A26)",
+                          "Markup": [
+                            {
+                              "Start": 54,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/thiol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-402"
+                            },
+                            {
+                              "Start": 151,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 197,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/thiol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-402"
+                            },
+                            {
+                              "Start": 211,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 328,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 443,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 491,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 633,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 941,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 1065,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php",
+                        "Matched": {
+                          "PCLID": 900177075,
+                          "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity (not listed by IARC). (L135)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Health Effects",
+                "Description": "Principal effect(s) of exposure to each substance, listed by OSHA Health Code, Health Effects from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L7: ATSDR - Agency for Toxic Substances and Disease Registry (2008). Toxicological profile for mercury. U.S. Public Health Service in collaboration with U.S. Environmental Protection Agency (EPA). http://www.atsdr.cdc.gov/toxprofiles/tp46.html",
+                        "Matched": {
+                          "PCLID": 900176826,
+                          "Citation": "L7: ATSDR - Agency for Toxic Substances and Disease Registry (2008). Toxicological profile for mercury. U.S. Public Health Service in collaboration with U.S. Environmental Protection Agency (EPA). http://www.atsdr.cdc.gov/toxprofiles/tp46.html"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Mercury mainly affects the nervous system. Exposure to high levels of metallic, inorganic, or organic mercury can permanently damage the brain, kidneys, and developing fetus. Effects on brain functioning may result in irritability, shyness, tremors, changes in vision or hearing, and memory problems. Acrodynia, a type of mercury poisoning in children, is characterized by pain and pink discoloration of the hands and feet. Mercury poisoning can also cause Hunter-Russell syndrome and Minamata disease. (L7)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 102,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 322,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 424,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exposure Routes",
+                "Description": "The way people or other living organisms may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L7: ATSDR - Agency for Toxic Substances and Disease Registry (2008). Toxicological profile for mercury. U.S. Public Health Service in collaboration with U.S. Environmental Protection Agency (EPA). http://www.atsdr.cdc.gov/toxprofiles/tp46.html",
+                        "Matched": {
+                          "PCLID": 900176826,
+                          "Citation": "L7: ATSDR - Agency for Toxic Substances and Disease Registry (2008). Toxicological profile for mercury. U.S. Public Health Service in collaboration with U.S. Environmental Protection Agency (EPA). http://www.atsdr.cdc.gov/toxprofiles/tp46.html"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Oral (L7) ; inhalation (L7) ; dermal (L7)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Signs and Symptoms",
+                "Description": "Symptoms of exposure to this chemical through various routes (for example, ingestion, inhalation, skin contact, and eye contact).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "A5: Horowitz Y, Greenberg D, Ling G, Lifshitz M: Acrodynia: a case report of two siblings. Arch Dis Child. 2002 Jun;86(6):453. PMID:12023189",
+                        "Matched": {
+                          "PCLID": 900177591,
+                          "Citation": "A5: Horowitz Y, Greenberg D, Ling G, Lifshitz M: Acrodynia: a case report of two siblings. Arch Dis Child. 2002 Jun;86(6):453. PMID:12023189"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Common symptoms include peripheral neuropathy (presenting as paresthesia or itching, burning or pain), skin discoloration (pink cheeks, fingertips and toes), edema (swelling), and desquamation (dead skin peels off in layers). (A5)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134995791"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Minimum Risk Level",
+                "Description": "The minimal risk level (MRL) is an estimate of the amount of a chemical a person can eat, drink, or breathe each day without a detectable risk to health",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L134: ATSDR - Agency for Toxic Substances and Disease Registry (2001). Minimal Risk Levels (MRLs) for Hazardous Substances. U.S. Public Health Service in collaboration with U.S. Environmental Protection Agency (EPA). http://www.atsdr.cdc.gov/mrls/",
+                        "Matched": {
+                          "PCLID": 900177019,
+                          "Citation": "L134: ATSDR - Agency for Toxic Substances and Disease Registry (2001). Minimal Risk Levels (MRLs) for Hazardous Substances. U.S. Public Health Service in collaboration with U.S. Environmental Protection Agency (EPA). http://www.atsdr.cdc.gov/mrls/"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chronic Inhalation: 0.0002 mg/m3 (L134)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Treatment",
+                "Description": "Treatment when exposed to toxin",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "A7: Clifton JC 2nd: Mercury exposure and public health. Pediatr Clin North Am. 2007 Apr;54(2):237-69, viii. PMID:17448359",
+                        "Matched": {
+                          "PCLID": 900176486,
+                          "Citation": "A7: Clifton JC 2nd: Mercury exposure and public health. Pediatr Clin North Am. 2007 Apr;54(2):237-69, viii. PMID:17448359"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Mercury poisoning is treated by immediate decontamination and chelation therapy using DMSA, DMPS, DPCN, or dimercaprol. (A7)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 86,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DMSA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724354"
+                            },
+                            {
+                              "Start": 92,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DMPS",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24848788"
+                            },
+                            {
+                              "Start": 107,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimercaprol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3080"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 579"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 579",
+                        "Matched": {
+                          "PCLID": 900054159,
+                          "Citation": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 579"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Mercurial diuretics, including ... mercaptomerin ... appear to have had no significant adverse effect on the eyes. Intraocular pressure in rabbits was reduced slightly by mercaptomerin or mercuderamide given intramuscularly, but not by topical administration.",
+                          "Markup": [
+                            {
+                              "Start": 35,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/mercaptomerin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30005"
+                            },
+                            {
+                              "Start": 171,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/mercaptomerin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30005"
+                            },
+                            {
+                              "Start": 188,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/mercuderamide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10004895"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hook JB, Hirsch GH; Proc Publ Rochester Int Conf Environ Toxic, 4th; Mercury, Mercurials and Mercaptans 124-38 (1973)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hook JB, Hirsch GH; Proc Publ Rochester Int Conf Environ Toxic, 4th; Mercury, Mercurials and Mercaptans 124-38 (1973)",
+                        "Matched": {
+                          "PCLID": 900024861,
+                          "Citation": "Hook JB, Hirsch GH; Proc Publ Rochester Int Conf Environ Toxic, 4th; Mercury, Mercurials and Mercaptans 124-38 (1973)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Kidney slices from dogs and rats were incubated with ... mercaptomerin ... /and/ uptake rate was measured at 2 and 12 minutes. ... Mercaptomerin ... produced significant, dose related inhibition of para-chlormercuribenzoate (PAH) and N-methylnicotinamide (NMN) uptake in both species. ... Rat tissue was more sensitive to mercaptomerin ...",
+                          "Markup": [
+                            {
+                              "Start": 57,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/mercaptomerin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30005"
+                            },
+                            {
+                              "Start": 131,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mercaptomerin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30005"
+                            },
+                            {
+                              "Start": 234,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/N-methylnicotinamide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-64950"
+                            },
+                            {
+                              "Start": 322,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/mercaptomerin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30005"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NLM Curated PubMed Citations",
+            "Description": "The NLM Curated PubMed Citations section links to all PubMed records that are tagged with the same MeSH term that has been associated with a particular compound.",
+            "URL": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0142-6",
+            "Information": [
+              {
+                "ReferenceNumber": 16,
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed_mesh&db=pccompound&cmd=Link&from_uid=30005",
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Literature",
+            "Description": "Chemical-organism co-occurrences in literature highlight chemical-organism pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalOrganismNeighbor"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "OrganismName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/30005/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Patents",
+            "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalChemical"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+            "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalDisease"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalGene"
+                    },
+                    {
+                      "String": "Gene"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and organisms mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalOrganism"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Interactions and Pathways",
+        "Description": "This section provides information on the biomolecular interactions of this compound with drugs, genes, proteins, etc., as well as the pathways in which this compound is involved.",
+        "Section": [
+          {
+            "TOCHeading": "Chemical-Target Interactions",
+            "Description": "Interactions between targets and this compound",
+            "Information": [
+              {
+                "ReferenceNumber": 6,
+                "Value": {
+                  "ExternalTableName": "consolidatedcompoundtarget"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Biological Test Results",
+        "Description": "A PubChem substance or compound summary page displays biological test results from the PubChem BioAssay database, if/as available, for the chemical structure currently displayed. You can embed biological test results displays within your own web pages, for a PubChem Compound or Substance of interest, by using the BioActivity Widget.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/widgets",
+        "Section": [
+          {
+            "TOCHeading": "BioAssay Results",
+            "Description": "Bioactivity data for this compound, reported in PubChem BioAssay records.",
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "ExternalTableName": "bioactivity"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "MeSH Tree",
+            "Description": "The Medical Subject Headings (MeSH) tree for this entity.  MeSH is a controlled and hierarchically-organized vocabulary produced by the National Library of Medicine.",
+            "URL": "https://www.nlm.nih.gov/mesh",
+            "Information": [
+              {
+                "ReferenceNumber": 10,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NCI Thesaurus Tree",
+            "Description": "NCI Thesaurus (NCIt) hierarchy",
+            "URL": "https://ncithesaurus.nci.nih.gov",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=112",
+                "Value": {
+                  "Number": [
+                    112
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChemIDplus",
+            "Description": "Classification of this compound, provided by ChemIDplus, which is a free web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases.  ChemIDplus groups chemicals based on the source locators (i.e., what information resources have data for a given chemical).",
+            "URL": "https://chem.nlm.nih.gov/chemidplus/",
+            "Information": [
+              {
+                "ReferenceNumber": 12,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                "Value": {
+                  "Number": [
+                    84
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA DSSTox Classification",
+            "Description": "Classification from the U.S. Environmental Protection Agency's Distributed Structure-Searchable Toxicity (DSSTox) database. DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology. A distinguishing feature of this effort is the accurate mapping of bioassay and physicochemical property data associated with chemical substances to their corresponding chemical structures. ",
+            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=105",
+                "Value": {
+                  "Number": [
+                    105
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "ChemIDplus",
+        "SourceID": "0020223841",
+        "Name": "Mercaptomerin [INN:BAN]",
+        "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0020223841",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 856290
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "DTXSID901046256",
+        "Name": "Mercaptomerin",
+        "Description": "DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology.",
+        "URL": "https://comptox.epa.gov/dashboard/DTXSID901046256",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 23991755
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "3356",
+        "Name": "MERCAPTOMERIN",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/3356",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 2496
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134995791",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0020223841",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19479295
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "NCI Thesaurus (NCIt)",
+        "SourceID": "C166828::Compound",
+        "Description": "NCI Thesaurus (NCIt), from the U.S. National Cancer Institute, provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.",
+        "URL": "https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C166828",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse",
+        "ANID": 19436222
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D1357",
+        "Name": "Mercaptomerin",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D1357",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "http://www.t3db.ca/downloads",
+        "ANID": 20441540
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q27261617",
+        "Name": "mercaptomerin",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q27261617",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44298788
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0092896",
+        "Name": "mercaptomerin",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0092896.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "DescTree",
+        "Name": "MeSH Tree",
+        "Description": "MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "ChemIDplus",
+        "SourceID": "ChemIDplus_tree",
+        "Name": "ChemIDplus Chemical Information Classification",
+        "Description": "ChemIDplus is a TOXNET (TOXicology data NETwork) databases that contain chemicals and drugs related information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/chemidplus",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "dsstoxlist_tree",
+        "Name": "CompTox Chemicals Dashboard Chemical Lists",
+        "Description": "This classification lists the chemical categories from the EPA CompTox Chemicals Dashboard.",
+        "URL": "https://comptox.epa.gov/dashboard/chemical-lists/",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "NCI Thesaurus (NCIt)",
+        "SourceID": "NCIt",
+        "Name": "NCI Thesaurus",
+        "Description": "The NCI Thesaurus (NCIt) provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.",
+        "URL": "https://ncit.nci.nih.gov",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse"
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "PubMed from MeSH",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "NCBI",
+        "SourceID": "LinkOut",
+        "Description": "LinkOut is a service that allows one to link directly from NCBI databases to a wide range of information and services beyond NCBI systems.",
+        "URL": "https://www.ncbi.nlm.nih.gov/projects/linkout"
+      }
+    ]
+  }
+}

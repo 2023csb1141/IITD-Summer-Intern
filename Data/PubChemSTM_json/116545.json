@@ -1,0 +1,3392 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 116545,
+    "RecordTitle": "4'-Hydroxydiclofenac",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 55,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 55,
+                "Description": "4'-Hydroxydiclofenac",
+                "Value": {
+                  "Number": [
+                    116545
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Primary Hazards",
+        "Description": "Link to the Safety and Hazard section of this page and link to the Laboratory Chemical Safety Summary (LCSS) datasheet for this compound.",
+        "DisplayControls": {
+          "HideThisSection": true,
+          "MoveToTop": true
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 55,
+            "Value": {
+              "StringWithMarkup": [
+                {
+                  "String": "          ",
+                  "Markup": [
+                    {
+                      "Start": 0,
+                      "Length": 1,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS05.svg",
+                      "Type": "Icon",
+                      "Extra": "Corrosive"
+                    },
+                    {
+                      "Start": 1,
+                      "Length": 1,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS06.svg",
+                      "Type": "Icon",
+                      "Extra": "Acute Toxic"
+                    },
+                    {
+                      "Start": 2,
+                      "Length": 1,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg",
+                      "Type": "Icon",
+                      "Extra": "Irritant"
+                    },
+                    {
+                      "Start": 3,
+                      "Length": 1,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS09.svg",
+                      "Type": "Icon",
+                      "Extra": "Environmental Hazard"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 2,
+                "Name": "Record Description",
+                "Description": "Ontology Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "4'-hydroxydiclofenac is a monocarboxylic acid that is the 4'-hydroxylated metabolite of diclofenac. It has a role as a drug metabolite and an allergen. It is a monocarboxylic acid, a dichlorobenzene, a secondary amino compound and a member of phenols. It is functionally related to a diclofenac.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4%27-hydroxydiclofenac",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-116545"
+                        },
+                        {
+                          "Start": 88,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diclofenac",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3033"
+                        },
+                        {
+                          "Start": 284,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diclofenac",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3033"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 54,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "metabolite of diclofenac; structure in first source"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-[2-(2,6-dichloro-4-hydroxyanilino)phenyl]acetic acid"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C14H11Cl2NO3/c15-10-6-9(18)7-11(16)14(10)17-12-4-2-1-3-8(12)5-13(19)20/h1-4,6-7,17-18H,5H2,(H,19,20)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "KGVXVPRLBMWZLG-UHFFFAOYSA-N"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=C(C=C2Cl)O)Cl"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 55,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C14H11Cl2NO3"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "URL": "https://commonchemistry.cas.org/detail?cas_rn=64118-84-9",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "64118-84-9"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "64118-84-9"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "64118-84-9"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "64118-84-9"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1189656-64-1"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "64118-84-9"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "64118-84-9"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "European Community (EC) Number",
+                "Description": "The European Community (EC) number is a seven-digit identifier assigned by the European Chemicals Agency (ECHA) to substances for regulatory purposes within the European Union. EC numbers are sometimes referred to as EINECS, ELINCS, or NLP numbers, because the EC Inventory comprises three individual inventories (EINECS, ELINCS, and the NLP list).",
+                "URL": "https://echa.europa.eu/information-on-chemicals/ec-inventory",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.155.074",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "626-698-2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.229.294",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "802-396-8"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/NJF5O599EF",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NJF5O599EF"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ChEBI ID",
+                "Description": "Identifier from database and ontology of molecular entities focused on 'small' chemical compounds used by the Chemical Entities of Biological Interest (ChEBI)",
+                "URL": "https://www.ebi.ac.uk/chebi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "URL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:59613",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CHEBI:59613"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ChEMBL ID",
+                "Description": "ChEMBL compound identifier",
+                "URL": "https://www.ebi.ac.uk/chembl/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "URL": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1030",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CHEMBL1030"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID40214326",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID40214326"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "HMDB ID",
+                "Description": "A chemical substance identifier from the HMDB database",
+                "URL": "https://hmdb.ca/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "URL": "https://hmdb.ca/metabolites/HMDB0013974",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HMDB0013974"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Metabolomics Workbench ID",
+                "Description": "Registration number used by Metabolomics Workbench",
+                "URL": "https://www.metabolomicsworkbench.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 42,
+                    "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=42550",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "42550"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Nikkaji Number",
+                "Description": "Substance identifier used in the Japan Chemical Substance Dictionary (Nikkaji).",
+                "URL": "https://jglobal.jst.go.jp/en/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J341.698D",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "J341.698D"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "PharmGKB ID",
+                "Description": "PharmGKB chemical identifier",
+                "URL": "https://www.pharmgkb.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 46,
+                    "URL": "https://www.pharmgkb.org/chemical/PA166163693",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "PA166163693"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 53,
+                    "URL": "https://www.wikidata.org/wiki/Q26690136",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q26690136"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Entry Terms",
+                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 54,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4'-hydroxydiclofenac"
+                        },
+                        {
+                          "String": "4-hydroxy diclofenac"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4'-Hydroxydiclofenac"
+                        },
+                        {
+                          "String": "4'-Hydroxy Diclofenac"
+                        },
+                        {
+                          "String": "64118-84-9"
+                        },
+                        {
+                          "String": "4-hydroxy diclofenac"
+                        },
+                        {
+                          "String": "CHEBI:59613"
+                        },
+                        {
+                          "String": "(o-(2,6-Dichloro-4-hydroxyanilino)phenyl)acetic acid"
+                        },
+                        {
+                          "String": "NJF5O599EF"
+                        },
+                        {
+                          "String": "4'-HYDROXY-DICLOFENAC"
+                        },
+                        {
+                          "String": "2-(2-((2,6-Dichloro-4-hydroxyphenyl)amino)phenyl)acetic acid"
+                        },
+                        {
+                          "String": "Benzeneacetic acid, 2-((2,6-dichloro-4-hydroxyphenyl)amino)-"
+                        },
+                        {
+                          "String": "DTXSID40214326"
+                        },
+                        {
+                          "String": "2-{2-[(2,6-dichloro-4-hydroxyphenyl)amino]phenyl}acetic acid"
+                        },
+                        {
+                          "String": "RefChem:96012"
+                        },
+                        {
+                          "String": "DTXCID40136817"
+                        },
+                        {
+                          "String": "2-[2-(2,6-dichloro-4-hydroxyanilino)phenyl]acetic acid"
+                        },
+                        {
+                          "String": "4'-OH DCF"
+                        },
+                        {
+                          "String": "{2-[(2,6-dichloro-4-hydroxyphenyl)amino]phenyl}acetic acid"
+                        },
+                        {
+                          "String": "2-[(2,6-Dichloro-4-hydroxyphenyl)amino]benzeneacetic Acid"
+                        },
+                        {
+                          "String": "UNII-NJF5O599EF"
+                        },
+                        {
+                          "String": "BRN 4198042"
+                        },
+                        {
+                          "String": "Benzeneacetic acid, 2-[(2,6-dichloro-4-hydroxyphenyl)amino]-; 2-[(2,6-Dichloro-4-hydroxyphenyl)amino]benzeneacetic acid; Diclofenac-4-hydroxy"
+                        },
+                        {
+                          "String": "MFCD01671980"
+                        },
+                        {
+                          "String": "Diclofenac-4-hydroxy"
+                        },
+                        {
+                          "String": "4`-Hydroxy Diclofenac"
+                        },
+                        {
+                          "String": "Epitope ID:131806"
+                        },
+                        {
+                          "String": "4''''-Hydroxy-Diclofenac"
+                        },
+                        {
+                          "String": "CHEMBL1030"
+                        },
+                        {
+                          "String": "SCHEMBL155743"
+                        },
+                        {
+                          "String": "orb1705953"
+                        },
+                        {
+                          "String": "4''-HYDROXY-DICLOFENAC"
+                        },
+                        {
+                          "String": "HYDROXYDICLOFENAC, 4'-"
+                        },
+                        {
+                          "String": "2-[2-(2,6-dichloro-4-hydroxy-anilino)phenyl]acetic acid"
+                        },
+                        {
+                          "String": "Acetic acid, (o-(2,6-dichloro-4-hydroxyanilino)phenyl)-"
+                        },
+                        {
+                          "String": "BCP15192"
+                        },
+                        {
+                          "String": "4'-Hydroxydiclofenac-13C6 solution"
+                        },
+                        {
+                          "String": "BDBM50228767"
+                        },
+                        {
+                          "String": "AKOS027379588"
+                        },
+                        {
+                          "String": "FH23980"
+                        },
+                        {
+                          "String": "4'-Hydroxydiclofenac, >=98% (HPLC)"
+                        },
+                        {
+                          "String": "HY-15550"
+                        },
+                        {
+                          "String": "MS-24545"
+                        },
+                        {
+                          "String": "PD020446"
+                        },
+                        {
+                          "String": "CS-0007019"
+                        },
+                        {
+                          "String": "NS00000631"
+                        },
+                        {
+                          "String": "F82033"
+                        },
+                        {
+                          "String": "(O-(2,6-dichloro-4-hydroxyanilino)phenyl)aceticacid"
+                        },
+                        {
+                          "String": "4'-Hydroxy Diclofenac-13C6 (Contain 3% unlabeled)"
+                        },
+                        {
+                          "String": "Q26690136"
+                        },
+                        {
+                          "String": "4'-Hydroxydiclofenac, VETRANAL(TM), analytical standard"
+                        },
+                        {
+                          "String": "2-[(2,6-Dichloro-4'-hydroxyphenyl)amino]benzeneacetic acid"
+                        },
+                        {
+                          "String": "2-[(2,6-dichloro-4-hydroxyphenyl)amino]phenylacetic acid"
+                        },
+                        {
+                          "String": "2-[(2,6-dichloro-4'-hydroxyphenyl)amino]-benzeneacetic acid"
+                        },
+                        {
+                          "String": "2-[(2,6-Dichloro-4-hydroxyphenyl)amino]benzeneacetic acid;4'-Hydroxydiclofenac"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4&prime;-OHD"
+                        },
+                        {
+                          "String": "4-Hydroxydiclofenac"
+                        },
+                        {
+                          "String": "4'-OH-diclofenac"
+                        },
+                        {
+                          "String": "4/'-Hydroxydiclofenac"
+                        },
+                        {
+                          "String": "AC1Q3QSP"
+                        },
+                        {
+                          "String": "C14H11Cl2NO3"
+                        },
+                        {
+                          "String": "AC1L3J5M"
+                        },
+                        {
+                          "String": "Diclofenac, 4&prime;-Hydroxy-"
+                        },
+                        {
+                          "String": "4'-Hydroxydiclofenac solution"
+                        },
+                        {
+                          "String": "4&#x27;-Hydroxy Diclofenac"
+                        },
+                        {
+                          "String": "KGVXVPRLBMWZLG-UHFFFAOYSA-N"
+                        },
+                        {
+                          "String": "CTK8D7304"
+                        },
+                        {
+                          "String": "KST-1B7071"
+                        },
+                        {
+                          "String": "C14-H11-Cl2-N-O3"
+                        },
+                        {
+                          "String": "ZINC2383046"
+                        },
+                        {
+                          "String": "1412AH"
+                        },
+                        {
+                          "String": "AR-1A9418"
+                        },
+                        {
+                          "String": "CID116545"
+                        },
+                        {
+                          "String": "IN1359"
+                        },
+                        {
+                          "String": "2-[( AMINO]BENZENEACETICACID"
+                        },
+                        {
+                          "String": "CID:116545"
+                        },
+                        {
+                          "String": "CS-W-00199"
+                        },
+                        {
+                          "String": "AN-38872"
+                        },
+                        {
+                          "String": "LS-11596"
+                        },
+                        {
+                          "String": "SID:53787091"
+                        },
+                        {
+                          "String": "4&#x27;-Hydroxy Diclofenac-D4 (Major)"
+                        },
+                        {
+                          "String": "FT-0669355"
+                        },
+                        {
+                          "String": "FT-0669356"
+                        },
+                        {
+                          "String": "4 inverted exclamation marka-Hydroxydiclofenac"
+                        },
+                        {
+                          "String": "4 inverted exclamation mark -Hydroxy Diclofenac"
+                        },
+                        {
+                          "String": "4 inverted exclamation marka-Hydroxy Diclofenac"
+                        },
+                        {
+                          "String": "C108036"
+                        },
+                        {
+                          "String": "A1204512"
+                        },
+                        {
+                          "String": "[2-(2,6-Dichloro-4-hydroxy-phenylamino)phenyl]acetic acid"
+                        },
+                        {
+                          "String": "66161-65-7"
+                        },
+                        {
+                          "String": "2-[((2&prime;,6&prime;-Dichloro-4&prime;-hydroxy)phenyl)amino]benzeneacetic Acid"
+                        },
+                        {
+                          "String": "2-[((2,6-DICHLORO-4-HYDROXY)PHENYL)AMINO]BENZENEACETICACID"
+                        },
+                        {
+                          "String": "2-[(2,6-Dichloro-4-hydroxyphenyl)amino](benzene-13C6)acetic Acid"
+                        },
+                        {
+                          "String": "1189656-64-1"
+                        },
+                        {
+                          "String": "254762-27-1"
+                        },
+                        {
+                          "String": "4'-Hydroxydiclofenac solution, 100 mug/mL in acetonitrile, ampule of 1 mL, certified reference material"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 55,
+                "Value": {
+                  "DateISO8601": [
+                    "2005-08-08"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 55,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-09-13"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "312.1"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "XLogP3",
+                "Description": "XLogP3 is a predicted octanol-water partition coefficient, computed using the algorithm described in J. Chem. Inf. Model. 2007, 47, 6, 2140-2148. It is used as a measure of hydrophilicity or hydrophobicity of a molecule.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/17985865/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by XLogP3 3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        3.7
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        3
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        4
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        4
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "311.0115986"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "311.0115986"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        69.6
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        20
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        330
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Experimental Properties",
+            "Description": "Various experimentally determined properties for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+            "Section": [
+              {
+                "TOCHeading": "LogP",
+                "Description": "Log P is the partition coefficient expressed in logarithmic form.  The partition coefficient is the ratio of concentrations of a compound in a mixture of two immiscible solvents at equilibrium.  This ratio is therefore used to compare the solubilities of the solute in these two solvents.  Because octanol and water are the most commonly used pair of solvents for measuring partition coefficients, the Log P values listed in this section refer to octanol/water partition coefficients, unless indicated otherwise.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3.7"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Classes",
+            "Description": "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties, radiological properties, or other factors.",
+            "Section": [
+              {
+                "TOCHeading": "Drugs",
+                "Description": "Chemicals are used as active ingredients in drug/pharmaceutical products, including human drugs, animal drugs, biologics, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 45,
+                    "Reference": [
+                      "S113 | SWISSPHARMA24 | 2024 Swiss Pharmaceutical List with Metabolites | DOI:10.5281/zenodo.10501043"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "S113 | SWISSPHARMA24 | 2024 Swiss Pharmaceutical List with Metabolites | DOI:10.5281/zenodo.10501043",
+                        "Matched": {
+                          "PCLID": 900163671,
+                          "Citation": "S113 | SWISSPHARMA24 | 2024 Swiss Pharmaceutical List with Metabolites | DOI:10.5281/zenodo.10501043"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pharmaceuticals -> Metabolite of Diclofenac",
+                          "Markup": [
+                            {
+                              "Start": 33,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diclofenac",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3033"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Spectral Information",
+        "Description": "Spectral data for this compound, including 1-D and 2-D nuclear magnetic resonance (NMR), Infrared (IR), Raman, and Ultraviolet (UV) spectroscopy, mass spectrometry (MS), and chromatography.",
+        "Section": [
+          {
+            "TOCHeading": "1D NMR Spectra",
+            "Description": "One-dimensional (1D) nuclear magnetic resonance (NMR) spectra.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 2
+            },
+            "Section": [
+              {
+                "TOCHeading": "13C NMR Spectra",
+                "Description": "Carbon-13 nuclear magnetic resonance (NMR) spectroscopy (also known as 13C NMR) is a version of NMR spectroscopy used to elucidate the structure of carbon-containing compounds.",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Name": "Copyright",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Copyright © 2016-2025 W. Robien, Inst. of Org. Chem., Univ. of Vienna. All Rights Reserved."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Name": "Thumbnail",
+                    "URL": "https://spectrabase.com/spectrum/4u6vyAwET19",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/4591050_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Mass Spectrometry",
+            "Description": "Mass spectrometry (MS or mass spec) is a technique to determine molecular structure through ionization and fragmentation of the parent compound into smaller components.",
+            "URL": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Spectroscopy/Mass_Spectrometry",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 2
+            },
+            "Section": [
+              {
+                "TOCHeading": "GC-MS",
+                "Description": "Data from gas chromatography-mass spectrometry (GC-MS) experiments.",
+                "URL": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Structure_and_Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_(Schaller)/II%3A_Practical_Aspects_of_Structure_-_Purification_and_Spectroscopy/06%3A_Introductory_Mass_Spectrometry/6.03%3A_GC-MS_and_LC-MS",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 49,
+                    "Name": "Source of Spectrum",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C9-0-53-4"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 49,
+                    "Name": "Copyright",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Copyright © 2020-2025 John Wiley & Sons, Inc. All Rights Reserved."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 49,
+                    "Name": "Thumbnail",
+                    "URL": "https://spectrabase.com/spectrum/KwFEzkwZRIs",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/36471987_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "MS-MS",
+                "Description": "Data from tandem mass spectrometry (MS-MS) experiments.",
+                "URL": "https://goldbook.iupac.org/terms/view/T06250",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Spectra ID",
+                    "URL": "https://hmdb.ca/spectra/ms_ms/2226761",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2226761"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Positive"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "SPLASH",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/browse?query==exists(splash.splash:%27splash10-001i-0090000000-b48940be8afea41e4314%27)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-001i-0090000000-b48940be8afea41e4314"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "231.0445 100"
+                        },
+                        {
+                          "String": "266.0133 41.09"
+                        },
+                        {
+                          "String": "230.0368 17.85"
+                        },
+                        {
+                          "String": "294.0082 2.35"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=231.0445:100,266.0133:41.09,230.0368:17.85,294.0082:2.35",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=231.0445:100,266.0133:41.09,230.0368:17.85,294.0082:2.35"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Spectra ID",
+                    "URL": "https://hmdb.ca/spectra/ms_ms/2226824",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2226824"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Negative"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "SPLASH",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/browse?query==exists(splash.splash:%27splash10-014i-0090000000-b3c9064247cd09c8584c%27)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-014i-0090000000-b3c9064247cd09c8584c"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "266.0146 100"
+                        },
+                        {
+                          "String": "230.0379 19.03"
+                        },
+                        {
+                          "String": "194.0611 9.22"
+                        },
+                        {
+                          "String": "166.0662 2.95"
+                        },
+                        {
+                          "String": "229.03 1.98"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=266.0146:100,230.0379:19.03,194.0611:9.22,166.0662:2.95,229.03:1.98",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=266.0146:100,230.0379:19.03,194.0611:9.22,166.0662:2.95,229.03:1.98"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Spectra ID",
+                    "URL": "https://hmdb.ca/spectra/ms_ms/2227913",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2227913"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Negative"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "SPLASH",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/browse?query==exists(splash.splash:%27splash10-014i-0091000000-09a6e4f2f72b1efdd1e3%27)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-014i-0091000000-09a6e4f2f72b1efdd1e3"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "266.0145 100"
+                        },
+                        {
+                          "String": "310.0046 13.40"
+                        },
+                        {
+                          "String": "230.0379 7.19"
+                        },
+                        {
+                          "String": "194.0612 1.85"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=266.0145:100,310.0046:13.40,230.0379:7.19,194.0612:1.85",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=266.0145:100,310.0046:13.40,230.0379:7.19,194.0612:1.85"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Spectra ID",
+                    "URL": "https://hmdb.ca/spectra/ms_ms/2227944",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2227944"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Positive"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "SPLASH",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/browse?query==exists(splash.splash:%27splash10-02tc-0093000000-bf74c218197bc58807bb%27)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-02tc-0093000000-bf74c218197bc58807bb"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "266.0133 100"
+                        },
+                        {
+                          "String": "312.0188 80.06"
+                        },
+                        {
+                          "String": "294.0082 76.18"
+                        },
+                        {
+                          "String": "231.0445 14.08"
+                        },
+                        {
+                          "String": "230.0363 4.37"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=266.0133:100,312.0188:80.06,294.0082:76.18,231.0445:14.08,230.0363:4.37",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=266.0133:100,312.0188:80.06,294.0082:76.18,231.0445:14.08,230.0363:4.37"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Name": "Spectra ID",
+                    "URL": "https://hmdb.ca/spectra/ms_ms/2229145",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2229145"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Positive"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Name": "SPLASH",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/browse?query==exists(splash.splash:%27splash10-001i-0090000000-49b28a40ecf6ab919b12%27)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-001i-0090000000-49b28a40ecf6ab919b12"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "230.0367 100"
+                        },
+                        {
+                          "String": "195.0679 3.19"
+                        },
+                        {
+                          "String": "167.0729 2.27"
+                        },
+                        {
+                          "String": "196.0757 2.17"
+                        },
+                        {
+                          "String": "166.0651 1.91"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=230.0367:100,195.0679:3.19,167.0729:2.27,196.0757:2.17,166.0651:1.91",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=230.0367:100,195.0679:3.19,167.0729:2.27,196.0757:2.17,166.0651:1.91"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Name": "Spectra ID",
+                    "URL": "https://hmdb.ca/spectra/ms_ms/2230292",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2230292"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Positive"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Name": "SPLASH",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/browse?query==exists(splash.splash:%27splash10-001i-0390000000-d44b5ac4b1a80e711dc8%27)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-001i-0390000000-d44b5ac4b1a80e711dc8"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "230.0366 100"
+                        },
+                        {
+                          "String": "195.0679 13.26"
+                        },
+                        {
+                          "String": "167.0729 12.49"
+                        },
+                        {
+                          "String": "166.0651 8.98"
+                        },
+                        {
+                          "String": "196.0757 2.35"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=230.0366:100,195.0679:13.26,167.0729:12.49,166.0651:8.98,196.0757:2.35",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=230.0366:100,195.0679:13.26,167.0729:12.49,166.0651:8.98,196.0757:2.35"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 43,
+                    "Name": "NIST Number",
+                    "Value": {
+                      "Number": [
+                        1203528
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 43,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "IT/ion trap"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 43,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 43,
+                    "Name": "Spectrum Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 43,
+                    "Name": "Precursor Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M-H]-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 43,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "Number": [
+                        310.0043
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 43,
+                    "Name": "Total Peaks",
+                    "Value": {
+                      "Number": [
+                        7
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 43,
+                    "Name": "m/z Top Peak",
+                    "Value": {
+                      "Number": [
+                        266
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 43,
+                    "Name": "m/z 2nd Highest",
+                    "Value": {
+                      "Number": [
+                        230.2
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 43,
+                    "Name": "m/z 3rd Highest",
+                    "Value": {
+                      "Number": [
+                        194.5
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 43,
+                    "Name": "Thumbnail",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/283861_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "NIST Number",
+                    "Value": {
+                      "Number": [
+                        1221222
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "IT/ion trap"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "Spectrum Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "Precursor Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M+H]+"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "Number": [
+                        312.0189
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "Total Peaks",
+                    "Value": {
+                      "Number": [
+                        6
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "m/z Top Peak",
+                    "Value": {
+                      "Number": [
+                        294.3
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "m/z 2nd Highest",
+                    "Value": {
+                      "Number": [
+                        266.1
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "m/z 3rd Highest",
+                    "Value": {
+                      "Number": [
+                        295.2
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "Thumbnail",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/284372_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "LC-MS",
+                "Description": "Data from liquid chromatography-mass spectrometry (LC-MS) experiments.",
+                "URL": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Structure_and_Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_(Schaller)/II%3A_Practical_Aspects_of_Structure_-_Purification_and_Spectroscopy/06%3A_Introductory_Mass_Spectrometry/6.03%3A_GC-MS_and_LC-MS",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Eawag-EQ339701",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Eawag-EQ339701"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Beck B, Stravs M, Schymanski E, Singer H, Department of Environmental Chemistry, Eawag"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q Exactive Plus Orbitrap Thermo Scientific"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QFT"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "15 (nominal)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HCD"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "XBridge C18 3.5um, 2.1x50mm, Waters"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "10.0 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "312.0189"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M+H]+"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "266.0133 999"
+                        },
+                        {
+                          "String": "312.0188 799"
+                        },
+                        {
+                          "String": "294.0082 761"
+                        },
+                        {
+                          "String": "231.0445 140"
+                        },
+                        {
+                          "String": "230.0363 43"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-02tc-0093000000-bf74c218197bc58807bb",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-02tc-0093000000-bf74c218197bc58807bb"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=266.0133:999,312.0188:799,294.0082:761,231.0445:140,230.0363:43",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=266.0133:999,312.0188:799,294.0082:761,231.0445:140,230.0363:43"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Eawag-EQ339702",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Eawag-EQ339702"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Beck B, Stravs M, Schymanski E, Singer H, Department of Environmental Chemistry, Eawag"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q Exactive Plus Orbitrap Thermo Scientific"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QFT"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "30 (nominal)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HCD"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "XBridge C18 3.5um, 2.1x50mm, Waters"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "10.0 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "312.0189"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M+H]+"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "231.0445 999"
+                        },
+                        {
+                          "String": "266.0133 410"
+                        },
+                        {
+                          "String": "230.0368 178"
+                        },
+                        {
+                          "String": "294.0082 23"
+                        },
+                        {
+                          "String": "312.0188 5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-001i-0090000000-a979107147ec17e9859e",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-001i-0090000000-a979107147ec17e9859e"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=231.0445:999,266.0133:410,230.0368:178,294.0082:23,312.0188:5",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=231.0445:999,266.0133:410,230.0368:178,294.0082:23,312.0188:5"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Eawag-EQ339703",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Eawag-EQ339703"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Beck B, Stravs M, Schymanski E, Singer H, Department of Environmental Chemistry, Eawag"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q Exactive Plus Orbitrap Thermo Scientific"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QFT"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "45 (nominal)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HCD"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "XBridge C18 3.5um, 2.1x50mm, Waters"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "10.0 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "312.0189"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M+H]+"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "231.0445 999"
+                        },
+                        {
+                          "String": "230.0368 966"
+                        },
+                        {
+                          "String": "266.0133 26"
+                        },
+                        {
+                          "String": "196.0758 16"
+                        },
+                        {
+                          "String": "195.0677 3"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-001i-0090000000-118c10ddba962a902170",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-001i-0090000000-118c10ddba962a902170"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=231.0445:999,230.0368:966,266.0133:26,196.0758:16,195.0677:3",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=231.0445:999,230.0368:966,266.0133:26,196.0758:16,195.0677:3"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Eawag-EQ339704",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Eawag-EQ339704"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Beck B, Stravs M, Schymanski E, Singer H, Department of Environmental Chemistry, Eawag"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q Exactive Plus Orbitrap Thermo Scientific"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QFT"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "60 (nominal)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HCD"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "XBridge C18 3.5um, 2.1x50mm, Waters"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "10.0 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "312.0189"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M+H]+"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "230.0367 999"
+                        },
+                        {
+                          "String": "231.0445 102"
+                        },
+                        {
+                          "String": "196.0757 20"
+                        },
+                        {
+                          "String": "195.0678 8"
+                        },
+                        {
+                          "String": "214.042 4"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-001i-0090000000-b3ed2e7bca59fc876fda",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-001i-0090000000-b3ed2e7bca59fc876fda"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=230.0367:999,231.0445:102,196.0757:20,195.0678:8,214.042:4",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=230.0367:999,231.0445:102,196.0757:20,195.0678:8,214.042:4"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Eawag-EQ339705",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Eawag-EQ339705"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Beck B, Stravs M, Schymanski E, Singer H, Department of Environmental Chemistry, Eawag"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q Exactive Plus Orbitrap Thermo Scientific"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QFT"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "75 (nominal)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HCD"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "XBridge C18 3.5um, 2.1x50mm, Waters"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "10.0 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "312.0189"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M+H]+"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "230.0367 999"
+                        },
+                        {
+                          "String": "195.0679 31"
+                        },
+                        {
+                          "String": "167.0729 22"
+                        },
+                        {
+                          "String": "196.0757 21"
+                        },
+                        {
+                          "String": "166.0651 19"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-001i-0090000000-76e8de6bb0949fde240f",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-001i-0090000000-76e8de6bb0949fde240f"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=230.0367:999,195.0679:31,167.0729:22,196.0757:21,166.0651:19",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=230.0367:999,195.0679:31,167.0729:22,196.0757:21,166.0651:19"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Eawag-EQ339706",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Eawag-EQ339706"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Beck B, Stravs M, Schymanski E, Singer H, Department of Environmental Chemistry, Eawag"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q Exactive Plus Orbitrap Thermo Scientific"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QFT"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POSITIVE"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Ionization",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ESI"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "90 (nominal)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Fragmentation Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HCD"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Column Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "XBridge C18 3.5um, 2.1x50mm, Waters"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Retention Time",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "10.0 min"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "312.0189"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Precursor Adduct",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M+H]+"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "230.0366 999"
+                        },
+                        {
+                          "String": "195.0679 132"
+                        },
+                        {
+                          "String": "167.0729 124"
+                        },
+                        {
+                          "String": "166.0651 89"
+                        },
+                        {
+                          "String": "196.0757 23"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "SPLASH",
+                    "URL": "https://massbank.eu/MassBank/search?splash=splash10-001i-0390000000-304796a3d9841ccdcae2",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-001i-0390000000-304796a3d9841ccdcae2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=230.0366:999,195.0679:132,167.0729:124,166.0651:89,196.0757:23",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=230.0366:999,195.0679:132,167.0729:124,166.0651:89,196.0757:23"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 27,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-Eawag-EQ339707",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-Eawag-EQ339707"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 27,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Beck B, Stravs M, Schymanski E, Singer H, Department of Environmental Chemistry, Eawag"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 27,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q Exactive Plus Orbitrap Thermo Scientific"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 27,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-ESI-QFT"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 27,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 27,

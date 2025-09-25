@@ -1,0 +1,3155 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 40622,
+    "RecordTitle": "Lead (2+) NTA",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Name": "3D Conformer of Parent",
+                "Description": "Nitrilotriacetic Acid",
+                "Value": {
+                  "Number": [
+                    8758
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-[carboxylatomethyl(carboxymethyl)amino]acetate;lead(2+)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C6H9NO6.Pb/c8-4(9)1-7(2-5(10)11)3-6(12)13;/h1-3H2,(H,8,9)(H,10,11)(H,12,13);/q;+2/p-2"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HOUDIAKCTRMSHT-UHFFFAOYSA-L"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C(C(=O)O)N(CC(=O)[O-])CC(=O)[O-].[Pb+2]"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C6H7NO6Pb"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "53113-59-0"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "53113-59-0"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/VMV9A2TNER",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "VMV9A2TNER"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "URL": "https://www.wikidata.org/wiki/Q27291909",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q27291909"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Lead nitrilotriacetate"
+                        },
+                        {
+                          "String": "LEAD (2+) NTA [HSDB]"
+                        },
+                        {
+                          "String": "LEAD, (HYDROGEN NITRILOTRIACETATO)-"
+                        },
+                        {
+                          "String": "PLUMBATE(1-), (N,N-BIS((CARBOXY-.KAPPA.O)METHYL)GLYCINATO(3-)-.KAPPA.N,.KAPPA.O)-, HYDROGEN (1:1), (T-4)-"
+                        },
+                        {
+                          "String": "PLUMBATE(1-), (N,N-BIS((CARBOXY-.KAPPA.O)METHYL)GLYCINATO(3-)-.KAPPA.N,.KAPPA.O)-, HYDROGEN, (T-4)-"
+                        },
+                        {
+                          "String": "HSDB 1303"
+                        },
+                        {
+                          "String": "UNII-VMV9A2TNER"
+                        },
+                        {
+                          "String": "RefChem:152612"
+                        },
+                        {
+                          "String": "LEAD (2+) NTA"
+                        },
+                        {
+                          "String": "N,N-Bis(carboxymethyl)glycine lead(2+) salt (1:1)"
+                        },
+                        {
+                          "String": "Glycine, N,N-bis(carboxymethyl)-, lead(2+) salt (1:1)"
+                        },
+                        {
+                          "String": "Plumbate(1), (N,Nbis(carboxymethyl)glycinato(3)N,O,O',O''), hydrogen, (T4)"
+                        },
+                        {
+                          "String": "PLUMBATE(1-), (N,N-BIS((CARBOXY-KAPPAO)METHYL)GLYCINATO(3-)-KAPPAN,KAPPAO)-, HYDROGEN (1:1), (T-4)-"
+                        },
+                        {
+                          "String": "PLUMBATE(1-), (N,N-BIS((CARBOXY-KAPPAO)METHYL)GLYCINATO(3-)-KAPPAN,KAPPAO)-, HYDROGEN, (T-4)-"
+                        },
+                        {
+                          "String": "53113-59-0"
+                        },
+                        {
+                          "String": "VMV9A2TNER"
+                        },
+                        {
+                          "String": "Q27291909"
+                        },
+                        {
+                          "String": "Plumbate(1-), (N,N-bis(carboxymethyl)glycinato(3-)-N,O,O',O'')-, hydrogen, (T-4)-"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C6H9NO6.Pb"
+                        },
+                        {
+                          "String": "C6-H9-N-O6.Pb"
+                        },
+                        {
+                          "String": "AC1L244J"
+                        },
+                        {
+                          "String": "CID40622"
+                        },
+                        {
+                          "String": "lead(II) 2,2',2''-ammoniotriacetate"
+                        },
+                        {
+                          "String": "4-METHYL-N-PHENYL-PYRIMIDIN-2-AMINE"
+                        },
+                        {
+                          "String": "2-[carboxymethyl-(2-oxido-2-oxoethyl)amino]acetate; lead(2+)"
+                        },
+                        {
+                          "String": "79849-02-8"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "DateISO8601": [
+                    "2005-08-08"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-08-30"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "396"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        7
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        4
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "397.00399"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "397.00399"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        121
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        14
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        198
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Experimental Properties",
+            "Description": "Various experimentally determined properties for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+            "Section": [
+              {
+                "TOCHeading": "Other Experimental Properties",
+                "Description": "Other experimental properties of this chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "WHO; Environ Health Criteria: Lead p.32 (1977)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "WHO; Environ Health Criteria: Lead p.32 (1977)",
+                        "Matched": {
+                          "PCLID": 900116591,
+                          "Citation": "WHO; Environ Health Criteria: Lead p.32 (1977)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Lead is derived from the decay of radon. /Inorganic lead/",
+                          "Markup": [
+                            {
+                              "Start": 34,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Radon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Radon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V87: 39 (2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V87: 39 (2006)",
+                        "Matched": {
+                          "PCLID": 906271986,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V87: 39 (2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Natural lead is a mixture of four stable isotopes: Pb-204 (1.4%), Pb-206 (25.2%), Pb-207 (21.7%) and Pb-208 (51.7%). Lead isotopes are the end-products of each of the three series of naturally occurring radioactive elements: Pb-206 for the uranium series, Pb-207 for the actinium series and Pb-208 for the thorium series. Forty-three other isotopes of lead, all of which are radioactive, are recognized.",
+                          "Markup": [
+                            {
+                              "Start": 240,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Uranium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Uranium"
+                            },
+                            {
+                              "Start": 271,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Actinium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Actinium"
+                            },
+                            {
+                              "Start": 306,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Thorium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Thorium"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kayser, R., D. Sterling, D. Viviani (eds.). Intermedia Priority Pollutant Guidance Documents. Washington, DC: U.S.Environmental Protection Agency, July 1982., p. 1-1"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kayser, R., D. Sterling, D. Viviani (eds.). Intermedia Priority Pollutant Guidance Documents. Washington, DC: U.S.Environmental Protection Agency, July 1982., p. 1-1",
+                        "Matched": {
+                          "PCLID": 900101853,
+                          "Citation": "Kayser, R., D. Sterling, D. Viviani (eds.). Intermedia Priority Pollutant Guidance Documents. Washington, DC: U.S.Environmental Protection Agency, July 1982., p. 1-1"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Divalent lead has a strong affinity for inorganic ions containing oxygen (eg, carbonate) or sulfur (sulfide). Lead can also complex with electron rich ligands in many organic cmpd such as amino acids, proteins, and humic acid.",
+                          "Markup": [
+                            {
+                              "Start": 66,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 78,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbonate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21388941"
+                            },
+                            {
+                              "Start": 92,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sulfur",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sulfur"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Classes",
+            "Description": "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties, radiological properties, or other factors.",
+            "Information": [
+              {
+                "ReferenceNumber": 2,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Metals -> Organic Acids, Metal Salts"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID40622%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID40622%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Parent Compound",
+            "Description": "A parent compound is conceptually the \"important\" part of the molecule when the molecule has more than one covalent component. Specifically, a parent component must have at least one carbon and contain at least 70% of the heavy (non-hydrogen) atoms of all the unique covalent units (ignoring stoichiometry). Note that this is a very empirical definition and is subject to change.",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 8758 (Nitrilotriacetic Acid)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 32,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=8758",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 32,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8758"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Component Compounds",
+            "Description": "Component parts of the compound when it consists of multiple covalently-bonded units.  In PubChem, a covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or single atom without covalent bonds).",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 8758 (Nitrilotriacetic Acid)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 32,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=8758",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 32,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8758"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "CID 5352425 (Lead)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=5352425",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5352425"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Name": "Same Parent, Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/40622/cids/JSON?cids_type=same_parent_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    422
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 5,
+                "Name": "Same Parent, Exact Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/40622/cids/JSON?cids_type=same_parent&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    417
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 5,
+                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/40622/cids/JSON?cids_type=component&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 5,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID40622%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 5,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID40622%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/500796030",
+                    "Value": {
+                      "Number": [
+                        500796030
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/40622/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        14
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 5,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Identification",
+        "Description": "This section contains laboratory methods used to identify this chemical.",
+        "Section": [
+          {
+            "TOCHeading": "Analytic Laboratory Methods",
+            "Description": "Analytic laboratory methods for analyzing this compound in a sample. The information in this section is collected by the Hazardous Substances Data Bank (HSDB) from various sources.",
+            "Information": [
+              {
+                "ReferenceNumber": 3,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:17870278",
+                  "Chen Z et al; Anal Chim Acta 599 (2): 163-9 (2007)"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:17870278",
+                    "Matched": {
+                      "PCLID": 26847534,
+                      "Citation": "Chen Z, Owens G, Kim KR, Naidu R. Confirmation of lead aminocarboxylic complex formation using electrospray ionization mass spectrometry and speciation by anion-exchange chromatography coupled with ICP-MS. Anal Chim Acta. 2007 Sep 19;599(2):163–9. doi: 10.1016/j.aca.2007.08.012. PMID: 17870278.",
+                      "PMID": 17870278,
+                      "DOI": "10.1016/j.aca.2007.08.012"
+                    }
+                  },
+                  {
+                    "Citation": "Chen Z et al; Anal Chim Acta 599 (2): 163-9 (2007)",
+                    "Matched": {
+                      "PCLID": 26847534,
+                      "Citation": "Chen Z, Owens G, Kim KR, Naidu R. Confirmation of lead aminocarboxylic complex formation using electrospray ionization mass spectrometry and speciation by anion-exchange chromatography coupled with ICP-MS. Anal Chim Acta. 2007 Sep 19;599(2):163–9. doi: 10.1016/j.aca.2007.08.012. PMID: 17870278.",
+                      "PMID": 17870278,
+                      "DOI": "10.1016/j.aca.2007.08.012"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Inductively coupled plasma mass spectrometry (ICP-MS) and electrospray ionization mass spectrometry (ESI-MS) were used as complementary techniques to provide element and molecular information for aminocarboxylic lead species including [Pb(NTA)]1-, [Pb(HEDTA)]1-, [Pb(EDTA)]2- and [Pb(DTPA)]3-. ESI-MS was used to initially confirm the formation of lead aminocarboxylic complexes in solution and subsequently anion-change chromatography coupled with ICP-MS was used to speciate these complexes using a mobile phase containing 30 mM NH4H2PO4 at pH of 8.0. However, [Pb(NTA)]1- was not observed during chromatographic separation due to its poor stability...  The proposed method was used to speciate aminocarboxylic lead complexes in soil solution.",
+                      "Markup": [
+                        {
+                          "Start": 252,
+                          "Length": 5,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/HEDTA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-8773"
+                        },
+                        {
+                          "Start": 267,
+                          "Length": 4,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/EDTA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6049"
+                        },
+                        {
+                          "Start": 284,
+                          "Length": 4,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DTPA",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-3053"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Safety and Hazards",
+        "Description": "Information on safety and hazards for this compound, including safety/hazards properties, reactivity, incompatibilities, management techniques, first aid treatments, and more.  For toxicity and related information, please see the Toxicity section.",
+        "Section": [
+          {
+            "TOCHeading": "Hazards Identification",
+            "Description": "This section identifies the hazards of the chemical presented on the safety data sheet (SDS) and the appropriate warning information associated with those hazards.  The information in this section includes, but are not limited to, the hazard classification of the chemical, signal word, pictograms, hazard statements and precautionary statements.",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "Hazards Summary",
+                "Description": "This section provides an overview of the key hazards information of this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "There is inadequate evidence in humans for the carcinogenicity of nitrilotriacetic acid and its salts. [IARC] NTA complexes of mercury, cadmium, and nickel degrade more slowly than complexes of lead, zinc, and iron; Undegraded NTA may accumulate in the environment; [HSDB] See Lead and linked occupational diseases.",
+                          "Markup": [
+                            {
+                              "Start": 66,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nitrilotriacetic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8758"
+                            },
+                            {
+                              "Start": 127,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Mercury"
+                            },
+                            {
+                              "Start": 136,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Cadmium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Cadmium"
+                            },
+                            {
+                              "Start": 149,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Nickel",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Nickel"
+                            },
+                            {
+                              "Start": 200,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Zinc",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Zinc"
+                            },
+                            {
+                              "Start": 210,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EPA Hazardous Waste Number",
+                "Description": "Identifier for hazardous waste containing this chemical.",
+                "URL": "https://www.epa.gov/hw/defining-hazardous-waste-listed-characteristic-and-mixed-radiological-wastes",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "D008; A solid waste containing lead may or may not become characterized as a hazardous waste when subjected to the Toxicity Characteristic Leaching Procedure listed in 40 CFR 261.24, and if so characterized, must be managed as a hazardous waste. /Lead/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Safety and Hazard Properties",
+            "Description": "This section lists the chemical's safety and hazard characteristics, such as the explosive/flammable limits, critical temperature and pressure, exposure limits, etc.",
+            "Section": [
+              {
+                "TOCHeading": "OSHA Standards",
+                "Description": "Occupational Safety and Health Administration (OSHA) standards are rules that describe the methods that employers must use to protect their employees from hazards. These standards limit the amount of hazardous chemicals workers can be exposed to, require the use of certain safe practices and equipment, and require employers to monitor hazards and keep records of workplace injuries and illnesses.",
+                "URL": "https://www.osha.gov/laws-regs",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "29 CFR 1910.1025 (USDOL); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 3, 2009: https://www.ecfr.gov"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "29 CFR 1910.1025 (USDOL); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 3, 2009: https://www.ecfr.gov",
+                        "Matched": {
+                          "PCLID": 906288620,
+                          "Citation": "29 CFR 1910.1025 (USDOL); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 3, 2009: https://www.ecfr.gov"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Blood lead levels of 50-60 ug/100 g in children can cause significant neurobehavioral impairments, and there is evidence of hyperactivity at blood levels as low as 25 ug/100 g. Given the overall body of literature concerning the adverse health effects of lead in children, OSHA feels that the blood level in children should be maintained below 30 ug/100 g with a population mean of 15 ug/100 g. Blood lead levels in the fetus and newborn likewise should not exceed 30 ug/100 g. /Lead/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "NIOSH Recommendations",
+                "Description": "The National Institute for Occupational Safety and Health (NIOSH) recommendations for chemical safety concerning this compound.",
+                "URL": "https://www.cdc.gov/niosh/index.htm",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)",
+                        "Matched": {
+                          "PCLID": 900026787,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NIOSH considers \"Lead\" to mean metallic lead, lead oxides, and lead salts (including organic salts such as lead soaps but excluding lead arsenate).",
+                          "Markup": [
+                            {
+                              "Start": 132,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lead%20arsenate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24572"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)",
+                        "Matched": {
+                          "PCLID": 900026787,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Recommended Exposure Limit: 10 hr Time-Weighted Avg: 0.050 mg/cu m /Lead/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)",
+                        "Matched": {
+                          "PCLID": 900026787,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Air concentrations should be maintained so that worker blood lead remains less than 0.06 mg Pb/100 g of whole blood."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Accidental Release Measures",
+            "Description": "This section provides recommendations on the appropriate response to spills, leaks, or releases, including containment and cleanup practices to prevent or minimize exposure to people, properties, or the environment. It may also include recommendations distinguishing between responses for large and small spills where the spill volume has a significant impact on the hazard.",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "Disposal Methods",
+                "Description": "Disposal methods or procedures for this chemical or hazardous waste containing it.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "40 CFR 240-280, 300-306, 702-799 (USEPA); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 2, 2009: https://www.ecfr.gov"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "40 CFR 240-280, 300-306, 702-799 (USEPA); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 2, 2009: https://www.ecfr.gov",
+                        "Matched": {
+                          "PCLID": 900127883,
+                          "Citation": "40 CFR 240-280, 300-306, 702-799 (USEPA); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 2, 2009: https://www.ecfr.gov"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Generators of waste (equal to or greater than 100 kg/mo) containing this contaminant, EPA hazardous waste number D008, must conform with USEPA regulations in storage, transportation, treatment and disposal of waste. /Lead/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Preventive Measures",
+                "Description": "Preventive measures to take to avoid suffering negative health effects from this chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SRP: Contaminated protective clothing should be segregated in a manner so that results in no direct personal contact by personnel who handle, dispose of, or clean the clothing. Quality assurance procedures to confirm the efficacy of the cleaning procedures should be implemented prior to the decontaminated protective clothing being returned for reuse by the workers. Contaminated clothing (including shoes/socks) should not be taken home at end of shift, but should remain at employee's place of work for cleaning."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SRP: Wastewater from contaminant suppression, cleaning of protective clothing/equipment, or contaminated sites should be contained and evaluated for subject chemical or decomposition product concentrations. Concentrations shall be lower than applicable environmental discharge or disposal criteria. Alternatively, pretreatment and/or discharge to a permitted wastewater treatment facility is acceptable only after review by the governing authority and assurance that \"pass through\" violations will not occur. Due consideration shall be given to remediation worker exposure (inhalation, dermal and ingestion) as well as fate during treatment, transfer and disposal. If it is not practicable to manage the chemical in this fashion, it must be evaluated in accordance with EPA 40 CFR Part 261, specifically Subpart B, in order to determine the appropriate local, state and federal requirements for disposal."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)",
+                        "Matched": {
+                          "PCLID": 900026787,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The worker should wash daily at the end of each work shift, and prior to eating, drinking, smoking, etc. /Lead/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)",
+                        "Matched": {
+                          "PCLID": 900026787,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Work clothing that becomes wet or significantly contaminated should be removed or replaced. /Lead/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)",
+                        "Matched": {
+                          "PCLID": 900026787,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Workers whose clothing may have become contaminated should change into uncontaminated clothing before leaving the work premises. /Lead/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Exposure Control and Personal Protection",
+            "Description": "This section provides information on the exposure limits, engineering controls, and personal protective measures that can be used to minimize worker exposure.  The information in this section includes OSHA Permissible Exposure Limits (PELs), American Conference of Governmental Industrial Hygienists (ACGIH) Threshold Limit Values (TLVs), and any other exposure limit used or recommended by the chemical manufacturer, importer, or employer preparing the safety data sheet, where available. In addition, this section contains information on appropriate engineering controls (e.g., use local exhaust ventilation, or use only in an enclosed system) as well as recommendations for personal protective measures to prevent illness or injury from exposure to chemicals, such as personal protective equipment (PPE) (e.g., appropriate types of eye, face, skin or respiratory protection needed based on hazards and potential exposure).",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Information": [
+              {
+                "ReferenceNumber": 2,
+                "Name": "Exposure Summary",
+                "Reference": [
+                  "ACGIH - Documentation of the TLVs and BEIs, 7th Ed. Cincinnati: ACGIH Worldwide, 2020.",
+                  "ACGIH - Documentation of the TLVs and BEIs, 7th Ed. Cincinnati: ACGIH Worldwide, 2020."
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "ACGIH - Documentation of the TLVs and BEIs, 7th Ed. Cincinnati: ACGIH Worldwide, 2020.",
+                    "Matched": {
+                      "PCLID": 900176185,
+                      "Citation": "ACGIH - Documentation of the TLVs and BEIs, 7th Ed. Cincinnati: ACGIH Worldwide, 2020."
+                    }
+                  },
+                  {
+                    "Citation": "ACGIH - Documentation of the TLVs and BEIs, 7th Ed. Cincinnati: ACGIH Worldwide, 2020.",
+                    "Matched": {
+                      "PCLID": 900176185,
+                      "Citation": "ACGIH - Documentation of the TLVs and BEIs, 7th Ed. Cincinnati: ACGIH Worldwide, 2020."
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Biological Exposure Indices (BEI) [ACGIH] - Lead in blood = 200 ug/L (20 ug/100 ml); sampling time not critical; [ACGIH]"
+                    }
+                  ]
+                }
+              }
+            ],
+            "Section": [
+              {
+                "TOCHeading": "Permissible Exposure Limit (PEL)",
+                "Description": "The permissible exposure limit (PEL) is the maximum amount or concentration of a chemical that a worker may be exposed to under OSHA regulations.  The PEL can be given in three ways. [1] Time-weighted average (PEL-TWA): average exposure based on an 8h/day, 40h/week work schedule. [2] Short-term exposure limit (PEL-STEL): a 15-minute TWA exposure that should not be exceeded at any time during a workday. [3] Ceiling limit (PEL-C): absolute exposure limit that should not be exceeded at any time.",
+                "URL": "https://www.osha.gov/annotated-pels/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "0.05 [mg/m3], as Pb"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Immediately Dangerous to Life or Health (IDLH)",
+                "Description": "The Immediately Dangerous to Life or Health air concentration values (IDLH values) characterize high-risk exposure concentrations and conditions and are used as a component of respirator selection criteria.  IDLH values are established (1) to ensure that the worker can escape from a given contaminated environment in the event of failure of the respiratory protection equipment and (2) to indicate a maximum level above which only a highly reliable breathing apparatus, providing maximum worker protection, is permitted.",
+                "URL": "https://www.cdc.gov/niosh/idlh/default.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)",
+                        "Matched": {
+                          "PCLID": 900026787,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "100 mg/cu m /Lead/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Threshold Limit Values (TLV)",
+                "Description": "The threshold limit value (TLV) of a chemical is an airborne concentration at which a worker can be exposed day after day for a working lifetime without adverse effect.  There are three types of TLVs for chemicals. [1] Threshold limit value - time-weighted average (TLV-TWA): average exposure on the basis of a 8h/day, 40h/week work schedule. [2] Threshold limit value - short-term exposure limit (TLV-STEL): a 15-minute TWA exposure that should not be exceeded at any time during a workday, even if the 8-hour TWA is within the TLV-TWA. [3] Threshold limit value - ceiling limit (TLV-C): absolute exposure limit that should not be exceeded at any time. TLVs are developed by the American Conference of Governmental Industrial Hygienist.  While TLVs are widely accepted occupational exposure limits, they are not standards enforced by the U.S. Government.",
+                "URL": "https://www.acgih.org/science/tlv-bei-guidelines/tlv-chemical-substances-introduction/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "0.05 [mg/m3], as Pb"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 37"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 37",
+                        "Matched": {
+                          "PCLID": 900035890,
+                          "Citation": "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 37"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "8 hr Time Weighted Avg (TWA): 0.05 mg/cu m. /Lead, and inorganic compounds, as Pb/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 5"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 5",
+                        "Matched": {
+                          "PCLID": 900154672,
+                          "Citation": "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 5"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Excursion Limit Recommendation: Excursions in worker exposure levels may exceed three times the TLV-TWA for no more than a total of 30 min during a work day, and under no circumstances should they exceed five times the TLV-TWA, provided that the TLV-TWA is not exceeded. /Lead, inorganic compounds, as Pb/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 37"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 37",
+                        "Matched": {
+                          "PCLID": 900035890,
+                          "Citation": "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 37"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A3; Confirmed animal carcinogen with unknown relevance to humans."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 103"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 103",
+                        "Matched": {
+                          "PCLID": 900083641,
+                          "Citation": "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 103"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Biological Exposure Index (BEI): Determinant: lead in blood; Sampling Time: not critical; BEI: 30 ug/100 mL. [Note: Women of child bearing potential, whose blood Pb exceeds 10 ug/dL, are at risk of delivering a child with a blood Pb over the current Centers for Disease Control guideline of 10 ug/dL. If the blood Pb of such children remains elevated, they may be at increased risk of cognitive deficits. The blood Pb of these children should be closely monitored and appropriate steps should be taken to minimize the child's exposure to environmental lead.] /Lead, and inorganic compounds, as Pb/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Other Standards Regulations and Guidelines",
+                "Description": "Safety and hazard standards, regulations, and guidelines for this this compound that is not shown in other sections.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "50 CFR 20.134(b) (5) (United States Fish and Wildlife Service, Department of the Interior); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations.  Available from, as of October 30, 2009: https://www.ecfr.gov"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "50 CFR 20.134(b) (5) (United States Fish and Wildlife Service, Department of the Interior); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations.  Available from, as of October 30, 2009: https://www.ecfr.gov",
+                        "Matched": {
+                          "PCLID": 906291172,
+                          "Citation": "50 CFR 20.134(b) (5) (United States Fish and Wildlife Service, Department of the Interior); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations.  Available from, as of October 30, 2009: https://www.ecfr.gov"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Residual lead levels. The /U.S. Fish and Wildlife Service's/ maximum environmentally acceptable level of lead in shot is trace amounts or <1 percent. Any shot manufactured with lead levels equal to or exceeding 1 percent are considered toxic and, therefore, illegal."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "16 CFR 1303.1(a) (Commercial Practices); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations.  Available from, as of October 30, 2009: https://www.ecfr.gov"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "16 CFR 1303.1(a) (Commercial Practices); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations.  Available from, as of October 30, 2009: https://www.ecfr.gov",
+                        "Matched": {
+                          "PCLID": 900019938,
+                          "Citation": "16 CFR 1303.1(a) (Commercial Practices); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations.  Available from, as of October 30, 2009: https://www.ecfr.gov"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "In this part 1303, the Consumer Product Safety Commission declares that paint and similar surface-coating materials for consumer use that contain lead or lead compounds and in which the lead content (calculated as lead metal) is in excess of 0.06 percent (0.06 percent is reduced to 0.009 percent effective August 14, 2009 as mandated by Congress in section 101(f) of the Consumer Product Safety Improvement Act of 2008, Pub. L. 110-314) of the weight of the total nonvolatile content of the paint or the weight of the dried paint film (which paint and similar surface-coating materials are referred to hereafter as \"lead-containing paint\") are banned hazardous products under sections 8 and 9 of the Consumer Product Safety Act (CPSA), 15 U.S.C. 2057, 2058. The following consumer products are also declared to be banned hazardous products:  (1) Toys and other articles intended for use by children that bear \"lead-containing paint\".  (2) Furniture articles for consumer use that bear \"lead-containing paint\".",
+                          "Markup": [
+                            {
+                              "Start": 730,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CPSA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-20521547"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "24 CFR 35.80 (USHUD); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of October 14, 2009: https://www.ecfr.gov"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "24 CFR 35.80 (USHUD); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of October 14, 2009: https://www.ecfr.gov",
+                        "Matched": {
+                          "PCLID": 900091580,
+                          "Citation": "24 CFR 35.80 (USHUD); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of October 14, 2009: https://www.ecfr.gov"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Disclosure of Known Lead-Based Paint and/or Lead-Based Paint Hazards Upon Sale or Lease of Residential Property: This subpart implements the provisions of 42 U.S.C. 4852d, which impose certain requirements on the sale or lease of target housing. Under this subpart, a seller or lessor of target housing shall disclose to the purchaser or lessee the presence of any known lead-based paint and/or lead-based paint hazards; provide available records and reports; provide the purchaser or lessee with a lead hazard information pamphlet; give purchasers a 10-day opportunity to conduct a risk assessment or inspection; and attach specific disclosure and warning language to the sales or leasing contract before the purchaser or lessee is obligated under a contract to purchase or lease target housing."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "40 CFR 745 Lead; Identification of Dangerous Levels of Lead; Final Rule (January 5, 2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "40 CFR 745 Lead; Identification of Dangerous Levels of Lead; Final Rule (January 5, 2001)",
+                        "Matched": {
+                          "PCLID": 900090961,
+                          "Citation": "40 CFR 745 Lead; Identification of Dangerous Levels of Lead; Final Rule (January 5, 2001)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Establishes standards for lead-based paint hazards in most pre-1978 housing and child-occupied facilities. This regulation supports the implementation of regulations already promulgated, and others under development, which deal with worker training and certification, lead hazard disclosure in real estate transactions, requirements for lead cleanup under State authorities, lead hazard evaluation and control in Federally-owned housing prior to sale and housing receiving Federal assistance, and U.S. Department of Housing and Urban Development (HUD) grants to local jurisdictions to perform lead hazard control. Establishes, under authority of TSCA section 402, residential lead dust cleanup levels and amendments to dust and soil sampling requirements.",
+                          "Markup": [
+                            {
+                              "Start": 646,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TSCA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-110408"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Other Standards Regulations and Guidelines (Complete) data for LEAD (2+) NTA (12 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 115,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1303#section=Other-Standards-Regulations-and-Guidelines-(Complete)"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acceptable Daily Intakes",
+                "Description": "An estimate of the amount of a chemical in food or drinking water that can be consumed daily over a lifetime without presenting an appreciable risk to health. It is usually expressed as milligrams of the substance per kilogram of body weight per day and applies to chemicals such as food additives, pesticide residues and veterinary drugs.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Seiler, H.G., H. Sigel and A. Sigel (eds.). Handbook on the Toxicity of Inorganic Compounds. New York, NY: Marcel Dekker, Inc. 1988., p. 843"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Seiler, H.G., H. Sigel and A. Sigel (eds.). Handbook on the Toxicity of Inorganic Compounds. New York, NY: Marcel Dekker, Inc. 1988., p. 843",
+                        "Matched": {
+                          "PCLID": 906275393,
+                          "Citation": "Seiler, H.G., H. Sigel and A. Sigel (eds.). Handbook on the Toxicity of Inorganic Compounds. New York, NY: Marcel Dekker, Inc. 1988., p. 843"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "0.007 mg/kg (WHO) /Lead; from table/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Personal Protective Equipment (PPE)",
+                "Description": "Personal protective equipment (PPE) to use when handling this chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)",
+                        "Matched": {
+                          "PCLID": 900026787,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Wear appropriate personal protective clothing to prevent skin contact. /Lead/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)",
+                        "Matched": {
+                          "PCLID": 900026787,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Wear appropriate eye protection to prevent eye contact. /Lead/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)",
+                        "Matched": {
+                          "PCLID": 900026787,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Respirator Recommendations: Up to 0.5 mg/cu m. /Lead/ [Table#3081]",
+                          "Markup": [
+                            {
+                              "Start": 54,
+                              "Length": 12,
+                              "Type": "Inline Table",
+                              "Extra": "[Table#3081]"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "[Table#3081]",
+                    "Value": {
+                      "Binary": [
+                        "IkFzc2lnbmVkIFByb3RlY3Rpb24gRmFjdG9yIChBUEYpIiwiUmVzcGlyYXRvciBSZWNvbW1lbmRhdGlvbiIKIkFQRiA9IDEwIiwiQW55IGFpci1wdXJpZnlpbmcgcmVzcGlyYXRvciB3aXRoIGFuIE4xMDAsIFIxMDAsIG9yIFAxMDAgZmlsdGVyIChpbmNsdWRpbmcgTjEwMCwgUjEwMCwgYW5kIFAxMDAgZmlsdGVyaW5nIGZhY2VwaWVjZXMpIGV4Y2VwdCBxdWFydGVyLW1hc2sgcmVzcGlyYXRvcnMuIgoiQVBGID0gMTAiLCJBbnkgc3VwcGxpZWQtYWlyIHJlc3BpcmF0b3IuIgo="
+                      ],
+                      "MimeType": "text/csv"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)",
+                        "Matched": {
+                          "PCLID": 900026787,
+                          "Citation": "NIOSH. NIOSH Pocket Guide to Chemical Hazards & Other Databases CD-ROM. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2005-151 (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Respirator Recommendations: Up to 1.25 mg/cu m. /Lead/ [Table#3082]",
+                          "Markup": [
+                            {
+                              "Start": 55,
+                              "Length": 12,
+                              "Type": "Inline Table",
+                              "Extra": "[Table#3082]"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Name": "[Table#3082]",
+                    "Value": {
+                      "Binary": [
+                        "IkFzc2lnbmVkIFByb3RlY3Rpb24gRmFjdG9yIChBUEYpIiwiUmVzcGlyYXRvciBSZWNvbW1lbmRhdGlvbiIKIkFQRiA9IDI1IiwiQW55IHN1cHBsaWVkLWFpciByZXNwaXJhdG9yIG9wZXJhdGVkIGluIGEgY29udGludW91cy1mbG93IG1vZGUuIgoiQVBGID0gMjUiLCJBbnkgcG93ZXJlZCwgYWlyLXB1cmlmeWluZyByZXNwaXJhdG9yIHdpdGggYSBoaWdoLWVmZmljaWVuY3kgcGFydGljdWxhdGUgZmlsdGVyLiIK"
+                      ],
+                      "MimeType": "text/csv"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Personal Protective Equipment (PPE) (Complete) data for LEAD (2+) NTA (9 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 107,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1303#section=Personal-Protective-Equipment-(PPE)-(Complete)"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Transport Information",
+            "Description": "Transport information lists the U.S. Department of Transportation (DOT) requirements and related information for shipping and transporting of hazardous chemical(s) by road, air, rail, or sea.",
+            "URL": "https://www.phmsa.dot.gov/hazmat/erg/emergency-response-guidebook-erg",
+            "Section": [
+              {
+                "TOCHeading": "Shipment Methods and Regulations",
+                "Description": "Shipment methods and regulations of this compound.  The information in this section includes the U.S. Hazardous Materials Regulations (49 CFR Subchapter C), the International Air Transport Association (IATA) Dangerous Goods Regulations, the International Maritime Dangerous Goods (IMDG) Code, and other regulations.",
+                "URL": "https://www.govinfo.gov/content/pkg/CFR-2009-title49-vol2/pdf/CFR-2009-title49-vol2-part171.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "49 CFR 171.2 (7/1/96)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "49 CFR 171.2 (7/1/96)",
+                        "Matched": {
+                          "PCLID": 900031894,
+                          "Citation": "49 CFR 171.2 (7/1/96)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No person may /transport,/ offer or accept a hazardous material for transportation in commerce unless that person is registered in conformance ... and the hazardous material is properly classed, described, packaged, marked, labeled, and in condition for shipment as required or authorized by ... /the hazardous materials regulations (49 CFR 171-177)./"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IMDG; International Maritime Dangerous Goods Code; International Maritime Organization p.6154 (1988)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IMDG; International Maritime Dangerous Goods Code; International Maritime Organization p.6154 (1988)",
+                        "Matched": {
+                          "PCLID": 906293655,
+                          "Citation": "IMDG; International Maritime Dangerous Goods Code; International Maritime Organization p.6154 (1988)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The International Maritime Dangerous Goods Code lays down basic principles for transporting hazardous chemicals. Detailed recommendations for individual substances and a number of recommendations for good practice are included in the classes dealing with such substances. A general index of technical names has also been compiled. This index should always be consulted when attempting to locate the appropriate procedures to be used when shipping any substance or article."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Regulatory Information",
+            "Description": "This section lists the regulations related to the safety, health, and environment of the chemical and its associated products. The regulatory information, which may encompass national and/or regional regulations pertaining to the chemical or mixtures, is presented solely for informational purposes. For additional details, please consult the links to the information sources provided under each data entry.",
+            "Section": [
+              {
+                "TOCHeading": "Atmospheric Standards",
+                "Description": "This section provides atmospheric standards related to the chemical, established by regulatory agencies.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "40 CFR 50.12 (USEAP); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 2, 2009: https://www.ecfr.gov"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "40 CFR 50.12 (USEAP); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 2, 2009: https://www.ecfr.gov",
+                        "Matched": {
+                          "PCLID": 900119773,
+                          "Citation": "40 CFR 50.12 (USEAP); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 2, 2009: https://www.ecfr.gov"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "National primary and secondary ambient air quality standards for lead and its compounds, measured as elemental lead by a reference method based on appendix G to this part, or by an equivalent method, are: 1.5 micrograms per cubic meter, maximum arithmetic mean averaged over a calendar quarter. /Lead and its compounds, as Pb/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Clean Air Act as amended in 1990, Sect. 112 (b) (1) Public Law 101-549 Nov. 15, 1990"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Clean Air Act as amended in 1990, Sect. 112 (b) (1) Public Law 101-549 Nov. 15, 1990",
+                        "Matched": {
+                          "PCLID": 900011037,
+                          "Citation": "Clean Air Act as amended in 1990, Sect. 112 (b) (1) Public Law 101-549 Nov. 15, 1990"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Listed as a hazardous air pollutant (HAP) generally known or suspected to cause serious health problems. The Clean Air Act, as amended in 1990, directs EPA to set standards requiring major sources to sharply reduce routine emissions of toxic pollutants. EPA is required to establish and phase in specific performance based standards for all air emission sources that emit one or more of the listed pollutants. Lead compounds are included on this list. /Lead compounds/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Federal Drinking Water Standards",
+                "Description": "Federal drinking water standards (e.g. maximum containment level (MCL)) for this chemical.  These standards are legally enforceable.",
+                "URL": "https://www.epa.gov/dwreginfo/drinking-water-regulations",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present",
+                        "Matched": {
+                          "PCLID": 906275520,
+                          "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EPA 15 ug/L (Action Level) /Lead/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "State Drinking Water Standards",
+                "Description": "State drinking water standards (e.g. maximum containment level (MCL)) for this chemical.  These standards are legally enforceable.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present",
+                        "Matched": {
+                          "PCLID": 906275520,
+                          "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "(AZ) ARIZONA 50 ug/L /Lead/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "State Drinking Water Guidelines",
+                "Description": "State drinking water guidelines (e.g. maximum containment level (MCL)) for this chemical.  In general, these guidelines are recommendations and not legally enforceable.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present",
+                        "Matched": {
+                          "PCLID": 906275520,
+                          "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "(AZ) ARIZONA 20 ug/L /Lead/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present",
+                        "Matched": {
+                          "PCLID": 906275520,
+                          "Citation": "USEPA/Office of Water; Federal-State Toxicology and Risk   Analysis Committee (FSTRAC). Summary of State and Federal   Drinking Water Standards and Guidelines (11/93)  To Present"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "(ME) MAINE 10 ug/L /Lead/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Clean Water Act Requirements",
+                "Description": "The Clean Water Act (CWA) of 1972 establishes the basic structure for regulating discharges of pollutants into the waters of the United States and regulating quality standards for surface waters.  Under CWA, the U.S. Environmental Protection Agency (EPA) developed the Toxic Pollutant List (40 CFR Part 401.15) and the Priority Pollutant List (40 CFR Part 423, Appendix A). These lists are to be used by EPA and States to develop the Effluent Guidelines regulations and ensure water quality criteria and standards.",
+                "URL": "https://www.epa.gov/laws-regulations/summary-clean-water-act",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "40 CFR 401.15 (USEPA); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 2, 2009: https://www.ecfr.gov"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "40 CFR 401.15 (USEPA); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 2, 2009: https://www.ecfr.gov",
+                        "Matched": {
+                          "PCLID": 900071731,
+                          "Citation": "40 CFR 401.15 (USEPA); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 2, 2009: https://www.ecfr.gov"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Toxic pollutant designated pursuant to section 307(a)(1) of the Federal Water Pollution Control Act and is subject to effluent limitations. /Lead and compounds/",
+                          "Markup": [
+                            {
+                              "Start": 72,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "RCRA Requirements",
+                "Description": "The Resource Conservation and Recovery Act (RCRA) is the public law that creates the framework for the proper management of hazardous and non-hazardous solid waste. The law describes the waste management program mandated by Congress that gave EPA authority to develop the RCRA program. The term RCRA is often used interchangeably to refer to the law, regulations and EPA policy and guidance.",
+                "URL": "https://www.epa.gov/rcra",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "40 CFR 261.24 (USEPA); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 2, 2009: https://www.ecfr.gov"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "40 CFR 261.24 (USEPA); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 2, 2009: https://www.ecfr.gov",
+                        "Matched": {
+                          "PCLID": 906289532,
+                          "Citation": "40 CFR 261.24 (USEPA); U.S. National Archives and Records Administration's Electronic Code of Federal Regulations. Available from, as of November 2, 2009: https://www.ecfr.gov"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "D008; A solid waste containing lead may or may not become characterized as a hazardous waste when subjected to the Toxicity Characteristic Leaching Procedure listed in 40 CFR 261.24, and if so characterized, must be managed as a hazardous waste. /Lead/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "52 FR 25942 (7/9/87)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "52 FR 25942 (7/9/87)",
+                        "Matched": {
+                          "PCLID": 900115751,
+                          "Citation": "52 FR 25942 (7/9/87)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Environmental Protection Agency is ... /promulgated/ regulations concerning ground-water monitoring with regard to screening suspected contamination at land based hazardous waste treatment, storage, and disposal facilities. ... /There are/ new requirements to analyze for a specified core list of chemicals plus those chemicals specified by the Regional Administrator on a site-specific basis. ... /Total lead (all species) is included on this list./ /Total lead (all species)/",
+                          "Markup": [
+                            {
+                              "Start": 87,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Safety Information",
+            "Description": "Miscellaneous safety information for this chemical that is not shown in other sections, such as history, incidents, special reports, and so on.",
+            "Section": [
+              {
+                "TOCHeading": "Special Reports",
+                "Description": "Special reports on the safety and hazard of this chemical.  Most of them are government documents and review articles.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "National Toxicology Program. Eleventh Report on Carcinogens (2005). The Report on Carcinogens is an informational scientific and public health document that identifies and discusses substances (including agents, mixtures, or exposure circumstances) that may pose a carcinogenic hazard to human health. Lead and Lead Compounds are listed as reasonably anticipated to be human carcinogens. /Lead and Lead Compounds/[Available from, as of July 31, 2009: http://ntp.niehs.nih.gov/ntp/roc/eleventh/profiles/s101lead.pdf]"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 37"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 37",
+                        "Matched": {
+                          "PCLID": 900035890,
+                          "Citation": "American Conference of Governmental Industrial Hygienists  TLVs and BEIs. Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices. Cincinnati, OH 2010, p. 37"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A3; Confirmed animal carcinogen with unknown relevance to humans."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "DHHS/National Toxicology Program; Eleventh Report on Carcinogens: Lead, and Lead Compounds (January 2005). Available from, as of July 31, 2009: https://ntp.niehs.nih.gov/ntp/roc/eleventh/profiles/s101lead.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "DHHS/National Toxicology Program; Eleventh Report on Carcinogens: Lead, and Lead Compounds (January 2005). Available from, as of July 31, 2009: https://ntp.niehs.nih.gov/ntp/roc/eleventh/profiles/s101lead.pdf",
+                        "Matched": {
+                          "PCLID": 900121183,
+                          "Citation": "DHHS/National Toxicology Program; Eleventh Report on Carcinogens: Lead, and Lead Compounds (January 2005). Available from, as of July 31, 2009: https://ntp.niehs.nih.gov/ntp/roc/eleventh/profiles/s101lead.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Lead, lead compounds: Reasonably anticipated to be a human carcinogen"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Neurotoxin - Predominantly motor"
+                        },
+                        {
+                          "String": "Occupational hepatotoxin - Secondary hepatotoxins: the potential for toxic effect in the occupational setting is based on cases of poisoning by human ingestion or animal experimentation."
+                        },
+                        {
+                          "String": "Nephrotoxin - The chemical is potentially toxic to the kidneys in the occupational setting."
+                        },
+                        {
+                          "String": "Reproductive Toxin - A chemical that is toxic to the reproductive system, including defects in the progeny and injury to male or female reproductive function. Reproductive toxicity includes developmental effects. See Guidelines for Reproductive Toxicity Risk Assessment."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 395"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 395",
+                        "Matched": {
+                          "PCLID": 900119562,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 395"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Immediate first aid: Ensure that adequate decontamination has been carried out. If patient is not breathing, start artificial respiration, preferably with a demand-valve resuscitator, bag-valve-mask device, or pocket mask, as trained. Perform CPR as necessary. Immediately flush contaminated eyes with gently flowing water. Do not induce vomiting. If vomiting occurs, lean patient forward or place on left side (head-down position, if possible) to maintain an open airway and prevent aspiration. Keep patient quiet and maintain normal body temperature. Obtain medical attention. /Lead and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 317,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 395"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 395",
+                        "Matched": {
+                          "PCLID": 900119562,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 395"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Basic treatment: Establish a patent airway (oropharyngeal or nasopharyngeal airway, if  needed). Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if necessary. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with 0.9% saline (NS) during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 ml/kg up to 200 ml of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool ... . Administer activated charcoal ... . /Lead and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 213,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 408,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 577,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 695,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 396"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 396",
+                        "Matched": {
+                          "PCLID": 900144616,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 396"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious or is in severe respiratory distress. Moderate hyperventilation (20 respiration per minute) may be beneficial for increased  intracranial pressure.  Start IV administration of 0.9% saline (NS) or lactated Ringer's  (LR) /SRP: \"To keep open\", minimal flow rate/. For hypotension ... . Treat seizures with diazepam or lorazepam ... . Use proparacaine hydrochloride to assist eye irrigation ... . /Lead and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 425,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 437,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lorazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3958"
+                            },
+                            {
+                              "Start": 457,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Olson, K.R. (Ed.); Poisoning & Drug Overdose. 5th ed. Lange      Medical Books/McGraw-Hill. New York, N.Y. 2007., p. 240"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Olson, K.R. (Ed.); Poisoning & Drug Overdose. 5th ed. Lange      Medical Books/McGraw-Hill. New York, N.Y. 2007., p. 240",
+                        "Matched": {
+                          "PCLID": 900142821,
+                          "Citation": "Olson, K.R. (Ed.); Poisoning & Drug Overdose. 5th ed. Lange      Medical Books/McGraw-Hill. New York, N.Y. 2007., p. 240"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Treatment. Emergency and supportive measures. Treat seizures and coma if they occur. Provide adequate fluids to maintain urine flow but avoid overhydration, which may aggravate cerebral edema. Avoid phenothiazines for delirium, as they may lower the seizure threshold. Patients with increased intracranial pressure may benefit from corticosteroids and mannitol. /Lead/",
+                          "Markup": [
+                            {
+                              "Start": 352,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/mannitol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6251"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Antidote and Emergency Treatment (Complete) data for LEAD (2+) NTA (6 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 104,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1303#section=Antidote-and-Emergency-Treatment-(Complete)"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:3586067",
+                      "Montaldi A, Zentillin L, Pagilunga S, Levis AG; J Toxicol Environ Health 21 (3): 387-94 (1987)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:3586067",
+                        "Matched": {
+                          "PCLID": 24539499,
+                          "Citation": "Montaldi A, Zentilin L, Paglialunga S, Levis AG. Solubilization by nitrilotriacetic acid (NTA) of genetically active Cr(VI) and Pb(II) from insoluble metal compounds. Journal of Toxicology and Environmental Health. 1987 Jul;21(3):387–94. doi: 10.1080/15287398709531027.",
+                          "PMID": 3586067,
+                          "DOI": "10.1080/15287398709531027"
+                        }
+                      },
+                      {
+                        "Citation": "Montaldi A, Zentillin L, Pagilunga S, Levis AG; J Toxicol Environ Health 21 (3): 387-94 (1987)",
+                        "Matched": {
+                          "PCLID": 24539499,
+                          "Citation": "Montaldi A, Zentilin L, Paglialunga S, Levis AG. Solubilization by nitrilotriacetic acid (NTA) of genetically active Cr(VI) and Pb(II) from insoluble metal compounds. Journal of Toxicology and Environmental Health. 1987 Jul;21(3):387–94. doi: 10.1080/15287398709531027.",
+                          "PMID": 3586067,
+                          "DOI": "10.1080/15287398709531027"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/GENOTOXICITY/ The frequencies of sister chromatid exchanges (SCE) were significantly increased in cultured Chinese hamster cells by insoluble salts of Cr(VI) (PbCrO4) and Pb(II) (PbSO4). A further significant increase of this effect was produced when diluted suspensions of PbCrO4 (1-4 mg/L) and PbSO4 (10-40 mg/L) were preincubated with nitrilotriacetic acid (NTA) concentrations (0.25-1mg/L) such as those that are possibly found in highly contaminated environmental situations. NTA enhanced the induction of SCE by PbCrO4 and PbSO4 even in the presence, in the preincubation solution and in the medium used to treat the cells, of Na+ and K+ concentrations largely exceeding (e.g., 10+2 to 10+6 times) those of the genotoxic metals.",
+                          "Markup": [
+                            {
+                              "Start": 339,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nitrilotriacetic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8758"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Excerpts",
+                "Description": "Excerpts about ecotoxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "WHO; Environmental Health Criteria 85: Lead - Environmental Aspects (1989). Available from, as of October 22, 2009: https://www.inchem.org/pages/ehc.html"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "WHO; Environmental Health Criteria 85: Lead - Environmental Aspects (1989). Available from, as of October 22, 2009: https://www.inchem.org/pages/ehc.html",
+                        "Matched": {
+                          "PCLID": 900085293,
+                          "Citation": "WHO; Environmental Health Criteria 85: Lead - Environmental Aspects (1989). Available from, as of October 22, 2009: https://www.inchem.org/pages/ehc.html"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ ... Carp (Cyprinus carpio) /were held/ for 48 hr in lead nitrate concn of between 0 and 20 mg lead/L, with and without one of the three complexans, EDTA, NTA, or DTPA. The accumulation of lead in both viscera and gills was dose-related,  with the highest levels for viscera and gills being 86,000 and 4,560 mg/kg dry wt, respectively. The complexans reduced the uptake of lead at all dose levels. Concn in viscera ranged from 399 to 690 mg/kg for the three complexans, and 298 to 645 mg/kg in gills, after exposure to 20 mg/Lead (which had given the above levels without chelating agents). It is not clear whether the levels of lead in the gills represented uptake into the tissue or adsorption onto the exterior surfaces.",
+                          "Markup": [
+                            {
+                              "Start": 70,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lead%20nitrate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24924"
+                            },
+                            {
+                              "Start": 166,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/EDTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6049"
+                            },
+                            {
+                              "Start": 180,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DTPA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3053"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "WHO; Environmental Health Criteria 85: Lead - Environmental Aspects (1989). Available from, as of October 22, 2009: https://www.inchem.org/pages/ehc.html"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "WHO; Environmental Health Criteria 85: Lead - Environmental Aspects (1989). Available from, as of October 22, 2009: https://www.inchem.org/pages/ehc.html",
+                        "Matched": {
+                          "PCLID": 900085293,
+                          "Citation": "WHO; Environmental Health Criteria 85: Lead - Environmental Aspects (1989). Available from, as of October 22, 2009: https://www.inchem.org/pages/ehc.html"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ ... A natural phytoplankton community /was exposed/ to concn of an unspecified inorganic lead salt ranging from 5 x 10-7 to 5 x 10-4 M/L. The community of  organisms, isolated from lake water, consisted mainly of diatoms: Tabellaria flocculosa (53% by vol), Synedra sp. (13%), and Asterionella formosa (7%). Other important constituent species were Cryptomonas spp., Rhodomonas minuta variety lacustris, Dinobryon divergens, small species of chryptomonades, Gymnodinium sp., and Mallomonas sp. The authors monitored photosynthetic activity as uptake of (14)C-labeled hydrogen carbonate over a 20 hr  incubation. Photosynthetic carbon fixation was reduced in a dose-dependent manner throughout the exposure range of lead in the medium; the reduction was 90% relative to control cultures at the highest exposure of 5 x 10-4 M lead/L. The addition of lake sediment to treated cultures reduced the toxic effect of lead; addition to control cultures increased the photosynthetic carbon uptake by 19%. A similar reduction in the toxic effects of lead was seen on adding organic matter filtered out of the lake water and after adding the chelating agent nitrilotriacetic acid (NTA) at non- toxic levels. Neither of these two variables affected photosynthesis in control cultures. The NTA had the greatest effect on lead toxicity, virtually eliminating the effect of lead on photosynthesis.",
+                          "Markup": [
+                            {
+                              "Start": 204,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 585,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydrogen%20carbonate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-769"
+                            },
+                            {
+                              "Start": 645,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 992,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 1122,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1165,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nitrilotriacetic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8758"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:16522347",
+                      "Ruley AT, Sharma KC, Sahi SV, Singh Sr, Sajwan KS; Environ Pollut 144 (1): 11-18 (2006)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:16522347",
+                        "Matched": {
+                          "PCLID": 32855397,
+                          "Citation": "Ruley AT, Sharma NC, Sahi SV, Singh SR, Sajwan KS. Effects of lead and chelators on growth, photosynthetic activity and Pb uptake in Sesbania drummondii grown in soil. Environ Pollut. 2006 Nov;144(1):11–8. doi: 10.1016/j.envpol.2006.01.016. PMID: 16522347.",
+                          "PMID": 16522347,
+                          "DOI": "10.1016/j.envpol.2006.01.016"
+                        }
+                      },
+                      {
+                        "Citation": "Ruley AT, Sharma KC, Sahi SV, Singh Sr, Sajwan KS; Environ Pollut 144 (1): 11-18 (2006).",
+                        "Matched": {
+                          "PCLID": 32855397,
+                          "Citation": "Ruley AT, Sharma NC, Sahi SV, Singh SR, Sajwan KS. Effects of lead and chelators on growth, photosynthetic activity and Pb uptake in Sesbania drummondii grown in soil. Environ Pollut. 2006 Nov;144(1):11–8. doi: 10.1016/j.envpol.2006.01.016. PMID: 16522347.",
+                          "PMID": 16522347,
+                          "DOI": "10.1016/j.envpol.2006.01.016"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/PLANTS/ Effects of lead (Pb) and chelators, such as EDTA, HEDTA, DTPA, NTA and citric acid, were studied to evaluate the growth potential of Sesbania drummondii in soils contaminated with high concentrations of Pb. S. drummondii seedlings were grown in soil containing 7.5 g Pb(NO(3))(2) and 0-10 mmol chelators/kg soil for a period of 2 and 4 weeks and assessed for growth profile (length of root and shoot), chlorophyll a fluorescence kinetics (F(v)/F(m) and F(v)/F(o)) and Pb accumulations in root and shoot. Growth of plants in the presence of Pb+chelators was significantly higher (P < 0.05) than the controls grown in the presence of Pb alone. F(v)/F(m) and F(v)/F(o) values of treated seedlings remained unaffected ... On application of chelators, while root uptake of Pb increased four-five folds, shoot accumulations increased up to 40-folds as compared to controls (Pb only) depending on the type of chelator used. Shoot accumulations of Pb varied from 0.1 to 0.42% (dry weight) depending on the concentration of chelators used.",
+                          "Markup": [
+                            {
+                              "Start": 53,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/EDTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6049"
+                            },
+                            {
+                              "Start": 59,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/HEDTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8773"
+                            },
+                            {
+                              "Start": 66,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DTPA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3053"
+                            },
+                            {
+                              "Start": 80,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/citric%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-311"
+                            },
+                            {
+                              "Start": 411,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorophyll%20a",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-12085802"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Associated Disorders and Diseases",
+        "Description": "Disorders and diseases associated with the compound.  The contexts of the associations listed in this section vary. For example, a compound may cause its associated diseases (e.g., carcinogens and cancers) or have a therapeutic effect in treatment of the diseases (e.g., antihistamines and allergies), or be used as a marker/indicator for the diseases (e.g., glucose and diabetes).",
+        "DisplayControls": {
+          "CreateTable": {
+            "FromInformationIn": "Subsections",
+            "NumberOfColumns": 2,
+            "ColumnHeadings": [
+              "Disease",
+              "References"
+            ],
+            "ColumnContents": [
+              "Name",
+              "Value"
+            ]
+          }
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 2,
+            "Name": "Associated Occupational Diseases with Exposure to the Compound",
+            "Value": {
+              "StringWithMarkup": [
+                {
+                  "String": "Lead, subacute toxic effect [Category: Metal Poisoning, Occupational]",
+                  "Markup": [
+                    {
+                      "Start": 0,
+                      "Length": 27,
+                      "URL": "https://haz-map.com/Diseases/223"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Literature",
+            "Description": "Chemical-organism co-occurrences in literature highlight chemical-organism pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalOrganismNeighbor"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "OrganismName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "FDA Global Substance Registration System (GSRS)",
+        "SourceID": "VMV9A2TNER",
+        "Name": "LEAD NITRILOTRIACETATE",
+        "Description": "The FDA Global Substance Registration System (GSRS) enables the efficient and accurate exchange of information on what substances are in regulated products. Instead of relying on names, which vary across regulatory domains, countries, and regions, the GSRS knowledge base makes it possible for substances to be defined by standardized, scientific descriptions.",
+        "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/VMV9A2TNER",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 5814065
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "1303",
+        "Name": "LEAD (2+) NTA",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1303",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 1165
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz5804",
+        "Name": "Lead (2+) NTA",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "URL": "https://haz-map.com/Agents/5804",
+        "LicenseNote": "Copyright (c) 2022 Haz-Map(R). All rights reserved.\u000AUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "LicenseURL": "https://haz-map.com/About",
+        "ANID": 17279682
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q27291909",
+        "Name": "lead nitrilotriacetate",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q27291909",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44322518
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3277 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 160666,
+    "RecordTitle": "Saicar",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Description": "Saicar",
+                "Value": {
+                  "Number": [
+                    160666
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 2,
+                "Name": "Record Description",
+                "Description": "Ontology Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "SAICAR is a 1-(phosphoribosyl)imidazolecarboxamide resulting from the formal condesation of the darboxy group of 5-amino-1-(5-O-phosphono-beta-D-ribofuranosyl)-1H-imidazole-4-carboxylic acid with the amino group of L-aspartic acid. It has a role as an Escherichia coli metabolite and a mouse metabolite. It is functionally related to a succinic acid. It is a conjugate acid of a SAICAR(4-).",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SAICAR",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-160666"
+                        },
+                        {
+                          "Start": 113,
+                          "Length": 77,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5-amino-1-%285-O-phosphono-beta-D-ribofuranosyl%29-1H-imidazole-4-carboxylic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-165388"
+                        },
+                        {
+                          "Start": 215,
+                          "Length": 15,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-aspartic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5960"
+                        },
+                        {
+                          "Start": 336,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/succinic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-1110"
+                        },
+                        {
+                          "Start": 379,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SAICAR",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-160666"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "SAICAR is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).",
+                      "Markup": [
+                        {
+                          "Start": 47,
+                          "Length": 37,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/511145"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SAICAR",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-160666"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Saicar has been reported in Homo sapiens, Schizosaccharomyces pombe, and Apis cerana with data available.",
+                      "Markup": [
+                        {
+                          "Start": 28,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/9606#section=Natural-Products"
+                        },
+                        {
+                          "Start": 42,
+                          "Length": 25,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/4896#section=Natural-Products"
+                        },
+                        {
+                          "Start": 73,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/7461#section=Natural-Products"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Saicar",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-160666"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "SAICAR (or (S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate) is a substrate for the multifunctional protein ADE2. SAICAR is an intermediate in purine metabolism. (S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate is converted from 5-Amino-1-(5-phospho-D-ribosyl) imidazole-4-carboxylate via phosphoribosylaminoimidazole-succinocarboxamide synthase [EC: 6.3.2.6] or SAICAR synthase. This enzyme catalyses the seventh step out of ten in the biosynthesis of purine nucleotides. The appearance of succinylaminoimidazolecarboxamide riboside (SAICAriboside) and succinyladenosine (S-Ado) in cerebrospinal fluid, urine, and to a lesser extent in plasma is characteristic of a heritable deficiency Adenylosuccinate lyase deficiency. .",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SAICAR",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-160666"
+                        },
+                        {
+                          "Start": 11,
+                          "Length": 71,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/%28S%29-2-%5B5-Amino-1-%285-phospho-D-ribosyl%29imidazole-4-carboxamido%5Dsuccinate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-160666"
+                        },
+                        {
+                          "Start": 137,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SAICAR",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-160666"
+                        },
+                        {
+                          "Start": 166,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/purine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-1044"
+                        },
+                        {
+                          "Start": 185,
+                          "Length": 71,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/%28S%29-2-%5B5-Amino-1-%285-phospho-D-ribosyl%29imidazole-4-carboxamido%5Dsuccinate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-160666"
+                        },
+                        {
+                          "Start": 409,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SAICAR",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-160666"
+                        },
+                        {
+                          "Start": 581,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SAICAriboside",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-160666"
+                        },
+                        {
+                          "Start": 600,
+                          "Length": 17,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/succinyladenosine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-20849086"
+                        },
+                        {
+                          "Start": 734,
+                          "Length": 16,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Adenylosuccinate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-121897"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 24,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "SAICAR is a metabolite found in or produced by Saccharomyces cerevisiae.",
+                      "Markup": [
+                        {
+                          "Start": 47,
+                          "Length": 24,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/4932"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SAICAR",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-160666"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 25,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "adenosylsuccinase catalyzes its conversion to AICAR"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "(2S)-2-[[5-amino-1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(phosphonooxymethyl)oxolan-2-yl]imidazole-4-carbonyl]amino]butanedioic acid",
+                          "Markup": [
+                            {
+                              "Start": 2,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 22,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 25,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 28,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 31,
+                              "Length": 1,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C13H19N4O12P/c14-10-7(11(22)16-4(13(23)24)1-6(18)19)15-3-17(10)12-9(21)8(20)5(29-12)2-28-30(25,26)27/h3-5,8-9,12,20-21H,1-2,14H2,(H,16,22)(H,18,19)(H,23,24)(H2,25,26,27)/t4-,5+,8+,9+,12+/m0/s1"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NAQGHJTUZRHGAC-ZZZDFHIKSA-N"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C1=NC(=C(N1[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O)N)C(=O)N[C@@H](CC(=O)O)C(=O)O"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C13H19N4O12P"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "URL": "https://commonchemistry.cas.org/detail?cas_rn=3031-95-6",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3031-95-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3031-95-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3031-95-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3031-95-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3031-95-6"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/K1PVR64RIF",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "K1PVR64RIF"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ChEBI ID",
+                "Description": "Identifier from database and ontology of molecular entities focused on 'small' chemical compounds used by the Chemical Entities of Biological Interest (ChEBI)",
+                "URL": "https://www.ebi.ac.uk/chebi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "URL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:18319",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CHEBI:18319"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID90184404",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID90184404"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "HMDB ID",
+                "Description": "A chemical substance identifier from the HMDB database",
+                "URL": "https://hmdb.ca/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "URL": "https://hmdb.ca/metabolites/HMDB0000797",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "HMDB0000797"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "KEGG ID",
+                "Description": "KEGG compound/drug identifier",
+                "URL": "https://www.kegg.jp/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "URL": "https://www.kegg.jp/entry/C04823",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C04823"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Metabolomics Workbench ID",
+                "Description": "Registration number used by Metabolomics Workbench",
+                "URL": "https://www.metabolomicsworkbench.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=37432",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "37432"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Nikkaji Number",
+                "Description": "Substance identifier used in the Japan Chemical Substance Dictionary (Nikkaji).",
+                "URL": "https://jglobal.jst.go.jp/en/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J7.666J",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "J7.666J"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "URL": "https://www.wikidata.org/wiki/Q3502778",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q3502778"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikipedia",
+                "Description": "Wikidata entity identifier for this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "URL": "https://en.wikipedia.org/wiki/Phosphoribosylaminoimidazolesuccinocarboxamide",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Phosphoribosylaminoimidazolesuccinocarboxamide",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 46,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Phosphoribosylaminoimidazolesuccinocarboxamide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-160666"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Entry Terms",
+                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SAICAR"
+                        },
+                        {
+                          "String": "5'-phosphoribosyl-4-(N-succinylcarboxamide)-5-aminoimidazole"
+                        },
+                        {
+                          "String": "5-amino-4-imidazole-N-succinocarboxamide ribonucleotide"
+                        },
+                        {
+                          "String": "N-(5-amino-1-beta-D-ribofuranosylimidazole-4-carbonyl)-L-aspartic acid 5'-phosphate"
+                        },
+                        {
+                          "String": "succinyl-AICAR"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SAICAR"
+                        },
+                        {
+                          "String": "3031-95-6"
+                        },
+                        {
+                          "String": "Succino-AICAR"
+                        },
+                        {
+                          "String": "K1PVR64RIF"
+                        },
+                        {
+                          "String": "DTXSID90184404"
+                        },
+                        {
+                          "String": "5-Amino-4-imidazole-N-succinocarboxamide ribonucleotide"
+                        },
+                        {
+                          "String": "5'-Phosphoribosyl-4-(N-succinylcarboxamide)-5-aminoimidazole"
+                        },
+                        {
+                          "String": "CHEBI:18319"
+                        },
+                        {
+                          "String": "1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole"
+                        },
+                        {
+                          "String": "N-((5-Amino-1-(5-O-phosphono-beta-D-ribofuranosyl)-1H-imidazol-4-yl)carbonyl)-L-aspartic acid"
+                        },
+                        {
+                          "String": "N-(5-Amino-1-beta-D-ribofuranosylimidazole-4-carbonyl)-L-aspartic acid 5'-phosphate"
+                        },
+                        {
+                          "String": "1-(5'-Phosphoribosyl)-4-(N-succinocarboxamide)-5-aminoimidazole"
+                        },
+                        {
+                          "String": "(2S)-2-[[5-amino-1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(phosphonooxymethyl)oxolan-2-yl]imidazole-4-carbonyl]amino]butanedioic acid"
+                        },
+                        {
+                          "String": "(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido)succinate"
+                        },
+                        {
+                          "String": "(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate"
+                        },
+                        {
+                          "String": "succinyl-AICAR"
+                        },
+                        {
+                          "String": "(2S)-2-((5-amino-1-((2R,3R,4S,5R)-3,4-dihydroxy-5-((phosphonooxy)methyl)oxolan-2-yl)-1H-imidazol-4-yl)formamido)butanedioic acid"
+                        },
+                        {
+                          "String": "(2S)-2-((5-amino-1-((2R,3R,4S,5R)-3,4-dihydroxy-5-(phosphonooxymethyl)oxolan-2-yl)imidazole-4-carbonyl)amino)butanedioic acid"
+                        },
+                        {
+                          "String": "(2S)-2-({5-amino-1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-[(phosphonooxy)methyl]oxolan-2-yl]-1H-imidazol-4-yl}formamido)butanedioic acid"
+                        },
+                        {
+                          "String": "N-{[5-amino-1-(5-O-phosphono-beta-D-ribofuranosyl)-1H-imidazol-4-yl]carbonyl}-L-aspartic acid"
+                        },
+                        {
+                          "String": "RefChem:180851"
+                        },
+                        {
+                          "String": "DTXCID60106895"
+                        },
+                        {
+                          "String": "L-aspartic acid, N-[[5-amino-1-(5-O-phosphono-beta-D-ribofuranosyl)-1H-imidazol-4-yl]carbonyl]-"
+                        },
+                        {
+                          "String": "N-Succinyl-5-aminoimidazole-4-carboxamide Ribose 5'-Phosphate"
+                        },
+                        {
+                          "String": "5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole"
+                        },
+                        {
+                          "String": "5'-Phosphoribosyl-4-(N-succinocarbozamide)-5-aminoimidazole"
+                        },
+                        {
+                          "String": "N-[[5-Amino-1-(5-O-phosphono-b-D-ribofuranosyl)-1H-imidazoL-4-yl]carbonyl]-L-aspartic acid"
+                        },
+                        {
+                          "String": "UNII-K1PVR64RIF"
+                        },
+                        {
+                          "String": "SAICAriboside"
+                        },
+                        {
+                          "String": "SAICA riboside"
+                        },
+                        {
+                          "String": "(S)-2-(5-amino-1-(5-phospho-delta-ribosyl)imidazole-4-carboxamido)succinate"
+                        },
+                        {
+                          "String": "(S)-2-[5-Amino-1-(5-phospho-delta-ribosyl)imidazole-4-carboxamido]succinate"
+                        },
+                        {
+                          "String": "(2~{S})-2-[[5-azanyl-1-[(2~{R},3~{R},4~{S},5~{R})-3,4-bis(oxidanyl)-5-(phosphonooxymethyl)oxolan-2-yl]imidazol-4-yl]car bonylamino]butanedioic acid"
+                        },
+                        {
+                          "String": "OK8"
+                        },
+                        {
+                          "String": "SAICAR [MI]"
+                        },
+                        {
+                          "String": "bonylamino]butanedioic acid"
+                        },
+                        {
+                          "String": "SCHEMBL73325"
+                        },
+                        {
+                          "String": "orb1706667"
+                        },
+                        {
+                          "String": "(2S)-2-[5-amino-1-(5-O-phosphono-beta-D-ribosyl)imidazole-4-carboxamido]succinic acid"
+                        },
+                        {
+                          "String": "BCP28964"
+                        },
+                        {
+                          "String": "AKOS030242259"
+                        },
+                        {
+                          "String": "NS166064"
+                        },
+                        {
+                          "String": "HY-126585"
+                        },
+                        {
+                          "String": "Phosphoribosylaminoimidazolesuccinocarboxamide"
+                        },
+                        {
+                          "String": "CS-0105784"
+                        },
+                        {
+                          "String": "NS00123667"
+                        },
+                        {
+                          "String": "C04823"
+                        },
+                        {
+                          "String": "G14425"
+                        },
+                        {
+                          "String": "Q3502778"
+                        },
+                        {
+                          "String": "succinylaminoimidazolecarboxamide ribose-5'-phosphate"
+                        },
+                        {
+                          "String": "5-Amino-4-imidazole-N-succinocarbozamide ribonucleotide"
+                        },
+                        {
+                          "String": "succinyl-5-aminoimidazole-4-carboxamide-1-ribose-5-phosphate"
+                        },
+                        {
+                          "String": "N-(5-Amino-1-ribofuranosylimidazol-4-ylcarbonyl)aspartic acid 5'-phosphate"
+                        },
+                        {
+                          "String": "N-[5-Amino-1-(5'-phosphoribofuranosyl)-4-imidazolecarbonyl]aspartate"
+                        },
+                        {
+                          "String": "N-[5-Amino-1-(5'-phosphoribofuranosyl)-4-imidazolecarbonyl]aspartic acid"
+                        },
+                        {
+                          "String": "(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido)succinic acid"
+                        },
+                        {
+                          "String": "(S)-2-(5-amino-1-(5-phospho-delta-ribosyl)imidazole-4-carboxamido)succinic acid"
+                        },
+                        {
+                          "String": "L-N-[(5-amino-1-b-D-ribofuranosylimidazol-4-yl)carbonyl]-5'-(dihydrogen phosphate)"
+                        },
+                        {
+                          "String": "L-N-[(5-amino-1-beta-delta-ribofuranosylimidazol-4-yl)carbonyl]-5'-(dihydrogen phosphate)"
+                        },
+                        {
+                          "String": "N-[[5-Amino-1-(5-O-phosphono-b-D-ribofuranosyl)-1H-imidazoL-4-yl]carbonyl]-L-asparticacid"
+                        },
+                        {
+                          "String": "Succino-AICAR; Succinyl-5-aminoimidazole-4-carboxamide-1-ribose-5'-phosphate"
+                        },
+                        {
+                          "String": "(2~{S})-2-[[5-azanyl-1-[(2~{R},3~{R},4~{S},5~{R})-3,4-bis(oxidanyl)-5-(phosphonooxymethyl)oxolan-2-yl]imidazol-4-yl]car"
+                        },
+                        {
+                          "String": "1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole' 1-(5'-Phosphoribosyl)-4-(N-succinocarboxamide)-5-aminoimidazole"
+                        },
+                        {
+                          "String": "Aspartic acid-N-[95-amino-1-B-D-ribofuranosylimidazol-4-yl)carbonyl]-5'-(dihydrogen phophate)-L-"
+                        },
+                        {
+                          "String": "L-ASPARTIC ACID, N-((5-AMINO-1-(5-O-PHOSPHONO-.BETA.-D-RIBOFURANOSYL)-1H-IMIDAZOL-4-YL)CARBONYL)-"
+                        },
+                        {
+                          "String": "L-Aspartic acid, N-[[5-amino-1-(5-O-phosphono-|A-D-ribofuranosyl)-1H-imidazol-4-yl]carbonyl]-"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SAICAR, (D)-isomer"
+                        },
+                        {
+                          "String": "AC1L4O13"
+                        },
+                        {
+                          "String": "CTK4G4973"
+                        },
+                        {
+                          "String": "C13H19N4O12P"
+                        },
+                        {
+                          "String": "NAQGHJTUZRHGAC-ZZZDFHIKSA-N"
+                        },
+                        {
+                          "String": "ZINC4096553"
+                        },
+                        {
+                          "String": "CID160666"
+                        },
+                        {
+                          "String": "C13-H19-N4-O12-P"
+                        },
+                        {
+                          "String": "CID:160666"
+                        },
+                        {
+                          "String": "Succinylaminoimidazole carboxamide riboside"
+                        },
+                        {
+                          "String": "SID:163679244"
+                        },
+                        {
+                          "String": "C020635"
+                        },
+                        {
+                          "String": "Aspartic acid, N-[(5-amino-1-.beta.-D-ribofuranosylimidazol-4-yl)carbonyl]-, 5'-(dihydrogen phosphate), L-"
+                        },
+                        {
+                          "String": "L-Aspartic acid, N-[[5-amino-1-(5-O-phosphono-.beta.-D-ribofuranosyl)-1H-imidazol-4-yl]carbonyl]-"
+                        },
+                        {
+                          "String": "L-Aspartic acid,N-[[5-amino-1-(5-O-phosphono-b-D-ribofuranosyl)-1H-imidazol-4-yl]carbonyl]-"
+                        },
+                        {
+                          "String": "N-((5-amino- 1-(5-O-phosphono-beta-D-ribofuranosyl)-1H-imidazol- 4-yl)carbonyl)-L-aspartic acid"
+                        },
+                        {
+                          "String": "N-[[5-Amino-1-(5-O-phosphono-beta-D-ribofuranosyl)-1H-imidazol-4-yl]carbonyl]-L-aspartic acid"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "DateISO8601": [
+                    "2005-06-08"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-09-07"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "454.28"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "XLogP3",
+                "Description": "XLogP3 is a predicted octanol-water partition coefficient, computed using the algorithm described in J. Chem. Inf. Model. 2007, 47, 6, 2140-2148. It is used as a measure of hydrophilicity or hydrophobicity of a molecule.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/17985865/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "XLogP3-AA",
+                    "Reference": [
+                      "Computed by XLogP3 3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        -4.3
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        8
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        14
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        9
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "454.07370905"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "454.07370905"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        264
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        30
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        718
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Experimental Properties",
+            "Description": "Various experimentally determined properties for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+            "Section": [
+              {
+                "TOCHeading": "Physical Description",
+                "Description": "The appearance or features of this compound, including color, odor, state, taste and more in general.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Solid"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID160666%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID160666%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Same Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/160666/cids/JSON?cids_type=same_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    19
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Same Stereo Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/160666/cids/JSON?cids_type=same_stereo&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    3
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Same Isotope Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/160666/cids/JSON?cids_type=same_isotopes&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    16
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Same Parent, Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/160666/cids/JSON?cids_type=same_parent_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    28
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Same Parent, Stereo Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/160666/cids/JSON?cids_type=same_parent_stereo&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    9
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Same Parent, Isotope Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/160666/cids/JSON?cids_type=same_parent_isotopes&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    24
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Same Parent, Exact Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/160666/cids/JSON?cids_type=same_parent&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    6
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/160666/cids/JSON?cids_type=component&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    7
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID160666%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID160666%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/500824269",
+                    "Value": {
+                      "Number": [
+                        500824269
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "All Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/160666/sids/JSON?sids_type=all&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        89
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/160666/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        73
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Mixture Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/160666/sids/JSON?sids_type=component&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        16
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Journal Publishers"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "NIH Initiatives"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Entrez Crosslinks",
+            "Description": "Cross-references to associated records in other Entrez databases such as PubMed, Gene, Protein, etc.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "PubMed Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed&db=pccompound&cmd=Link&from_uid=160666",
+                "Value": {
+                  "Number": [
+                    3
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Protein Structures Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_structure&db=pccompound&cmd=Link&from_uid=160666",
+                "Value": {
+                  "Number": [
+                    3
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Taxonomy Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_taxonomy&db=pccompound&cmd=Link&from_uid=160666",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Gene Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_gene&db=pccompound&cmd=Link&from_uid=160666",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NCBI LinkOut",
+            "Description": "NCBI LinkOut is a service that allows one to link directly from NCBI databases to a wide range of information and services beyond NCBI systems.",
+            "URL": "https://www.ncbi.nlm.nih.gov/projects/linkout/",
+            "Information": [
+              {
+                "ReferenceNumber": 38,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 26,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Drug and Medication Information",
+        "Description": "This section provides drug and medication information for this compound, including drug indications, labeling, clinical trials, idiosyncrasies, tolerance, reported fatal doses, etc.",
+        "Section": [
+          {
+            "TOCHeading": "Biomarker Information",
+            "Description": "The term \"biomarker\", a portmanteau of \"biological marker\", is a measurable substance in an organism whose presence is indicative of some phenomenon such as disease, infection, or environmental exposure.",
+            "Information": [
+              {
+                "ReferenceNumber": 16,
+                "Value": {
+                  "ExternalTableName": "markerdb"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Food Additives and Ingredients",
+        "Description": "This section provides information on chemicals found in food (e.g., food additives, flavoring and coloring agents).",
+        "Section": [
+          {
+            "TOCHeading": "Associated Foods",
+            "Description": "This section provides the related foods that contain the compound as an ingredient, flavor, or other aspects.",
+            "DisplayControls": {
+              "ListType": "Columns"
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "ExternalTableName": "collection=consolidatedcompoundtaxonomy&view=concise_cid_food&srccmpdkind='Food Compound'"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Pharmacology and Biochemistry",
+        "Description": "Pharmacology and biochemistry information related to this compound, including the pharmacodynamics, pharmacokinetics, metabolism, mechanism of action, biological half-life, biochemical reactions, and many others.",
+        "Section": [
+          {
+            "TOCHeading": "Human Metabolite Information",
+            "Description": "Information on metabolites generated from this compound in the human body.  The data in this section is from the Human Metabolome Database.",
+            "URL": "https://hmdb.ca/",
+            "Section": [
+              {
+                "TOCHeading": "Tissue Locations",
+                "Description": "Tissue locations of this compound or its metabolites (e.g., bone marrow, kidney, liver, placenta, pancreas, skeletal muscle, intestine, etc.)",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Tissue Locations",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fibroblasts"
+                        },
+                        {
+                          "String": "Intestine"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Metabolite Pathways",
+                "Description": "Metabolic pathways related to this chemical.  A metabolic pathway is a series of chemical reactions in a cell that build and breakdown molecules for cellular processes.",
+                "URL": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/06%3A_Metabolism/6.03%3A__Energy_and_Metabolism_-_Metabolic_Pathways",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Metabolite Pathways",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Adenine phosphoribosyltransferase deficiency (APRT)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 51,
+                              "URL": "http://smpdb.ca/view/SMP00535"
+                            },
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Adenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-190"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Adenosine Deaminase Deficiency",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 30,
+                              "URL": "http://smpdb.ca/view/SMP00144"
+                            },
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Adenosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-60961"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Adenylosuccinate Lyase Deficiency",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 33,
+                              "URL": "http://smpdb.ca/view/SMP00167"
+                            },
+                            {
+                              "Start": 0,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Adenylosuccinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-121897"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "AICA-Ribosiduria",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 16,
+                              "URL": "http://smpdb.ca/view/SMP00168"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Azathioprine Action Pathway",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 27,
+                              "URL": "http://smpdb.ca/view/SMP00427"
+                            },
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azathioprine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2265"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Gout or Kelley-Seegmiller Syndrome",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 34,
+                              "URL": "http://smpdb.ca/view/SMP00365"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Lesch-Nyhan Syndrome (LNS)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 26,
+                              "URL": "http://smpdb.ca/view/SMP00364"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Mercaptopurine Action Pathway",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 29,
+                              "URL": "http://smpdb.ca/view/SMP00428"
+                            },
+                            {
+                              "Start": 0,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Mercaptopurine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-667490"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Mitochondrial DNA depletion syndrome",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 36,
+                              "URL": "http://smpdb.ca/view/SMP00536"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Molybdenum Cofactor Deficiency",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 30,
+                              "URL": "http://smpdb.ca/view/SMP00203"
+                            },
+                            {
+                              "Start": 0,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Molybdenum%20Cofactor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-136033744"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Total 17 pathways, visit the HMDB page for details",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 9,
+                              "URL": "http://www.hmdb.ca/metabolites/HMDB0000797"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Biochemical Reactions",
+            "Description": "Biochemical reactions in which this compound participates.",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "ExternalTableName": "pathwayreaction"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+        "Section": [
+          {
+            "TOCHeading": "Uses",
+            "Description": "Major uses of this chemical, including both consumer uses and industrial uses.",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "This is an endogenously produced metabolite found in the human body. It is used in metabolic reactions, catabolic reactions or waste generation."
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Health Effects",
+                "Description": "Principal effect(s) of exposure to each substance, listed by OSHA Health Code, Health Effects from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chronically high levels of SAICAR are associated with Adenylosuccinate Lyase Deficiency.",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SAICAR",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-160666"
+                            },
+                            {
+                              "Start": 54,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Adenylosuccinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-121897"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Associated Disorders and Diseases",
+        "Description": "Disorders and diseases associated with the compound.  The contexts of the associations listed in this section vary. For example, a compound may cause its associated diseases (e.g., carcinogens and cancers) or have a therapeutic effect in treatment of the diseases (e.g., antihistamines and allergies), or be used as a marker/indicator for the diseases (e.g., glucose and diabetes).",
+        "DisplayControls": {
+          "CreateTable": {
+            "FromInformationIn": "Subsections",
+            "NumberOfColumns": 2,
+            "ColumnHeadings": [
+              "Disease",
+              "References"
+            ],
+            "ColumnContents": [
+              "Name",
+              "Value"
+            ]
+          }
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 4,
+            "Value": {
+              "ExternalTableName": "consolidateddiseaseassociation"
+            }
+          }
+        ],
+        "Section": [
+          {
+            "TOCHeading": "Disease and References",
+            "Information": [
+              {
+                "ReferenceNumber": 12,
+                "Name": "Adenylosuccinate lyase deficiency",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PubMed: 10102915, 15571235, 27504266",
+                      "Markup": [
+                        {
+                          "Start": 8,
+                          "Length": 28,
+                          "URL": "https://pubmed.ncbi.nlm.nih.gov/?term=10102915,15571235,27504266"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 12,
+                "Name": "Fumarase deficiency",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PubMed: 26078636, 20549362, 24182348, 6616883, 16972175",
+                      "Markup": [
+                        {
+                          "Start": 8,
+                          "Length": 47,
+                          "URL": "https://pubmed.ncbi.nlm.nih.gov/?term=26078636,20549362,24182348,6616883,16972175"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "MetaGene: Metabolic & Genetic Information Center (MIC: http://www.metagene.de)"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 12,
+                "Name": "ATIC deficiency",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PubMed: 15114530, 10102915",
+                      "Markup": [
+                        {
+                          "Start": 8,
+                          "Length": 18,
+                          "URL": "https://pubmed.ncbi.nlm.nih.gov/?term=15114530,10102915"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "Inborn Metabolic Diseases: Diagnosis and Treatment. Edited by John Fernandes, Jean-Marie Saudubray, Georges van den Berghe, John H. Walter"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NLM Curated PubMed Citations",
+            "Description": "The NLM Curated PubMed Citations section links to all PubMed records that are tagged with the same MeSH term that has been associated with a particular compound.",
+            "URL": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0142-6",
+            "Information": [
+              {
+                "ReferenceNumber": 36,
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed_mesh&db=pccompound&cmd=Link&from_uid=160666",
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Literature",
+            "Description": "Chemical-organism co-occurrences in literature highlight chemical-organism pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalOrganismNeighbor"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "OrganismName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/160666/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "WIPO PATENTSCOPE",
+            "Description": "Use the provided link to show patents associated with this chemical structure in WIPO's PATENTSCOPE system.",
+            "URL": "https://www.wipo.int/patentscope/en/",
+            "Information": [
+              {
+                "ReferenceNumber": 37,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Patents are available for this chemical structure:"
+                    },
+                    {
+                      "String": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=NAQGHJTUZRHGAC-ZZZDFHIKSA-N",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 86,
+                          "URL": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=NAQGHJTUZRHGAC-ZZZDFHIKSA-N"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Patents",
+            "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalChemical"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+            "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalDisease"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalGene"
+                    },
+                    {
+                      "String": "Gene"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and organisms mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalOrganism"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Interactions and Pathways",
+        "Description": "This section provides information on the biomolecular interactions of this compound with drugs, genes, proteins, etc., as well as the pathways in which this compound is involved.",
+        "Section": [
+          {
+            "TOCHeading": "Protein Bound 3D Structures",
+            "Description": "Experimentally determined 3D structures of the macromolecules (e.g., proteins) that this compounds bind to.  The 3D structures in this section are from multiple sources including the RCSB Protein Data Bank (PDB), PDB in Europe (PDBe), and NCBI Structure database.",
+            "Information": [
+              {
+                "ReferenceNumber": 20,
+                "Value": {
+                  "ExternalTableName": "pdb"
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "URL": "https://www.ncbi.nlm.nih.gov/structure?cmd=Link&LinkName=pccompound_structure&from_uid=160666",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View 3 proteins in NCBI Structure"
+                    }
+                  ]
+                }
+              }
+            ],
+            "Section": [
+              {
+                "TOCHeading": "Ligands from Protein Bound 3D Structures",
+                "Description": "Ligands found in experimental protein-ligand co-complexes (e.g., those archived in the Protein Data Bank in Europe (PDBe)).",
+                "URL": "https://www.ebi.ac.uk/pdbe/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "MoveToTop": true,
+                  "ShowAtMost": 1
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "PDBe Ligand Code",
+                    "Description": "The ligand code for this compound used in the Protein Data Bank in Europe (PDBe).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "URL": "http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/OK8",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OK8"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "PDBe Structure Code",
+                    "Description": "The structure code for the Protein Data Bank in Europe (PDBe) protein-ligand co-complex from which the ligand's 3-D coordinates were taken.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "URL": "http://www.ebi.ac.uk/pdbe/entry/pdb/6YB8",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "6YB8"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "PDBe Conformer",
+                    "Description": "The experimental protein-bound 3D structure of this compound in a protein-ligand co-complex archived in the Protein Data Bank in Europe (PDBe).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "URL": "http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/OK8",
+                        "Value": {
+                          "ExternalDataURL": [
+                            "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/9158139_1"
+                          ],
+                          "MimeType": "pubchem/compound-gzip-asnb"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Target Interactions",
+            "Description": "Interactions between targets and this compound",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Value": {
+                  "ExternalTableName": "consolidatedcompoundtarget"
+                }
+              },
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "ExternalTableName": "consolidatedcompoundtarget"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Pathways",
+            "Description": "Biological pathways in which this compound is involved.",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "ExternalTableName": "collection=pathway&core=1"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Taxonomy",
+        "Description": "Organism-specific information about where this compound originated or is associated",
+        "Information": [
+          {
+            "ReferenceNumber": 6,
+            "Value": {
+              "ExternalTableName": "consolidatedcompoundtaxonomy"
+            }
+          },
+          {
+            "ReferenceNumber": 7,
+            "ExtendedReference": [
+              {
+                "Citation": "WormJam Metabolites Local CSV for MetFrag | DOI:10.5281/zenodo.3403364",
+                "DOI": "10.5281/zenodo.3403364",
+                "Matched": {
+                  "PCLID": 416301274,
+                  "Citation": "WormJam Metabolites Local CSV for MetFrag | DOI:10.5281/zenodo.3403364",
+                  "DOI": "10.5281/zenodo.3403364"
+                }
+              },
+              {
+                "Citation": "WormJam: A consensus C. elegans Metabolic Reconstruction and Metabolomics Community and Workshop Series, Worm, 6:2, e1373939, DOI:10.1080/21624054.2017.1373939",
+                "DOI": "10.1080/21624054.2017.1373939",
+                "PublicationTitle": "WormJam: A consensus C. elegans Metabolic Reconstruction and Metabolomics Community and Workshop Series",
+                "PublicationAuthor": [
+                  "Janna Hastings, Abraham Mains, Marta Artal-Sanz, Sven Bergmann, Bart P. Braeckman, Jake Bundy"
+                ],
+                "PublicationName": "Worm",
+                "PublicationVolume": "6",
+                "PublicationIssue": "2",
+                "PublicationPage": "e1373939",
+                "PublicationDate": {
+                  "Year": 2017
+                },
+                "Matched": {
+                  "PCLID": 649890881,
+                  "Citation": "Hastings J, Mains A, Artal-Sanz M, Bergmann S, Braeckman BP, Bundy J, Cabreiro F, Dobson P, Ebert P, Hattwell J, Hefzi H, Houtkooper RH, Jelier R, Joshi C, Kothamachu VB, Lewis N, Lourenço AB, Nie Y, Norvaisas P, Pearce J, Riccio C, Rodriguez N, Santermans T, Scarcia P, Schirra HJ, Sheng M, Smith R, Suriyalaksh M, Towbin B, Tuli MA, van Weeghel M, Weinkove D, Zečić A, Zimmermann J, le Novère N, Kaleta C, Witting M, Casanueva O. WormJam: A consensus<i>C. elegans</i>Metabolic Reconstruction and Metabolomics Community and Workshop Series. Worm. 2017 Apr 03;6(2):e1373939. doi: 10.1080/21624054.2017.1373939.",
+                  "DOI": "10.1080/21624054.2017.1373939"
+                }
+              }
+            ],
+            "Value": {
+              "ExternalTableName": "consolidatedcompoundtaxonomy"
+            }
+          },
+          {
+            "ReferenceNumber": 8,
+            "ExtendedReference": [
+              {
+                "Citation": "Zebrafish Pathway Metabolite MetFrag Local CSV (Beta) | DOI:10.5281/zenodo.3457553",
+                "DOI": "10.5281/zenodo.3457553",
+                "Matched": {
+                  "PCLID": 416426104,
+                  "Citation": "Zebrafish Pathway Metabolite MetFrag Local CSV (Beta) | DOI:10.5281/zenodo.3457553",
+                  "DOI": "10.5281/zenodo.3457553"
+                }
+              }
+            ],
+            "Value": {
+              "ExternalTableName": "consolidatedcompoundtaxonomy"
+            }
+          },
+          {
+            "ReferenceNumber": 15,
+            "ExtendedReference": [
+              {
+                "Citation": "The LOTUS Initiative for Open Natural Products Research: frozen dataset union wikidata (with metadata) | DOI:10.5281/zenodo.5794106",
+                "DOI": "10.5281/zenodo.5794106",
+                "Matched": {
+                  "PCLID": 423383293,
+                  "Citation": "The LOTUS Initiative for Open Natural Products Research: frozen dataset union wikidata (with metadata) | DOI:10.5281/zenodo.5794106",
+                  "DOI": "10.5281/zenodo.5794106"
+                }
+              }
+            ],
+            "Value": {
+              "ExternalTableName": "consolidatedcompoundtaxonomy"
+            }
+          },
+          {
+            "ReferenceNumber": 18,
+            "Value": {
+              "ExternalTableName": "consolidatedcompoundtaxonomy"
+            }
+          },
+          {
+            "ReferenceNumber": 24,
+            "Value": {
+              "ExternalTableName": "consolidatedcompoundtaxonomy"
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "MeSH Tree",
+            "Description": "The Medical Subject Headings (MeSH) tree for this entity.  MeSH is a controlled and hierarchically-organized vocabulary produced by the National Library of Medicine.",
+            "URL": "https://www.nlm.nih.gov/mesh",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChEBI Ontology",
+            "Description": "ChEBI Ontology tree.  ChEBI is an acronym for Chemical Entities of Biological Interest, which is a freely available dictionary of molecular entities focused on 'small' chemical compounds. ChEBI incorporates an ontological classification, whereby the relationships between molecular entities or classes of entities and their parents and/or children are specified.",
+            "URL": "https://www.ebi.ac.uk/chebi/",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=2",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChemIDplus",
+            "Description": "Classification of this compound, provided by ChemIDplus, which is a free web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases.  ChemIDplus groups chemicals based on the source locators (i.e., what information resources have data for a given chemical).",
+            "URL": "https://chem.nlm.nih.gov/chemidplus/",
+            "Information": [
+              {
+                "ReferenceNumber": 30,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                "Value": {
+                  "Number": [
+                    84
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NORMAN Suspect List Exchange Classification",
+            "Description": "A classification from the NORMAN Suspect List Exchange, which serve as a central access point to find lists of chemicals with environmental concerns.",
+            "URL": "https://www.norman-network.com/nds/SLE/",
+            "Information": [
+              {
+                "ReferenceNumber": 31,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=101",
+                "Value": {
+                  "Number": [
+                    101
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA DSSTox Classification",
+            "Description": "Classification from the U.S. Environmental Protection Agency's Distributed Structure-Searchable Toxicity (DSSTox) database. DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology. A distinguishing feature of this effort is the accurate mapping of bioassay and physicochemical property data associated with chemical substances to their corresponding chemical structures. ",
+            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+            "Information": [
+              {
+                "ReferenceNumber": 32,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=105",
+                "Value": {
+                  "Number": [
+                    105
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "LOTUS Tree",
+            "Description": "Biological and chemical tree provided by the naturaL prOducTs occUrrence databaSe (LOTUS)",
+            "URL": "https://lotus.naturalproducts.net/",
+            "Information": [
+              {
+                "ReferenceNumber": 34,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=115",
+                "Value": {
+                  "Number": [
+                    115
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "MolGenie Organic Chemistry Ontology",
+            "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign compounds to structural classes, currently mapped to >1.7 million per- and polyfluoroalkyl substances (PFAS) extracted from the datasets explained in Barnabas et al (2022) DOI: 10.1039/D2DD00019A",
+            "URL": "https://github.com/MolGenie/ontology/",
+            "Information": [
+              {
+                "ReferenceNumber": 35,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=134",
+                "Value": {
+                  "Number": [
+                    134
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "CAS Common Chemistry",
+        "SourceID": "3031-95-6",
+        "Name": "SAICAR",
+        "Description": "CAS Common Chemistry is an open community resource for accessing chemical information. Nearly 500,000 chemical substances from CAS REGISTRY cover areas of community interest, including common and frequently regulated chemicals, and those relevant to high school and undergraduate chemistry classes. This chemical information, curated by our expert scientists, is provided in alignment with our mission as a division of the American Chemical Society.",
+        "URL": "https://commonchemistry.cas.org/detail?cas_rn=3031-95-6",
+        "LicenseNote": "The data from CAS Common Chemistry is provided under a CC-BY-NC 4.0 license, unless otherwise stated.",
+        "LicenseURL": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "ANID": 12679804
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "ChemIDplus",
+        "SourceID": "0003031956",
+        "Name": "SAICAR",
+        "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0003031956",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 797322
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "DTXSID90184404",
+        "Name": "SAICAR",
+        "Description": "DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology.",
+        "URL": "https://comptox.epa.gov/dashboard/DTXSID90184404",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 1239308
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "FDA Global Substance Registration System (GSRS)",
+        "SourceID": "K1PVR64RIF",
+        "Name": "SAICAR",
+        "Description": "The FDA Global Substance Registration System (GSRS) enables the efficient and accurate exchange of information on what substances are in regulated products. Instead of relying on names, which vary across regulatory domains, countries, and regions, the GSRS knowledge base makes it possible for substances to be defined by standardized, scientific descriptions.",
+        "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/K1PVR64RIF",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 5804988
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "Human Metabolome Database (HMDB)",
+        "SourceID": "HMDB0000797",
+        "Name": "SAICAR",
+        "Description": "The Human Metabolome Database (HMDB) is a freely available electronic database containing detailed information about small molecule metabolites found in the human body.",
+        "URL": "http://www.hmdb.ca/metabolites/HMDB0000797",
+        "LicenseNote": "\u0009HMDB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (HMDB) and the original publication (see the HMDB citing page). We ask that users who download significant portions of the database cite the HMDB paper in any resulting publications.",
+        "LicenseURL": "http://www.hmdb.ca/citing",
+        "ANID": 2142802
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "ChEBI",
+        "SourceID": "CHEBI:OBO:160666",
+        "Name": "SAICAR",
+        "Description": "Chemical Entities of Biological Interest (ChEBI) is a database and ontology of molecular entities focused on 'small' chemical compounds, that is part of the Open Biomedical Ontologies effort. The term \"molecular entity\" refers to any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer, etc., identifiable as a separately distinguishable entity.",
+        "URL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:18319",
+        "ANID": 2461003
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "E. coli Metabolome Database (ECMDB)",
+        "SourceID": "ECMDB00797",
+        "Description": "The ECMDB is an expertly curated database containing extensive metabolomic data and metabolic pathway diagrams about Escherichia coli (strain K12, MG1655).",
+        "URL": "https://ecmdb.ca/compounds/M2MDB000186",
+        "LicenseNote": "ECMDB is offered to the public as a freely available resource.",
+        "LicenseURL": "https://ecmdb.ca/citations",
+        "ANID": 15352220
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "LOTUS - the natural products occurrence database",
+        "SourceID": "Q3502778",
+        "Name": "Saicar",
+        "Description": "LOTUS is one of the biggest and best annotated resources for natural products occurrences available free of charge and without any restriction.",
+        "URL": "https://www.wikidata.org/wiki/Q3502778",
+        "LicenseNote": "The code for LOTUS is released under the GNU General Public License v3.0.",
+        "LicenseURL": "https://lotus.nprod.net/",
+        "ANID": 19826655
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D4281",
+        "Name": "SAICAR",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D4281",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "http://www.t3db.ca/downloads",
+        "ANID": 20443569
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "Yeast Metabolome Database (YMDB)",
+        "SourceID": "YMDB00350",
+        "Name": "SAICAR",
+        "Description": "The Yeast Metabolome Database (YMDB) is a manually curated database of small molecule metabolites found in or produced by Saccharomyces cerevisiae (also known as Baker's yeast and Brewer's yeast).",
+        "URL": "https://www.ymdb.ca/compounds/YMDB00350",
+        "LicenseNote": "YMDB is offered to the public as a freely available resource.",
+        "LicenseURL": "http://www.ymdb.ca/downloads",
+        "ANID": 19796974
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "Comparative Toxicogenomics Database (CTD)",
+        "SourceID": "C020635::Compound",
+        "Name": "SAICAR",
+        "Description": "CTD is a robust, publicly available database that aims to advance understanding about how environmental exposures affect human health.",
+        "URL": "https://ctdbase.org/detail.go?type=chem&acc=C020635",
+        "LicenseNote": "It is to be used only for research and educational purposes. Any reproduction or use for commercial purpose is prohibited without the prior express written permission of NC State University.",
+        "LicenseURL": "http://ctdbase.org/about/legal.jsp",
+        "ANID": 9014563
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "E. coli Metabolome Database (ECMDB)",
+        "SourceID": "SDQ::ECMDB00797",
+        "Description": "The ECMDB is an expertly curated database containing extensive metabolomic data and metabolic pathway diagrams about Escherichia coli (strain K12, MG1655).",
+        "URL": "https://ecmdb.ca/compounds/M2MDB000186",
+        "LicenseNote": "ECMDB is offered to the public as a freely available resource.",
+        "LicenseURL": "https://ecmdb.ca/citations",
+        "ANID": 37480991
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "ECI Group, LCSB, University of Luxembourg",
+        "SourceID": "WJ000012",
+        "Name": "SAICAR",
+        "Description": "The Environmental Cheminformatics group focuses on the comprehensive identification of known and unknown chemicals in our environment to investigate their effects on health and disease. They develop a combination of computational and experimental methods to improve structure elucidation, including cheminformatics approaches, primarily focused on interrogating non-target high resolution mass spectrometry data, following FAIR and Open Science principles.",
+        "LicenseNote": "Data: CC-BY 4.0; Code: Artistic-2.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/",
+        "ANID": 37482093
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "ECI Group, LCSB, University of Luxembourg",
+        "SourceID": "ZF000160",
+        "Name": "1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole",
+        "Description": "The Environmental Cheminformatics group focuses on the comprehensive identification of known and unknown chemicals in our environment to investigate their effects on health and disease. They develop a combination of computational and experimental methods to improve structure elucidation, including cheminformatics approaches, primarily focused on interrogating non-target high resolution mass spectrometry data, following FAIR and Open Science principles.",
+        "LicenseNote": "Data: CC-BY 4.0; Code: Artistic-2.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/",
+        "ANID": 37483412
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "Natural Product Activity and Species Source (NPASS)",
+        "SourceID": "NPC323911",
+        "Name": "NPC323911",
+        "Description": "The Natural Product Activity and Species Source Database (NPASS) is developed to provide a freely accessible database integrating detailed information of species sources and biological activities of natural products.",
+        "URL": "https://bidd.group/NPASS/compound.php?compoundID=NPC323911",
+        "ANID": 20382034
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "FooDB",
+        "SourceID": "Compound::FDB022251",
+        "Name": "SAICAR",
+        "Description": "FooDB is the world's largest and most comprehensive resource on food constituents, chemistry and biology. It provides information on both macronutrients and micronutrients, including many of the constituents that give foods their flavor, color, taste, texture and aroma.",
+        "URL": "https://foodb.ca/compounds/FDB022251",
+        "LicenseNote": "FooDB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (FooDB) and the original publication.",
+        "LicenseURL": "https://foodb.ca/about",
+        "ANID": 38495049
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "Japan Chemical Substance Dictionary (Nikkaji)",
+        "SourceID": "J7.666J",
+        "Description": "The Japan Chemical Substance Dictionary (Nikkaji) has a search system that helps obtain knowledge from dissimilar fields and discover concepts that cross boundaries of specializations.",
+        "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J7.666J",
+        "ANID": 22128525
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "KEGG",
+        "SourceID": "C04823",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "https://www.kegg.jp/entry/C04823",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html",
+        "ANID": 31099634
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "MarkerDB",
+        "SourceID": "Compound::431",
+        "Name": "SAICAR",
+        "Description": "MarkerDB is a freely available electronic database that attempts to consolidate information on all known clinical and a selected set of pre-clinical biomarkers into a single resource.",
+        "URL": "https://markerdb.ca/chemicals/431",
+        "LicenseNote": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
+        "LicenseURL": "https://markerdb.ca/",
+        "ANID": 19432104
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "Metabolomics Workbench",
+        "SourceID": "37432",
+        "Name": "SAICAR",
+        "Description": "The Metabolomics Workbench serves as a national and international repository for metabolomics data and metadata and provides analysis tools and access to metabolite standards, protocols, tutorials, training, and more.",
+        "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=37432",
+        "ANID": 20202218
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "Protein Data Bank in Europe (PDBe)",
+        "SourceID": "OK8",
+        "Description": "The Protein Data Bank in Europe (PDBe) manages the PDB with its wwPDB partners and provides a high-quality, up-to-date and integrated resource of macromolecular structures to support basic and applied research and education across the sciences.",
+        "URL": "http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/OK8",
+        "ANID": 9158139
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "RCSB Protein Data Bank (RCSB PDB)",
+        "SourceID": "160666",
+        "Description": "The RCSB Protein Data Bank (PDB) contains crystallographic data defining 3D shapes of proteins, nucleic acids, and complex assemblies that helps students and researchers understand all aspects of biomedicine and agriculture, from protein synthesis to health and disease.",
+        "URL": "https://www.rcsb.org/",
+        "LicenseNote": "Data files contained in the PDB archive (ftp://ftp.wwpdb.org) are free of all copyright restrictions and made fully and freely available for both non-commercial and commercial use. Users of the data should attribute the original authors of that structural data.",
+        "LicenseURL": "https://www.rcsb.org/pages/policies",
+        "ANID": 13142630
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q3502778",
+        "Name": "saicar",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q3502778",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44340524
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "Wikipedia",
+        "SourceID": "c_6534",
+        "Name": "Phosphoribosylaminoimidazolesuccinocarboxamide",
+        "Description": "Link to the chemical information in Wikipedia.",
+        "URL": "https://en.wikipedia.org/wiki/Phosphoribosylaminoimidazolesuccinocarboxamide",
+        "ANID": 24328070
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0074525",
+        "Name": "SAICAR",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0074525.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 27,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "DescTree",
+        "Name": "MeSH Tree",
+        "Description": "MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 28,
+        "SourceName": "ChEBI",
+        "SourceID": "OBO",
+        "Name": "ChEBI Ontology",
+        "Description": "The ChEBI Ontology is a structured classification of the entities contained within ChEBI.",
+        "URL": "http://www.ebi.ac.uk/chebi/userManualForward.do#ChEBI%20Ontology"
+      },
+      {
+        "ReferenceNumber": 30,
+        "SourceName": "ChemIDplus",
+        "SourceID": "ChemIDplus_tree",
+        "Name": "ChemIDplus Chemical Information Classification",
+        "Description": "ChemIDplus is a TOXNET (TOXicology data NETwork) databases that contain chemicals and drugs related information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/chemidplus",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true
+      },
+      {
+        "ReferenceNumber": 31,
+        "SourceName": "NORMAN Suspect List Exchange",
+        "SourceID": "norman_sle_tree",
+        "Name": "NORMAN Suspect List Exchange Classification",
+        "Description": "The NORMAN Suspect List Exchange (NORMAN-SLE) is a central access point for NORMAN members (and others) to find suspect lists relevant for their environmental monitoring questions.",
+        "URL": "https://www.norman-network.com/nds/SLE/",
+        "LicenseNote": "Data: CC-BY 4.0; Code (hosted by ECI, LCSB): Artistic-2.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 32,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "dsstoxlist_tree",
+        "Name": "CompTox Chemicals Dashboard Chemical Lists",
+        "Description": "This classification lists the chemical categories from the EPA CompTox Chemicals Dashboard.",
+        "URL": "https://comptox.epa.gov/dashboard/chemical-lists/",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 34,
+        "SourceName": "LOTUS - the natural products occurrence database",
+        "SourceID": "biochem",
+        "Name": "LOTUS Tree",
+        "Description": "Biological and chemical tree provided by the LOTUS (naturaL products occurrence database)",
+        "URL": "https://lotus.naturalproducts.net/",
+        "LicenseNote": "The code for LOTUS is released under the GNU General Public License v3.0.",
+        "LicenseURL": "https://lotus.nprod.net/"
+      },
+      {
+        "ReferenceNumber": 35,
+        "SourceName": "MolGenie",
+        "SourceID": "mol_classes",
+        "Name": "MolGenie Organic Chemistry Ontology",
+        "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign chemical entities to structural classes, split into three main subsections: calculated properties, compounds and substructural concepts. The ontology contains chemistry structural classes with a focus on elements and small organic compounds, but not inorganic, polymer, biopolymer, metal complexes, metal organic frameworks (MOFs) and other chemistry entities. The ontology has been mapped to several collections of chemicals, including (a) Chemicals of Biological Interest (ChEBI), (b) the ChEMBL database of bioactive molecules, (c) the LOTUS natural product collection, (d) per- and polyfluoroalkyl substances (PFAS) extracted from Barnabas et al (2022) DOI: 10.1039/D2DD00019A (e) PubChemLite and (f) the ZeroPM Global Chemical Inventory.",
+        "URL": "https://github.com/MolGenie/ontology/",
+        "LicenseNote": "CC-BY 4.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 36,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "PubMed from MeSH",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 37,
+        "SourceName": "PATENTSCOPE (WIPO)",
+        "Name": "SID 391221366",
+        "Description": "The PATENTSCOPE database from WIPO includes patent and chemical structure search (with a free account) that gives access to millions of patent documents. The World Intellectual Property Organisation (WIPO) is a specialized United Nations (UN) agency headquartered in Geneva (Switzerland). Our mission is to lead the development of a balanced and effective international Intellectual Property (IP) system that enables innovation and creativity for the benefit of all. We help governments, businesses and society realize the benefits of Intellectual Property and are notably a world reference source for IP information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/391221366"
+      },
+      {
+        "ReferenceNumber": 38,
+        "SourceName": "NCBI",
+        "SourceID": "LinkOut",
+        "Description": "LinkOut is a service that allows one to link directly from NCBI databases to a wide range of information and services beyond NCBI systems.",
+        "URL": "https://www.ncbi.nlm.nih.gov/projects/linkout"
+      }
+    ]
+  }
+}

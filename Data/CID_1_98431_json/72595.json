@@ -1,0 +1,406 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 72595,
+    "RecordTitle": "Triphenylboroxin",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Status",
+            "Description": "The reason why three-dimensional (3D) conformers for this compound cannot be generated.  PubChem generates 3D conformers for each compound that satisfies the following conditions: [1] not too large (with <= 50 non-hydrogen atoms), [2] not too flexible (with <= 15 rotatable bonds), [3] consisting of only supported elements (H, C, N, O, F, Si, P, S, Cl, Br, and I), [4] having only a single covalent unit (i.e., not a salt or a mixture), [5] contains only atom types recognized by the MMFF94s force field used for conformer generation, and [6] has fewer than six undefined atom or bond stereo centers.  Compounds that do not satisfy any of these conditions are not considered for 3-D conformer generation.  In some rare cases, a compound satisfies all conditions but the conformer generation for the compound fails for some reason. More detailed information on 3D conformer generation can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Conformer generation is disallowed since MMFF94s unsupported element"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Crystal Structures",
+            "Description": "This section provides links to crystallographic information from various sources.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "MoveToTop": true,
+              "ShowAtMost": 1
+            },
+            "Section": [
+              {
+                "TOCHeading": "CCDC Number",
+                "Description": "A 6- or 7-digit-long numeric identifier assigned to the crystal structure in the Cambridge Crystallographic Data Centre (CCDC).",
+                "URL": "https://www.ccdc.cam.ac.uk",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "CCDC Number",
+                    "URL": "http://doi.org/10.5517/cc859vk",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "243438"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Name": "CCDC Number",
+                    "URL": "http://doi.org/10.5517/cczqh5b",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "915342"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "COD Number",
+                "Description": "An identifier assigned to the crystal structure in the Crystallography Open Database (COD).",
+                "URL": "https://www.crystallography.net/cod",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "COD Number",
+                    "URL": "https://www.crystallography.net/cod/1547643.html",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1547643"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Associated Article",
+                "Description": "Publication associated with the crystal structure of the compound. Typically it is the paper in which the crystal structure was originally reported.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Associated Article",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chai, Zhaofei; Wang, Can; Wang, Jinfeng; Liu, Fan; Xie, Yujun; Zhang, Yongzheng; Li, Jian-Rong Jeff; Li, Qianqian; Li, Zhen. Abnormal Room Temperature Phosphorescence of Purely Organic Boron-Containing Compounds: the Relationship between the Emissive Behavior and the Molecular Packing, and the Potential Related Applications. Chem. Sci. 2017;:-. DOI: 10.1039/C7SC04098A",
+                          "Markup": [
+                            {
+                              "Start": 352,
+                              "Length": 33,
+                              "URL": "http://doi.org/10.1039/C7SC04098A"
+                            },
+                            {
+                              "Start": 185,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Boron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Boron"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Crystal Structure Data",
+                "Description": "Information about this crystal structure record.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Crystal Structure Depiction",
+                    "URL": "https://www.crystallography.net/cod/1547643.html",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/30592649_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Hermann-Mauguin space group symbol",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "P 1 21/c 1"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Hall space group symbol",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "-P 2ybc"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Space group number",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "14"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "a",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "10.6824"
+                        }
+                      ],
+                      "Unit": "Å"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "b",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "13.2062"
+                        }
+                      ],
+                      "Unit": "Å"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "c",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "11.5423"
+                        }
+                      ],
+                      "Unit": "Å"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "α",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "90"
+                        }
+                      ],
+                      "Unit": "°"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "β",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "99.843"
+                        }
+                      ],
+                      "Unit": "°"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "γ",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "90"
+                        }
+                      ],
+                      "Unit": "°"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Z'",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 2,
+                    "Name": "Residual factor",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "0.0769"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Crystal Structure Data",
+                    "Reference": [
+                      "doi:10.5517/cc859vk"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "doi:10.5517/cc859vk",
+                        "Matched": {
+                          "PCLID": 423312864,
+                          "Citation": "doi:10.5517/cc859vk",
+                          "DOI": "10.5517/cc859vk"
+                        }
+                      }
+                    ],
+                    "URL": "http://doi.org/10.5517/cc859vk",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DOI:10.5517/cc859vk"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Crystal Structure Depiction",
+                    "URL": "http://doi.org/10.5517/cc859vk",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/3330163_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Name": "Crystal Structure Data",
+                    "Reference": [
+                      "doi:10.5517/cczqh5b"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "doi:10.5517/cczqh5b",
+                        "Matched": {
+                          "PCLID": 422845070,
+                          "Citation": "doi:10.5517/cczqh5b",
+                          "DOI": "10.5517/cczqh5b"
+                        }
+                      }
+                    ],
+                    "URL": "http://doi.org/10.5517/cczqh5b",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DOI:10.5517/cczqh5b"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Name": "Crystal Structure Depiction",
+                    "URL": "http://doi.org/10.5517/cczqh5b",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/3400899_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Primary Hazards",
+        "Description": "Link to the Safety and Hazard section of this page and link to the Laboratory Chemical Safety Summary (LCSS) datasheet for this compound.",
+        "DisplayControls": {
+          "HideThisSection": true,
+          "MoveToTop": true
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 21,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+             

@@ -1,0 +1,3188 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 17466,
+    "RecordTitle": "C.I. Acid Red 18, trisodium salt",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "3D Conformer of Parent",
+                "Description": "7-Hydroxy-8-[(4-sulphonaphthyl)azo]naphthalene-1,3-disulphonic acid",
+                "Value": {
+                  "Number": [
+                    17467
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "See Also",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "See also: Ponceau 4R, cochineal red A (annotation moved to); Ponceau 4R (annotation moved to).",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 8,
+                          "URL": "#section=Other-Relationships"
+                        },
+                        {
+                          "Start": 10,
+                          "Length": 27,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ponceau%204R%2C%20cochineal%20red%20A"
+                        },
+                        {
+                          "Start": 61,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ponceau%204R"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "trisodium;7-hydroxy-8-[(4-sulfonatonaphthalen-1-yl)diazenyl]naphthalene-1,3-disulfonate"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C20H14N2O10S3.3Na/c23-16-7-5-11-9-12(33(24,25)26)10-18(35(30,31)32)19(11)20(16)22-21-15-6-8-17(34(27,28)29)14-4-2-1-3-13(14)15;;;/h1-10,23H,(H,24,25,26)(H,27,28,29)(H,30,31,32);;;/q;3*+1/p-3"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SWGJCIMEBVHMTA-UHFFFAOYSA-K"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])N=NC3=C(C=CC4=CC(=CC(=C43)S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Na+].[Na+].[Na+]"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C20H11N2Na3O10S3"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2611-82-7"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2611-82-7"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2611-82-7"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Deprecated CAS",
+                "Description": "The Chemical Abstract Service (CAS) registry numbers that are no longer used.  These numbers are old, deprecated, and/or deleted, but users may still encounter them in some (old) references.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "11138-24-2, 12000-58-7, 161628-34-8, 247151-36-6, 39470-82-1, 39471-00-6, 51811-48-4",
+                          "Markup": [
+                            {
+                              "Start": 74,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/51811-48-4",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-17466"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "11138-24-2, 161628-34-8, 247151-36-6, 39470-82-1, 39471-00-6, 51811-48-4",
+                          "Markup": [
+                            {
+                              "Start": 62,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/51811-48-4",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-17466"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/Z525CBK9PG",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Z525CBK9PG"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID9021213",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID9021213"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "URL": "https://www.wikidata.org/wiki/Q384709",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q384709"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Ponceau 4R"
+                        },
+                        {
+                          "String": "2611-82-7"
+                        },
+                        {
+                          "String": "New coccine"
+                        },
+                        {
+                          "String": "Acid red 18"
+                        },
+                        {
+                          "String": "C.I. Acid Red 18"
+                        },
+                        {
+                          "String": "Food Red No. 102"
+                        },
+                        {
+                          "String": "Victoria Scarlet 3R"
+                        },
+                        {
+                          "String": "SX Purple"
+                        },
+                        {
+                          "String": "Cochineal Red A"
+                        },
+                        {
+                          "String": "Coccine"
+                        },
+                        {
+                          "String": "Food Red 7"
+                        },
+                        {
+                          "String": "Acid Brilliant Scarlet 3R"
+                        },
+                        {
+                          "String": "Brilliant Scarlet 4R"
+                        },
+                        {
+                          "String": "Food Red 102"
+                        },
+                        {
+                          "String": "C.I. Acid Red 18, Trisodium Salt"
+                        },
+                        {
+                          "String": "C.I. Acid Red 28"
+                        },
+                        {
+                          "String": "Neucoccin"
+                        },
+                        {
+                          "String": "Brilliant Ponceau 3R"
+                        },
+                        {
+                          "String": "Brilliant Scarlet 3R"
+                        },
+                        {
+                          "String": "Naphthalene Ink Scarlet 4R"
+                        },
+                        {
+                          "String": "Strawberry Red"
+                        },
+                        {
+                          "String": "Coccin Red"
+                        },
+                        {
+                          "String": "New Coccin"
+                        },
+                        {
+                          "String": "Purple Red"
+                        },
+                        {
+                          "String": "Brilliant Scarlet"
+                        },
+                        {
+                          "String": "C.I. 16255"
+                        },
+                        {
+                          "String": "Atul Scarlet F"
+                        },
+                        {
+                          "String": "Acid Ponceau 4R"
+                        },
+                        {
+                          "String": "Acid Scarlet 3R"
+                        },
+                        {
+                          "String": "Acid Scarlet 4R"
+                        },
+                        {
+                          "String": "Java Scarlet 3R"
+                        },
+                        {
+                          "String": "Neklacid Red 3R"
+                        },
+                        {
+                          "String": "Neklacid Red 4R"
+                        },
+                        {
+                          "String": "Scarlet 4R"
+                        },
+                        {
+                          "String": "Ponceau 4RE"
+                        },
+                        {
+                          "String": "Ponceau 4RF"
+                        },
+                        {
+                          "String": "Ponceau 4RT"
+                        },
+                        {
+                          "String": "Scarlet 4RA"
+                        },
+                        {
+                          "String": "Cochineal Red 4R"
+                        },
+                        {
+                          "String": "Kiton Scarlet 4R"
+                        },
+                        {
+                          "String": "Acid Scarlet 3RZ"
+                        },
+                        {
+                          "String": "Cilefa Ponceau 4R"
+                        },
+                        {
+                          "String": "Fenazo Scarlet 3R"
+                        },
+                        {
+                          "String": "HD Ponceau 4R"
+                        },
+                        {
+                          "String": "Ponceau 4RE.FQ"
+                        },
+                        {
+                          "String": "Colacid Ponceau 4R"
+                        },
+                        {
+                          "String": "Hexacol Ponceau 4R"
+                        },
+                        {
+                          "String": "Pontacyl Scarlet RR"
+                        },
+                        {
+                          "String": "Acilan Scarlet V3R"
+                        },
+                        {
+                          "String": "Victoria Scarlet Red"
+                        },
+                        {
+                          "String": "Brilliant Ponceau 4R"
+                        },
+                        {
+                          "String": "Brilliant Ponceau 5R"
+                        },
+                        {
+                          "String": "Ponceau 4RC"
+                        },
+                        {
+                          "String": "Certicol Ponceau 4RS"
+                        },
+                        {
+                          "String": "Curol Bright Red 4R"
+                        },
+                        {
+                          "String": "Atul Acid Scarlet 3R"
+                        },
+                        {
+                          "String": "Brilliant Ponceau 3RF"
+                        },
+                        {
+                          "String": "Brilliant Ponceau 4RC"
+                        },
+                        {
+                          "String": "HD Ponceau 4R Supra"
+                        },
+                        {
+                          "String": "Naphthalene Scarlet 4R"
+                        },
+                        {
+                          "String": "C.I. Food Red 7"
+                        },
+                        {
+                          "String": "Strawberry Red A Geigy"
+                        },
+                        {
+                          "String": "Naphthalene Scarlet 4RS"
+                        },
+                        {
+                          "String": "L-Red 4"
+                        },
+                        {
+                          "String": "Edicol Supra Ponceau 4R"
+                        },
+                        {
+                          "String": "Eurocert Cochineal Red A"
+                        },
+                        {
+                          "String": "Hidacid Fast Scarlet 3R"
+                        },
+                        {
+                          "String": "CI 16255"
+                        },
+                        {
+                          "String": "Acidal Bright Ponceau 3R"
+                        },
+                        {
+                          "String": "Kochineal Red A for Food"
+                        },
+                        {
+                          "String": "New Coccine Extra Pure A"
+                        },
+                        {
+                          "String": "Edicol Supra Ponceaux 4RS"
+                        },
+                        {
+                          "String": "Sugai Brilliant Scarlet 3R"
+                        },
+                        {
+                          "String": "Edicol Supra Ponceaux 4 RS"
+                        },
+                        {
+                          "String": "Rakuto Brilliant Scarlet 3R"
+                        },
+                        {
+                          "String": "Aizen Brilliant Scarlet 3RH"
+                        },
+                        {
+                          "String": "San-ei Brilliant Scarlet 3R"
+                        },
+                        {
+                          "String": "Bucacid Brilliant Scarlet 3R"
+                        },
+                        {
+                          "String": "Takaoka Brilliant Scarlet 3R"
+                        },
+                        {
+                          "String": "1578 Red"
+                        },
+                        {
+                          "String": "MFCD00004084"
+                        },
+                        {
+                          "String": "Daishiki Brilliant Scarlet 3R"
+                        },
+                        {
+                          "String": "51811-48-4"
+                        },
+                        {
+                          "String": "Acid Red 18;New Coccine"
+                        },
+                        {
+                          "String": "Calcocid Brilliant Scarlet 3RN"
+                        },
+                        {
+                          "String": "Cochineal Red A Specially Pure"
+                        },
+                        {
+                          "String": "Hispacid Brilliant Scarlet 3RF"
+                        },
+                        {
+                          "String": "Z525CBK9PG"
+                        },
+                        {
+                          "String": "Kayaku Acid Brilliant Scarlet 3R"
+                        },
+                        {
+                          "String": "Kayaku Food Colour Red No. 102"
+                        },
+                        {
+                          "String": "New Coccine Extra Conc. A Export"
+                        },
+                        {
+                          "String": "Symulon Acid Brilliant Scarlet 3R"
+                        },
+                        {
+                          "String": "1,3-Naphthalenedisulfonic acid, 7-hydroxy-8-((4-sulfo-1-naphthalenyl)azo)-, trisodium salt"
+                        },
+                        {
+                          "String": "1,3-Naphthalenedisulfonic acid,7-hydroxy-8-[(4-sulfo-1-naphthalenyl)azo]-, trisodium salt"
+                        },
+                        {
+                          "String": "E 124"
+                        },
+                        {
+                          "String": "DTXSID9021213"
+                        },
+                        {
+                          "String": "Brilliant Ponceau 4RC Specially Pure"
+                        },
+                        {
+                          "String": "Brilliant Scarlet 3R (Biological stain)"
+                        },
+                        {
+                          "String": "Zolfosol"
+                        },
+                        {
+                          "String": "Ponceau 4RC(E124)"
+                        },
+                        {
+                          "String": "Crimson SX"
+                        },
+                        {
+                          "String": "Purple SX"
+                        },
+                        {
+                          "String": "1,3-Naphthalenedisulfonic acid, 7-hydroxy-8-[(4-sulfo-1-naphthalenyl)azo]-, trisodium salt"
+                        },
+                        {
+                          "String": "Sodium 7-hydroxy-8-((4-sulfonatonaphthalen-1-yl)diazenyl)naphthalene-1,3-disulfonate"
+                        },
+                        {
+                          "String": "Neucoccin [German]"
+                        },
+                        {
+                          "String": "L-Rot 4 [German]"
+                        },
+                        {
+                          "String": "Food Red Number 102"
+                        },
+                        {
+                          "String": "Cochenillerot A"
+                        },
+                        {
+                          "String": "Coccine nouvelle"
+                        },
+                        {
+                          "String": "Red Dye No. 102"
+                        },
+                        {
+                          "String": "Cochenillerot A [German]"
+                        },
+                        {
+                          "String": "Food Red No. 102 (>80%)"
+                        },
+                        {
+                          "String": "Coccine nouvelle [French]"
+                        },
+                        {
+                          "String": "Edicol Supra Ponceau 4RS"
+                        },
+                        {
+                          "String": "GW 306684A"
+                        },
+                        {
+                          "String": "Trisodium 7-hydroxy-8-(4-sulfonatonaphthalen-1-yl)diazenylnaphthalene-1,3-disulfonate"
+                        },
+                        {
+                          "String": "C20H11N2Na3O10S3"
+                        },
+                        {
+                          "String": "Cerven kysela 18 [Czech]"
+                        },
+                        {
+                          "String": "Cerven kosenilova A [Czech]"
+                        },
+                        {
+                          "String": "Cerven kysela 18"
+                        },
+                        {
+                          "String": "1,3-Naphthalenedisulfonic acid, 7-hydroxy-8-(2-(4-sulfo-1-naphthalenyl)diazenyl)-, sodium salt (1:3)"
+                        },
+                        {
+                          "String": "New Coccine Red No. 102"
+                        },
+                        {
+                          "String": "Cerven kosenilova A"
+                        },
+                        {
+                          "String": "Ponceau 4 R"
+                        },
+                        {
+                          "String": "Schultz Nr. 213 [German]"
+                        },
+                        {
+                          "String": "NSC-4301"
+                        },
+                        {
+                          "String": "CCRIS 2652"
+                        },
+                        {
+                          "String": "Cerven potravinarska 7 [Czech]"
+                        },
+                        {
+                          "String": "Rouge de cochenille A [French]"
+                        },
+                        {
+                          "String": "Rouge de cochenille A"
+                        },
+                        {
+                          "String": "Schultz Nr. 213"
+                        },
+                        {
+                          "String": "C.I. Acid Red 18 (VAN)"
+                        },
+                        {
+                          "String": "Cerven potravinarska 7"
+                        },
+                        {
+                          "String": "HSDB 5537"
+                        },
+                        {
+                          "String": "L-Rot 4"
+                        },
+                        {
+                          "String": "NSC 4301"
+                        },
+                        {
+                          "String": "1082572-30-2"
+                        },
+                        {
+                          "String": "EINECS 220-036-2"
+                        },
+                        {
+                          "String": "UNII-Z525CBK9PG"
+                        },
+                        {
+                          "String": "Ponceau 4RC (E124)"
+                        },
+                        {
+                          "String": "Victoria Scharlach 4 R Extra [German]"
+                        },
+                        {
+                          "String": "C.I. 185"
+                        },
+                        {
+                          "String": "Victoria Scharlach 4 R Extra"
+                        },
+                        {
+                          "String": "trisodium 7-hydroxy-8-[(Z)-(4-sulfonato-1-naphthyl)diazenyl]-1,3-naphthalenedisulfonate"
+                        },
+                        {
+                          "String": "Scarlet 3R"
+                        },
+                        {
+                          "String": "trisodium (8E)-7-oxo-8-[(4-sulfonatonaphthalen-1-yl)hydrazinylidene]naphthalene-1,3-disulfonate"
+                        },
+                        {
+                          "String": "Food red No.102"
+                        },
+                        {
+                          "String": "CI-16255"
+                        },
+                        {
+                          "String": "CI-FOOD RED 7"
+                        },
+                        {
+                          "String": "RefChem:1080550"
+                        },
+                        {
+                          "String": "Trisodium 1-(1-naphthylazo)-2-hydroxynaphthalene-4',6,8-trisulphonate"
+                        },
+                        {
+                          "String": "PONCEAU 4R [MI]"
+                        },
+                        {
+                          "String": "1-(4-Sulpho-1-naphthylazo)-2-naphthol-6,8-disulphonic acid, trisodium salt"
+                        },
+                        {
+                          "String": "EC 220-036-2"
+                        },
+                        {
+                          "String": "7-Hydroxy-8-((4-sulfo-1-naphthalenyl)azo)-1,3-naphthalenedisulfonic acid trisodium salt"
+                        },
+                        {
+                          "String": "SCHEMBL93700"
+                        },
+                        {
+                          "String": "SCHEMBL93701"
+                        },
+                        {
+                          "String": "VIBRACOLOR RED ARE18"
+                        },
+                        {
+                          "String": "PONCEAU 4R [MART.]"
+                        },
+                        {
+                          "String": "SCHEMBL340899"
+                        },
+                        {
+                          "String": "PONCEAU 4R [USP-RS]"
+                        },
+                        {
+                          "String": "AKA102"
+                        },
+                        {
+                          "String": "INS NO.124"
+                        },
+                        {
+                          "String": "orb1706778"
+                        },
+                        {
+                          "String": "COVACAP ROUGE W 3102"
+                        },
+                        {
+                          "String": "PONCEAU 4R (E124)"
+                        },
+                        {
+                          "String": "Ponceau 4R, analytical standard"
+                        },
+                        {
+                          "String": "SCHEMBL29353967"
+                        },
+                        {
+                          "String": "INS-124"
+                        },
+                        {
+                          "String": "MSK2416"
+                        },
+                        {
+                          "String": "New Coccine, Dye content 75 %"
+                        },
+                        {
+                          "String": "Ponceau 4RC (E124) 100 microg/mL in Acetonitrile:Water"
+                        },
+                        {
+                          "String": "IVNZBWNBYXERPK-DZGBHZPSSA-K"
+                        },
+                        {
+                          "String": "DTXCID501507484"
+                        },
+                        {
+                          "String": "Ponceau 4R (C.I. 16255)"
+                        },
+                        {
+                          "String": "ACID RED 18, TRISODIUM SALT"
+                        },
+                        {
+                          "String": "C.I. ACID RED 18 [HSDB]"
+                        },
+                        {
+                          "String": "AKOS000282867"
+                        },
+                        {
+                          "String": "AKOS015903123"
+                        },
+                        {
+                          "String": "AKOS024319577"
+                        },
+                        {
+                          "String": "7-Hydroxy-8-((4-sulfo-1-naphthalenyl)azo)-1,3-naphthalenedisulfon- ic acid, trisodium salt"
+                        },
+                        {
+                          "String": "trisodium 7-hydroxy-8-[(Z)-(4-sulfonatonaphthalen-1-yl)diazenyl]naphthalene-1,3-disulfonate"
+                        },
+                        {
+                          "String": "trisodium;7-hydroxy-8-[(4-sulfonatonaphthalen-1-yl)diazenyl]naphthalene-1,3-disulfonate"
+                        },
+                        {
+                          "String": "DA-56994"
+                        },
+                        {
+                          "String": "PD063574"
+                        },
+                        {
+                          "String": "SY055981"
+                        },
+                        {
+                          "String": "DB-222291"
+                        },
+                        {
+                          "String": "CI-(1975)NO.16255"
+                        },
+                        {
+                          "String": "E-124"
+                        },
+                        {
+                          "String": "F0140"
+                        },
+                        {
+                          "String": "N0309"
+                        },
+                        {
+                          "String": "NS00078251"
+                        },
+                        {
+                          "String": "C20344"
+                        },
+                        {
+                          "String": "D91673"
+                        },
+                        {
+                          "String": "E-124-"
+                        },
+                        {
+                          "String": "Q384709"
+                        },
+                        {
+                          "String": "trisodium;7-oxo-8-[(4-sulfonato-1-naphthyl)hydrazono]naphthalene-1,3-disulfonate"
+                        },
+                        {
+                          "String": "7-HYDROXY-8-((4-SULFO-1-NAPHTHYL)AZO)-1,3-NAPHTHALENEDISULFONIC ACID, TRISODIUM SALT"
+                        },
+                        {
+                          "String": "TRISODIUM (8Z)-7-OXO-8-((4-SULFONATONAPHTHALEN-1-YL)HYDRAZINYLIDENE)NAPHTHALENE-1,3-DISULFONATE"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "cochineal red"
+                        },
+                        {
+                          "String": "Food Red 6"
+                        },
+                        {
+                          "String": "Acetone-d6"
+                        },
+                        {
+                          "String": "Cobalt thiocyanate"
+                        },
+                        {
+                          "String": "Scarlet-3R"
+                        },
+                        {
+                          "String": "AcidRed18"
+                        },
+                        {
+                          "String": "Acid Red-18"
+                        },
+                        {
+                          "String": "Ponceau 4R aluminum lake"
+                        },
+                        {
+                          "String": "Red 102"
+                        },
+                        {
+                          "String": "Acid Red 18,"
+                        },
+                        {
+                          "String": "AC1NSE7S"
+                        },
+                        {
+                          "String": "AC1O4BTW"
+                        },
+                        {
+                          "String": "C.I. food red 16255"
+                        },
+                        {
+                          "String": "COCHINEAL RED A 25GM"
+                        },
+                        {
+                          "String": "COCHINEAL RED A 100GM"
+                        },
+                        {
+                          "String": "CTK4J4923"
+                        },
+                        {
+                          "String": "CTK8I9811"
+                        },
+                        {
+                          "String": "C20H11N2O10S3.3Na"
+                        },
+                        {
+                          "String": "C20H14N2O10S3.3Na"
+                        },
+                        {
+                          "String": "CID:17466"
+                        },
+                        {
+                          "String": "WJ0912"
+                        },
+                        {
+                          "String": "Food Dye and Coloring Red No. 102"
+                        },
+                        {
+                          "String": "CID6364568"
+                        },
+                        {
+                          "String": "CID9570119"
+                        },
+                        {
+                          "String": "LS-7686"
+                        },
+                        {
+                          "String": "AN-18880"
+                        },
+                        {
+                          "String": "C20-H14-N2-O10-S3.3Na"
+                        },
+                        {
+                          "String": "E124"
+                        },
+                        {
+                          "String": "T139"
+                        },
+                        {
+                          "String": "New Coccine, Acid Red 18, Ponceau 4 R"
+                        },
+                        {
+                          "String": "SID:252819681"
+                        },
+                        {
+                          "String": "New Coccine, dye content 75% - 100G 100g"
+                        },
+                        {
+                          "String": "C008606"
+                        },
+                        {
+                          "String": "C576297"
+                        },
+                        {
+                          "String": "I14-18670"
+                        },
+                        {
+                          "String": "1-(1-naphthylazo)-2-hydroxynaphthalene-4',6,8-trisulfonate"
+                        },
+                        {
+                          "String": "2,7-Naphthalenedisulfonic acid, 3-hydroxy-4-((4-sulfo-1-naphthalenyl)azo)-, trisodium salt"
+                        },
+                        {
+                          "String": "trisodium -7-oxo-8-[ hydrazinylidene]naphthalene-1,3-disulfonate"
+                        },
+                        {
+                          "String": "1,3-naphthalenedisulfonic acid, 7-hydroxy-8-((4-sulfo-1-naphthalenyl azo) trisodium salt)"
+                        },
+                        {
+                          "String": "Trisodium 1- (1- naphthylazo)- 2- hydroxynaphthalene- 4', 6, 8- trisulphonate"
+                        },
+                        {
+                          "String": "trisodium 7-hydroxy-8-[(4-sulfonato-1-naphthyl)diazenyl]naphthalene-1,3-disulfonate"
+                        },
+                        {
+                          "String": "trisodium 7-oxo-8-[(4-sulfonato-1-naphthyl)hydrazono]naphthalene-1,3-disulfonate"
+                        },
+                        {
+                          "String": "trisodium 7-oxo-8-[(4-sulfonatonaphthalen-1-yl)hydrazinylidene]naphthalene-1,3-disulfonate"
+                        },
+                        {
+                          "String": "14007-28-4"
+                        },
+                        {
+                          "String": "tripotassium 7-hydroxy-8-[2-(4-sulfonatonaphthalen-1-yl)diazen-1-yl]naphthalene-1,3-disulfonate"
+                        },
+                        {
+                          "String": "Trisodium 1- (1- naphthylazo)- 2- hydroxynaphthalene- 4', 6, 8- trisulphonate (CI 16255)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "DateISO8601": [
+                    "2005-07-19"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-08-30"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "604.5"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        12
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "603.92689092"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "603.92689092"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        242
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        38
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1080
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        4
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Classes",
+            "Description": "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties, radiological properties, or other factors.",
+            "Section": [
+              {
+                "TOCHeading": "Drugs",
+                "Description": "Chemicals are used as active ingredients in drug/pharmaceutical products, including human drugs, animal drugs, biologics, etc.",
+                "Section": [
+                  {
+                    "TOCHeading": "Animal Drugs",
+                    "Description": "Chemicals are used as active ingredients in animal drug products.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 9,
+                        "Reference": [
+                          "S104 | UKVETMED | UK Veterinary Medicines Directorate's List | DOI:10.5281/zenodo.7802119"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "S104 | UKVETMED | UK Veterinary Medicines Directorate's List | DOI:10.5281/zenodo.7802119",
+                            "Matched": {
+                              "PCLID": 900163608,
+                              "Citation": "S104 | UKVETMED | UK Veterinary Medicines Directorate's List | DOI:10.5281/zenodo.7802119"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Pharmaceuticals -> UK Veterinary Medicines Directorate List"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Cosmetics",
+                "Description": "Chemicals are used as ingredients in cosmetic products.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "S13 | EUCOSMETICS | Combined Inventory of Ingredients Employed in Cosmetic Products (2000) and Revised Inventory (2006) | DOI:10.5281/zenodo.2624118"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "S13 | EUCOSMETICS | Combined Inventory of Ingredients Employed in Cosmetic Products (2000) and Revised Inventory (2006) | DOI:10.5281/zenodo.2624118",
+                        "Matched": {
+                          "PCLID": 906297401,
+                          "Citation": "S13 | EUCOSMETICS | Combined Inventory of Ingredients Employed in Cosmetic Products (2000) and Revised Inventory (2006) | DOI:10.5281/zenodo.2624118"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cosmetic colorant; Hair dyeing"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID17466%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID17466%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Parent Compound",
+            "Description": "A parent compound is conceptually the \"important\" part of the molecule when the molecule has more than one covalent component. Specifically, a parent component must have at least one carbon and contain at least 70% of the heavy (non-hydrogen) atoms of all the unique covalent units (ignoring stoichiometry). Note that this is a very empirical definition and is subject to change.",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 17467 (7-Hydroxy-8-[(4-sulphonaphthyl)azo]naphthalene-1,3-disulphonic acid)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 79,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=17467",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 79,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/17467"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Component Compounds",
+            "Description": "Component parts of the compound when it consists of multiple covalently-bonded units.  In PubChem, a covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or single atom without covalent bonds).",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 17467 (7-Hydroxy-8-[(4-sulphonaphthyl)azo]naphthalene-1,3-disulphonic acid)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 79,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=17467",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 79,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/17467"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "CID 3309358 (7-hydroxy-8-[(E)-(4-sulfonatonaphthalen-1-yl)diazenyl]naphthalene-1,3-disulfonate)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 95,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=3309358",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 95,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3309358"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "CID 5360545 (Sodium)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=5360545",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 20,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5360545"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Same Parent, Exact Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/17466/cids/JSON?cids_type=same_parent&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    27
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/17466/cids/JSON?cids_type=component&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    3
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID17466%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID17466%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/518171897",
+                    "Value": {
+                      "Number": [
+                        518171897
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/17466/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        157
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Journal Publishers"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Relationships",
+            "Description": "Other types of related records, such as alternative forms, monomers or polymers, components of important mixtures, etc. In this table, the relationship is in parentheses, and the implied grammar is \"the compound summarized on this page ... has this relationship to ... this item in the table.\"",
+            "DisplayControls": {
+              "ListType": "Columns"
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Ponceau 4R, cochineal red A (annotation moved to)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 27,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ponceau%204R%2C%20cochineal%20red%20A"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "Ponceau 4R (annotation moved to)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ponceau%204R"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Entrez Crosslinks",
+            "Description": "Cross-references to associated records in other Entrez databases such as PubMed, Gene, Protein, etc.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "PubMed Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed&db=pccompound&cmd=Link&from_uid=17466",
+                "Value": {
+                  "Number": [
+                    6
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Taxonomy Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_taxonomy&db=pccompound&cmd=Link&from_uid=17466",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Gene Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_gene&db=pccompound&cmd=Link&from_uid=17466",
+                "Value": {
+                  "Number": [
+                    12
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 13,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Food Additives and Ingredients",
+        "Description": "This section provides information on chemicals found in food (e.g., food additives, flavoring and coloring agents).",
+        "Section": [
+          {
+            "TOCHeading": "Food Additive Classes",
+            "Description": "Classification of this compound as a chemical found in food (e.g., food additive, food contaminant, or veterinary drug).  The source of information in this section includes the EU Food improvement agents and Evaluations of the Joint FAO/WHO Expert Committee on Food Additives (JECFA).",
+            "Information": [
+              {
+                "ReferenceNumber": 8,
+                "Name": "JECFA Functional Classes",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Food Additives -> COLOUR;"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Evaluations of the Joint FAO/WHO Expert Committee on Food Additives - JECFA",
+            "Description": "Evaluations of the Joint FAO/WHO Expert Committee on Food Additives (JECFA) database contains the summaries of all the evaluations of flavors, food additives, contaminants, toxicants and veterinary drugs. Each summary contains basic chemical information, ADIs/TDIs (acceptable daily intake / tolerable daily intake), links to the most recent reports and monographs as well as to the specification database, and a history of JECFA evaluations.",
+            "URL": "https://apps.who.int/food-additives-contaminants-jecfa-database/",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              }
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 8,
+                "Name": "Chemical Name",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "COCHINEAL RED A"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 8,
+                "Name": "Evaluation Year",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "2011"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 8,
+                "Name": "ADI",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "0–4 mg/kg bw"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 8,
+                "Name": "Comments",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "The Committee concluded that new data do not indicate a need to revise the existing ADI of 0–4 mg/kg body weight and that dietary exposure to Ponceau 4R does not present a health concern.",
+                      "Markup": [
+                        {
+                          "Start": 142,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ponceau%204R",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-17466"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 8,
+                "Name": "Report",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "TRS 966-JECFA 74/32",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 19,
+                          "URL": "http://apps.who.int/iris/bitstream/10665/44788/1/WHO_TRS_966_eng.pdf#page=43"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 8,
+                "Name": "Tox Monograph",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "FAS 18-JECFA 27/101",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 19,
+                          "URL": "http://www.inchem.org/documents/jecfa/jecmono/v18je12.htm"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+        "Section": [
+          {
+            "TOCHeading": "Uses",
+            "Description": "Major uses of this chemical, including both consumer uses and industrial uses.",
+            "Information": [
+              {
+                "ReferenceNumber": 4,
+                "Name": "EPA CPDat Chemical and Product Categories",
+                "Reference": [
+                  "The Chemical and Products Database, a resource for exposure-relevant data on chemicals in consumer products, Scientific Data, volume 5, Article number: 180125 (2018), DOI:10.1038/sdata.2018.125"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "The Chemical and Products Database, a resource for exposure-relevant data on chemicals in consumer products, Scientific Data, volume 5, Article number: 180125 (2018), DOI:10.1038/sdata.2018.125",
+                    "Matched": {
+                      "PCLID": 900163333,
+                      "Citation": "The Chemical and Products Database, a resource for exposure-relevant data on chemicals in consumer products, Scientific Data, volume 5, Article number: 180125 (2018), DOI:10.1038/sdata.2018.125"
+                    }
+                  }
+                ],
+                "Value": {
+                  "ExternalTableName": "cpdat"
+                }
+              }
+            ],
+            "Section": [
+              {
+                "TOCHeading": "Use Classification",
+                "Description": "This section contains use classification/category information for this compound from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Use Classification",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EPA Safer Chemical Functional Use Classes -> Colorants"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Safer Chemical Classes ->  Green circle - The chemical has been verified to be of low concern",
+                          "Markup": [
+                            {
+                              "Start": 26,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/epasafe/green.svg",
+                              "Type": "Icon",
+                              "Extra": "Green circle"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Food Additives -> COLOUR;  -> JECFA Functional Classes"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Reference": [
+                      "S13 | EUCOSMETICS | Combined Inventory of Ingredients Employed in Cosmetic Products (2000) and Revised Inventory (2006) | DOI:10.5281/zenodo.2624118"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "S13 | EUCOSMETICS | Combined Inventory of Ingredients Employed in Cosmetic Products (2000) and Revised Inventory (2006) | DOI:10.5281/zenodo.2624118",
+                        "Matched": {
+                          "PCLID": 906297401,
+                          "Citation": "S13 | EUCOSMETICS | Combined Inventory of Ingredients Employed in Cosmetic Products (2000) and Revised Inventory (2006) | DOI:10.5281/zenodo.2624118"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cosmetics -> Cosmetic colorant; Hair dyeing"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Safety and Hazards",
+        "Description": "Information on safety and hazards for this compound, including safety/hazards properties, reactivity, incompatibilities, management techniques, first aid treatments, and more.  For toxicity and related information, please see the Toxicity section.",
+        "Section": [
+          {
+            "TOCHeading": "Hazards Identification",
+            "Description": "This section identifies the hazards of the chemical presented on the safety data sheet (SDS) and the appropriate warning information associated with those hazards.  The information in this section includes, but are not limited to, the hazard classification of the chemical, signal word, pictograms, hazard statements and precautionary statements.",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "EPA Safer Chemical",
+                "Description": "EPA labels products so that consumers can easily choose ones that are safer for people and the environment. When consumers see the Safer Choice label on a product, they can be confident that the ingredients have been through a rigorous EPA review. The label means that EPA scientists have evaluated every ingredient in the product to ensure it meets Safer Choice's stringent criteria. When people use Safer Choice products, they are protecting their families and the environment by making safer chemical choices.",
+                "URL": "https://www.epa.gov/saferchoice/safer-ingredients",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "EPA Safer Chemical",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical: C.I. Acid Red 18, trisodium salt",
+                          "Markup": [
+                            {
+                              "Start": 10,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/C.I.%20Acid%20Red%2018",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-17466"
+                            },
+                            {
+                              "Start": 28,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/trisodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16219045"
+                            }
+                          ]
+                        },
+                        {
+                          "String": " Green circle - The chemical has been verified to be of low concern based on experimental and modeled data.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/epasafe/green.svg",
+                              "Type": "Icon",
+                              "Extra": "Green circle"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134981627"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Associated Disorders and Diseases",
+        "Description": "Disorders and diseases associated with the compound.  The contexts of the associations listed in this section vary. For example, a compound may cause its associated diseases (e.g., carcinogens and cancers) or have a therapeutic effect in treatment of the diseases (e.g., antihistamines and allergies), or be used as a marker/indicator for the diseases (e.g., glucose and diabetes).",
+        "DisplayControls": {
+          "CreateTable": {
+            "FromInformationIn": "Subsections",
+            "NumberOfColumns": 2,
+            "ColumnHeadings": [
+              "Disease",
+              "References"
+            ],
+            "ColumnContents": [
+              "Name",
+              "Value"
+            ]
+          }
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 3,
+            "Value": {
+              "ExternalTableName": "consolidateddiseaseassociation"
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Springer Nature References",
+            "Description": "Literature references related to scientific contents from Springer Nature journals and books. These references have been ranked automatically by an algorithm which calculates the relevance for each substance in a Springer Nature document. It is based on: (1) the TF-IDF, adapted to chemical structures, (2) location information in the text (e.g. title, abstract, keywords), and (3) the document size.  Springer Nature aims to provide only highly qualitative and relevant content but references of lower relevance aren't withheld as they might contain also very useful information.",
+            "Information": [
+              {
+                "ReferenceNumber": 10,
+                "Value": {
+                  "ExternalTableName": "collection=springernature&query_type=sid&query=341151143"
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "ExternalTableName": "collection=springernature&query_type=sid&query=341322506"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Literature",
+            "Description": "Chemical-organism co-occurrences in literature highlight chemical-organism pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalOrganismNeighbor"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "OrganismName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/17466/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "WIPO PATENTSCOPE",
+            "Description": "Use the provided link to show patents associated with this chemical structure in WIPO's PATENTSCOPE system.",
+            "URL": "https://www.wipo.int/patentscope/en/",
+            "Information": [
+              {
+                "ReferenceNumber": 29,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Patents are available for this chemical structure:"
+                    },
+                    {
+                      "String": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=SWGJCIMEBVHMTA-UHFFFAOYSA-K",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 86,
+                          "URL": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=SWGJCIMEBVHMTA-UHFFFAOYSA-K"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 30,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Patents are available for this chemical structure:"
+                    },
+                    {
+                      "String": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=SWGJCIMEBVHMTA-ZRUFZDNISA-K",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 86,
+                          "URL": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=SWGJCIMEBVHMTA-ZRUFZDNISA-K"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Patents",
+            "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalChemical"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+            "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalDisease"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalGene"
+                    },
+                    {
+                      "String": "Gene"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and organisms mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalOrganism"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Interactions and Pathways",
+        "Description": "This section provides information on the biomolecular interactions of this compound with drugs, genes, proteins, etc., as well as the pathways in which this compound is involved.",
+        "Section": [
+          {
+            "TOCHeading": "Chemical-Target Interactions",
+            "Description": "Interactions between targets and this compound",
+            "Information": [
+              {
+                "ReferenceNumber": 3,
+                "Value": {
+                  "ExternalTableName": "consolidatedcompoundtarget"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Biological Test Results",
+        "Description": "A PubChem substance or compound summary page displays biological test results from the PubChem BioAssay database, if/as available, for the chemical structure currently displayed. You can embed biological test results displays within your own web pages, for a PubChem Compound or Substance of interest, by using the BioActivity Widget.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/widgets",
+        "Section": [
+          {
+            "TOCHeading": "BioAssay Results",
+            "Description": "Bioactivity data for this compound, reported in PubChem BioAssay records.",
+            "Information": [
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "ExternalTableName": "bioactivity"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "EPA Safer Choice",
+            "Description": "EPA Safer Choice classification for this chemical.  EPA labels products so that consumers can easily choose ones that are safer for people and the environment. When consumers see the Safer Choice label on a product, they can be confident that the ingredients have been through a rigorous EPA review. The label means that EPA scientists have evaluated every ingredient in the product to ensure it meets Safer Choice's stringent criteria. When people use Safer Choice products, they are protecting their families and the environment by making safer chemical choices.",
+            "URL": "https://www.epa.gov/saferchoice/safer-ingredients",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=81",
+                "Value": {
+                  "Number": [
+                    81
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChemIDplus",
+            "Description": "Classification of this compound, provided by ChemIDplus, which is a free web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases.  ChemIDplus groups chemicals based on the source locators (i.e., what information resources have data for a given chemical).",
+            "URL": "https://chem.nlm.nih.gov/chemidplus/",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                "Value": {
+                  "Number": [
+                    84
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Household Products Database Tree",
+            "Description": "Household Products Database Tree",
+            "Information": [
+              {
+                "ReferenceNumber": 18,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=98",
+                "Value": {
+                  "Number": [
+                    98
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "UN GHS Classification",
+            "Description": "The United Nations' Globally Harmonized System of Classification and Labelling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, and health and safety information on hazardous chemical substances and mixtures.",
+            "URL": "https://unece.org/about-ghs",
+            "Information": [
+              {
+                "ReferenceNumber": 16,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=83",
+                "Value": {
+                  "Number": [
+                    83
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA CPDat Classification",
+            "Description": "Classification from the U.S. Environmental Protection Agency's CPDat (Chemical and Products Database).  This database contains information mapping more than 49,000 chemicals to a set of terms categorizing their usage or function in 16,000 consumer products (e.g. shampoo, soap) types based on what chemicals they contain.",
+            "URL": "https://www.epa.gov/chemical-research/chemical-and-products-database-cpdat",
+            "Information": [
+              {
+                "ReferenceNumber": 19,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=99",
+                "Value": {
+                  "Number": [
+                    99
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NORMAN Suspect List Exchange Classification",
+            "Description": "A classification from the NORMAN Suspect List Exchange, which serve as a central access point to find lists of chemicals with environmental concerns.",
+            "URL": "https://www.norman-network.com/nds/SLE/",
+            "Information": [
+              {
+                "ReferenceNumber": 20,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=101",
+                "Value": {
+                  "Number": [
+                    101
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA DSSTox Classification",
+            "Description": "Classification from the U.S. Environmental Protection Agency's Distributed Structure-Searchable Toxicity (DSSTox) database. DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology. A distinguishing feature of this effort is the accurate mapping of bioassay and physicochemical property data associated with chemical substances to their corresponding chemical structures. ",
+            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=105",
+                "Value": {
+                  "Number": [
+                    105
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Consumer Product Information Database Classification",
+            "Description": "Classification of the consumer products containing this compound, from the Consumer Product Information Database.",
+            "URL": "https://www.whatsinproducts.com/",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=110",
+                "Value": {
+                  "Number": [
+                    110
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA TSCA and CDR Classification",
+            "Description": "EPA Chemicals under the Toxic Substances Control Act (TSCA) collection contains information on chemicals and their regulation under TSCA. The chemical classification tree is created based on the TSCA substance regulatory flag, UVCB, and commercial activity status.",
+            "URL": "https://www.epa.gov/tsca-inventory",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=132",
+                "Value": {
+                  "Number": [
+                    132
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA Substance Registry Services Tree",
+            "Description": "Substance Registry Services (SRS) is the Environmental Protection Agency's (EPA) central system for information about substances that are tracked or regulated by EPA or other sources. It is a resource for basic information about chemicals, biological organisms, and other substances of interest to EPA and its state and tribal partners. SRS makes it possible to identify which EPA data systems, environmental statutes, or other sources have information about a substance and which synonym is used by that system or statute.",
+            "Information": [
+              {
+                "ReferenceNumber": 25,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=123",
+                "Value": {
+                  "Number": [
+                    123
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "MolGenie Organic Chemistry Ontology",
+            "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign compounds to structural classes, currently mapped to >1.7 million per- and polyfluoroalkyl substances (PFAS) extracted from the datasets explained in Barnabas et al (2022) DOI: 10.1039/D2DD00019A",
+            "URL": "https://github.com/MolGenie/ontology/",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=134",
+                "Value": {
+                  "Number": [
+                    134
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemicals in PubChem from Regulatory Sources",
+            "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources.",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=135",
+                "Value": {
+                  "Number": [
+                    135
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "ChemIDplus",
+        "SourceID": "0002611827",
+        "Name": "C.I. Acid Red 18",
+        "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0002611827",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 794723
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "DTXSID9021213",
+        "Name": "C.I. Acid Red 18, trisodium salt",
+        "Description": "DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology.",
+        "URL": "https://comptox.epa.gov/dashboard/DTXSID9021213",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 1149649
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "FDA Global Substance Registration System (GSRS)",
+        "SourceID": "Z525CBK9PG",
+        "Name": "PONCEAU 4R",
+        "Description": "The FDA Global Substance Registration System (GSRS) enables the efficient and accurate exchange of information on what substances are in regulated products. Instead of relying on names, which vary across regulatory domains, countries, and regions, the GSRS knowledge base makes it possible for substances to be defined by standardized, scientific descriptions.",
+        "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/Z525CBK9PG",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 5798547
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134981627",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0002611827",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19470105
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "Comparative Toxicogenomics Database (CTD)",
+        "SourceID": "C576297::Compound",
+        "Name": "ponceau 4R",
+        "Description": "CTD is a robust, publicly available database that aims to advance understanding about how environmental exposures affect human health.",
+        "URL": "https://ctdbase.org/detail.go?type=chem&acc=C576297",
+        "LicenseNote": "It is to be used only for research and educational purposes. Any reproduction or use for commercial purpose is prohibited without the prior express written permission of NC State University.",
+        "LicenseURL": "http://ctdbase.org/about/legal.jsp",
+        "ANID": 9022753
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "EPA Chemical and Products Database (CPDat)",
+        "SourceID": "27110_DTXSID9021213",
+        "Name": "C.I. Acid Red 18, trisodium salt",
+        "Description": "The US EPA Chemical and Products Database (CPDat) is a database containing information mapping more than 49,000 chemicals to a set of terms categorizing their usage or function in 16,000 consumer products (e.g. shampoo, soap) types based on what chemicals they contain.",
+        "URL": "https://comptox.epa.gov/dashboard/DTXSID9021213#exposure",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 13740221
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "EPA Safer Choice",
+        "SourceID": "2611-82-7",
+        "Name": "C.I. Acid Red 18, trisodium salt",
+        "Description": "The Safer Choice of the U.S. Environmental Protection Agency (EPA) helps consumers, businesses, and purchasers find products that perform and are safer for human health and the environment.",
+        "URL": "https://www.epa.gov/saferchoice/safer-ingredients",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39997020
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "Joint FAO/WHO Expert Committee on Food Additives (JECFA)",
+        "SourceID": "wf_393",
+        "Name": "COCHINEAL RED A",
+        "Description": "Evaluations of the Joint FAO/WHO Expert Committee on Food Additives (JECFA) database contains the summaries of all the evaluations of flavors, food additives, contaminants, toxicants, and veterinary drugs.",
+        "URL": "https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/393",
+        "LicenseNote": "Permission from WHO is not required for the use of WHO materials issued under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Intergovernmental Organization (CC BY-NC-SA 3.0 IGO) licence.",
+        "LicenseURL": "https://www.who.int/about/policies/publishing/copyright",
+        "ANID": 15262377
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "NORMAN Suspect List Exchange",
+        "SourceID": "nrm_17466",
+        "Name": "Ponceau 4R (E124)",
+        "Description": "The NORMAN network enhances the exchange of information on emerging environmental substances, and encourages the validation and harmonisation of common measurement methods and monitoring tools so that the requirements of risk assessors and risk managers can be better met. The NORMAN Suspect List Exchange (NORMAN-SLE) is a central access point to find suspect lists relevant for various environmental monitoring questions, described in DOI:10.1186/s12302-022-00680-6",
+        "LicenseNote": "Data: CC-BY 4.0; Code (hosted by ECI, LCSB): Artistic-2.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/",
+        "ANID": 9046238
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "Springer Nature",
+        "SourceID": "341151143",
+        "Description": "Springer Nature is the world's largest academic book publisher, publisher of the world's most influential journals, and a pioneer in the field of open research. SpringerLink provides electronic access to its book and journal content.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/341151143",
+        "ANID": 47341221
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "Springer Nature",
+        "SourceID": "341322506",
+        "Description": "Springer Nature is the world's largest academic book publisher, publisher of the world's most influential journals, and a pioneer in the field of open research. SpringerLink provides electronic access to its book and journal content.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/341322506",
+        "ANID": 47560420
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q384709",
+        "Name": "Ponceau 4R",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q384709",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44340995
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "EPA Safer Choice",
+        "SourceID": "EPA_Safer_Choice_tree",
+        "Name": "EPA Safer Chemical Ingredients Classification",
+        "Description": "Safer Choice of the U.S. Environmental Protection Agency (EPA) helps consumers, businesses, and purchasers find products that perform and are safer for human health and the environment.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "GHS Classification (UNECE)",
+        "SourceID": "UN_GHS_tree",
+        "Name": "GHS Classification",
+        "Description": "The United Nations' Globally Harmonized System of Classification and Labeling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, health and safety information on hazardous chemical substances and mixtures.",
+        "URL": "http://www.unece.org/trans/danger/publi/ghs/ghs_welcome_e.html"
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "ChemIDplus",
+        "SourceID": "ChemIDplus_tree",
+        "Name": "ChemIDplus Chemical Information Classification",
+        "Description": "ChemIDplus is a TOXNET (TOXicology data NETwork) databases that contain chemicals and drugs related information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/chemidplus",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "Consumer Product Information Database (CPID)",
+        "SourceID": "household_tree",
+        "Name": "Household Products Classification",
+        "Description": "The Household Products Database of the National Library of Medicine is based on the Consumer Product Information Database ©2001-2018 by DeLima Associates.",
+        "URL": "https://hpd.nlm.nih.gov/",
+        "LicenseNote": "Copyright (c) 2024 DeLima Associates. All rights reserved. \u000AUnless otherwise indicated, all materials from CPID are copyrighted by DeLima Associates. No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "LicenseURL": "https://www.whatsinproducts.com/contents/view/1/6"
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "EPA Chemical and Products Database (CPDat)",
+        "SourceID": "cpdat_tree",
+        "Name": "EPA CPDat Classification",
+        "Description": "CPDat (Chemical and Products Database) is a resource for exposure-relevant data on chemicals in consumer products.",
+        "URL": "https://www.epa.gov/chemical-research/chemical-and-products-database-cpdat",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "NORMAN Suspect List Exchange",
+        "SourceID": "norman_sle_tree",
+        "Name": "NORMAN Suspect List Exchange Classification",
+        "Description": "The NORMAN Suspect List Exchange (NORMAN-SLE) is a central access point for NORMAN members (and others) to find suspect lists relevant for their environmental monitoring questions.",
+        "URL": "https://www.norman-network.com/nds/SLE/",
+        "LicenseNote": "Data: CC-BY 4.0; Code (hosted by ECI, LCSB): Artistic-2.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "dsstoxlist_tree",
+        "Name": "CompTox Chemicals Dashboard Chemical Lists",
+        "Description": "This classification lists the chemical categories from the EPA CompTox Chemicals Dashboard.",
+        "URL": "https://comptox.epa.gov/dashboard/chemical-lists/",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "Consumer Product Information Database (CPID)",
+        "SourceID": "cpid_tree",
+        "Name": "Consumer Products Category Classification",
+        "Description": "The Consumer product category classification is based on the Consumer Product Information Database ©2001-2021 by DeLima Associates.",
+        "URL": "https://www.whatsinproducts.com/",
+        "LicenseNote": "Copyright (c) 2024 DeLima Associates. All rights reserved. \u000AUnless otherwise indicated, all materials from CPID are copyrighted by DeLima Associates. No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "LicenseURL": "https://www.whatsinproducts.com/contents/view/1/6"
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "EPA Substance Registry Services",
+        "SourceID": "epasrs_tree",
+        "Name": "EPA SRS List Classification",
+        "Description": "Substance Registry Services (SRS) is the Environmental Protection Agency's (EPA) central system for information about substances that are tracked or regulated by EPA or other sources.",
+        "URL": "https://maldi.nist.gov",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "EPA Chemicals under the TSCA",
+        "SourceID": "epa_tsca_tree",
+        "Name": "EPA TSCA Classification",
+        "Description": "EPA Chemicals under the Toxic Substances Control Act (TSCA) collection contains information on chemicals and their regulation under TSCA (40 eCFR I-R). The chemical classification tree is created based on the TSCA substance regulatory flag, UVCB, and commercial activity status.",
+        "URL": "https://www.epa.gov/tsca-inventory",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 27,
+        "SourceName": "MolGenie",
+        "SourceID": "mol_classes",
+        "Name": "MolGenie Organic Chemistry Ontology",
+        "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign chemical entities to structural classes, split into three main subsections: calculated properties, compounds and substructural concepts. The ontology contains chemistry structural classes with a focus on elements and small organic compounds, but not inorganic, polymer, biopolymer, metal complexes, metal organic frameworks (MOFs) and other chemistry entities. The ontology has been mapped to several collections of chemicals, including (a) Chemicals of Biological Interest (ChEBI), (b) the ChEMBL database of bioactive molecules, (c) the LOTUS natural product collection, (d) per- and polyfluoroalkyl substances (PFAS) extracted from Barnabas et al (2022) DOI: 10.1039/D2DD00019A (e) PubChemLite and (f) the ZeroPM Global Chemical Inventory.",
+        "URL": "https://github.com/MolGenie/ontology/",
+        "LicenseNote": "CC-BY 4.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 28,
+        "SourceName": "PubChem",
+        "SourceID": "regtree",
+        "Name": "Chemicals in PubChem from Regulatory Sources",
+        "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources."
+      },
+      {
+        "ReferenceNumber": 29,
+        "SourceName": "PATENTSCOPE (WIPO)",
+        "Name": "SID 389635095",
+        "Description": "The PATENTSCOPE database from WIPO includes patent and chemical structure search (with a free account) that gives access to millions of patent documents. The World Intellectual Property Organisation (WIPO) is a specialized United Nations (UN) agency headquartered in Geneva (Switzerland). Our mission is to lead the development of a balanced and effective international Intellectual Property (IP) system that enables innovation and creativity for the benefit of all. We help governments, businesses and society realize the benefits of Intellectual Property and are notably a world reference source for IP information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/389635095"
+      },
+      {
+        "ReferenceNumber": 30,
+        "SourceName": "PATENTSCOPE (WIPO)",
+        "Name": "SID 403416087",
+        "Description": "The PATENTSCOPE database from WIPO includes patent and chemical structure search (with a free account) that gives access to millions of patent documents. The World Intellectual Property Organisation (WIPO) is a specialized United Nations (UN) agency headquartered in Geneva (Switzerland). Our mission is to lead the development of a balanced and effective international Intellectual Property (IP) system that enables innovation and creativity for the benefit of all. We help governments, businesses and society realize the benefits of Intellectual Property and are notably a world reference source for IP information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/403416087"
+      }
+    ]
+  }
+}

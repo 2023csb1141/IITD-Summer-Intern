@@ -1,0 +1,2206 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 62531,
+    "RecordTitle": "Tinuvin",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 44,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 44,
+                "Description": "Tinuvin",
+                "Value": {
+                  "Number": [
+                    62531
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Primary Hazards",
+        "Description": "Link to the Safety and Hazard section of this page and link to the Laboratory Chemical Safety Summary (LCSS) datasheet for this compound.",
+        "DisplayControls": {
+          "HideThisSection": true,
+          "MoveToTop": true
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 44,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-tert-butyl-6-(5-chlorobenzotriazol-2-yl)-4-methylphenol",
+                          "Markup": [
+                            {
+                              "Start": 2,
+                              "Length": 4,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C17H18ClN3O/c1-10-7-12(17(2,3)4)16(22)15(8-10)21-19-13-6-5-11(18)9-14(13)20-21/h5-9,22H,1-4H3"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "OCWYEMOEOGEQAN-UHFFFAOYSA-N"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC1=CC(=C(C(=C1)N2N=C3C=CC(=CC3=N2)Cl)O)C(C)(C)C"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 2,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C17H18ClN3O"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 44,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C17H18ClN3O"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3896-11-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 6,
+                    "URL": "https://commonchemistry.cas.org/detail?cas_rn=3896-11-5",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3896-11-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 8,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3896-11-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3896-11-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3896-11-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3896-11-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3896-11-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3896-11-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3896-11-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 30,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3896-11-5"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Deprecated CAS",
+                "Description": "The Chemical Abstract Service (CAS) registry numbers that are no longer used.  These numbers are old, deprecated, and/or deleted, but users may still encounter them in some (old) references.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "103843-16-9, 106085-65-8, 136567-90-3, 138464-60-5, 1399293-71-0, 144598-90-3, 144856-53-1, 145379-55-1, 155375-84-1, 172344-93-3, 2098648-59-8, 2117663-14-4, 2135333-73-0, 268218-33-3, 474264-62-5, 61489-93-8, 796971-87-4, 80479-99-8, 85497-36-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "103843-16-9, 106085-65-8, 136567-90-3, 138464-60-5, 1399293-71-0, 144598-90-3, 144856-53-1, 145379-55-1, 155375-84-1, 172344-93-3, 2098648-59-8, 2117663-14-4, 2135333-73-0, 268218-33-3, 2757077-72-6, 474264-62-5, 61489-93-8, 796971-87-4, 80479-99-8, 85497-36-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "103843-16-9, 106085-65-8, 136567-90-3, 138464-60-5, 144598-90-3, 144856-53-1, 145379-55-1, 155375-84-1, 172344-93-3, 474264-62-5, 61489-93-8, 796971-87-4, 80479-99-8, 85497-36-5"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "European Community (EC) Number",
+                "Description": "The European Community (EC) number is a seven-digit identifier assigned by the European Chemicals Agency (ECHA) to substances for regulatory purposes within the European Union. EC numbers are sometimes referred to as EINECS, ELINCS, or NLP numbers, because the EC Inventory comprises three individual inventories (EINECS, ELINCS, and the NLP list).",
+                "URL": "https://echa.europa.eu/information-on-chemicals/ec-inventory",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "URL": "https://chem.echa.europa.eu/100.021.315",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "223-445-4"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/7ZF18Q354W",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "7ZF18Q354W"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ChEMBL ID",
+                "Description": "ChEMBL compound identifier",
+                "URL": "https://www.ebi.ac.uk/chembl/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "URL": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1880325",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CHEMBL1880325"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID9036438",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID9036438"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "KEGG ID",
+                "Description": "KEGG compound/drug identifier",
+                "URL": "https://www.kegg.jp/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "URL": "https://www.kegg.jp/entry/D03174",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "D03174"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "NCI Thesaurus Code",
+                "Description": "Stable, unique code for biomedical concept",
+                "URL": "https://ncithesaurus.nci.nih.gov",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "URL": "https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C74400",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C74400"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Nikkaji Number",
+                "Description": "Substance identifier used in the Japan Chemical Substance Dictionary (Nikkaji).",
+                "URL": "https://jglobal.jst.go.jp/en/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "URL": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J8.273B",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "J8.273B"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 43,
+                    "URL": "https://www.wikidata.org/wiki/Q27269075",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q27269075"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Entry Terms",
+                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 45,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "tinuvin"
+                        },
+                        {
+                          "String": "2-(2'-hydroxy-3'-tert-butyl-5'-methylphenyl)-5- chlorobenzotriazole"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Tinuvin"
+                        },
+                        {
+                          "String": "2-(2'-Hydroxy-3'-tert-butyl-5'-methylphenyl)-5-chlorobenzotriazole"
+                        },
+                        {
+                          "String": "RefChem:570489"
+                        },
+                        {
+                          "String": "BUMETRIZOLE"
+                        },
+                        {
+                          "String": "3896-11-5"
+                        },
+                        {
+                          "String": "2-(tert-Butyl)-6-(5-chloro-2H-benzo[d][1,2,3]triazol-2-yl)-4-methylphenol"
+                        },
+                        {
+                          "String": "Tinuvin 326"
+                        },
+                        {
+                          "String": "2-(5-Chloro-2-benzotriazolyl)-6-tert-butyl-p-cresol"
+                        },
+                        {
+                          "String": "2-tert-Butyl-6-(5-chloro-2H-benzotriazol-2-yl)-4-methylphenol"
+                        },
+                        {
+                          "String": "UV-326"
+                        },
+                        {
+                          "String": "Bumetrizol"
+                        },
+                        {
+                          "String": "C17H18ClN3O"
+                        },
+                        {
+                          "String": "MFCD00059707"
+                        },
+                        {
+                          "String": "Phenol, 2-(5-chloro-2H-benzotriazol-2-yl)-6-(1,1-dimethylethyl)-4-methyl-"
+                        },
+                        {
+                          "String": "2-tert-Butyl-6-(5-chloro-2H-benzotriazol-2-yl)-p-cresol"
+                        },
+                        {
+                          "String": "2-tert-butyl-6-(5-chlorobenzotriazol-2-yl)-4-methylphenol"
+                        },
+                        {
+                          "String": "DTXSID9036438"
+                        },
+                        {
+                          "String": "7ZF18Q354W"
+                        },
+                        {
+                          "String": "NCGC00166260-01"
+                        },
+                        {
+                          "String": "2-(2'-Hydroxy-3'-t-butyl-5'-methylphenyl)-5-chlorobenzotriazole"
+                        },
+                        {
+                          "String": "DTXCID7016438"
+                        },
+                        {
+                          "String": "2-tert-Butyl-6-(5-chloro-2H-1,2,3-benzotriazol-2-yl)-4-methylphenol"
+                        },
+                        {
+                          "String": "CAS-3896-11-5"
+                        },
+                        {
+                          "String": "Bumetrizolum"
+                        },
+                        {
+                          "String": "6-(tert-butyl)-2-(5-chloro(2-hydrobenzotriazol-2-yl))-4-methylphenol"
+                        },
+                        {
+                          "String": "Benazol PBKh"
+                        },
+                        {
+                          "String": "Lowitite 26"
+                        },
+                        {
+                          "String": "UV Absorber-6"
+                        },
+                        {
+                          "String": "Tinuvin-326"
+                        },
+                        {
+                          "String": "Uvazol 236"
+                        },
+                        {
+                          "String": "BUMETRIZOLE [INN]"
+                        },
+                        {
+                          "String": "UV-326 (bumetrizole)"
+                        },
+                        {
+                          "String": "Bumetrizole (USAN/INN)"
+                        },
+                        {
+                          "String": "Bumetrizole [USAN:INN]"
+                        },
+                        {
+                          "String": "ChemDiv3_000001"
+                        },
+                        {
+                          "String": "Bumetrizol [INN-Spanish]"
+                        },
+                        {
+                          "String": "BUMETRIZOLE [USAN]"
+                        },
+                        {
+                          "String": "Bumetrizolum [INN-Latin]"
+                        },
+                        {
+                          "String": "2-(5-Chloro-2H-benzotriazol-2-yl)-6-(1,1-dimethylethyl)-4-methylphenol"
+                        },
+                        {
+                          "String": "Oprea1_623867"
+                        },
+                        {
+                          "String": "SCHEMBL23734"
+                        },
+                        {
+                          "String": "UNII-7ZF18Q354W"
+                        },
+                        {
+                          "String": "SCHEMBL2501879"
+                        },
+                        {
+                          "String": "CHEMBL1880325"
+                        },
+                        {
+                          "String": "SCHEMBL29353083"
+                        },
+                        {
+                          "String": "HMS1473A01"
+                        },
+                        {
+                          "String": "2-(2-Hydroxy-3-tert-butyl-5-methylphenyl)-5-chlorobenzotriazole"
+                        },
+                        {
+                          "String": "MSK15312"
+                        },
+                        {
+                          "String": "EINECS 223-445-4"
+                        },
+                        {
+                          "String": "Tox21_112379"
+                        },
+                        {
+                          "String": "SBB057046"
+                        },
+                        {
+                          "String": "AKOS000513688"
+                        },
+                        {
+                          "String": "Tox21_112379_1"
+                        },
+                        {
+                          "String": "FT34497"
+                        },
+                        {
+                          "String": "IDI1_019319"
+                        },
+                        {
+                          "String": "NCGC00166260-02"
+                        },
+                        {
+                          "String": "NCGC00166260-03"
+                        },
+                        {
+                          "String": "AS-73030"
+                        },
+                        {
+                          "String": "MSK15312-100"
+                        },
+                        {
+                          "String": "H0559"
+                        },
+                        {
+                          "String": "NS00004466"
+                        },
+                        {
+                          "String": "ST50232783"
+                        },
+                        {
+                          "String": "D03174"
+                        },
+                        {
+                          "String": "D71031"
+                        },
+                        {
+                          "String": "EC 223-445-4"
+                        },
+                        {
+                          "String": "F238748"
+                        },
+                        {
+                          "String": "SR-01000388207"
+                        },
+                        {
+                          "String": "SR-01000388207-1"
+                        },
+                        {
+                          "String": "Q27269075"
+                        },
+                        {
+                          "String": "2-tert-butyl-6-(5-chlorobenzotriazol-2-yl)-4-methyl-phenol"
+                        },
+                        {
+                          "String": "2-(2'-hydroxy-3'-t-butyl- 5'-methylphenyl)-5-chlorobenzotriazole"
+                        },
+                        {
+                          "String": "2-(2'-hydroxy-3'-t-butyl-5'-methylphenyl)-5- chlorobenzotriazole"
+                        },
+                        {
+                          "String": "2-(2'-hydroxy-3'-tert-butyl-5'-methylphenyl)-5-chlorobenzotriazol"
+                        },
+                        {
+                          "String": "2-(2'-hydroxy-3'-tert-butyl-5'-methyphenyl)-5-chlorobenzotriazole"
+                        },
+                        {
+                          "String": "2-(2?-Hydroxy-3?-tert-butyl-5?-methylphenyl)-5-chlorobenzotriazole"
+                        },
+                        {
+                          "String": "2-tert-Butyl-6-(5-chloro-2H-benzotriazol-2-yl)-4-methyl-phenol"
+                        },
+                        {
+                          "String": "2-(2'-hydroxy-3'-tert-butyl-5'-methylphenyl)-5-chloro-benzotriazole"
+                        },
+                        {
+                          "String": "2-(2-Hydroxy-3-tert-butyl-5-methylphenyl)-5-chloro-2H-benzotriazole"
+                        },
+                        {
+                          "String": "2-(5-Chloro-2H-benzotriazol-2-yl)-6-(1,1-dimethylethyl)-4-methylp- henol"
+                        },
+                        {
+                          "String": "2-tert-Butyl-6-(5-chloro-2H-1,2,3-benzotriazol-2-yl)-4-methylphenol #"
+                        },
+                        {
+                          "String": "2-tert-Butyl-6-(5-chloro-2H-benzotriazol-2-yl)-4-methylphenol, 98%"
+                        },
+                        {
+                          "String": "5-chloro-2-(2-hydroxy-3-tert-butyl-5-methylphenyl)-2H-benzotriazole"
+                        },
+                        {
+                          "String": "5-chloro-2-(3-tert-butyl-2-hydroxy-5-methylphenyl)-2H-benzotriazole"
+                        },
+                        {
+                          "String": "2-(3'-TERT-BUTYL-2'-HYDROXY-5'-METHYL- PHENYL)-5-CHLOROBENZOTRIAZOLE"
+                        },
+                        {
+                          "String": "2-(2?-Hydroxy-3?-tert-butyl-5?-methylphenyl)-5-chlorobenzotriazole Solution in Methanol, 100?g/mL"
+                        },
+                        {
+                          "String": "223-445-4"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Diisoamyl disulfide"
+                        },
+                        {
+                          "String": "EMETINE"
+                        },
+                        {
+                          "String": "UV Absorber 326"
+                        },
+                        {
+                          "String": "AC1L1XAW"
+                        },
+                        {
+                          "String": "AC1Q2IST"
+                        },
+                        {
+                          "String": "TINUVIN-1130"
+                        },
+                        {
+                          "String": "OCWYEMOEOGEQAN-UHFFFAOYSA-N"
+                        },
+                        {
+                          "String": "KSC495I2P"
+                        },
+                        {
+                          "String": "ACMC-2097e4"
+                        },
+                        {
+                          "String": "CTK3J5427"
+                        },
+                        {
+                          "String": "ZINC56954"
+                        },
+                        {
+                          "String": "UV326"
+                        },
+                        {
+                          "String": "CID62531"
+                        },
+                        {
+                          "String": "KS-00000YL3"
+                        },
+                        {
+                          "String": "2- -4-methyl-6-tert-butyl-phenol"
+                        },
+                        {
+                          "String": "ANW-13850"
+                        },
+                        {
+                          "String": "CID:62531"
+                        },
+                        {
+                          "String": "AJ-09510"
+                        },
+                        {
+                          "String": "AK110732"
+                        },
+                        {
+                          "String": "BAS 00510881"
+                        },
+                        {
+                          "String": "CJ-00419"
+                        },
+                        {
+                          "String": "I706"
+                        },
+                        {
+                          "String": "SID:381190114"
+                        },
+                        {
+                          "String": "RT-002516"
+                        },
+                        {
+                          "String": "ST2416254"
+                        },
+                        {
+                          "String": "FT-0608474"
+                        },
+                        {
+                          "String": "A824347"
+                        },
+                        {
+                          "String": "C016151"
+                        },
+                        {
+                          "String": "I06-1438"
+                        },
+                        {
+                          "String": "2-(3-t-butyl-2-hydroxy-5-methylphenyl)-5-chlorobenzotriazole"
+                        },
+                        {
+                          "String": "2-t-butyl-6-(5-chloro-2H-benzotriazol-2-yl)-4-methylphenol"
+                        },
+                        {
+                          "String": "2-tert-Butyl-6-(5-chloro-benzotriazol-2-yl)-4-methyl-phenol"
+                        },
+                        {
+                          "String": "2-(2-hydroxy-3-tert-butyl-5-methylphenyl)-5-chlorobenzotriazoles"
+                        },
+                        {
+                          "String": "2-(3-tert-butyl-2-hydroxy-5-methylphenyl)-5-chlorobenzotriazole"
+                        },
+                        {
+                          "String": "2-(2'-hydroxy-3'-tert-butyl-5'-methylphenyl)-5- chlorobenzotriazole"
+                        },
+                        {
+                          "String": "2-(3-tert-butyl-2-hydroxy-5-methylphenyl)-5-chloro-2h-benzotriazole"
+                        },
+                        {
+                          "String": "2-(5-Chloro-2-benzotriazolyl)-6-tert-butyl-4-cresol, 99% - 100G 100g"
+                        },
+                        {
+                          "String": "2-tert-butyl-6-(5-chloro-1,3-dihydrobenzotriazol-2-yl)-4-methylphenol"
+                        },
+                        {
+                          "String": "2-tert-butyl-6-(5-chloro-2H-benzo[d][1,2,3]triazol-2-yl)-4-methylphenol"
+                        },
+                        {
+                          "String": "139724-05-3"
+                        },
+                        {
+                          "String": "85497-36-5"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 44,
+                "Value": {
+                  "DateISO8601": [
+                    "2005-03-28"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 44,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-08-30"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "315.8"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "XLogP3",
+                "Description": "XLogP3 is a predicted octanol-water partition coefficient, computed using the algorithm described in J. Chem. Inf. Model. 2007, 47, 6, 2140-2148. It is used as a measure of hydrophilicity or hydrophobicity of a molecule.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/17985865/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "XLogP3-AA",
+                    "Reference": [
+                      "Computed by XLogP3 3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        5.6
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        3
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "315.1138399"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "315.1138399"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        50.9
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        22
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        400
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Experimental Properties",
+            "Description": "Various experimentally determined properties for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+            "Section": [
+              {
+                "TOCHeading": "Physical Description",
+                "Description": "The appearance or features of this compound, including color, odor, state, taste and more in general.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Liquid; Dry Powder; Dry Powder, Other Solid; Dry Powder, Pellets or Large Crystals"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Collision Cross Section",
+                "Description": "Collision cross section (CCS) represents the effective area for the interaction between an individual ion and the neutral gas through which it is traveling (e.g., in ion mobility spectrometry (IMS) experiments).  It quantifies the probability of a collision taking place between two or more particles.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/28035808/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Reference": [
+                      "https://tarheels.live/bakerlab/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "https://tarheels.live/bakerlab/",
+                        "Matched": {
+                          "PCLID": 900176324,
+                          "Citation": "https://tarheels.live/bakerlab/"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "183.2 Å² [M-H]- [CCS Type: DT; Buffer gas: N2; Ionization: ESI-; Dataset: TOXCAST; Source Identifier: DTXSID9036438]",
+                          "Markup": [
+                            {
+                              "Start": 14,
+                              "Length": 1,
+                              "Type": "Superscript"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Classes",
+            "Description": "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties, radiological properties, or other factors.",
+            "Information": [
+              {
+                "ReferenceNumber": 34,
+                "Reference": [
+                  "S120 | DUSTCT2024 | Substances from Second NORMAN Collaborative Dust Trial | DOI:10.5281/zenodo.13835254"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "S120 | DUSTCT2024 | Substances from Second NORMAN Collaborative Dust Trial | DOI:10.5281/zenodo.13835254",
+                    "Matched": {
+                      "PCLID": 900164304,
+                      "Citation": "S120 | DUSTCT2024 | Substances from Second NORMAN Collaborative Dust Trial | DOI:10.5281/zenodo.13835254"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "UV filter"
+                    }
+                  ]
+                }
+              }
+            ],
+            "Section": [
+              {
+                "TOCHeading": "Cosmetics",
+                "Description": "Chemicals are used as ingredients in cosmetic products.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 34,
+                    "Reference": [
+                      "S13 | EUCOSMETICS | Combined Inventory of Ingredients Employed in Cosmetic Products (2000) and Revised Inventory (2006) | DOI:10.5281/zenodo.2624118"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "S13 | EUCOSMETICS | Combined Inventory of Ingredients Employed in Cosmetic Products (2000) and Revised Inventory (2006) | DOI:10.5281/zenodo.2624118",
+                        "Matched": {
+                          "PCLID": 906297401,
+                          "Citation": "S13 | EUCOSMETICS | Combined Inventory of Ingredients Employed in Cosmetic Products (2000) and Revised Inventory (2006) | DOI:10.5281/zenodo.2624118"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Uv absorber"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Food Contact Substances",
+                "Description": "Chemical substances are used in food packaging material and such.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "FCS -> FDA Cumulative Estimated Daily Intake (CEDI)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "FCS -> FDA Inventory of Food Contact Substances Listed in 21 CFR"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Fragrances",
+                "Description": "Chemical substances are used fragrance products.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fragrance Ingredient (Phenol, 2-(5-chloro-2H-benzotriazol-2-yl)-6-(1,1-dimethylethyl)-4-methyl-) -> IFRA transparency List",
+                          "Markup": [
+                            {
+                              "Start": 22,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Phenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-996"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Polymers",
+                "Description": "A polymer refers a class of natural or synthetic substances composed of many chemical unit monomers. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 34,
+                    "Reference": [
+                      "S47 | ECHAPLASTICS | A list from the Plastic Additives Initiative Mapping Exercise by ECHA | DOI:10.5281/zenodo.2658139"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "S47 | ECHAPLASTICS | A list from the Plastic Additives Initiative Mapping Exercise by ECHA | DOI:10.5281/zenodo.2658139",
+                        "Matched": {
+                          "PCLID": 900163574,
+                          "Citation": "S47 | ECHAPLASTICS | A list from the Plastic Additives Initiative Mapping Exercise by ECHA | DOI:10.5281/zenodo.2658139"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Plastics -> Light stabilisers"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 34,
+                    "Reference": [
+                      "S47 | ECHAPLASTICS | A list from the Plastic Additives Initiative Mapping Exercise by ECHA | DOI:10.5281/zenodo.2658139"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "S47 | ECHAPLASTICS | A list from the Plastic Additives Initiative Mapping Exercise by ECHA | DOI:10.5281/zenodo.2658139",
+                        "Matched": {
+                          "PCLID": 900163574,
+                          "Citation": "S47 | ECHAPLASTICS | A list from the Plastic Additives Initiative Mapping Exercise by ECHA | DOI:10.5281/zenodo.2658139"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Plastics -> Polyolefin-I; PUR; Polyolefin-II; PVC (soft); ABS; PVC (rigid); PC; (E)PS"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Spectral Information",
+        "Description": "Spectral data for this compound, including 1-D and 2-D nuclear magnetic resonance (NMR), Infrared (IR), Raman, and Ultraviolet (UV) spectroscopy, mass spectrometry (MS), and chromatography.",
+        "Section": [
+          {
+            "TOCHeading": "1D NMR Spectra",
+            "Description": "One-dimensional (1D) nuclear magnetic resonance (NMR) spectra.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 2
+            },
+            "Section": [
+              {
+                "TOCHeading": "1H NMR Spectra",
+                "Description": "Hydrogen-1 nuclear magnetic resonance (NMR) spectroscopy (also known as H1 NMR or proton NMR) is a version of NMR spectroscopy used to elucidate the structure of hydrogen-containing compounds.",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 39,
+                    "Name": "Source of Spectrum",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sigma-Aldrich Co. LLC."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 39,
+                    "Name": "Source of Sample",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sigma-Aldrich Co. LLC."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 39,
+                    "Name": "Catalog Number",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "422479"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 39,
+                    "Name": "Copyright",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Copyright © 2021-2025 Sigma-Aldrich Co. LLC. - Database Compilation Copyright © 2021-2025 John Wiley & Sons, Inc. All Rights Reserved."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 39,
+                    "Name": "Thumbnail",
+                    "URL": "https://spectrabase.com/spectrum/Ln8Q6y7m4Q",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/13601186_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "13C NMR Spectra",
+                "Description": "Carbon-13 nuclear magnetic resonance (NMR) spectroscopy (also known as 13C NMR) is a version of NMR spectroscopy used to elucidate the structure of carbon-containing compounds.",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 37,
+                    "Name": "Instrument Name",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Bruker WM-360"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 37,
+                    "Name": "Copyright",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Copyright © 2002-2025 Wiley-VCH GmbH. All Rights Reserved."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 37,
+                    "Name": "Thumbnail",
+                    "URL": "https://spectrabase.com/spectrum/BUtIZDvQ8Cj",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/10347133_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Mass Spectrometry",
+            "Description": "Mass spectrometry (MS or mass spec) is a technique to determine molecular structure through ionization and fragmentation of the parent compound into smaller components.",
+            "URL": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Spectroscopy/Mass_Spectrometry",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 2
+            },
+            "Section": [
+              {
+                "TOCHeading": "GC-MS",
+                "Description": "Data from gas chromatography-mass spectrometry (GC-MS) experiments.",
+                "URL": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Structure_and_Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_(Schaller)/II%3A_Practical_Aspects_of_Structure_-_Purification_and_Spectroscopy/06%3A_Introductory_Mass_Spectrometry/6.03%3A_GC-MS_and_LC-MS",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Name": "MoNA ID",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/display/JP003570",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "JP003570"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Name": "MS Category",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Experimental"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Name": "MS Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "GC-MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS1"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Unknown"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EI-B"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "positive"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "300 99.99"
+                        },
+                        {
+                          "String": "315 52.16"
+                        },
+                        {
+                          "String": "302 35.18"
+                        },
+                        {
+                          "String": "119 26.32"
+                        },
+                        {
+                          "String": "272 22.44"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Name": "SPLASH",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/browse?query=exists(splash.splash:%27splash10-0uxr-2319000000-77a8dd4990a7ce54fe02%27)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-0uxr-2319000000-77a8dd4990a7ce54fe02"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=300:99.99,315:52.16,302:35.18,119:26.32,272:22.44",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=300:99.99,315:52.16,302:35.18,119:26.32,272:22.44"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Name": "License",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC BY-NC-SA"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Name": "NIST Number",
+                    "Value": {
+                      "Number": [
+                        231619
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Name": "Library",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Main library"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Name": "Total Peaks",
+                    "Value": {
+                      "Number": [
+                        239
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Name": "m/z Top Peak",
+                    "Value": {
+                      "Number": [
+                        300
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Name": "m/z 2nd Highest",
+                    "Value": {
+                      "Number": [
+                        315
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Name": "m/z 3rd Highest",
+                    "Value": {
+                      "Number": [
+                        302
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Name": "Thumbnail",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/230398_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 32,
+                    "Name": "NIST Number",
+                    "Value": {
+                      "Number": [
+                        408522
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 32,
+                    "Name": "Library",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Replicate library"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 32,
+                    "Name": "Total Peaks",
+                    "Value": {
+                      "Number": [
+                        243
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 32,
+                    "Name": "m/z Top Peak",
+                    "Value": {
+                      "Number": [
+                        300
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 32,
+                    "Name": "m/z 2nd Highest",
+                    "Value": {
+                      "Number": [
+                        315
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 32,
+                    "Name": "m/z 3rd Highest",
+                    "Value": {
+                      "Number": [
+                        119
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 32,
+                    "Name": "Thumbnail",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/280245_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Name": "Technique",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "GC/MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Name": "Source of Spectrum",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DigiLab GmbH (C) 2024"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Name": "Copyright",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Copyright © 2024-2025 DigiLab GmbH and Wiley-VCH GmbH. All Rights Reserved."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Name": "Thumbnail",
+                    "URL": "https://spectrabase.com/spectrum/GWlrXVHOKxs",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/39045970_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "MS-MS",
+                "Description": "Data from tandem mass spectrometry (MS-MS) experiments.",
+                "URL": "https://goldbook.iupac.org/terms/view/T06250",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "NIST Number",
+                    "Value": {
+                      "Number": [
+                        1202809
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "IT/ion trap"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "Spectrum Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "Precursor Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M+H]+"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "Number": [
+                        316.1211
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "Total Peaks",
+                    "Value": {
+                      "Number": [
+                        53
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "m/z Top Peak",
+                    "Value": {
+                      "Number": [
+                        260
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "m/z 2nd Highest",
+                    "Value": {
+                      "Number": [
+                        261
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "m/z 3rd Highest",
+                    "Value": {
+                      "Number": [
+                        298.9
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "Thumbnail",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/283831_1"
+                      ],
+                      "MimeType": "image/png"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "LC-MS",
+                "Description": "Data from liquid chromatography-mass spectrometry (LC-MS) experiments.",
+                "URL": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Structure_and_Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_(Schaller)/II%3A_Practical_Aspects_of_Structure_-_Purification_and_Spectroscopy/06%3A_Introductory_Mass_Spectrometry/6.03%3A_GC-MS_and_LC-MS",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Accession ID",
+                    "URL": "https://massbank.eu/MassBank/RecordDisplay?id=MSBNK-BAFG-CSL2311109740",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MSBNK-BAFG-CSL2311109740"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Authors",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Ole Lessmann; Kevin S. Jewell; Björn Ehlig; Arne Wick"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+  

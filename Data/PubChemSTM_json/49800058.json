@@ -1,0 +1,2430 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 49800058,
+    "RecordTitle": "Indium chloride in-111",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Status",
+            "Description": "The reason why three-dimensional (3D) conformers for this compound cannot be generated.  PubChem generates 3D conformers for each compound that satisfies the following conditions: [1] not too large (with <= 50 non-hydrogen atoms), [2] not too flexible (with <= 15 rotatable bonds), [3] consisting of only supported elements (H, C, N, O, F, Si, P, S, Cl, Br, and I), [4] having only a single covalent unit (i.e., not a salt or a mixture), [5] contains only atom types recognized by the MMFF94s force field used for conformer generation, and [6] has fewer than six undefined atom or bond stereo centers.  Compounds that do not satisfy any of these conditions are not considered for 3-D conformer generation.  In some rare cases, a compound satisfies all conditions but the conformer generation for the compound fails for some reason. More detailed information on 3D conformer generation can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Conformer generation is disallowed since MMFF94s unsupported element"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Indium In-111 Chloride is a diagnostic radiopharmaceutical agent intended for radiolabeling OncoScint (satumomab pendetide) or ProstaScint (capromab pendetide) used for in vivo diagnostic imaging procedures and for radiolabeling Zevalin (ibritumomab tiuxetan) in preparations used for radioimmunotherapy procedures. It  is supplied as a sterile, pyrogen-free solution of Indium (\"'In) Chloride in O.04M HCI.",
+                      "Markup": [
+                        {
+                          "Start": 169,
+                          "Length": 7,
+                          "Type": "Italics"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        },
+                        {
+                          "Start": 113,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pendetide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-66648912"
+                        },
+                        {
+                          "Start": 149,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pendetide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-66648912"
+                        },
+                        {
+                          "Start": 371,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Indium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Indium"
+                        },
+                        {
+                          "Start": 385,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-312"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 12,
+                "Description": "FDA Pharmacology Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Indium in-111 chloride is a Radioactive Diagnostic Agent. The mechanism of action of indium in-111 chloride is as a Radiopharmaceutical Activity.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20in-111%20chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        },
+                        {
+                          "Start": 85,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/indium%20in-111%20chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Indium In-111 Chloride is a radioactive salt that is used as a reagent in the preparation of indium 111-labeled radiopharmaceuticals. Indium 111-labeled radioconjugates are used as radioactive tracers in nuclear medicine that detect malignant lesions and inflammatory tissues probably due to an increased capillary permeability. Indium-111 chloride is particularly used in the radiolabeling of the monoclonal antibodies satumomab pendetide, 7E11-C5.3 (CYT-356), and ibritumomab tiuxetan. (NCI05)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        },
+                        {
+                          "Start": 93,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/indium-111",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5462099"
+                        },
+                        {
+                          "Start": 134,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium-111",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5462099"
+                        },
+                        {
+                          "Start": 329,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium-111",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5462099"
+                        },
+                        {
+                          "Start": 340,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-312"
+                        },
+                        {
+                          "Start": 430,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pendetide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-66648912"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "trichloro(111In)indigane",
+                          "Markup": [
+                            {
+                              "Start": 10,
+                              "Length": 3,
+                              "Type": "Superscript"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/3ClH.In/h3*1H;/q;;;+3/p-3/i;;;1-4"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "PSCMQHVBLHHWTO-FZTWWWDYSA-K"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cl[111In](Cl)Cl"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Cl3In"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "50800-85-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "50800-85-6"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "50800-85-6"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DrugBank ID",
+                "Description": "Drug identifier used by the DrugBank database",
+                "URL": "https://go.drugbank.com/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "URL": "https://www.drugbank.ca/drugs/DB09490",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DB09490"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID90965038",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID90965038"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "NCI Thesaurus Code",
+                "Description": "Stable, unique code for biomedical concept",
+                "URL": "https://ncithesaurus.nci.nih.gov",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "URL": "https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47562",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C47562"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "RXCUI",
+                "Description": "RxNorm concept unique identifier (RXCUI)",
+                "URL": "https://www.nlm.nih.gov/research/umls/rxnorm/index.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "URL": "https://rxnav.nlm.nih.gov/id/rxnorm/42987",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "42987"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "URL": "https://www.wikidata.org/wiki/Q27098008",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q27098008"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Indium In 111 chloride"
+                        },
+                        {
+                          "String": "111Indium trichloride"
+                        },
+                        {
+                          "String": "Indiclor"
+                        },
+                        {
+                          "String": "Indium Chloride In-111"
+                        },
+                        {
+                          "String": "INDIUM IN-111 CHLORIDE"
+                        },
+                        {
+                          "String": "Indium chloride (111InCl3)"
+                        },
+                        {
+                          "String": "Indium (111In) Chloride"
+                        },
+                        {
+                          "String": "50800-85-6"
+                        },
+                        {
+                          "String": "Indium-111 chloride"
+                        },
+                        {
+                          "String": "58TD96H03I"
+                        },
+                        {
+                          "String": "Indium In 111m chloride"
+                        },
+                        {
+                          "String": "Indium In-111m chloride"
+                        },
+                        {
+                          "String": "DTXSID90965038"
+                        },
+                        {
+                          "String": "RefChem:1087286"
+                        },
+                        {
+                          "String": "Indium (111 in) chloride"
+                        },
+                        {
+                          "String": "DTXCID801392715"
+                        },
+                        {
+                          "String": "Indium (111In) Chloride Injection"
+                        },
+                        {
+                          "String": "Indium(iii) 111 chloride"
+                        },
+                        {
+                          "String": "UNII-58TD96H03I"
+                        },
+                        {
+                          "String": "SCHEMBL29449386"
+                        },
+                        {
+                          "String": "DB09490"
+                        },
+                        {
+                          "String": "Q27098008"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "INDIUM CHLORIDE"
+                        },
+                        {
+                          "String": "Cl3-In"
+                        },
+                        {
+                          "String": "Indiumchloride(InCl3)"
+                        },
+                        {
+                          "String": "Indium chloride (InCl3)"
+                        },
+                        {
+                          "String": "D0TB1L"
+                        },
+                        {
+                          "String": "indium-111(3+),trichloride"
+                        },
+                        {
+                          "String": "Indium (111In) chloride injection"
+                        },
+                        {
+                          "String": "10025-82-8"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "DateISO8601": [
+                    "2010-12-22"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-09-07"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "217.26"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "215.81167"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "215.81167"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        4
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        8
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Classes",
+            "Description": "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties, radiological properties, or other factors.",
+            "Section": [
+              {
+                "TOCHeading": "Drugs",
+                "Description": "Chemicals are used as active ingredients in drug/pharmaceutical products, including human drugs, animal drugs, biologics, etc.",
+                "Section": [
+                  {
+                    "TOCHeading": "Human Drugs",
+                    "Description": "Chemicals are used as active ingredients in human drug products.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 6,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Active ingredient (INDIUM IN-111 CHLORIDE)",
+                              "Markup": [
+                                {
+                                  "Start": 33,
+                                  "Length": 22,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/INDIUM%20IN-111%20CHLORIDE",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-49800058"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 7,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 8,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID49800058%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID49800058%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "Same Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/49800058/cids/JSON?cids_type=same_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/49800058/cids/JSON?cids_type=component&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    8
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID49800058%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID49800058%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/518178633",
+                    "Value": {
+                      "Number": [
+                        518178633
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "All Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/49800058/sids/JSON?sids_type=all&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        26
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/49800058/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        18
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Mixture Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/49800058/sids/JSON?sids_type=component&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        8
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 17,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Drug and Medication Information",
+        "Description": "This section provides drug and medication information for this compound, including drug indications, labeling, clinical trials, idiosyncrasies, tolerance, reported fatal doses, etc.",
+        "Section": [
+          {
+            "TOCHeading": "Drug Indication",
+            "Description": "A drug indication refers to any valid reason (e.g., signs/symptoms or diseases/disorders) to use a certain drug.  Many indications are label indications, approved by a regulatory agency (e.g., the U.S. Food and Drug Administration or European Medical Agency), meaning that the manufacturer is allowed to market the drug for the approved indications.  However, some indications are not approved, and therefore, they are called off-label indications.  This section may include both label indications and off-label indications.",
+            "DisplayControls": {
+              "ShowAtMost": 3
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Indium In-111 Chloride is indicated for radio labeling of monoclonal antibodies in preparations used for in vivo diagnostic imaging procedures. Indiclor is also indicated for radiolabeling Zevalin in preparations used for radio immunotherapy procedure",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indiclor",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA Approved Drugs",
+            "Description": "Drugs@FDA includes information about approved drugs and biological products for human use in the United States.",
+            "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/about-drugsfda",
+            "DisplayControls": {
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "ExternalTableName": "collection=fdadrug&query_type=synonym&query='^INDIUM CHLORIDE IN-111$'"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA Orange Book",
+            "Description": "The Orange Book identifies drug products approved on the basis of safety and effectiveness by the U.S. Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act and and related patent and exclusivity information.",
+            "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+            "DisplayControls": {
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "ExternalTableName": "collection=fdaorangebook&query_type=synonym&query='^INDIUM IN-111 CHLORIDE$'"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Drug Labels",
+            "Description": "This section provides the drug labeling information for drug products associated with this compound. This information is from The National Library of Medicine (NLM)'s DailyMed, which provides the most recent labeling submitted to the Food and Drug Administration (FDA) by companies and currently in use (i.e., \"in use\" labeling). DailyMed contains labeling for prescription and nonprescription drugs for human and animal use, and for additional products such as medical gases, devices, cosmetics, dietary supplements, and medical foods.",
+            "URL": "https://dailymed.nlm.nih.gov/dailymed/",
+            "DisplayControls": {
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 2,
+                "Name": "Drug and label",
+                "Value": {
+                  "ExternalTableName": "collection=dailymed&query_type=synonym&query='^INDIUM IN-111 CHLORIDE$'"
+                }
+              },
+              {
+                "ReferenceNumber": 3,
+                "Name": "Drug and label",
+                "Value": {
+                  "ExternalTableName": "collection=dailymed&query_type=synonym&query='^INDIUM IN 111 CHLORIDE$'"
+                }
+              },
+              {
+                "ReferenceNumber": 4,
+                "Name": "Active ingredient and drug",
+                "Value": {
+                  "ExternalTableName": "collection=dailymed_i&query_type=synonym&query='^INDIUM CHLORIDE IN-111$'"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Pharmacology and Biochemistry",
+        "Description": "Pharmacology and biochemistry information related to this compound, including the pharmacodynamics, pharmacokinetics, metabolism, mechanism of action, biological half-life, biochemical reactions, and many others.",
+        "Section": [
+          {
+            "TOCHeading": "Pharmacodynamics",
+            "Description": "Pharmacodynamic information for this compound as a drug (i.e., what does this drug do to the body).  Pharmacodynamics is the study of the biochemical, physiologic, and molecular effects of drugs on the body.",
+            "URL": "https://www.ncbi.nlm.nih.gov/books/NBK507791/",
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Indium In-111 Chloride is a radioactive tracer for labeling monoclonal antibodies in certain preparations such as OncoScint, ProstaScint and Zevalin. Its pharmacodynamics is related to the final product and not specific to Indium In-111 Chloride alone",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        },
+                        {
+                          "Start": 223,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA Pharmacological Classification",
+            "Description": "Pharmacologic Class is a group of active moieties that share scientifically documented properties and is defined on the basis of any combination of three attributes of the active moiety: mechanism of action (MOA), physiologic effect (PE) and chemical structure (CS).  An FDA \"Established Pharmacologic Class\" (EPC) text phrase is a pharmacologic class associated with an approved indication of an active moiety that the FDA has determined to be scientifically valid and clinically meaningful.",
+            "URL": "https://www.fda.gov/industry/structured-product-labeling-resources/pharmacologic-class",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              }
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 12,
+                "Name": "FDA UNII",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "58TD96H03I"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 12,
+                "Name": "Active Moiety",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "INDIUM IN-111 CHLORIDE"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 12,
+                "Name": "Pharmacological Classes",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Established Pharmacologic Class [EPC] - Radioactive Diagnostic Agent"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 12,
+                "Name": "Pharmacological Classes",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Mechanisms of Action [MoA] - Radiopharmaceutical Activity"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 12,
+                "Name": "FDA Pharmacology Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Indium in-111 chloride is a Radioactive Diagnostic Agent. The mechanism of action of indium in-111 chloride is as a Radiopharmaceutical Activity.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20in-111%20chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        },
+                        {
+                          "Start": 85,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/indium%20in-111%20chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Absorption, Distribution and Excretion",
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Name": "Absorption",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Indium In-111 Chloride is a radioactive tracer for labeling monoclonal antibodies in certain preparations such as OncoScint, ProstaScint and Zevalin. Its absoption is related to the final product and not specific to Indium In-111 Chloride alone",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        },
+                        {
+                          "Start": 216,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 5,
+                "Name": "Route of Elimination",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Indium In-111 Chloride is a radioactive tracer for labeling monoclonal antibodies in certain preparations such as OncoScint, ProstaScint and Zevalin. Itsroute of elimination is related to the final product and not specific to Indium In-111 Chloride alone",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        },
+                        {
+                          "Start": 226,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 5,
+                "Name": "Volume of Distribution",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Indium In-111 Chloride is a radioactive tracer for labeling monoclonal antibodies in certain preparations such as OncoScint, ProstaScint and Zevalin. Its volume of distribution is related to the final product and not specific to Indium In-111 Chloride alone",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        },
+                        {
+                          "Start": 229,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 5,
+                "Name": "Clearance",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Indium In-111 Chloride is a radioactive tracer for labeling monoclonal antibodies in certain preparations such as OncoScint, ProstaScint and Zevalin. Its clearance is related to the final product and not specific to Indium In-111 Chloride alone",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        },
+                        {
+                          "Start": 216,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Metabolism/Metabolites",
+            "Description": "Metabolites are substances made or used when the body breaks down food, drugs or chemicals, or its own tissue (for example, fat or muscle tissue). This process is called metabolism and makes energy and the materials needed for growth, reproduction, and maintaining health. Metabolism also helps get rid of toxic substances.",
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Indium In-111 Chloride is a radioactive tracer for labeling monoclonal antibodies in certain preparations such as OncoScint, ProstaScint and Zevalin. Its metabolism is related to the final product and not specific to Indium In-111 Chloride alone",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        },
+                        {
+                          "Start": 217,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Biological Half-Life",
+            "Description": "The time required for a biological system (e.g., human body) to eliminate, by natural processes, half of the amount of a chemical (e.g., alcohol, medication, or radioactive material) that has entered it.",
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "2.8 days"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Mechanism of Action",
+            "Description": "In medicine, the term \"mechanism of action\" (also called MOA) is used to describe how a drug or other substance produces an effect in the body. For example, a drug's mechanism of action could be how it affects a specific target in a cell, such as an enzyme, or a cell function, such as cell growth. Knowing the mechanism of action of a drug may help provide information about the safety of the drug and how it affects the body. It may also help identify the right dose of a drug and which patients are most likely to respond to treatment.",
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Indium In-111 Chloride is a radioactive tracer for labeling monoclonal antibodies in certain preparations such as OncoScint, ProstaScint and Zevalin. Its mechanism of action is related to the final product and not specific to Indium In-111 Chloride alone",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        },
+                        {
+                          "Start": 226,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+        "Section": [
+          {
+            "TOCHeading": "Uses",
+            "Description": "Major uses of this chemical, including both consumer uses and industrial uses.",
+            "Section": [
+              {
+                "TOCHeading": "Use Classification",
+                "Description": "This section contains use classification/category information for this compound from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Human Drugs -> FDA Approved Drug Products with Therapeutic Equivalence Evaluations (Orange Book) -> Active Ingredients"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Protein Binding",
+                "Description": "In this section, \"protein binding\" refers to the degree to which medications attach to plasma proteins (i.e., proteins within the blood, such as human serum albumin, lipoprotein, glycoprotein and globulins). A drug's efficiency may be affected by the degree to which it binds to plasma proteins. The less bound a drug is, the more efficiently it can traverse cell membranes or diffuse.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Indium In-111 Chloride is a radioactive tracer for labeling monoclonal antibodies in certain preparations such as OncoScint, ProstaScint and Zevalin. Its protein binding is related to the final product and not specific to Indium In-111 Chloride alone",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 22,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-49800058"
+                            },
+                            {
+                              "Start": 222,
+                              "Length": 22,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20Chloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-49800058"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Associated Disorders and Diseases",
+        "Description": "Disorders and diseases associated with the compound.  The contexts of the associations listed in this section vary. For example, a compound may cause its associated diseases (e.g., carcinogens and cancers) or have a therapeutic effect in treatment of the diseases (e.g., antihistamines and allergies), or be used as a marker/indicator for the diseases (e.g., glucose and diabetes).",
+        "DisplayControls": {
+          "CreateTable": {
+            "FromInformationIn": "Subsections",
+            "NumberOfColumns": 2,
+            "ColumnHeadings": [
+              "Disease",
+              "References"
+            ],
+            "ColumnContents": [
+              "Name",
+              "Value"
+            ]
+          }
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 15,
+            "Value": {
+              "ExternalTableName": "consolidateddiseaseassociation"
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 5,
+            "Value": {
+              "StringWithMarkup": [
+                {
+                  "String": "US6123916",
+                  "Markup": [
+                    {
+                      "Start": 0,
+                      "Length": 9,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/patent/US6123916"
+                    }
+                  ]
+                },
+                {
+                  "String": "US5776894",
+                  "Markup": [
+                    {
+                      "Start": 0,
+                      "Length": 9,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/patent/US5776894"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/49800058/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "WIPO PATENTSCOPE",
+            "Description": "Use the provided link to show patents associated with this chemical structure in WIPO's PATENTSCOPE system.",
+            "URL": "https://www.wipo.int/patentscope/en/",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Patents are available for this chemical structure:"
+                    },
+                    {
+                      "String": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=PSCMQHVBLHHWTO-FZTWWWDYSA-K",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 86,
+                          "URL": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=PSCMQHVBLHHWTO-FZTWWWDYSA-K"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Patents",
+            "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalChemical"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+            "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalDisease"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalGene"
+                    },
+                    {
+                      "String": "Gene"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and organisms mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalOrganism"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Interactions and Pathways",
+        "Description": "This section provides information on the biomolecular interactions of this compound with drugs, genes, proteins, etc., as well as the pathways in which this compound is involved.",
+        "Section": [
+          {
+            "TOCHeading": "Drug-Food Interactions",
+            "Description": "Drug-food interactions for this compound. Drug-food/beverage interactions result from drugs reacting with foods or beverages. For example, mixing alcohol with some drugs may cause you to feel tired or slow your reactions.",
+            "URL": "https://www.fda.gov/drugs/resources-you-drugs/drug-interactions-what-you-should-know",
+            "DisplayControls": {
+              "ListType": "Bulleted"
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 5,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Drink plenty of fluids. Fluids will help remove excess radiation from the body when Indium In-111 chloride is used to radiolabel pentetreotide.",
+                      "Markup": [
+                        {
+                          "Start": 84,
+                          "Length": 22,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indium%20In-111%20chloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-49800058"
+                        },
+                        {
+                          "Start": 129,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pentetreotide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-72128"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "NCI Thesaurus Tree",
+            "Description": "NCI Thesaurus (NCIt) hierarchy",
+            "URL": "https://ncithesaurus.nci.nih.gov",
+            "Information": [
+              {
+                "ReferenceNumber": 23,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=112",
+                "Value": {
+                  "Number": [
+                    112
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA Pharm Classes",
+            "Description": "Pharmacologic Class is a group of active moieties that share scientifically documented properties and is defined on the basis of any combination of three attributes of the active moiety: mechanism of action (MOA), physiologic effect (PE) and chemical structure (CS).  An FDA \"Established Pharmacologic Class\" (EPC) text phrase is a pharmacologic class associated with an approved indication of an active moiety that the FDA has determined to be scientifically valid and clinically meaningful.",
+            "URL": "https://www.fda.gov/industry/structured-product-labeling-resources/pharmacologic-class",
+            "Information": [
+              {
+                "ReferenceNumber": 19,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=78",
+                "Value": {
+                  "Number": [
+                    78
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChemIDplus",
+            "Description": "Classification of this compound, provided by ChemIDplus, which is a free web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases.  ChemIDplus groups chemicals based on the source locators (i.e., what information resources have data for a given chemical).",
+            "URL": "https://chem.nlm.nih.gov/chemidplus/",
+            "Information": [
+              {
+                "ReferenceNumber": 20,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                "Value": {
+                  "Number": [
+                    84
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA DSSTox Classification",
+            "Description": "Classification from the U.S. Environmental Protection Agency's Distributed Structure-Searchable Toxicity (DSSTox) database. DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology. A distinguishing feature of this effort is the accurate mapping of bioassay and physicochemical property data associated with chemical substances to their corresponding chemical structures. ",
+            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=105",
+                "Value": {
+                  "Number": [
+                    105
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "MolGenie Organic Chemistry Ontology",
+            "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign compounds to structural classes, currently mapped to >1.7 million per- and polyfluoroalkyl substances (PFAS) extracted from the datasets explained in Barnabas et al (2022) DOI: 10.1039/D2DD00019A",
+            "URL": "https://github.com/MolGenie/ontology/",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=134",
+                "Value": {
+                  "Number": [
+                    134
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemicals in PubChem from Regulatory Sources",
+            "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources.",
+            "Information": [
+              {
+                "ReferenceNumber": 25,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=135",
+                "Value": {
+                  "Number": [
+                    135
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "ChemIDplus",
+        "SourceID": "0050800856",
+        "Name": "Indium chloride In-111",
+        "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0050800856",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 907629
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "DrugBank",
+        "SourceID": "DB09490",
+        "Name": "Indium In-111 chloride",
+        "Description": "The DrugBank database is a unique bioinformatics and cheminformatics resource that combines detailed drug (i.e. chemical, pharmacological and pharmaceutical) data with comprehensive drug target (i.e. sequence, structure, and pathway) information.",
+        "URL": "https://www.drugbank.ca/drugs/DB09490",
+        "LicenseNote": "Creative Common's Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0/legalcode)",
+        "LicenseURL": "https://www.drugbank.ca/legal/terms_of_use",
+        "ANID": 3626456
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "DTXSID90965038",
+        "Name": "Indium chloride (111InCl3)",
+        "Description": "DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology.",
+        "URL": "https://comptox.epa.gov/dashboard/DTXSID90965038",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 17775181
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "DailyMed",
+        "SourceID": "e580866c2ce55f4ec4f3e8cf0638115a",
+        "Name": "INDIUM IN-111 CHLORIDE",
+        "Description": "The U.S. National Library of Medicine's DailyMed provides trustworthy information about marketed drugs. DailyMed is the official provider of FDA label information (package inserts).",
+        "URL": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=INDIUM+IN-111+CHLORIDE",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "ANID": 30950507
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "DailyMed",
+        "SourceID": "d004f3ac71f6e8166a17c23f0fd7454c",
+        "Name": "INDIUM IN 111 CHLORIDE",
+        "Description": "The U.S. National Library of Medicine's DailyMed provides trustworthy information about marketed drugs. DailyMed is the official provider of FDA label information (package inserts).",
+        "URL": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=INDIUM+IN+111+CHLORIDE",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "ANID": 30954260
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "DailyMed",
+        "SourceID": "480eaadd8220cb75ef83f6098eaa7d88",
+        "Name": "INDIUM CHLORIDE IN-111",
+        "Description": "The U.S. National Library of Medicine's DailyMed provides trustworthy information about marketed drugs. DailyMed is the official provider of FDA label information (package inserts).",
+        "URL": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=INDIUM+CHLORIDE+IN-111",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "ANID": 30960525
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "FDA Pharm Classes",
+        "SourceID": "58TD96H03I",
+        "Name": "INDIUM IN-111 CHLORIDE",
+        "Description": "FDA Pharmacologic class is a group of active moieties that share scientifically documented properties and is defined on the basis of any combination of attributes of the active moiety. Read more at https://www.fda.gov/industry/structured-product-labeling-resources/pharmacologic-class",
+        "URL": "https://dailymed.nlm.nih.gov/dailymed/browse-drug-classes.cfm",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 6490274
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "NCI Thesaurus (NCIt)",
+        "SourceID": "C47562::Compound",
+        "Description": "NCI Thesaurus (NCIt), from the U.S. National Cancer Institute, provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.",
+        "URL": "https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47562",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse",
+        "ANID": 14396083
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "943bf3f3e151151671cb665dbd4d6e2e",
+        "Name": "INDIUM IN-111 CHLORIDE",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38972468
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "f006c0793c862149f7a88f6f2c312782",
+        "Name": "INDIUM IN 111 CHLORIDE",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38972690
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "36f9884ea949852100059f5b8191d9e8",
+        "Name": "INDICLOR",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38976553
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "480eaadd8220cb75ef83f6098eaa7d88",
+        "Name": "INDIUM CHLORIDE IN-111",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 45227121
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "FDA Orange Book",
+        "SourceID": "6d82d088715d8ffc19cf8c0195648d53",
+        "Name": "INDIUM IN-111 CHLORIDE",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 35235917
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "NLM RxNorm Terminology",
+        "SourceID": "42987",
+        "Name": "indium In-111 chloride",
+        "Description": "RxNorm provides normalized names for clinical drugs and links its names to many of the drug vocabularies commonly used in pharmacy management and drug interaction software.",
+        "URL": "https://rxnav.nlm.nih.gov/id/rxnorm/42987",
+        "LicenseNote": "The RxNorm Terminology is created by the National Library of Medicine (NLM) and is in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from NLM. Credit to the U.S. National Library of Medicine as the source is appreciated but not required. The full RxNorm dataset requires a free license.",
+        "LicenseURL": "https://www.nlm.nih.gov/research/umls/rxnorm/docs/termsofservice.html",
+        "ANID": 15096852
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "Therapeutic Target Database (TTD)",
+        "SourceID": "D0TB1L",
+        "Name": "Indium In-111 Chloride",
+        "Description": "Therapeutic Target Database (TTD) is a database to provide information about the known and explored therapeutic protein and nucleic acid targets, the targeted disease, pathway information and the corresponding drugs directed at each of these targets.",
+        "URL": "https://idrblab.net/ttd/data/drug/details/D0TB1L",
+        "ANID": 19783058
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q27098008",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q27098008",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44217477
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "FDA Pharm Classes",
+        "SourceID": "FDA_pharm_tree",
+        "Name": "FDA Pharmacological Classification",
+        "Description": "FDA pharmacologic class is a group of active moieties that share scientifically documented properties and is defined on the basis of any combination of attributes of the active moiety.",
+        "URL": "https://www.fda.gov/industry/structured-product-labeling-resources/pharmacologic-class",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking"
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "ChemIDplus",
+        "SourceID": "ChemIDplus_tree",
+        "Name": "ChemIDplus Chemical Information Classification",
+        "Description": "ChemIDplus is a TOXNET (TOXicology data NETwork) databases that contain chemicals and drugs related information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/chemidplus",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "dsstoxlist_tree",
+        "Name": "CompTox Chemicals Dashboard Chemical Lists",
+        "Description": "This classification lists the chemical categories from the EPA CompTox Chemicals Dashboard.",
+        "URL": "https://comptox.epa.gov/dashboard/chemical-lists/",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "NCI Thesaurus (NCIt)",
+        "SourceID": "NCIt",
+        "Name": "NCI Thesaurus",
+        "Description": "The NCI Thesaurus (NCIt) provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.",
+        "URL": "https://ncit.nci.nih.gov",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse"
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "MolGenie",
+        "SourceID": "mol_classes",
+        "Name": "MolGenie Organic Chemistry Ontology",
+        "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign chemical entities to structural classes, split into three main subsections: calculated properties, compounds and substructural concepts. The ontology contains chemistry structural classes with a focus on elements and small organic compounds, but not inorganic, polymer, biopolymer, metal complexes, metal organic frameworks (MOFs) and other chemistry entities. The ontology has been mapped to several collections of chemicals, including (a) Chemicals of Biological Interest (ChEBI), (b) the ChEMBL database of bioactive molecules, (c) the LOTUS natural product collection, (d) per- and polyfluoroalkyl substances (PFAS) extracted from Barnabas et al (2022) DOI: 10.1039/D2DD00019A (e) PubChemLite and (f) the ZeroPM Global Chemical Inventory.",
+        "URL": "https://github.com/MolGenie/ontology/",
+        "LicenseNote": "CC-BY 4.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "PubChem",
+        "SourceID": "regtree",
+        "Name": "Chemicals in PubChem from Regulatory Sources",
+        "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources."
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "PATENTSCOPE (WIPO)",
+        "Name": "SID 459548075",
+        "Description": "The PATENTSCOPE database from WIPO includes patent and chemical structure search (with a free account) that gives access to millions of patent documents. The World Intellectual Property Organisation (WIPO) is a specialized United Nations (UN) agency headquartered in Geneva (Switzerland). Our mission is to lead the development of a balanced and effective international Intellectual Property (IP) system that enables innovation and creativity for the benefit of all. We help governments, businesses and society realize the benefits of Intellectual Property and are notably a world reference source for IP information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/459548075"
+      }
+    ]
+  }
+}

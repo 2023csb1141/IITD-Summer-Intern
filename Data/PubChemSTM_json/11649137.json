@@ -1,0 +1,3377 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 11649137,
+    "RecordTitle": "Gymnodimine",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Description": "Gymnodimine",
+                "Value": {
+                  "Number": [
+                    11649137
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Name": "Record Description",
+                "Description": "Ontology Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Gymnodimine is a tetrahydropyridine.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11649137"
+                        },
+                        {
+                          "Start": 17,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tetrahydropyridine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-10176084"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 9,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Gymnodimine has been reported in Gymnodinium with data available.",
+                      "Markup": [
+                        {
+                          "Start": 33,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/2955#section=Natural-Products"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11649137"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 12,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Gymnodimine is found in mollusks. Gymnodimine is isolated from New Zealand oysters (Tiostrea chilensis) and the dinoflagellate Gymnodinium cf. mikimotoi.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11649137"
+                        },
+                        {
+                          "Start": 34,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11649137"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "a spiro-imine algal toxin; a neurotoxic shellfish poison produced by Karenia selliformis (formerly Gymnodinium selliforme) and related species"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "(2S)-2-[(1R,2E,11R,16S,17E,19S,22R,24R)-19-hydroxy-2,15,18,24-tetramethyl-25-oxa-7-azatetracyclo[20.2.1.06,11.011,16]pentacosa-2,6,14,17-tetraen-14-yl]-4-methyl-2H-furan-5-one",
+                          "Markup": [
+                            {
+                              "Start": 2,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 10,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 13,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 17,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 21,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 25,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 29,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 33,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 37,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 105,
+                              "Length": 4,
+                              "Type": "Superscript"
+                            },
+                            {
+                              "Start": 111,
+                              "Length": 5,
+                              "Type": "Superscript"
+                            },
+                            {
+                              "Start": 162,
+                              "Length": 1,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C32H45NO4/c1-19-8-6-9-29-32(13-7-15-33-29)14-12-25(28-18-22(4)31(35)37-28)23(5)26(32)17-20(2)27(34)11-10-24-16-21(3)30(19)36-24/h8,17-18,21,24,26-28,30,34H,6-7,9-16H2,1-5H3/b19-8+,20-17+/t21-,24-,26+,27+,28+,30+,32+/m1/s1"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DVXZVCNEGRKLMW-RPGUUIFVSA-N"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C[C@@H]1C[C@H]2CC[C@@H](/C(=C/[C@H]3C(=C(CC[C@@]34CCCN=C4CC/C=C(/[C@@H]1O2)\\C)[C@@H]5C=C(C(=O)O5)C)C)/C)O"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C32H45NO4"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "173792-58-0"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "173792-58-0"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "173792-58-0"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "173792-58-0"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "173792-58-0"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/7TV3J97IT8",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "7TV3J97IT8"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ChEBI ID",
+                "Description": "Identifier from database and ontology of molecular entities focused on 'small' chemical compounds used by the Chemical Entities of Biological Interest (ChEBI)",
+                "URL": "https://www.ebi.ac.uk/chebi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "URL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:144404",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CHEBI:144404"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID60880103",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID60880103"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "KEGG ID",
+                "Description": "KEGG compound/drug identifier",
+                "URL": "https://www.kegg.jp/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "URL": "https://www.kegg.jp/entry/C20025",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C20025"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Metabolomics Workbench ID",
+                "Description": "Registration number used by Metabolomics Workbench",
+                "URL": "https://www.metabolomicsworkbench.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=49352",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "49352"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "URL": "https://www.wikidata.org/wiki/Q27268839",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q27268839"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "MeSH Entry Terms",
+                "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32.",
+                "URL": "http://doi.org/10.1186/s13321-016-0142-6",
+                "DisplayControls": {
+                  "ListType": "Columns"
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "gymnodimine"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Gymnodimine"
+                        },
+                        {
+                          "String": "(-)-Gymnodimine"
+                        },
+                        {
+                          "String": "GYM A"
+                        },
+                        {
+                          "String": "7TV3J97IT8"
+                        },
+                        {
+                          "String": "173792-58-0"
+                        },
+                        {
+                          "String": "RefChem:144882"
+                        },
+                        {
+                          "String": "5-(19-hydroxy-2,15,18,24-tetramethyl-25-oxa-7-azatetracyclo(20.2.1.0^(6,11).0^(11,16))pentacosa-2,6,14,17-tetraen-14-yl)-3-methyl-2,5-dihydrofuran-2-one"
+                        },
+                        {
+                          "String": "5-((2E)-19-hydroxy-2,15,18,24-tetramethyl-25-oxa-7-azatetracyclo(20.2.1.06,11.011,16)pentacosa-2,6,14,17-tetraen-14-yl)-3-methyl-2,5-dihydrofuran-2-one"
+                        },
+                        {
+                          "String": "(2S)-2-((1R,2E,11R,16S,17E,19S,22R,24R)-19-hydroxy-2,15,18,24-tetramethyl-25-oxa-7-azatetracyclo(20.2.1.06,11.011,16)pentacosa-2,6,14,17-tetraen-14-yl)-4-methyl-2H-furan-5-one"
+                        },
+                        {
+                          "String": "GYMNODIMINE A"
+                        },
+                        {
+                          "String": "GYM A [HSDB]"
+                        },
+                        {
+                          "String": "UNII-7TV3J97IT8"
+                        },
+                        {
+                          "String": "SCHEMBL29509505"
+                        },
+                        {
+                          "String": "HSDB 7754"
+                        },
+                        {
+                          "String": "DTXSID60880103"
+                        },
+                        {
+                          "String": "CHEBI:144404"
+                        },
+                        {
+                          "String": "C20025"
+                        },
+                        {
+                          "String": "Q27268839"
+                        },
+                        {
+                          "String": "(2S)-2-[(1R,2E,11R,16S,17E,19S,22R,24R)-19-hydroxy-2,15,18,24-tetramethyl-25-oxa-7-azatetracyclo[20.2.1.06,11.011,16]pentacosa-2,6,14,17-tetraen-14-yl]-4-methyl-2H-uran-5-one"
+                        },
+                        {
+                          "String": "(5S)-5-[(4aR,8aS,9E,11S,14R,16R,17R,18E)-11-Hydroxy-8,10,16,18-tetramethyl-3,4,5,6,8a,11,12,13,14,15,16,17,20,21-tetradecahydro-2H-14,17-epoxybenzo[2,3]cyclohexadeca[1,2-b]pyridin-7-yl]-3-methylfuran-2(5H)-one"
+                        },
+                        {
+                          "String": "2(5H)-FURANONE, 3-METHYL-5-((7E,9R,10R,12R,15S,16E,17AS,21AR)-2,3,5,6,9,10,11,12,13,14,15,17A,20,21-TETRADECAHYDRO-15-HYDROXY-8,10,16,18-TETRAMETHYL-9,12-EPOXY-1H-BENZO(2,3)CYCLOHEXADECA(1,2-B)PYRIDIN-19-YL)-, (5S)-"
+                        },
+                        {
+                          "String": "2(5H)-FURANONE, 3-METHYL-5-(2,3,5,6,9,10,11,12,13,14,15,17A,20,21-TETRADECAHYDRO-15-HYDROXY-8,10,16,18-TETRAMETHYL-9,12-EPOXY-1H-BENZO(2,3)CYCLOHEXADECA(1,2-B)PYRIDIN-19-YL)-, (9R-(7E,9R*,10R*,12R*,15S*,16E,17AS*,19(S*),21AR*))-"
+                        },
+                        {
+                          "String": "2(5H)-Furanone,3-methyl-5-[(7e,9r,10r,12r,15s,16e,17as,21ar)-2,3,5,6,9,10,11,12,13,14,15,17a,20,21-tetradecahydro-15-hydroxy-8,10,16,18-tetramethyl-9,12-epoxy-1H-benzo[2,3]cyclohexadeca[1,2-b]pyridin-"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ZINC95627980"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Value": {
+                  "DateISO8601": [
+                    "2006-10-26"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-09-07"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "507.7"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "XLogP3",
+                "Description": "XLogP3 is a predicted octanol-water partition coefficient, computed using the algorithm described in J. Chem. Inf. Model. 2007, 47, 6, 2140-2148. It is used as a measure of hydrophilicity or hydrophobicity of a molecule.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/17985865/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "XLogP3-AA",
+                    "Reference": [
+                      "Computed by XLogP3 3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        3.4
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "507.33485892"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "507.33485892"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        68.1
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        37
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1080
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        7
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Spectral Information",
+        "Description": "Spectral data for this compound, including 1-D and 2-D nuclear magnetic resonance (NMR), Infrared (IR), Raman, and Ultraviolet (UV) spectroscopy, mass spectrometry (MS), and chromatography.",
+        "Section": [
+          {
+            "TOCHeading": "UV Spectra",
+            "Description": "Ultraviolet (UV) spectroscopy (or Spectrophotometry) is an analytical technique used to measure how much a molecule absorbs light in the ultraviolet spectral region.  This technique is particularly useful to study aromatic, conjugated, and other substances containing a pi bond.  Modern ultraviolet spectrophotometers also cover the visible light range, in which case the technique is called ultraviolet-visible (UV-Vis) spectroscopy.",
+            "URL": "https://chem.libretexts.org/Courses/Brevard_College/CHE_202%3A_Organic_Chemistry_II/05%3A_Structural__Determination_I/5.05%3A_Ultraviolet_and_visible_spectroscopy",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:10775400",
+                  "Miles CO et al; J Agric Food Chem 48: 1373-76 (2000)"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:10775400",
+                    "Matched": {
+                      "PCLID": 19262711,
+                      "Citation": "Miles CO, Wilkins AL, Stirling DJ, MacKenzie AL. New analogue of gymnodimine from a Gymnodinium species. J Agric Food Chem. 2000 Apr;48(4):1373–6. doi: 10.1021/jf991031k. PMID: 10775400.",
+                      "PMID": 10775400,
+                      "DOI": "10.1021/jf991031k"
+                    }
+                  },
+                  {
+                    "Citation": "Miles CO et al; J Agric Food Chem 48: 1373-76 (2000)",
+                    "Matched": {
+                      "PCLID": 19262711,
+                      "Citation": "Miles CO, Wilkins AL, Stirling DJ, MacKenzie AL. New analogue of gymnodimine from a Gymnodinium species. J Agric Food Chem. 2000 Apr;48(4):1373–6. doi: 10.1021/jf991031k. PMID: 10775400.",
+                      "PMID": 10775400,
+                      "DOI": "10.1021/jf991031k"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "UV: 220 nm"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID11649137%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID11649137%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Name": "Same Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/11649137/cids/JSON?cids_type=same_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    14
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Name": "Same Parent, Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/11649137/cids/JSON?cids_type=same_parent_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    14
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID11649137%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID11649137%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/500788300",
+                    "Value": {
+                      "Number": [
+                        500788300
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/11649137/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        16
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Journal Publishers"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 15,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Food Additives and Ingredients",
+        "Description": "This section provides information on chemicals found in food (e.g., food additives, flavoring and coloring agents).",
+        "Section": [
+          {
+            "TOCHeading": "Associated Foods",
+            "Description": "This section provides the related foods that contain the compound as an ingredient, flavor, or other aspects.",
+            "DisplayControls": {
+              "ListType": "Columns"
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 6,
+                "Value": {
+                  "ExternalTableName": "collection=consolidatedcompoundtaxonomy&view=concise_cid_food&srccmpdkind='Food Compound'"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Pharmacology and Biochemistry",
+        "Description": "Pharmacology and biochemistry information related to this compound, including the pharmacodynamics, pharmacokinetics, metabolism, mechanism of action, biological half-life, biochemical reactions, and many others.",
+        "Section": [
+          {
+            "TOCHeading": "Mechanism of Action",
+            "Description": "In medicine, the term \"mechanism of action\" (also called MOA) is used to describe how a drug or other substance produces an effect in the body. For example, a drug's mechanism of action could be how it affects a specific target in a cell, such as an enzyme, or a cell function, such as cell growth. Knowing the mechanism of action of a drug may help provide information about the safety of the drug and how it affects the body. It may also help identify the right dose of a drug and which patients are most likely to respond to treatment.",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:18990115",
+                  "Kharrat R et al; J Neurochem 107 (4): 952-63 (2008)."
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:18990115",
+                    "Matched": {
+                      "PCLID": 16692407,
+                      "Citation": "Kharrat R, Servent D, Girard E, Ouanounou G, Amar M, Marrouchi R, Benoit E, Molgó J. The marine phycotoxin gymnodimine targets muscular and neuronal nicotinic acetylcholine receptor subtypes with high affinity. Journal of Neurochemistry. 2008 Oct 21;107(4):952–63. doi: 10.1111/j.1471-4159.2008.05677.x.",
+                      "PMID": 18990115,
+                      "DOI": "10.1111/j.1471-4159.2008.05677.x"
+                    }
+                  },
+                  {
+                    "Citation": "Kharrat R et al; J Neurochem 107 (4): 952-63 (2008).",
+                    "Matched": {
+                      "PCLID": 906288465,
+                      "Citation": "Kharrat R et al; J Neurochem 107 (4): 952-63 (2008)."
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Competition-binding assays confirmed that GYM-A is a powerful ligand interacting with muscle-type nAChR, heteropentameric alpha3beta2, alpha4beta2, and chimeric alpha7-5HT(3) neuronal nAChRs. ...GYM-A broadly targets nAChRs with high affinity explaining the basis of its neurotoxicity..."
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+        "Section": [
+          {
+            "TOCHeading": "Uses",
+            "Description": "Major uses of this chemical, including both consumer uses and industrial uses.",
+            "Information": [
+              {
+                "ReferenceNumber": 12,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Gymnodimine is found in mollusks. Gymnodimine is isolated from New Zealand oysters (Tiostrea chilensis) and the dinoflagellate Gymnodinium cf.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11649137"
+                        },
+                        {
+                          "Start": 34,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11649137"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Methods of Manufacturing",
+            "Description": "Methods of producing this compound in an industrial scale, provided by the Hazardous Substances Data Bank (HSDB).",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Mountfort D et al; Harmful Algae 5(6): 658-664 (2006). Abstract available from, as of Jul 28, 2009: https://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B73D7-4JDN6G3-2&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=e22390a15b069516bc73607f40521f2c"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Mountfort D et al; Harmful Algae 5(6): 658-664 (2006). Abstract available from, as of Jul 28, 2009: https://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B73D7-4JDN6G3-2&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=e22390a15b069516bc73607f40521f2c",
+                    "Matched": {
+                      "PCLID": 900019154,
+                      "Citation": "Mountfort D et al; Harmful Algae 5(6): 658-664 (2006). Abstract available from, as of Jul 28, 2009: https://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B73D7-4JDN6G3-2&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=e22390a15b069516bc73607f40521f2c"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "The dinoflagellate, Karenia selliformis, produces gymnodimine when grown in bulk culture using GP+selenium medium ...  effects of organic acid additions (acetate, glycolate, alanine and glutamate additions and combinations of these) in enhancing growth and gymnodimine production in axenic cultures",
+                      "Markup": [
+                        {
+                          "Start": 50,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11649137"
+                        },
+                        {
+                          "Start": 98,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Selenium",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "Element-Selenium"
+                        },
+                        {
+                          "Start": 154,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-175"
+                        },
+                        {
+                          "Start": 163,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glycolate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-757"
+                        },
+                        {
+                          "Start": 174,
+                          "Length": 7,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alanine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5950"
+                        },
+                        {
+                          "Start": 186,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutamate",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-14598502"
+                        },
+                        {
+                          "Start": 257,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11649137"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "General Manufacturing Information",
+            "Description": "General manufacturing information for this chemical, provided by the Hazardous Substances Data Bank (HSDB) and EPA TSCA Chemical Substance Inventory.",
+            "DisplayControls": {
+              "ListType": "Columns"
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Seki T et al; Tet Lett 36: 7093-7096 (1995). Abstract available online from, as of July 20, 2009: https://www.sciencedirect.com/science?_ob=GatewayURL&_method=citationSearch&_uoikey=B6THS-3YMWR9C-PN&_origin=SDEMFRHTML&_version=1&md5=e0e41086ee7fbb3c3f94cc34d1d55c64"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Seki T et al; Tet Lett 36: 7093-7096 (1995). Abstract available online from, as of July 20, 2009: https://www.sciencedirect.com/science?_ob=GatewayURL&_method=citationSearch&_uoikey=B6THS-3YMWR9C-PN&_origin=SDEMFRHTML&_version=1&md5=e0e41086ee7fbb3c3f94cc34d1d55c64",
+                    "Matched": {
+                      "PCLID": 900162878,
+                      "Citation": "Seki T et al; Tet Lett 36: 7093-7096 (1995). Abstract available online from, as of July 20, 2009: https://www.sciencedirect.com/science?_ob=GatewayURL&_method=citationSearch&_uoikey=B6THS-3YMWR9C-PN&_origin=SDEMFRHTML&_version=1&md5=e0e41086ee7fbb3c3f94cc34d1d55c64"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Isolated from New Zealand oysters, Tiostrea chilensis, and the dinoflagellate Gymnodinium cf. mikimotoi"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Kharrat R et al; J Neurochem 107 (4): 952-63 (2008). Available from, as of July 14, 2009: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=18990115"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Kharrat R et al; J Neurochem 107 (4): 952-63 (2008). Available from, as of July 14, 2009: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=18990115",
+                    "Matched": {
+                      "PCLID": 900085613,
+                      "Citation": "Kharrat R et al; J Neurochem 107 (4): 952-63 (2008). Available from, as of July 14, 2009: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=18990115"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Gymnodimines (GYMs) are phycotoxins exhibiting unusual structural features including a spirocyclic imine ring system and a trisubstituted tetrahydrofuran embedded within a 16-membered macrocycle."
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "Vilarino N et al; Anal Chem 81 (7): 2708-14 (2009). Available from, as of July 14, 2009: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=19278248"
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "Vilarino N et al; Anal Chem 81 (7): 2708-14 (2009). Available from, as of July 14, 2009: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=19278248",
+                    "Matched": {
+                      "PCLID": 900029400,
+                      "Citation": "Vilarino N et al; Anal Chem 81 (7): 2708-14 (2009). Available from, as of July 14, 2009: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=19278248"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "The gymnodimines and spirolides are phycotoxins classified into a heterogeneous group of marine biocompounds called cyclic imines."
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Identification",
+        "Description": "This section contains laboratory methods used to identify this chemical.",
+        "Section": [
+          {
+            "TOCHeading": "Analytic Laboratory Methods",
+            "Description": "Analytic laboratory methods for analyzing this compound in a sample. The information in this section is collected by the Hazardous Substances Data Bank (HSDB) from various sources.",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:16001850",
+                  "McNabb P et al; J AOAC Int 88 (3): 761-72 (2005)."
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:16001850",
+                    "Matched": {
+                      "PCLID": 2350461,
+                      "Citation": "McNabb P, Selwood AI, Holland PT, , Aasen J, Aune T, Eaglesham G, Hess P, Igarishi M, Quilliam M, Slattery D, Van de Riet; J, Van Egmond H, Van den Top H, Yasumoto T. Multiresidue Method for Determination of Algal Toxins in Shellfish: Single-Laboratory Validation and Interlaboratory Study. 2005 May 01;88(3):761–72. doi: 10.1093/jaoac/88.3.761.",
+                      "PMID": 16001850,
+                      "DOI": "10.1093/jaoac/88.3.761"
+                    }
+                  },
+                  {
+                    "Citation": "McNabb P et al; J AOAC Int 88 (3): 761-72 (2005).",
+                    "Matched": {
+                      "PCLID": 2350461,
+                      "Citation": "McNabb P, Selwood AI, Holland PT, , Aasen J, Aune T, Eaglesham G, Hess P, Igarishi M, Quilliam M, Slattery D, Van de Riet; J, Van Egmond H, Van den Top H, Yasumoto T. Multiresidue Method for Determination of Algal Toxins in Shellfish: Single-Laboratory Validation and Interlaboratory Study. 2005 May 01;88(3):761–72. doi: 10.1093/jaoac/88.3.761.",
+                      "PMID": 16001850,
+                      "DOI": "10.1093/jaoac/88.3.761"
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "A method that uses liquid chromatography with tandem mass spectrometry (LC/MS/MS) has been developed for the highly sensitive and specific determination of amnesic shellfish poisoning toxins, diarrhetic shellfish poisoning toxins, and other lipophilic algal toxins and metabolites in shellfish. The method was subjected to a full single-laboratory validation and a limited interlaboratory study. Tissue homogenates are blended with methanol-water (9 + 1), and the centrifuged extract is cleaned up with a hexane wash. LC/MS/MS (triple quadrupole) is used for quantitative analysis with reversed-phase gradient elution (acidic buffer), electrospray ionization (positive and negative ion switching), and multiple-reaction monitoring. Ester forms of dinophysis toxins are detected as the parent toxins after hydrolysis of the methanolic extract. The method is quantitative for 6 key toxins when reference standards are available: azaspiracid-1 (AZA1), domoic acid (DA), gymnodimine (GYM), okadaic acid (OA), pectenotoxin-2 (PTX2), and yessotoxin (YTX). ...",
+                      "Markup": [
+                        {
+                          "Start": 432,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methanol",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-887"
+                        },
+                        {
+                          "Start": 441,
+                          "Length": 5,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-962"
+                        },
+                        {
+                          "Start": 505,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hexane",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-8058"
+                        },
+                        {
+                          "Start": 927,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azaspiracid-1",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11549646"
+                        },
+                        {
+                          "Start": 949,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/domoic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5282253"
+                        },
+                        {
+                          "Start": 967,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11649137"
+                        },
+                        {
+                          "Start": 986,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/okadaic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-446512"
+                        },
+                        {
+                          "Start": 1005,
+                          "Length": 14,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pectenotoxin-2",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6437385"
+                        },
+                        {
+                          "Start": 1032,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/yessotoxin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6440821"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:17521661",
+                  "Fux E et al; J Chromatogr A 1157 (1-2): 273-80 (2007)."
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:17521661",
+                    "Matched": {
+                      "PCLID": 27510349,
+                      "Citation": "Fux E, McMillan D, Bire R, Hess P. Development of an ultra-performance liquid chromatography-mass spectrometry method for the detection of lipophilic marine toxins. J Chromatogr A. 2007 Jul 20;1157(1-2):273–80. doi: 10.1016/j.chroma.2007.05.016. PMID: 17521661.",
+                      "PMID": 17521661,
+                      "DOI": "10.1016/j.chroma.2007.05.016"
+                    }
+                  },
+                  {
+                    "Citation": "Fux E et al; J Chromatogr A 1157 (1-2): 273-80 (2007).",
+                    "Matched": {
+                      "PCLID": 900089683,
+                      "Citation": "Fux E et al; J Chromatogr A 1157 (1-2): 273-80 (2007)."
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "A rapid method for the detection of marine toxins was developed using an ultra-performance liquid chromatography (UPLC) system coupled to a latest generation mass spectrometry (MS) system. The analysis of 21 lipophilic marine toxins was achieved on an Acquity C18 column using a water-acetonitrile gradient with a cycle time of 6.6 min, reducing analysis time by more than a factor two compared to HPLC while maintaining peak resolution. Linear ranges, limits of detection and limits of quantification were established for okadaic acid (OA), pectenotoxin-2, azaspiracid-1 (AZA1), yessotoxin, gymnodimine and 13-desmethylspirolide C. The method was found to be accurate when using a triplicate methanolic extraction...",
+                      "Markup": [
+                        {
+                          "Start": 279,
+                          "Length": 5,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-962"
+                        },
+                        {
+                          "Start": 285,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetonitrile",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6342"
+                        },
+                        {
+                          "Start": 523,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/okadaic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-446512"
+                        },
+                        {
+                          "Start": 542,
+                          "Length": 14,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pectenotoxin-2",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6437385"
+                        },
+                        {
+                          "Start": 558,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azaspiracid-1",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11549646"
+                        },
+                        {
+                          "Start": 580,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/yessotoxin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6440821"
+                        },
+                        {
+                          "Start": 592,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11649137"
+                        },
+                        {
+                          "Start": 608,
+                          "Length": 23,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/13-desmethylspirolide%20C",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-45273285"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 7,
+                "Description": "PEER REVIEWED",
+                "Reference": [
+                  "PMID:19278248",
+                  "Vilarino N et al; Anal Chem 81 (7): 2708-14 (2009)."
+                ],
+                "ExtendedReference": [
+                  {
+                    "Citation": "PMID:19278248",
+                    "Matched": {
+                      "PCLID": 22773491,
+                      "Citation": "Vilariño N, Fonfría ES, Molgó J, Aráoz R, Botana LM. Detection of gymnodimine-A and 13-desmethyl C spirolide phycotoxins by fluorescence polarization. Anal Chem. 2009 Apr 01;81(7):2708–14. doi: 10.1021/ac900144r. PMID: 19278248.",
+                      "PMID": 19278248,
+                      "DOI": "10.1021/ac900144r"
+                    }
+                  },
+                  {
+                    "Citation": "Vilarino N et al; Anal Chem 81 (7): 2708-14 (2009).",
+                    "Matched": {
+                      "PCLID": 900128472,
+                      "Citation": "Vilarino N et al; Anal Chem 81 (7): 2708-14 (2009)."
+                    }
+                  }
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Nicotinic acetylcholine receptor-enriched membranes of Torpedo, and fluorescent alpha-bungarotoxin /were used to develop/ a fluorescence polarization assay to detect and quantify gymnodimine-A and 13-desmethyl C spirolide. The presence of these cyclic imines in solution inhibited the interaction of fluorescent-labeled alpha-bungarotoxin with nicotinic acetylcholine receptors in a concentration-dependent manner. The sensitivity of the assay is in the order of nanomolar concentrations of gymnodimine and 13-desmethyl C spirolide. Okadaic acid, yessotoxin, and brevetoxin-2, three lipophilic marine toxins, did not interfere with this assay. ... This inhibition assay is capable of gymnodimine-A and 13-desmethyl C spirolide detection in mussel extracts with enough sensitivity and specificity to quantify these toxins in the range of 50-2000 ug/kg and 70-700 ug/kg of shellfish meat, respectively. /Gymnodimine-A/",
+                      "Markup": [
+                        {
+                          "Start": 10,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-187"
+                        },
+                        {
+                          "Start": 354,
+                          "Length": 13,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-187"
+                        },
+                        {
+                          "Start": 491,
+                          "Length": 11,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11649137"
+                        },
+                        {
+                          "Start": 533,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Okadaic%20acid",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-446512"
+                        },
+                        {
+                          "Start": 547,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/yessotoxin",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6440821"
+                        },
+                        {
+                          "Start": 563,
+                          "Length": 12,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/brevetoxin-2",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5353447"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Safety and Hazards",
+        "Description": "Information on safety and hazards for this compound, including safety/hazards properties, reactivity, incompatibilities, management techniques, first aid treatments, and more.  For toxicity and related information, please see the Toxicity section.",
+        "Section": [
+          {
+            "TOCHeading": "Accidental Release Measures",
+            "Description": "This section provides recommendations on the appropriate response to spills, leaks, or releases, including containment and cleanup practices to prevent or minimize exposure to people, properties, or the environment. It may also include recommendations distinguishing between responses for large and small spills where the spill volume has a significant impact on the hazard.",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "Cleanup Methods",
+                "Description": "Procedures for cleanup of chemical spill or hazardous waste",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SRP: Wastewater from contaminant suppression, cleaning of protective clothing/equipment, or contaminated sites should be contained and evaluated for subject chemical or decomposition product concentrations. Concentrations shall be lower than applicable environmental discharge or disposal criteria. Alternatively, pretreatment and/or discharge to a POTW is acceptable only after review by the governing authority. Due consideration shall be given to remediation worker exposure (inhalation, dermal and ingestion) as well as fate during treatment, transfer and disposal. If it is not practicable to manage the chemical in this fashion, it must meet Hazardous Material Criteria for disposal."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Disposal Methods",
+                "Description": "Disposal methods or procedures for this chemical or hazardous waste containing it.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SRP: At the time of review, criteria for land treatment or burial (sanitary landfill) disposal practices are subject to significant revision. Prior to implementing land disposal of waste residue (including waste sludge), consult with environmental regulatory agencies for guidance on acceptable disposal practices."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Safety Information",
+            "Description": "Miscellaneous safety information for this chemical that is not shown in other sections, such as history, incidents, special reports, and so on.",
+            "Section": [
+              {
+                "TOCHeading": "Special Reports",
+                "Description": "Special reports on the safety and hazard of this chemical.  Most of them are government documents and review articles.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "FAO/IOC/WHO; Report of the Joint ad hoc Expert Consultation on Biotoxins in Bivalve Molluscs (September 2004).[Available from, as of July 20, 2009: ftp://ftp.fao.org/es/esn/food/biotoxin_report_en.pdf]"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "A15418: Kong K, Moussa Z, Lee C, Romo D: Total synthesis of the spirocyclic imine marine toxin (-)-gymnodimine and an unnatural C4-epimer. J Am Chem Soc. 2011 Dec 14;133(49):19844-56. doi: 10.1021/ja207385y. Epub 2011 Nov 16. PMID:22023219",
+                        "Matched": {
+                          "PCLID": 900177557,
+                          "Citation": "A15418: Kong K, Moussa Z, Lee C, Romo D: Total synthesis of the spirocyclic imine marine toxin (-)-gymnodimine and an unnatural C4-epimer. J Am Chem Soc. 2011 Dec 14;133(49):19844-56. doi: 10.1021/ja207385y. Epub 2011 Nov 16. PMID:22023219"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Gymnodimine exerts its toxic effects via binding to nicotinic acetylcholine receptors with picomolar affinities with no sign of apparent reversibility in short time frames. The toxicity of gymnodimine has been attributed, at least in part, to the imine functionality as its reduction leads to a non-toxic derivative. Gymnodimine and 13-desmethyl spirolide C bound to acetylcholine binding proteins. (A15418)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            },
+                            {
+                              "Start": 62,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 189,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            },
+                            {
+                              "Start": 317,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            },
+                            {
+                              "Start": 333,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/13-desmethylspirolide%20C",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-45273285"
+                            },
+                            {
+                              "Start": 367,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Immediate first aid: Ensure that adequate decontamination has been carried out. If patient is not breathing, start artificial respiration, preferably with a demand valve resuscitator, bag-valve-mask device, or pocket mask, as trained. Perform CPR if necessary. Immediately flush contaminated eyes with gently flowing water. Do not induce vomiting. If vomiting occurs, lean patient forward or place on the left side (head-down position, if possible) to maintain an open airway and prevent aspiration. Keep patient quiet and maintain normal body temperature. Obtain medical attention. /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 324,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Basic treatment: Establish a patent airway (oropharyngeal or nasopharyngeal airway, if needed). Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if needed. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with 0.9% saline (NS) during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 mL/kg up to 200 mL of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool ... . Cover skin burns with dry sterile dressings after decontamination ... . /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 216,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 468,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 637,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1",
+                        "Matched": {
+                          "PCLID": 900090294,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in severe respiratory distress. Positive-pressure ventilation techniques with a bag valve mask device may be beneficial. Consider drug therapy for pulmonary edema ... . Consider administering a beta agonist such as albuterol for severe bronchospasm ... . Monitor cardiac rhythm and treat arrhythmias as necessary ... . Start IV administration of D5W /SRP: \"To keep open\", minimal flow rate/. Use 0.9% saline (NS) or lactated Ringer's if signs of hypovolemia are present. For hypotension with signs of hypovolemia, administer fluid cautiously. Watch for signs of fluid overload ... . Treat seizures with diazepam or lorazepam ... . Use proparacaine hydrochloride to assist eye irrigation ... .  /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 378,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/albuterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2083"
+                            },
+                            {
+                              "Start": 766,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 778,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lorazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3958"
+                            },
+                            {
+                              "Start": 798,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:15246766",
+                      "Munday R et al; Toxicon 44 (2): 173-8 (2004)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:15246766",
+                        "Matched": {
+                          "PCLID": 21353710,
+                          "Citation": "Munday R, Towers NR, Mackenzie L, Beuzenberg V, Holland PT, Miles CO. Acute toxicity of gymnodimine to mice. Toxicon. 2004 Aug;44(2):173–8. doi: 10.1016/j.toxicon.2004.05.017. PMID: 15246766.",
+                          "PMID": 15246766,
+                          "DOI": "10.1016/j.toxicon.2004.05.017"
+                        }
+                      },
+                      {
+                        "Citation": "Munday R et al; Toxicon 44 (2): 173-8 (2004).",
+                        "Matched": {
+                          "PCLID": 900136380,
+                          "Citation": "Munday R et al; Toxicon 44 (2): 173-8 (2004)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ The acute toxicity of the phycotoxin gymnodimine to female Swiss mice by intraperitoneal injection and by oral administration has been determined. Gymnodimine was highly toxic by injection, the LD50 being only 96 ug/kg. Animals either died within 10 min of injection or made a full recovery with no perceptible long-term effects. Gymnodimine was also toxic after oral administration by gavage (LD50 755 ug/kg), but was much less toxic when administered with food. No signs of toxicity were seen in mice voluntarily ingesting food containing gymnodimine at a level sufficient to give a dose of approximately 7500 ug/kg. Pre-treatment with physostigmine or neostigmine protected against injected gymnodimine, suggesting that the latter exerts its toxic effects via blockade of nicotinic receptors at the neuromuscular junction. The low toxicity of gymnodimine when ingested with food suggests that this compound is of low risk to humans, a conclusion that is consonant with anecdotal evidence for the absence of harmful effects in individuals consuming shellfish contaminated with gymnodimine.",
+                          "Markup": [
+                            {
+                              "Start": 74,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            },
+                            {
+                              "Start": 184,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            },
+                            {
+                              "Start": 367,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            },
+                            {
+                              "Start": 578,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            },
+                            {
+                              "Start": 675,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/physostigmine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5983"
+                            },
+                            {
+                              "Start": 692,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/neostigmine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4456"
+                            },
+                            {
+                              "Start": 731,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            },
+                            {
+                              "Start": 883,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            },
+                            {
+                              "Start": 1116,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "FAO/IOC/WHO; Report of the Joint ad hoc Expert Consultation on Biotoxins in Bivalve Molluscs (September 2004). Available from, as of July 20, 2009: ftp://ftp.fao.org/es/esn/food/biotoxin_report_en.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "FAO/IOC/WHO; Report of the Joint ad hoc Expert Consultation on Biotoxins in Bivalve Molluscs (September 2004). Available from, as of July 20, 2009: ftp://ftp.fao.org/es/esn/food/biotoxin_report_en.pdf",
+                        "Matched": {
+                          "PCLID": 900053193,
+                          "Citation": "FAO/IOC/WHO; Report of the Joint ad hoc Expert Consultation on Biotoxins in Bivalve Molluscs (September 2004). Available from, as of July 20, 2009: ftp://ftp.fao.org/es/esn/food/biotoxin_report_en.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ ... When present at elevated levels, /cyclic imines/ rapidly kill mice, and their presence may interfere with the mouse bioassay for okadaic acid, brevetoxins, and azaspiracid groups. At sublethal doses, the mice recover rapidly. /Cyclic imines/",
+                          "Markup": [
+                            {
+                              "Start": 170,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/okadaic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-446512"
+                            },
+                            {
+                              "Start": 201,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azaspiracid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21593892"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:18990115",
+                      "Kharrat R et al; J Neurochem 107 (4): 952-63 (2008)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:18990115",
+                        "Matched": {
+                          "PCLID": 16692407,
+                          "Citation": "Kharrat R, Servent D, Girard E, Ouanounou G, Amar M, Marrouchi R, Benoit E, Molgó J. The marine phycotoxin gymnodimine targets muscular and neuronal nicotinic acetylcholine receptor subtypes with high affinity. Journal of Neurochemistry. 2008 Oct 21;107(4):952–63. doi: 10.1111/j.1471-4159.2008.05677.x.",
+                          "PMID": 18990115,
+                          "DOI": "10.1111/j.1471-4159.2008.05677.x"
+                        }
+                      },
+                      {
+                        "Citation": "Kharrat R et al; J Neurochem 107 (4): 952-63 (2008).",
+                        "Matched": {
+                          "PCLID": 906288465,
+                          "Citation": "Kharrat R et al; J Neurochem 107 (4): 952-63 (2008)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ALTERNATIVE and IN VITRO TESTS/ Patch-clamp recordings in Xenopus skeletal myocytes revealed that nicotinic currents evoked by constant iontophoretical ACh pulses were blocked by gymnodimine-A (GYM-A) in a reversible manner. GYM-A blocked, in a voltage-independent manner, homomeric human alpha7 nAChR expressed in Xenopus oocytes."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:18990115",
+                      "Kharrat R et al; J Neurochem 107 (4): 952-63 (2008)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:18990115",
+                        "Matched": {
+                          "PCLID": 16692407,
+                          "Citation": "Kharrat R, Servent D, Girard E, Ouanounou G, Amar M, Marrouchi R, Benoit E, Molgó J. The marine phycotoxin gymnodimine targets muscular and neuronal nicotinic acetylcholine receptor subtypes with high affinity. Journal of Neurochemistry. 2008 Oct 21;107(4):952–63. doi: 10.1111/j.1471-4159.2008.05677.x.",
+                          "PMID": 18990115,
+                          "DOI": "10.1111/j.1471-4159.2008.05677.x"
+                        }
+                      },
+                      {
+                        "Citation": "Kharrat R et al; J Neurochem 107 (4): 952-63 (2008).",
+                        "Matched": {
+                          "PCLID": 906288465,
+                          "Citation": "Kharrat R et al; J Neurochem 107 (4): 952-63 (2008)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ALTERNATIVE and IN VITRO TESTS/ Gymnodimines (GYMs) are phycotoxins exhibiting unusual structural features including a spirocyclic imine ring system and a trisubstituted tetrahydrofuran embedded within a 16-membered macrocycle. The toxic potential and the mechanism of action of GYM-A, highly purified from contaminated clams, have been assessed. GYM-A in isolated mouse phrenic hemidiaphragm preparations produced a concentration- and time-dependent block of twitch responses evoked by nerve stimulation, without affecting directly elicited muscle twitches, suggesting that it may block the muscle nicotinic acetylcholine (ACh) receptor (nAChR). This was confirmed by the blockade of miniature endplate potentials and the recording of subthreshold endplate potentials in GYM-A paralyzed frog and mouse isolated neuromuscular preparations.",
+                          "Markup": [
+                            {
+                              "Start": 610,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:19278248",
+                      "Vilarino N et al; Anal Chem 81 (7): 2708-14 (2009)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:19278248",
+                        "Matched": {
+                          "PCLID": 22773491,
+                          "Citation": "Vilariño N, Fonfría ES, Molgó J, Aráoz R, Botana LM. Detection of gymnodimine-A and 13-desmethyl C spirolide phycotoxins by fluorescence polarization. Anal Chem. 2009 Apr 01;81(7):2708–14. doi: 10.1021/ac900144r. PMID: 19278248.",
+                          "PMID": 19278248,
+                          "DOI": "10.1021/ac900144r"
+                        }
+                      },
+                      {
+                        "Citation": "Vilarino N et al; Anal Chem 81 (7): 2708-14 (2009).",
+                        "Matched": {
+                          "PCLID": 900128472,
+                          "Citation": "Vilarino N et al; Anal Chem 81 (7): 2708-14 (2009)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/OTHER TOXICITY INFORMATION/ The gymnodimines and spirolides are phycotoxins classified into a heterogeneous group of marine biocompounds called cyclic imines. Although there is no clear evidence of their toxicity to humans, gymnodimines and spirolides are highly toxic to rodents and constitute a source of false positives in lipophilic toxin detection by the mouse bioassay."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Values",
+                "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "FAO/IOC/WHO; Report of the Joint ad hoc Expert Consultation on Biotoxins in Bivalve Molluscs (September 2004). Available from, as of July 20, 2009: ftp://ftp.fao.org/es/esn/food/biotoxin_report_en.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "FAO/IOC/WHO; Report of the Joint ad hoc Expert Consultation on Biotoxins in Bivalve Molluscs (September 2004). Available from, as of July 20, 2009: ftp://ftp.fao.org/es/esn/food/biotoxin_report_en.pdf",
+                        "Matched": {
+                          "PCLID": 900053193,
+                          "Citation": "FAO/IOC/WHO; Report of the Joint ad hoc Expert Consultation on Biotoxins in Bivalve Molluscs (September 2004). Available from, as of July 20, 2009: ftp://ftp.fao.org/es/esn/food/biotoxin_report_en.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Mice ip 100 ug/kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "FAO/IOC/WHO; Report of the Joint ad hoc Expert Consultation on Biotoxins in Bivalve Molluscs (September 2004). Available from, as of July 20, 2009: ftp://ftp.fao.org/es/esn/food/biotoxin_report_en.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "FAO/IOC/WHO; Report of the Joint ad hoc Expert Consultation on Biotoxins in Bivalve Molluscs (September 2004). Available from, as of July 20, 2009: ftp://ftp.fao.org/es/esn/food/biotoxin_report_en.pdf",
+                        "Matched": {
+                          "PCLID": 900053193,
+                          "Citation": "FAO/IOC/WHO; Report of the Joint ad hoc Expert Consultation on Biotoxins in Bivalve Molluscs (September 2004). Available from, as of July 20, 2009: ftp://ftp.fao.org/es/esn/food/biotoxin_report_en.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Mice oral 755 ug/kg"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Natural Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Seki T et al; Tet Lett 36: 7093-7096 (1995). Abstract available online from, as of July 20, 2009: https://www.sciencedirect.com/science?_ob=GatewayURL&_method=citationSearch&_uoikey=B6THS-3YMWR9C-PN&_origin=SDEMFRHTML&_version=1&md5=e0e41086ee7fbb3c3f94cc34d1d55c64"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Seki T et al; Tet Lett 36: 7093-7096 (1995). Abstract available online from, as of July 20, 2009: https://www.sciencedirect.com/science?_ob=GatewayURL&_method=citationSearch&_uoikey=B6THS-3YMWR9C-PN&_origin=SDEMFRHTML&_version=1&md5=e0e41086ee7fbb3c3f94cc34d1d55c64"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Gymnodimine was isolated from New Zealand oysters, Tiostrea chilensis, and the dinoflagellate Gymnodinium cf. mikimotoi(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Miles CO et al; J Agtic Food Chem 51: 4848-40 (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Miles CO et al; J Agtic Food Chem 51: 4848-40 (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Gymnodimine C, an oxidized analogue of the spiro-imine algal toxin gymnodime, has been isolated from extracts of the cells of Karenia selliformis (formerly Gymnodinium selliforme)(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:12503869",
+                      "(1) Bire R et al; J Nat Toxins 11: 269-75 (2002). Abstract available online from,as of July 20, 2009:"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:12503869",
+                        "Matched": {
+                          "PCLID": 2965150,
+                          "Citation": "Biré R, Krys S, Frémy JM, Dragacci S, Stirling D, Kharrat R. First evidence on occurrence of gymnodimine in clams from Tunisia. J Nat Toxins. 2002 Dec;11(4):269–75. PMID: 12503869.",
+                          "PMID": 12503869
+                        }
+                      },
+                      {
+                        "Citation": "(1) Bire R et al; J Nat Toxins 11: 269-75 (2002). Abstract available online from,as of July 20, 2009:"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Gymnodimine preferentially accumulates in the digestive gland of the Tunisian clams, although substantial amounts are also found in the meat(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Fish/Seafood Concentrations",
+                "Description": "Concentrations of this compound in fish or seafood.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bire R et al; J Nat Toxins 11: 269-75 (2002). Abstract available online from, https://www.ncbi.nlm.nih.gov/pubmed/12503869 as of July 20, 2009.",
+                      "(2) Takahashi E et al; Mar Environ Res 64: 429-42 (2007). Abstract available online from, https://www.ncbi.nlm.nih.gov/pubmed/17512582 as of July 20, 2009.",
+                      "(3) Krok B et al; Afr J Mar Sci 31: 113-118 (2009). Abstract available online from, https://www.ingentaconnect.com/content/nisc/ajms/2009/00000031/00000001/art00012 as of July 20, 2009."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bire R et al; J Nat Toxins 11: 269-75 (2002). Abstract available online from, https://www.ncbi.nlm.nih.gov/pubmed/12503869 as of July 20, 2009."
+                      },
+                      {
+                        "Citation": "(2) Takahashi E et al; Mar Environ Res 64: 429-42 (2007). Abstract available online from, https://www.ncbi.nlm.nih.gov/pubmed/17512582 as of July 20, 2009."
+                      },
+                      {
+                        "Citation": "(3) Krok B et al; Afr J Mar Sci 31: 113-118 (2009). Abstract available online from, https://www.ingentaconnect.com/content/nisc/ajms/2009/00000031/00000001/art00012 as of July 20, 2009."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Gymnodimine was detected by LC-MS in shellfish (clams) from Tunisia and imported to France(1) as well as shellfish of Southeast Queensland, Australia(2). Another study indicated the presence of gymnodimine in oysters, Crassostrea gigas, harvested near Lambert's Bay, South Africa. All oyster samples contained gymnodimine at low levels(3).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            },
+                            {
+                              "Start": 194,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            },
+                            {
+                              "Start": 310,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Limited monitoring data suggest that the general population may be exposed to gymnodimine via ingestion of contaminated shellfish. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 78,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gymnodimine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11649137"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NLM Curated PubMed Citations",
+            "Description": "The NLM Curated PubMed Citations section links to all PubMed records that are tagged with the same MeSH term that has been associated with a particular compound.",
+            "URL": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0142-6",
+            "Information": [
+              {
+                "ReferenceNumber": 25,
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed_mesh&db=pccompound&cmd=Link&from_uid=11649137",
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Thieme References",
+            "Description": "Literature references related to scientific contents from Thieme Chemistry journals and books. The Thieme Chemistry content within this section is provided under a CC-BY-NC-ND 4.0 license (https://creativecommons.org/licenses/by-nc-nd/4.0/), unless otherwise stated.",
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Value": {
+                  "ExternalTableName": "collection=thiemechemistry&query_type=sid&query=516795606"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Literature",
+            "Description": "Chemical-organism co-occurrences in literature highlight chemical-organism pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalOrganismNeighbor"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "OrganismName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/11649137/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Patents",
+            "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalChemical"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+            "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalDisease"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalGene"
+                    },
+                    {
+                      "String": "Gene"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and organisms mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 15,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalOrganism"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Taxonomy",
+        "Description": "Organism-specific information about where this compound originated or is associated",
+        "Information": [
+          {
+            "ReferenceNumber": 9,
+            "ExtendedReference": [
+              {
+                "Citation": "The LOTUS Initiative for Open Natural Products Research: frozen dataset union wikidata (with metadata) | DOI:10.5281/zenodo.5794106",
+                "DOI": "10.5281/zenodo.5794106",
+                "Matched": {
+                  "PCLID": 423383293,
+                  "Citation": "The LOTUS Initiative for Open Natural Products Research: frozen dataset union wikidata (with metadata) | DOI:10.5281/zenodo.5794106",
+                  "DOI": "10.5281/zenodo.5794106"
+                }
+              }
+            ],
+            "Value": {
+              "ExternalTableName": "consolidatedcompoundtaxonomy"
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "MeSH Tree",
+            "Description": "The Medical Subject Headings (MeSH) tree for this entity.  MeSH is a controlled and hierarchically-organized vocabulary produced by the National Library of Medicine.",
+            "URL": "https://www.nlm.nih.gov/mesh",
+            "Information": [
+              {
+                "ReferenceNumber": 16,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChEBI Ontology",
+            "Description": "ChEBI Ontology tree.  ChEBI is an acronym for Chemical Entities of Biological Interest, which is a freely available dictionary of molecular entities focused on 'small' chemical compounds. ChEBI incorporates an ontological classification, whereby the relationships between molecular entities or classes of entities and their parents and/or children are specified.",
+            "URL": "https://www.ebi.ac.uk/chebi/",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=2",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: Natural Toxins",
+            "Description": "Natural toxins classification/ontology tree from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08009",
+            "Information": [
+              {
+                "ReferenceNumber": 19,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=59",
+                "Value": {
+                  "Number": [
+                    59
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChemIDplus",
+            "Description": "Classification of this compound, provided by ChemIDplus, which is a free web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases.  ChemIDplus groups chemicals based on the source locators (i.e., what information resources have data for a given chemical).",
+            "URL": "https://chem.nlm.nih.gov/chemidplus/",
+            "Information": [
+              {
+                "ReferenceNumber": 20,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                "Value": {
+                  "Number": [
+                    84
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NORMAN Suspect List Exchange Classification",
+            "Description": "A classification from the NORMAN Suspect List Exchange, which serve as a central access point to find lists of chemicals with environmental concerns.",
+            "URL": "https://www.norman-network.com/nds/SLE/",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=101",
+                "Value": {
+                  "Number": [
+                    101
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA DSSTox Classification",
+            "Description": "Classification from the U.S. Environmental Protection Agency's Distributed Structure-Searchable Toxicity (DSSTox) database. DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology. A distinguishing feature of this effort is the accurate mapping of bioassay and physicochemical property data associated with chemical substances to their corresponding chemical structures. ",
+            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=105",
+                "Value": {
+                  "Number": [
+                    105
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "LOTUS Tree",
+            "Description": "Biological and chemical tree provided by the naturaL prOducTs occUrrence databaSe (LOTUS)",
+            "URL": "https://lotus.naturalproducts.net/",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=115",
+                "Value": {
+                  "Number": [
+                    115
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "ChEBI",
+        "SourceID": "CHEBI:OBO:11649137",
+        "Name": "Gymnodimine",
+        "Description": "Chemical Entities of Biological Interest (ChEBI) is a database and ontology of molecular entities focused on 'small' chemical compounds, that is part of the Open Biomedical Ontologies effort. The term \"molecular entity\" refers to any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer, etc., identifiable as a separately distinguishable entity.",
+        "URL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:144404",
+        "ANID": 8482203
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "LOTUS - the natural products occurrence database",
+        "SourceID": "Q27268839",
+        "Name": "Gymnodimine",
+        "Description": "LOTUS is one of the biggest and best annotated resources for natural products occurrences available free of charge and without any restriction.",
+        "URL": "https://www.wikidata.org/wiki/Q27268839",
+        "LicenseNote": "The code for LOTUS is released under the GNU General Public License v3.0.",
+        "LicenseURL": "https://lotus.nprod.net/",
+        "ANID": 20002060
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D4051",
+        "Name": "Gymnodimine",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D4051",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "http://www.t3db.ca/downloads",
+        "ANID": 20443444
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "ChemIDplus",
+        "SourceID": "0173792580",
+        "Name": "Gymnodimine",
+        "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0173792580",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 1127282
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "4407ecfda53d773e17d5455e1881039e",
+        "Name": "Gymnodimine A",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49732967
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "DTXSID60880103",
+        "Name": "Gymnodimine A",
+        "Description": "DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology.",
+        "URL": "https://comptox.epa.gov/dashboard/DTXSID60880103",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 17717281
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "FDA Global Substance Registration System (GSRS)",
+        "SourceID": "7TV3J97IT8",
+        "Name": "GYMNODIMINE",
+        "Description": "The FDA Global Substance Registration System (GSRS) enables the efficient and accurate exchange of information on what substances are in regulated products. Instead of relying on names, which vary across regulatory domains, countries, and regions, the GSRS knowledge base makes it possible for substances to be defined by standardized, scientific descriptions.",
+        "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/7TV3J97IT8",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 5794417
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "7754",
+        "Name": "Gymnodimine",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7754",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 5297
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "FooDB",
+        "SourceID": "Compound::FDB021381",
+        "Name": "Gymnodimine",
+        "Description": "FooDB is the world's largest and most comprehensive resource on food constituents, chemistry and biology. It provides information on both macronutrients and micronutrients, including many of the constituents that give foods their flavor, color, taste, texture and aroma.",
+        "URL": "https://foodb.ca/compounds/FDB021381",
+        "LicenseNote": "FooDB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (FooDB) and the original publication.",
+        "LicenseURL": "https://foodb.ca/about",
+        "ANID": 38494536
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "KEGG",
+        "SourceID": "C20025",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "https://www.kegg.jp/entry/C20025",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html",
+        "ANID": 31112443
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "Metabolomics Workbench",
+        "SourceID": "49352",
+        "Name": "Gymnodimine",
+        "Description": "The Metabolomics Workbench serves as a national and international repository for metabolomics data and metadata and provides analysis tools and access to metabolite standards, protocols, tutorials, training, and more.",
+        "URL": "https://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=49352",
+        "ANID": 20209307
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "Thieme Chemistry",
+        "SourceID": "516795606",
+        "Description": "Thieme Chemistry is part of the privately owned Thieme Group and publishes highly evaluated information about synthetic and general chemistry for professional chemists and advanced students since 1909. \u000A \u000AOur portfolio includes the journals SYNFACTS, SYNLETT, SYNTHESIS and SynOpen, the synthetic methodology reference work Science of Synthesis, the German chemical encyclopedia ROEMPP, and monographs in electronic and printed format. The Thieme Chemistry contribution within PubChem is provided under a CC-BY-NC-ND 4.0 license (https://creativecommons.org/licenses/by-nc-nd/4.0/), unless otherwise stated.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/516795606",
+        "LicenseNote": "The Thieme Chemistry contribution within PubChem is provided under a CC-BY-NC-ND 4.0 license, unless otherwise stated.",
+        "LicenseURL": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "ANID": 50543931
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "Wikidata",
+        "SourceID": "Compound::Q27268839",
+        "Name": "gymnodimine",
+        "Description": "Wikidata is a CCZero crowdsourced and curated database, linked to Wikipedia, with a strong machine readable architecture.",
+        "URL": "https://www.wikidata.org/wiki/Q27268839",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 44303310
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "M0361739",
+        "Name": "gymnodimine",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://id.nlm.nih.gov/mesh/M0361739.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "DescTree",
+        "Name": "MeSH Tree",
+        "Description": "MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "ChEBI",
+        "SourceID": "OBO",
+        "Name": "ChEBI Ontology",
+        "Description": "The ChEBI Ontology is a structured classification of the entities contained within ChEBI.",
+        "URL": "http://www.ebi.ac.uk/chebi/userManualForward.do#ChEBI%20Ontology"
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "KEGG",
+        "SourceID": "br08009",
+        "Name": "Natural toxins",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08009.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "ChemIDplus",
+        "SourceID": "ChemIDplus_tree",
+        "Name": "ChemIDplus Chemical Information Classification",
+        "Description": "ChemIDplus is a TOXNET (TOXicology data NETwork) databases that contain chemicals and drugs related information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/chemidplus",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "NORMAN Suspect List Exchange",
+        "SourceID": "norman_sle_tree",
+        "Name": "NORMAN Suspect List Exchange Classification",
+        "Description": "The NORMAN Suspect List Exchange (NORMAN-SLE) is a central access point for NORMAN members (and others) to find suspect lists relevant for their environmental monitoring questions.",
+        "URL": "https://www.norman-network.com/nds/SLE/",
+        "LicenseNote": "Data: CC-BY 4.0; Code (hosted by ECI, LCSB): Artistic-2.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "dsstoxlist_tree",
+        "Name": "CompTox Chemicals Dashboard Chemical Lists",
+        "Description": "This classification lists the chemical categories from the EPA CompTox Chemicals Dashboard.",
+        "URL": "https://comptox.epa.gov/dashboard/chemical-lists/",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "LOTUS - the natural products occurrence database",
+        "SourceID": "biochem",
+        "Name": "LOTUS Tree",
+        "Description": "Biological and chemical tree provided by the LOTUS (naturaL products occurrence database)",
+        "URL": "https://lotus.naturalproducts.net/",
+        "LicenseNote": "The code for LOTUS is released under the GNU General Public License v3.0.",
+        "LicenseURL": "https://lotus.nprod.net/"
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "Medical Subject Headings (MeSH)",
+        "SourceID": "PubMed from MeSH",
+        "Description": "MeSH (Medical Subject Headings) is the U.S. National Library of Medicine's controlled vocabulary thesaurus used for indexing articles for PubMed.",
+        "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+        "LicenseNote": "Works produced by the U.S. government are not subject to copyright protection in the United States. Any such works found on National Library of Medicine (NLM) Web sites may be freely used or reproduced without permission in the U.S.",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html"
+      }
+    ]
+  }
+}

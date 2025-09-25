@@ -1,0 +1,3815 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 54704426,
+    "RecordTitle": "2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, hydrochloride (1:1), (4S,4aS,5aS,6S,12aS)-",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Name": "3D Conformer of Parent",
+                "Description": "Tetracycline",
+                "Value": {
+                  "Number": [
+                    54675776
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Name": "Record Description",
+                "Description": "Ontology Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Tetracycline Hydrochloride (internal use) can cause developmental toxicity according to state or federal government labeling requirements.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 26,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tetracycline%20Hydrochloride",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-54704426"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 19,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "TETRACYCLINE HYDROCHLORIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1953 and has 7 approved and 2 investigational indications.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 26,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TETRACYCLINE%20HYDROCHLORIDE",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-54704426"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide;hydrochloride",
+                          "Markup": [
+                            {
+                              "Start": 2,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 5,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 6,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 9,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 10,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 13,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 17,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 18,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 51,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 89,
+                              "Length": 1,
+                              "Type": "Italics"
+                            },
+                            {
+                              "Start": 94,
+                              "Length": 1,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C22H24N2O8.ClH/c1-21(31)8-5-4-6-11(25)12(8)16(26)13-9(21)7-10-15(24(2)3)17(27)14(20(23)30)19(29)22(10,32)18(13)28;/h4-6,9-10,15,25-26,29,31-32H,7H2,1-3H3,(H2,23,30);1H/t9-,10-,15-,21+,22-;/m0./s1"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by InChI 1.07.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "YCIHPQHVWDULOY-FMZCEJRJSA-N"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "SMILES",
+                "Description": "The Simplified Molecular Input Line Entry System (SMILES) is a widely-used line notation for chemical structures. The SMILES in this section includes both sterochemical and isotopic information.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=SMILES",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O.Cl"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Reference": [
+                  "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C22H25ClN2O8"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "64-75-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "CAS",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "64-75-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "64-75-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "64-75-5"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "64-75-5"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related CAS",
+                "Description": "The Chemical Abstract Service (CAS) registry numbers for related chemicals (e.g., parents, components, mixtures, salt forms, etc.)",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "60-54-8 (Parent)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Deprecated CAS",
+                "Description": "The Chemical Abstract Service (CAS) registry numbers that are no longer used.  These numbers are old, deprecated, and/or deleted, but users may still encounter them in some (old) references.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "102030-19-3, 8017-77-4, 8026-72-0, 90438-83-8"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "102030-19-3, 8017-77-4, 8026-72-0, 90438-83-8"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "102030-19-3, 8017-77-4, 8026-72-0, 90438-83-8"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/P6R62377KV",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "P6R62377KV"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ChEMBL ID",
+                "Description": "ChEMBL compound identifier",
+                "URL": "https://www.ebi.ac.uk/chembl/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "URL": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL454950",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CHEMBL454950"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "URL": "https://comptox.epa.gov/dashboard/DTXSID6021321",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID6021321"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "KEGG ID",
+                "Description": "KEGG compound/drug identifier",
+                "URL": "https://www.kegg.jp/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "URL": "https://www.kegg.jp/entry/D02122",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "D02122"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "NSC Number",
+                "Description": "The National Service Center (NSC) number is a numeric identifier for substances submitted to the National Cancer Institute (NCI) for testing and evaluation. It is a registration number for the Developmental Therapeutics Program (DTP) repository.",
+                "URL": "https://dtp.cancer.gov/organization/dscb/compoundSubmission/faqs.htm",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "NSC Number",
+                    "URL": "https://dtp.cancer.gov/dtpstandard/servlet/dwindex?searchtype=NSC&outputformat=html&searchlist=757338",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "757338"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, hydrochloride (1:1), (4S,4aS,5aS,6S,12aS)-"
+                        },
+                        {
+                          "String": "RefChem:476354"
+                        },
+                        {
+                          "String": "TETRACYCLINE HYDROCHLORIDE"
+                        },
+                        {
+                          "String": "64-75-5"
+                        },
+                        {
+                          "String": "Tetracycline HCl"
+                        },
+                        {
+                          "String": "Achromycin hydrochloride"
+                        },
+                        {
+                          "String": "Tetracycline.HCl"
+                        },
+                        {
+                          "String": "Cyclopar"
+                        },
+                        {
+                          "String": "Sustamycin"
+                        },
+                        {
+                          "String": "Tetracycline (hydrochloride)"
+                        },
+                        {
+                          "String": "MFCD00078142"
+                        },
+                        {
+                          "String": "Neocycline b"
+                        },
+                        {
+                          "String": "Vetquamycin 324"
+                        },
+                        {
+                          "String": "Supramycin"
+                        },
+                        {
+                          "String": "Topicycline"
+                        },
+                        {
+                          "String": "Actisite"
+                        },
+                        {
+                          "String": "Telotrex"
+                        },
+                        {
+                          "String": "Tetramed"
+                        },
+                        {
+                          "String": "Retet"
+                        },
+                        {
+                          "String": "Tetracycline chloride"
+                        },
+                        {
+                          "String": "NSC-757338"
+                        },
+                        {
+                          "String": "Quatrex"
+                        },
+                        {
+                          "String": "Subamycin"
+                        },
+                        {
+                          "String": "2-Naphthacenecarboxamide,4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, monohydrochloride,(4S,4aS,5aS,6S,12aS)-"
+                        },
+                        {
+                          "String": "DTXSID6021321"
+                        },
+                        {
+                          "String": "P6R62377KV"
+                        },
+                        {
+                          "String": "Dumocyclin"
+                        },
+                        {
+                          "String": "Panmycin hydrochloride"
+                        },
+                        {
+                          "String": "(4S,4aS,5aS,6S,12aS)-4-(dimethylamino)-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-1,4,4a,5,5a,6,11,12a-octahydrotetracene-2-carboxamide hydrochloride"
+                        },
+                        {
+                          "String": "64-75-5 (HCl)"
+                        },
+                        {
+                          "String": "(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide;hydrochloride"
+                        },
+                        {
+                          "String": "(4S,4aS,5aS,6S,12aS)-4-(Dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-2-naphthacenecarboxamide monohydrochloride"
+                        },
+                        {
+                          "String": "DTXCID701321"
+                        },
+                        {
+                          "String": "Hostacycline"
+                        },
+                        {
+                          "String": "Mephacyclin"
+                        },
+                        {
+                          "String": "Quadracycline"
+                        },
+                        {
+                          "String": "Remicyclin"
+                        },
+                        {
+                          "String": "Stilciclina"
+                        },
+                        {
+                          "String": "Tetrabakat"
+                        },
+                        {
+                          "String": "Tetracompren"
+                        },
+                        {
+                          "String": "Tetralution"
+                        },
+                        {
+                          "String": "Tetramavan"
+                        },
+                        {
+                          "String": "Triphacyclin"
+                        },
+                        {
+                          "String": "Artomycin"
+                        },
+                        {
+                          "String": "Diacycine"
+                        },
+                        {
+                          "String": "Partrex"
+                        },
+                        {
+                          "String": "Piracaps"
+                        },
+                        {
+                          "String": "Ricycline"
+                        },
+                        {
+                          "String": "Tefilin"
+                        },
+                        {
+                          "String": "Tetrabid"
+                        },
+                        {
+                          "String": "Tetrablet"
+                        },
+                        {
+                          "String": "Tetracaps"
+                        },
+                        {
+                          "String": "Tetrakap"
+                        },
+                        {
+                          "String": "Tetrosol"
+                        },
+                        {
+                          "String": "Paltet"
+                        },
+                        {
+                          "String": "Qidtet"
+                        },
+                        {
+                          "String": "Teline"
+                        },
+                        {
+                          "String": "Unicin"
+                        },
+                        {
+                          "String": "Tetra-wedel"
+                        },
+                        {
+                          "String": "Neocyclin B"
+                        },
+                        {
+                          "String": "Ro-Cycline"
+                        },
+                        {
+                          "String": "TetraSURE"
+                        },
+                        {
+                          "String": "Tet-cy"
+                        },
+                        {
+                          "String": "Tetra-D"
+                        },
+                        {
+                          "String": "Vetquamycin-324"
+                        },
+                        {
+                          "String": "Cancycline-250"
+                        },
+                        {
+                          "String": "(4S,6S,12aS,4aS,5aS)-4-(dimethylamino)-3,6,10,12,12a-pentahydroxy-6-methyl-1,1 1-dioxo-4,5,6,12a,4a,5a-hexahydronaphthacene-2-carboxamide, chloride"
+                        },
+                        {
+                          "String": "Cefracycline tablets"
+                        },
+                        {
+                          "String": "Sentry av ornacycline"
+                        },
+                        {
+                          "String": "T-250 Capsules"
+                        },
+                        {
+                          "String": "Tetracyn hydrochloride"
+                        },
+                        {
+                          "String": "Tetraciclina cloridrato"
+                        },
+                        {
+                          "String": "U-5965"
+                        },
+                        {
+                          "String": "ALA TET"
+                        },
+                        {
+                          "String": "Chlorowodorku tetracykliny"
+                        },
+                        {
+                          "String": "Chlorhydrate de tetracycline"
+                        },
+                        {
+                          "String": "UNII-P6R62377KV"
+                        },
+                        {
+                          "String": "CCRIS 2351"
+                        },
+                        {
+                          "String": "SR-01000000212"
+                        },
+                        {
+                          "String": "SR-05000001723"
+                        },
+                        {
+                          "String": "(-)-Tetrahcycline hydrochloride"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride [JAN]"
+                        },
+                        {
+                          "String": "Tetraciclina cloridrato [Italian]"
+                        },
+                        {
+                          "String": "NCI-C55561"
+                        },
+                        {
+                          "String": "Achromycin;Tetracyn"
+                        },
+                        {
+                          "String": "Chlorowodorku tetracykliny [Polish]"
+                        },
+                        {
+                          "String": "Prestwick_434"
+                        },
+                        {
+                          "String": "EINECS 200-593-8"
+                        },
+                        {
+                          "String": "Bristacycline (TN)"
+                        },
+                        {
+                          "String": "Chlorhydrate de tetracycline [French]"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride [USP:JAN]"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride (internal use)"
+                        },
+                        {
+                          "String": "AI3-50120"
+                        },
+                        {
+                          "String": "CAS-64-75-5"
+                        },
+                        {
+                          "String": "NCGC00016291-01"
+                        },
+                        {
+                          "String": "Tetracyclini hydrochloridum"
+                        },
+                        {
+                          "String": "EC 200-593-8"
+                        },
+                        {
+                          "String": "SCHEMBL34248"
+                        },
+                        {
+                          "String": "SPECTRUM1500566"
+                        },
+                        {
+                          "String": "CHEMBL454950"
+                        },
+                        {
+                          "String": "MSK4102A"
+                        },
+                        {
+                          "String": "orb1310176"
+                        },
+                        {
+                          "String": "NCI-c55561;Tetracycline HCl"
+                        },
+                        {
+                          "String": "SCHEMBL26690403"
+                        },
+                        {
+                          "String": "SCHEMBL29536013"
+                        },
+                        {
+                          "String": "HY-B0474R"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride - USP"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride, powder"
+                        },
+                        {
+                          "String": "XMEVHPAGJVLHIG-FMZCEJRJSA-N"
+                        },
+                        {
+                          "String": "HMS1568K22"
+                        },
+                        {
+                          "String": "HMS1921C19"
+                        },
+                        {
+                          "String": "Pharmakon1600-01500566"
+                        },
+                        {
+                          "String": "HY-B0474"
+                        },
+                        {
+                          "String": "Tox21_110355"
+                        },
+                        {
+                          "String": "Tox21_200516"
+                        },
+                        {
+                          "String": "CCG-39267"
+                        },
+                        {
+                          "String": "NSC757338"
+                        },
+                        {
+                          "String": "s2574"
+                        },
+                        {
+                          "String": "SBB006497"
+                        },
+                        {
+                          "String": "AKOS015951263"
+                        },
+                        {
+                          "String": "Tox21_110355_1"
+                        },
+                        {
+                          "String": "BCP9000227"
+                        },
+                        {
+                          "String": "KS-1431"
+                        },
+                        {
+                          "String": "NSC 757338"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride (JP18/USP)"
+                        },
+                        {
+                          "String": "TETRACYCLINE HYDROCHLORIDE [MI]"
+                        },
+                        {
+                          "String": "Tetracycline (hydrochloride) (Standard)"
+                        },
+                        {
+                          "String": "NCGC00017323-08"
+                        },
+                        {
+                          "String": "NCGC00180907-01"
+                        },
+                        {
+                          "String": "NCGC00180907-02"
+                        },
+                        {
+                          "String": "NCGC00258070-01"
+                        },
+                        {
+                          "String": "2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, monohydrochloride, (4S,4aS,5aS,6S,12aS)-"
+                        },
+                        {
+                          "String": "2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, monohydrochloride, (4S-(4alpha,4aalpha,5aalpha,6beta,12aalpha))-"
+                        },
+                        {
+                          "String": "AT168330"
+                        },
+                        {
+                          "String": "PD087098"
+                        },
+                        {
+                          "String": "ST057166"
+                        },
+                        {
+                          "String": "TETRACYCLINE HYDROCHLORIDE [MART.]"
+                        },
+                        {
+                          "String": "TETRACYCLINE HYDROCHLORIDE [VANDF]"
+                        },
+                        {
+                          "String": "BCP0726000161"
+                        },
+                        {
+                          "String": "TETRACYCLINE HYDROCHLORIDE [USP-RS]"
+                        },
+                        {
+                          "String": "TETRACYCLINE HYDROCHLORIDE [WHO-DD]"
+                        },
+                        {
+                          "String": "TETRACYCLINE HYDROCHLORIDE [WHO-IP]"
+                        },
+                        {
+                          "String": "NS00078913"
+                        },
+                        {
+                          "String": "SW196293-4"
+                        },
+                        {
+                          "String": "D02122"
+                        },
+                        {
+                          "String": "D92606"
+                        },
+                        {
+                          "String": "SBI-0051530.0002"
+                        },
+                        {
+                          "String": "TETRACYCLINE HYDROCHLORIDE [GREEN BOOK]"
+                        },
+                        {
+                          "String": "TETRACYCLINE HYDROCHLORIDE [ORANGE BOOK]"
+                        },
+                        {
+                          "String": "TETRACYCLINE HYDROCHLORIDE [EP MONOGRAPH]"
+                        },
+                        {
+                          "String": "APT T3X COMPONENT TETRACYCLINE TETRACYCLINE"
+                        },
+                        {
+                          "String": "APT-T3X COMPONENT TETRACYCLINE TETRACYCLINE"
+                        },
+                        {
+                          "String": "HELIDAC COMPONENT TETRACYCLINE HYDROCHLORIDE"
+                        },
+                        {
+                          "String": "TETRACYCLINE HYDROCHLORIDE [USP MONOGRAPH]"
+                        },
+                        {
+                          "String": "TETRACYCLINI HYDROCHLORIDUM [WHO-IP LATIN]"
+                        },
+                        {
+                          "String": "SR-01000000212-4"
+                        },
+                        {
+                          "String": "SR-05000001723-2"
+                        },
+                        {
+                          "String": "Q27286287"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride 100 microg/mL in Acetonitrile"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride, meets USP testing specifications"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride, VETRANAL(TM), analytical standard"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride, >=95% (European Pharmacopoeia HPLC assay)"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride, British Pharmacopoeia (BP) Reference Standard"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride, European Pharmacopoeia (EP) Reference Standard"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride, powder, BioReagent, suitable for cell culture"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride, Pharmaceutical Secondary Standard; Certified Reference Material"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride, United States Pharmacopeia (USP) Reference Standard"
+                        },
+                        {
+                          "String": "(4S,4aS,5aS,6S,12aS)-4-(dimethylamino)-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-1,4,4a,5,5a,6,11,12a-octahydrotetracene-2-carboxamidehydrochloride"
+                        },
+                        {
+                          "String": "(4S,4AS,5aS,6S,12aS)-4-(Dimethylamino)-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide hydrochloride"
+                        },
+                        {
+                          "String": "(4S,4aS,5aS,6S,12aS,Z)-2-(amino(hydroxy)methylene)-4-(dimethylamino)-6,10,11,12a-tetrahydroxy-6-methyl-4a,5a,6,12a-tetrahydrotetracene-1,3,12(2H,4H,5H)-trione hydrochloride"
+                        },
+                        {
+                          "String": "2-NAPHTHACENECARBOXAMIDE, 4-(DIMETHYLAMINO)-1,4,4A,5,5A,6,11,12A-OCTAHYDRO-3,6,10,12,12A-PENTAHYDROXY-6-METHYL-1,11-DIOXO-, MONOHYDROCHLORIDE, (4S-(4.ALPHA.,4A.ALPHA.,5A.ALPHA.,6.BETA.,12A.ALPHA.))-"
+                        },
+                        {
+                          "String": "2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, monohydrochloride, (4S-(4alpha,4aalpha,5aalpha,6beta,12alpha))-"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Achromycin"
+                        },
+                        {
+                          "String": "Bristacycline"
+                        },
+                        {
+                          "String": "Panmycin"
+                        },
+                        {
+                          "String": "Tetracyn"
+                        },
+                        {
+                          "String": "Sumycin"
+                        },
+                        {
+                          "String": "Achromycin V"
+                        },
+                        {
+                          "String": "Sanclomycine"
+                        },
+                        {
+                          "String": "Medamycin"
+                        },
+                        {
+                          "String": "Tetrachel"
+                        },
+                        {
+                          "String": "Robitet"
+                        },
+                        {
+                          "String": "Steclin"
+                        },
+                        {
+                          "String": "null"
+                        },
+                        {
+                          "String": "Polyotic ointment"
+                        },
+                        {
+                          "String": "Helidac"
+                        },
+                        {
+                          "String": "Tetracyclinehydrochloride"
+                        },
+                        {
+                          "String": "Polycycline hydrochloride"
+                        },
+                        {
+                          "String": "AC1NQZPS"
+                        },
+                        {
+                          "String": "AC1NWAQJ"
+                        },
+                        {
+                          "String": "tetracyclinhydrochlorid-"
+                        },
+                        {
+                          "String": "C22H25ClN2O8"
+                        },
+                        {
+                          "String": "Epitetracycline hydrochloride"
+                        },
+                        {
+                          "String": "C22H24N2O8.ClH"
+                        },
+                        {
+                          "String": "C22H24N2O8.HCl"
+                        },
+                        {
+                          "String": "ERK5-2M03"
+                        },
+                        {
+                          "String": "HLS 831"
+                        },
+                        {
+                          "String": "C22-H24-N2-O8.Cl-H"
+                        },
+                        {
+                          "String": "BBF-04567"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride, 96% 25g"
+                        },
+                        {
+                          "String": "AT28073"
+                        },
+                        {
+                          "String": "CID5282243"
+                        },
+                        {
+                          "String": "CID5702121"
+                        },
+                        {
+                          "String": "CS-2588"
+                        },
+                        {
+                          "String": "EBD2198184"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride [USAN:JAN]"
+                        },
+                        {
+                          "String": "K044"
+                        },
+                        {
+                          "String": "SC-19458"
+                        },
+                        {
+                          "String": "64-75-5, 60-54-8 [tetracycline]"
+                        },
+                        {
+                          "String": "AB1009394"
+                        },
+                        {
+                          "String": "ST24050122"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride, 98% - 100G 100g"
+                        },
+                        {
+                          "String": "A1204553"
+                        },
+                        {
+                          "String": "Tetracycline hydrochloride =98.0% (by titrimetric analysis)"
+                        },
+                        {
+                          "String": "(2E,4S,4aS,5aS,6S,12aS)-2-[amino(hydroxy)methylidene]-4-(dimethylamino)-6,10,11,12a-tetrahydroxy-6-methyl-4,4a,5,5a-tetrahydrotetracene-1,3,12-trione hydrochloride"
+                        },
+                        {
+                          "String": "(2Z,4S,4aS,5aS,6S,12aS)-2-[amino(hydroxy)methylidene]-4-(dimethylamino)-6,10,11,12a-tetrahydroxy-6-methyl-4,4a,5,5a-tetrahydrotetracene-1,3,12-trione hydrochloride"
+                        },
+                        {
+                          "String": "1170-81-6"
+                        },
+                        {
+                          "String": "2-naftacencarboxamida, 4-(dimetilamino)-1,4,4a, 5,5a, 6,11,12 a-octahidro-3, 6,10,12,12a-pentahidroxi-6-metil-1,11-dioxo-, clorhidrato (1:1), (4s, 4as, 5as, 6s, 12as)-"
+                        },
+                        {
+                          "String": "2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, monohydrochloride, [4S-(4.alpha.,4a.alpha.,5a.alpha.,6.beta.,12a.alpha.)]-"
+                        },
+                        {
+                          "String": "2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, monohydrochloride, [4S-(4alpha,4aalpha,5aalpha,6beta,12aalpha)]-"
+                        },
+                        {
+                          "String": "Oxytetracycline Hydrochloride Imp. B (EP); Oxytetracycline Imp. B (EP); Tetracycline Hydrochloride; Oxytetracycline Hydrochloride Imp. B (EP) as Hydrochloride; (4S,4aS,5aS,6S,12aS)-4-(Dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-2-naphthacenecarboxamide monohydrochloride; 4-(Dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-2-naphthacenecarboxamide monohydrochloride; [4S-(4alpha,4aalpha,5aalpha,6beta,12aalpha)]-4-(Dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-2-Naphthacenecarboxamide monohydrochloride; (-)-Tetracycline hydrochloride; Achro; Achromycin hydrochloride; Ala-Tet; Ambracyn; Bristaciclina; Bristacycline; Cancycline-250; Cefracycline; Criseociclina; Cyclopar; Diocyclin; Dumocyclin; Helvecyclin; Hostacyclin; Hostacycline; Imex; Medamycin; Neocy"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "DateISO8601": [
+                    "2011-12-26"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "DateISO8601": [
+                    "2025-09-07"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "480.9"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        7
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        9
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "480.1299435"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by PubChem 2.2 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "480.1299435"
+                        }
+                      ],
+                      "Unit": "Da"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        182
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        33
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/glossary#section=Complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        971
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Reference": [
+                      "Computed by PubChem (release 2025.04.14)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Experimental Properties",
+            "Description": "Various experimentally determined properties for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+            "Section": [
+              {
+                "TOCHeading": "Collision Cross Section",
+                "Description": "Collision cross section (CCS) represents the effective area for the interaction between an individual ion and the neutral gas through which it is traveling (e.g., in ion mobility spectrometry (IMS) experiments).  It quantifies the probability of a collision taking place between two or more particles.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/28035808/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 2,
+                    "Reference": [
+                      "https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b01709"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b01709",
+                        "Matched": {
+                          "PCLID": 900164357,
+                          "Citation": "https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b01709"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "193.7 Å² [M+H]+ [CCS Type: TW; Method: calibrated with polyalanine and drug standards]",
+                          "Markup": [
+                            {
+                              "Start": 14,
+                              "Length": 1,
+                              "Type": "Superscript"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Classes",
+            "Description": "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties, radiological properties, or other factors.",
+            "Section": [
+              {
+                "TOCHeading": "Drugs",
+                "Description": "Chemicals are used as active ingredients in drug/pharmaceutical products, including human drugs, animal drugs, biologics, etc.",
+                "Section": [
+                  {
+                    "TOCHeading": "Human Drugs",
+                    "Description": "Chemicals are used as active ingredients in human drug products.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 8,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human drug -> Discontinued"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Spectral Information",
+        "Description": "Spectral data for this compound, including 1-D and 2-D nuclear magnetic resonance (NMR), Infrared (IR), Raman, and Ultraviolet (UV) spectroscopy, mass spectrometry (MS), and chromatography.",
+        "Section": [
+          {
+            "TOCHeading": "Mass Spectrometry",
+            "Description": "Mass spectrometry (MS or mass spec) is a technique to determine molecular structure through ionization and fragmentation of the parent compound into smaller components.",
+            "URL": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Spectroscopy/Mass_Spectrometry",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 2
+            },
+            "Section": [
+              {
+                "TOCHeading": "LC-MS",
+                "Description": "Data from liquid chromatography-mass spectrometry (LC-MS) experiments.",
+                "URL": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Structure_and_Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_(Schaller)/II%3A_Practical_Aspects_of_Structure_-_Purification_and_Spectroscopy/06%3A_Introductory_Mass_Spectrometry/6.03%3A_GC-MS_and_LC-MS",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "MoNA ID",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/display/CCMSLIB00000078515",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CCMSLIB00000078515"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "MS Category",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Experimental"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "MS Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Precursor Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "[M+H]+"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "445.161"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "qTof"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "positive"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "410.124115 100"
+                        },
+                        {
+                          "String": "445.161255 50.69"
+                        },
+                        {
+                          "String": "427.151520 42.74"
+                        },
+                        {
+                          "String": "428.136108 40.99"
+                        },
+                        {
+                          "String": "411.126495 22.72"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "SPLASH",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/browse?query=exists(splash.splash:%27splash10-03fs-0011900000-348100152d11152e2272%27)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-03fs-0011900000-348100152d11152e2272"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=410.124115:100,445.161255:50.69,427.151520:42.74,428.136108:40.99,411.126495:22.72",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=410.124115:100,445.161255:50.69,427.151520:42.74,428.136108:40.99,411.126495:22.72"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "MoNA ID",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/display/VF-NPL-LTQ006433",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "VF-NPL-LTQ006433"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "MS Category",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Experimental"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "MS Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Precursor Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "M+H"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "481.27183024088544"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Thermo Finnigan LTQ"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Linear Ion Trap"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "positive"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "35"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "466.04 100"
+                        },
+                        {
+                          "String": "453.09 30.56"
+                        },
+                        {
+                          "String": "463.08 10.50"
+                        },
+                        {
+                          "String": "458.45 10.42"
+                        },
+                        {
+                          "String": "435.14 2.42"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "SPLASH",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/browse?query=exists(splash.splash:%27splash10-014i-0000900000-b4f2cb1cbb90af46e2e2%27)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-014i-0000900000-b4f2cb1cbb90af46e2e2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=466.04:100,453.09:30.56,463.08:10.50,458.45:10.42,435.14:2.42",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=466.04:100,453.09:30.56,463.08:10.50,458.45:10.42,435.14:2.42"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "MoNA ID",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/display/VF-NPL-LTQ006434",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "VF-NPL-LTQ006434"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "MS Category",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Experimental"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "MS Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC-MS"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "MS Level",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MS2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Precursor Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "M+H"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Precursor m/z",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "481.27183024088544"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Instrument",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Thermo Finnigan LTQ"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Instrument Type",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Linear Ion Trap"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Ionization Mode",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "positive"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Collision Energy",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "35"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Top 5 Peaks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "466.04 100"
+                        },
+                        {
+                          "String": "464.06 43.99"
+                        },
+                        {
+                          "String": "453.09 30.55"
+                        },
+                        {
+                          "String": "433.97 28.71"
+                        },
+                        {
+                          "String": "436.05 17.13"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "SPLASH",
+                    "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/browse?query=exists(splash.splash:%27splash10-014i-0000900000-ea1ec41cdbb226c89061%27)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "splash10-014i-0000900000-ea1ec41cdbb226c89061"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Thumbnail",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=466.04:100,464.06:43.99,453.09:30.55,433.97:28.71,436.05:17.13",
+                    "Value": {
+                      "ExternalDataURL": [
+                        "https://pubchem.ncbi.nlm.nih.gov/image/ms.cgi?peaks=466.04:100,464.06:43.99,453.09:30.55,433.97:28.71,436.05:17.13"
+                      ],
+                      "MimeType": "image/svg"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Follow these links to do a live 2D search or do a live 3D search for this compound, sorted by annotation score. This section is deprecated (see the neighbor discontinuation help page for details), but these live search links provide equivalent functionality to the table that was previously shown here.",
+                      "Markup": [
+                        {
+                          "Start": 22,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID54704426%20structure&tab=similarity&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 45,
+                          "Length": 19,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID54704426%20structure&tab=similarity_3d&sort=annothitcnt"
+                        },
+                        {
+                          "Start": 144,
+                          "Length": 38,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/neighbor-discontinuation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Parent Compound",
+            "Description": "A parent compound is conceptually the \"important\" part of the molecule when the molecule has more than one covalent component. Specifically, a parent component must have at least one carbon and contain at least 70% of the heavy (non-hydrogen) atoms of all the unique covalent units (ignoring stoichiometry). Note that this is a very empirical definition and is subject to change.",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 54675776 (Tetracycline)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 27,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=54675776",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 27,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/54675776"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Component Compounds",
+            "Description": "Component parts of the compound when it consists of multiple covalently-bonded units.  In PubChem, a covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or single atom without covalent bonds).",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 54675776 (Tetracycline)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 27,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=54675776",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 27,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/54675776"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "CID 313 (Hydrochloric Acid)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 27,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=313",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 27,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/313"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Name": "Same Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54704426/cids/JSON?cids_type=same_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    22
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Name": "Same Stereo Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54704426/cids/JSON?cids_type=same_stereo&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Name": "Same Isotope Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54704426/cids/JSON?cids_type=same_isotopes&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    21
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Name": "Same Parent, Connectivity Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54704426/cids/JSON?cids_type=same_parent_connectivity&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    238
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Name": "Same Parent, Stereo Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54704426/cids/JSON?cids_type=same_parent_stereo&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    121
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Name": "Same Parent, Isotope Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54704426/cids/JSON?cids_type=same_parent_isotopes&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    230
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Name": "Same Parent, Exact Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54704426/cids/JSON?cids_type=same_parent&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    115
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54704426/cids/JSON?cids_type=component&list_return=redirect",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Name": "Similar Compounds (2D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID54704426%20structure&tab=similarity",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Name": "Similar Conformers (3D)",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=CID54704426%20structure&tab=similarity_3d",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "View in PubChem Search"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/substances",
+            "Section": [
+              {
+                "TOCHeading": "PubChem Reference Collection SID",
+                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/505472084",
+                    "Value": {
+                      "Number": [
+                        505472084
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Name": "Same Count",
+                    "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54704426/sids/JSON?sids_type=standardized&list_return=redirect",
+                    "Value": {
+                      "Number": [
+                        171
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Journal Publishers"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "NIH Initiatives"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Entrez Crosslinks",
+            "Description": "Cross-references to associated records in other Entrez databases such as PubMed, Gene, Protein, etc.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Name": "PubMed Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_pubmed&db=pccompound&cmd=Link&from_uid=54704426",
+                "Value": {
+                  "Number": [
+                    1
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 22,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Drug and Medication Information",
+        "Description": "This section provides drug and medication information for this compound, including drug indications, labeling, clinical trials, idiosyncrasies, tolerance, reported fatal doses, etc.",
+        "Section": [
+          {
+            "TOCHeading": "Drug Indication",
+            "Description": "A drug indication refers to any valid reason (e.g., signs/symptoms or diseases/disorders) to use a certain drug.  Many indications are label indications, approved by a regulatory agency (e.g., the U.S. Food and Drug Administration or European Medical Agency), meaning that the manufacturer is allowed to market the drug for the approved indications.  However, some indications are not approved, and therefore, they are called off-label indications.  This section may include both label indications and off-label indications.",
+            "DisplayControls": {
+              "ShowAtMost": 3
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 19,
+                "Value": {
+                  "ExternalTableName": "collection=opentargetsdrugindication&devel=1"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Clinical Trials",
+            "Description": "Clinical trials are research studies performed in people to evaluate a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment (e.g., a drug or diet) or medical device (e.g., a pacemaker) is safe and effective in people.  This section provides information on clinical trials for this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "ClinicalTrials.gov",
+                "Description": "Brief clinical trials summary from ClinicalTrials.gov at the U.S. National Library of Medicine.",
+                "URL": "http://clinicaltrials.gov/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "ClinicalTrials.gov",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials",
+                      "ExternalTableNumRows": 4
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EU Clinical Trials Register",
+                "Description": "Brief clinical trials summary from the EU Clinical Trials Register.",
+                "URL": "https://www.clinicaltrialsregister.eu/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "EU Clinical Trials Register",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials_eu",
+                      "ExternalTableNumRows": 1
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "NIPH Clinical Trials Search of Japan",
+                "Description": "Brief clinical trials summary from the NIPH Clinical Trials Search of Japan, which allows one to cross-search four national clinical research information registries in Japan: the Japan Registry of Clinical Trials (JRCT), the University Hospital Medical Information Network Center (UMIN-CTR), the Japan Pharmaceutical Information Center (JAPIC), and the Japan Medical Association Center for Clinical Trials (JMACCT).",
+                "URL": "https://rctportal.niph.go.jp/en/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Name": "NIPH Clinical Trials Search of Japan",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials_jp",
+                      "ExternalTableNumRows": 1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+        "Section": [
+          {
+            "TOCHeading": "General Manufacturing Information",
+            "Description": "General manufacturing information for this chemical, provided by the Hazardous Substances Data Bank (HSDB) and EPA TSCA Chemical Substance Inventory.",
+            "DisplayControls": {
+              "ListType": "Columns"
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 10,
+                "Name": "EPA TSCA Commercial Activity Status",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, hydrochloride (1:1), (4S,4aS,5aS,6S,12aS)-: ACTIVE",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 24,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Naphthacenecarboxamide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-18986493"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134972302"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Associated Disorders and Diseases",
+        "Description": "Disorders and diseases associated with the compound.  The contexts of the associations listed in this section vary. For example, a compound may cause its associated diseases (e.g., carcinogens and cancers) or have a therapeutic effect in treatment of the diseases (e.g., antihistamines and allergies), or be used as a marker/indicator for the diseases (e.g., glucose and diabetes).",
+        "DisplayControls": {
+          "CreateTable": {
+            "FromInformationIn": "Subsections",
+            "NumberOfColumns": 2,
+            "ColumnHeadings": [
+              "Disease",
+              "References"
+            ],
+            "ColumnContents": [
+              "Name",
+              "Value"
+            ]
+          }
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 19,
+            "Value": {
+              "ExternalTableName": "consolidateddiseaseassociation"
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+        "Section": [
+          {
+            "TOCHeading": "Consolidated References",
+            "Description": "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/literature",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "ExternalTableName": "literature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Springer Nature References",
+            "Description": "Literature references related to scientific contents from Springer Nature journals and books. These references have been ranked automatically by an algorithm which calculates the relevance for each substance in a Springer Nature document. It is based on: (1) the TF-IDF, adapted to chemical structures, (2) location information in the text (e.g. title, abstract, keywords), and (3) the document size.  Springer Nature aims to provide only highly qualitative and relevant content but references of lower relevance aren't withheld as they might contain also very useful information.",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "ExternalTableName": "collection=springernature&query_type=sid&query=341148253"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Literature",
+            "Description": "Chemical-organism co-occurrences in literature highlight chemical-organism pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalOrganismNeighbor"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "OrganismName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54704426/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Patents",
+            "Description": "Chemical co-occurrences in patents highlight chemicals mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalChemical"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Patents",
+            "Description": "Disease co-occurrences in patents highlight chemicals and diseases mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalDisease"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and genes mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalGene"
+                    },
+                    {
+                      "String": "Gene"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/gene/SYMBOL:"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Organism Co-Occurrences in Patents",
+            "Description": "Gene co-occurrences in patents highlight chemicals and organisms mentioned together in patent documents. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of patents and other statistics, with the most relevant mentions appearing at the top.",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "PatentChemicalOrganism"
+                    },
+                    {
+                      "String": "Organism"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "NeighborName"
+                    },
+                    {
+                      "String": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "TaxonomyID"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Interactions and Pathways",
+        "Description": "This section provides information on the biomolecular interactions of this compound with drugs, genes, proteins, etc., as well as the pathways in which this compound is involved.",
+        "Section": [
+          {
+            "TOCHeading": "Chemical-Target Interactions",
+            "Description": "Interactions between targets and this compound",
+            "Information": [
+              {
+                "ReferenceNumber": 7,
+                "Value": {
+                  "ExternalTableName": "consolidatedcompoundtarget"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Biological Test Results",
+        "Description": "A PubChem substance or compound summary page displays biological test results from the PubChem BioAssay database, if/as available, for the chemical structure currently displayed. You can embed biological test results displays within your own web pages, for a PubChem Compound or Substance of interest, by using the BioActivity Widget.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/widgets",
+        "Section": [
+          {
+            "TOCHeading": "BioAssay Results",
+            "Description": "Bioactivity data for this compound, reported in PubChem BioAssay records.",
+            "Information": [
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "ExternalTableName": "bioactivity"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "NCI Thesaurus Tree",
+            "Description": "NCI Thesaurus (NCIt) hierarchy",
+            "URL": "https://ncithesaurus.nci.nih.gov",
+            "Information": [
+              {
+                "ReferenceNumber": 41,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=112",
+                "Value": {
+                  "Number": [
+                    112
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: Drug",
+            "Description": "Classification/ontology tree for therapeutic categories of drugs in Japan, from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08301",
+            "Information": [
+              {
+                "ReferenceNumber": 23,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=14",
+                "Value": {
+                  "Number": [
+                    14
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: USP",
+            "Description": "US Pharmacopeia (USP) drug classification tree from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08302",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=15",
+                "Value": {
+                  "Number": [
+                    15
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: ATC",
+            "Description": "Anatomical Therapeutic Chemical (ATC) classification tree from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08303",
+            "Information": [
+              {
+                "ReferenceNumber": 25,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=16",
+                "Value": {
+                  "Number": [
+                    16
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: JP15",
+            "Description": "Classification/ontology tree for drugs listed in the Japanese Pharmacopoeia, from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08311",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=23",
+                "Value": {
+                  "Number": [
+                    23
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: Risk Category of Japanese OTC Drugs",
+            "Description": "Classification/ontology tree for the risk category of Japanese over-the-counter (OTC) drugs, from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08312",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=24",
+                "Value": {
+                  "Number": [
+                    24
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: OTC drugs",
+            "Description": "Japanese over-the-counter (OTC) drugs classification tree from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08313",
+            "Information": [
+              {
+                "ReferenceNumber": 29,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=25",
+                "Value": {
+                  "Number": [
+                    25
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: Drug Groups",
+            "Description": "KEGG : Drug Groups tree",
+            "Information": [
+              {
+                "ReferenceNumber": 35,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=96",
+                "Value": {
+                  "Number": [
+                    96
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG : Antimicrobials",
+            "Description": "Antiinfectives classification/ontology tree from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08307",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=20",
+                "Value": {
+                  "Number": [
+                    20
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: Drug Classes",
+            "Description": "Drug classes tree from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08332",
+            "Information": [
+              {
+                "ReferenceNumber": 43,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=118",
+                "Value": {
+                  "Number": [
+                    118
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChemIDplus",
+            "Description": "Classification of this compound, provided by ChemIDplus, which is a free web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases.  ChemIDplus groups chemicals based on the source locators (i.e., what information resources have data for a given chemical).",
+            "URL": "https://chem.nlm.nih.gov/chemidplus/",
+            "Information": [
+              {
+                "ReferenceNumber": 32,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                "Value": {
+                  "Number": [
+                    84
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "CAMEO Chemicals",
+            "Description": "CAMEO chemical reactivity classification from CAMEO Chemicals, which is a database of hazardous chemical datasheets that emergency responders and planners can use to get response recommendations and predict hazards (e.g., explosions or toxic fumes).",
+            "URL": "https://cameochemicals.noaa.gov/",
+            "Information": [
+              {
+                "ReferenceNumber": 33,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=86",
+                "Value": {
+                  "Number": [
+                    86
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChEMBL Target Tree",
+            "Description": "Classification of this entity in the context of targets, provided by ChEMBL.",
+            "URL": "https://www.ebi.ac.uk/chembl/",
+            "Information": [
+              {
+                "ReferenceNumber": 34,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=87",
+                "Value": {
+                  "Number": [
+                    87
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "UN GHS Classification",
+            "Description": "The United Nations' Globally Harmonized System of Classification and Labelling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, and health and safety information on hazardous chemical substances and mixtures.",
+            "URL": "https://unece.org/about-ghs",
+            "Information": [
+              {
+                "ReferenceNumber": 31,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=83",
+                "Value": {
+                  "Number": [
+                    83
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "NORMAN Suspect List Exchange Classification",
+            "Description": "A classification from the NORMAN Suspect List Exchange, which serve as a central access point to find lists of chemicals with environmental concerns.",
+            "URL": "https://www.norman-network.com/nds/SLE/",
+            "Information": [
+              {
+                "ReferenceNumber": 36,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=101",
+                "Value": {
+                  "Number": [
+                    101
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "CCSBase Classification",
+            "Description": "CCSbase is an integrated platform that contains collision cross section data for the compound.  The CCSbase classification groups the compounds by the type of adduct ions that can be formed from them (e.g., [M-H]-, [M+H]+, [M+Na]+, [M+K]+).",
+            "URL": "https://ccsbase.net/",
+            "Information": [
+              {
+                "ReferenceNumber": 37,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=104",
+                "Value": {
+                  "Number": [
+                    104
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA DSSTox Classification",
+            "Description": "Classification from the U.S. Environmental Protection Agency's Distributed Structure-Searchable Toxicity (DSSTox) database. DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology. A distinguishing feature of this effort is the accurate mapping of bioassay and physicochemical property data associated with chemical substances to their corresponding chemical structures. ",
+            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+            "Information": [
+              {
+                "ReferenceNumber": 38,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=105",
+                "Value": {
+                  "Number": [
+                    105
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA TSCA and CDR Classification",
+            "Description": "EPA Chemicals under the Toxic Substances Control Act (TSCA) collection contains information on chemicals and their regulation under TSCA. The chemical classification tree is created based on the TSCA substance regulatory flag, UVCB, and commercial activity status.",
+            "URL": "https://www.epa.gov/tsca-inventory",
+            "Information": [
+              {
+                "ReferenceNumber": 44,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=132",
+                "Value": {
+                  "Number": [
+                    132
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA Drug Type and Pharmacologic Classification",
+            "Description": "The FDA Drug Type and Pharmacologic Classification is based on the FDA drug type and pharm classes data from the National Drug Code (NDC) Directory.",
+            "Information": [
+              {
+                "ReferenceNumber": 42,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=116",
+                "Value": {
+                  "Number": [
+                    116
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "MolGenie Organic Chemistry Ontology",
+            "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign compounds to structural classes, currently mapped to >1.7 million per- and polyfluoroalkyl substances (PFAS) extracted from the datasets explained in Barnabas et al (2022) DOI: 10.1039/D2DD00019A",
+            "URL": "https://github.com/MolGenie/ontology/",
+            "Information": [
+              {
+                "ReferenceNumber": 45,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=134",
+                "Value": {
+                  "Number": [
+                    134
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemicals in PubChem from Regulatory Sources",
+            "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources.",
+            "Information": [
+              {
+                "ReferenceNumber": 46,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=135",
+                "Value": {
+                  "Number": [
+                    135
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "California Office of Environmental Health Hazard Assessment (OEHHA)",
+        "SourceID": "25624:54704426",
+        "Name": "Tetracycline Hydrochloride (internal use)",
+        "Description": "The CA Office of Environmental Health Hazard Assessment (OEHHA) is the lead state agency for the assessment of health risks posed by environmental contaminants. OEHHA implements the Safe Drinking Water and Toxic Enforcement Act of 1986, commonly known as Proposition 65, and compiles the state's list of substances that cause cancer or reproductive harm.",
+        "URL": "https://oehha.ca.gov/proposition-65/chemicals/tetracycline-hydrochloride-internal-use",
+        "ANID": 39339290
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "Open Targets",
+        "SourceID": "Compound::CHEMBL454950",
+        "Name": "TETRACYCLINE HYDROCHLORIDE",
+        "Description": "The Open Targets Platform is a comprehensive tool that supports systematic identification and prioritisation of potential therapeutic drug targets.",
+        "URL": "https://platform.opentargets.org/drug/CHEMBL454950",
+        "LicenseNote": "Datasets generated by the Open Targets Platform are freely available for download.",
+        "LicenseURL": "https://platform-docs.opentargets.org/licence",
+        "ANID": 45240707
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "CCSbase",
+        "SourceID": "1990722771",
+        "Description": "CCSbase curates experimental collision cross section values measured on various ion mobility platforms as a resource for the research community. CCSbase also builds prediction models for comprehensive prediction of collision cross sections for a given molecule.",
+        "ANID": 39648327
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "ChEMBL",
+        "SourceID": "Compound::CHEMBL454950",
+        "Description": "ChEMBL or ChEMBLdb is a manually curated chemical database of bioactive molecules with drug-like properties. It is maintained by the European Bioinformatics Institute (EBI), of the European Molecular Biology Laboratory (EMBL), based at the Wellcome Trust Genome Campus, Hinxton, UK.",
+        "URL": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL454950",
+        "LicenseNote": "Access to the web interface of ChEMBL is made under the EBI's Terms of Use (http://www.ebi.ac.uk/Information/termsofuse.html). The ChEMBL data is made available on a Creative Commons Attribution-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-sa/3.0/).",
+        "LicenseURL": "http://www.ebi.ac.uk/Information/termsofuse.html",
+        "ANID": 31779302
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "ChemIDplus",
+        "SourceID": "0000064755",
+        "Name": "Tetracycline hydrochloride [USP:JAN]",
+        "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000064755",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 762471
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "DTP/NCI",
+        "SourceID": "NSC 757338",
+        "Name": "TETRACYCLINE HYDROCHLORIDE",
+        "Description": "The NCI Development Therapeutics Program (DTP) provides services and resources to the academic and private-sector research communities worldwide to facilitate the discovery and development of new cancer therapeutic agents.",
+        "URL": "https://dtp.cancer.gov/dtpstandard/servlet/dwindex?searchtype=NSC&outputformat=html&searchlist=757338",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse",
+        "ANID": 6608545
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "EPA Chemicals under the TSCA",
+        "SourceID": "87470b0d3ab42c993a4bff2cd4a15a25",
+        "Name": "2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, hydrochloride (1:1), (4S,4aS,5aS,6S,12aS)-",
+        "Description": "EPA Chemicals under the Toxic Substances Control Act (TSCA) collection contains information on chemicals and their regulations under TSCA.",
+        "URL": "https://www.epa.gov/chemicals-under-tsca",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 38386997
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "DTXSID6021321",
+        "Name": "Tetracycline hydrochloride",
+        "Description": "DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology.",
+        "URL": "https://comptox.epa.gov/dashboard/DTXSID6021321",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 1149745
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "FDA Global Substance Registration System (GSRS)",
+        "SourceID": "P6R62377KV",
+        "Name": "TETRACYCLINE HYDROCHLORIDE",
+        "Description": "The FDA Global Substance Registration System (GSRS) enables the efficient and accurate exchange of information on what substances are in regulated products. Instead of relying on names, which vary across regulatory domains, countries, and regions, the GSRS knowledge base makes it possible for substances to be defined by standardized, scientific descriptions.",
+        "URL": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/P6R62377KV",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 5855855
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134972302",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000064755",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19464176
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "ClinicalTrials.gov",
+        "SourceID": "cid54704426",
+        "Description": "ClinicalTrials.gov is an NIH registry and results database of publicly and privately supported clinical studies of human participants conducted around the world.",
+        "URL": "https://clinicaltrials.gov/",
+        "LicenseNote": "The ClinicalTrials.gov data carry an international copyright outside the United States and its Territories or Possessions. Some ClinicalTrials.gov data may be subject to the copyright of third parties; you should consult these entities for any additional terms of use.",
+        "LicenseURL": "https://clinicaltrials.gov/ct2/about-site/terms-conditions#Use",
+        "ANID": 5190281
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "Drug Gene Interaction database (DGIdb)",
+        "SourceID": "rxcui:142446",
+        "Name": "TETRACYCLINE HYDROCHLORIDE",
+        "Description": "The Drug Gene Interaction Database (DGIdb, www.dgidb.org) is a web resource that consolidates disparate data sources describing drug - gene interactions and gene druggability.",
+        "URL": "https://www.dgidb.org/drugs/rxcui:142446",
+        "LicenseNote": "The data used in DGIdb is all open access and where possible made available as raw data dumps in the downloads section.",
+        "LicenseURL": "http://www.dgidb.org/downloads",
+        "ANID": 37459392
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "Drugs@FDA",
+        "SourceID": "f608f519caa0892a3edd31d86cbfc1ef",
+        "Name": "RETET",
+        "Description": "Drugs@FDA includes most of the drug products approved for human use since 1939. This includes prescription, generic, over-the-counter and therapeutic biological products. The majority of patient information, labels, approval letters and reviews are available for drug products approved since 1998.",
+        "URL": "https://www.accessdata.fda.gov/scripts/cder/daf/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 38971653
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EU Clinical Trials Register",
+        "SourceID": "cid54704426",
+        "Description": "The EU Clinical Trials Register contains information on interventional clinical trials on medicines conducted in the European Union (EU), or the European Economic Area (EEA) which started after 1 May 2004.",
+        "URL": "https://www.clinicaltrialsregister.eu/",
+        "ANID": 6484702
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "KEGG",
+        "SourceID": "D02122",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "https://www.kegg.jp/entry/D02122",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html",
+        "ANID": 31110005
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "MassBank of North America (MoNA)",
+        "SourceID": "CCMSLIB00000078515",
+        "Name": "Tetracycline hydrochloride",
+        "Description": "MassBank of North America (MoNA) is a metadata-centric, auto-curating repository designed for efficient storage and querying of mass spectral records.",
+        "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/browse?query=exists(compound.metaData.name:%27InChIKey%27%20and%20compound.metaData.value:%27XMEVHPAGJVLHIG-FMZCEJRJSA-N%27)",
+        "LicenseNote": "The content of the MoNA database is licensed under CC BY 4.0.",
+        "LicenseURL": "https://mona.fiehnlab.ucdavis.edu/documentation/license",
+        "ANID": 3429507
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "MassBank of North America (MoNA)",
+        "SourceID": "VF-NPL-LTQ006433",
+        "Name": "TETRACYCLINE HYDROCHLORIDE",
+        "Description": "MassBank of North America (MoNA) is a metadata-centric, auto-curating repository designed for efficient storage and querying of mass spectral records.",
+        "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/browse?query=exists(compound.metaData.name:%27InChIKey%27%20and%20compound.metaData.value:%27YCIHPQHVWDULOY-FMZCEJRJSA-N%27)",
+        "LicenseNote": "The content of the MoNA database is licensed under CC BY 4.0.",
+        "LicenseURL": "https://mona.fiehnlab.ucdavis.edu/documentation/license",
+        "ANID": 7671934
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "MassBank of North America (MoNA)",
+        "SourceID": "VF-NPL-LTQ006434",
+        "Name": "TETRACYCLINE HYDROCHLORIDE",
+        "Description": "MassBank of North America (MoNA) is a metadata-centric, auto-curating repository designed for efficient storage and querying of mass spectral records.",
+        "URL": "https://mona.fiehnlab.ucdavis.edu/spectra/browse?query=exists(compound.metaData.name:%27InChIKey%27%20and%20compound.metaData.value:%27YCIHPQHVWDULOY-FMZCEJRJSA-N%27)",
+        "LicenseNote": "The content of the MoNA database is licensed under CC BY 4.0.",
+        "LicenseURL": "https://mona.fiehnlab.ucdavis.edu/documentation/license",
+        "ANID": 7671935
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "NIPH Clinical Trials Search of Japan",
+        "SourceID": "cid54704426",
+        "Description": "NIPH Clinical Trials Search of Japan allows one to search clinical research (trials) from the registries of three institutions; the University Hospital Medical Information Network Center (UMIN-CTR), the Japan Pharmaceutical Information Center (JAPIC), and the Japan Medical Association Center for Clinical Trials.",
+        "URL": "https://rctportal.niph.go.jp/en/",
+        "ANID": 31188090
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "Springer Nature",
+        "SourceID": "341148253",
+        "Description": "Springer Nature is the world's largest academic book publisher, publisher of the world's most influential journals, and a pioneer in the field of open research. SpringerLink provides electronic access to its book and journal content.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/341148253",
+        "ANID": 47593700
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "KEGG",
+        "SourceID": "br08301",
+        "Name": "Therapeutic category of drugs in Japan",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08301.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "KEGG",
+        "SourceID": "br08302",
+        "Name": "USP drug classification",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08302.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "KEGG",
+        "SourceID": "br08303",
+        "Name": "Anatomical Therapeutic Chemical (ATC) classification",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08303.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "KEGG",
+        "SourceID": "br08307",
+        "Name": "Antiinfectives",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08307.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 27,
+        "SourceName": "KEGG",
+        "SourceID": "br08311",
+        "Name": "Drugs listed in the Japanese Pharmacopoeia",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08311.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 28,
+        "SourceName": "KEGG",
+        "SourceID": "br08312",
+        "Name": "Risk category of Japanese OTC drugs",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08312.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 29,
+        "SourceName": "KEGG",
+        "SourceID": "br08313",
+        "Name": "Classification of Japanese OTC drugs",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08313.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 31,
+        "SourceName": "GHS Classification (UNECE)",
+        "SourceID": "UN_GHS_tree",
+        "Name": "GHS Classification",
+        "Description": "The United Nations' Globally Harmonized System of Classification and Labeling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, health and safety information on hazardous chemical substances and mixtures.",
+        "URL": "http://www.unece.org/trans/danger/publi/ghs/ghs_welcome_e.html"
+      },
+      {
+        "ReferenceNumber": 32,
+        "SourceName": "ChemIDplus",
+        "SourceID": "ChemIDplus_tree",
+        "Name": "ChemIDplus Chemical Information Classification",
+        "Description": "ChemIDplus is a TOXNET (TOXicology data NETwork) databases that contain chemicals and drugs related information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/chemidplus",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true
+      },
+      {
+        "ReferenceNumber": 33,
+        "SourceName": "CAMEO Chemicals",
+        "SourceID": "CameoReactivityTree",
+        "Name": "CAMEO Chemical Reactivity Classification",
+        "Description": "CAMEO Chemical Reactivity Classification was created based on the reactive groups.",
+        "URL": "https://cameochemicals.noaa.gov/browse/react",
+        "LicenseNote": "CAMEO Chemicals and all other CAMEO products are available at no charge to those organizations and individuals (recipients) responsible for the safe handling of chemicals. However, some of the chemical data itself is subject to the copyright restrictions of the companies or organizations that provided the data.",
+        "LicenseURL": "https://cameochemicals.noaa.gov/help/reference/terms_and_conditions.htm?d_f=false"
+      },
+      {
+        "ReferenceNumber": 34,
+        "SourceName": "ChEMBL",
+        "SourceID": "Target Tree",
+        "Name": "ChEMBL Protein Target Tree",
+        "Description": "The ChEMBL Protein Target Tree is a structured classification of the protein target entities contained with the ChEMBL resource release version 35\u000AChEMBL.",
+        "URL": "https://www.ebi.ac.uk/chembl/g/#browse/targets",
+        "LicenseNote": "Access to the web interface of ChEMBL is made under the EBI's Terms of Use (http://www.ebi.ac.uk/Information/termsofuse.html). The ChEMBL data is made available on a Creative Commons Attribution-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-sa/3.0/).",
+        "LicenseURL": "http://www.ebi.ac.uk/Information/termsofuse.html"
+      },
+      {
+        "ReferenceNumber": 35,
+        "SourceName": "KEGG",
+        "SourceID": "br08330",
+        "Name": "Drug Groups",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08330.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 36,
+        "SourceName": "NORMAN Suspect List Exchange",
+        "SourceID": "norman_sle_tree",
+        "Name": "NORMAN Suspect List Exchange Classification",
+        "Description": "The NORMAN Suspect List Exchange (NORMAN-SLE) is a central access point for NORMAN members (and others) to find suspect lists relevant for their environmental monitoring questions.",
+        "URL": "https://www.norman-network.com/nds/SLE/",
+        "LicenseNote": "Data: CC-BY 4.0; Code (hosted by ECI, LCSB): Artistic-2.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 37,
+        "SourceName": "CCSbase",
+        "SourceID": "ccsbase_tree",
+        "Name": "CCSbase Classification",
+        "Description": "CCSbase is an integrated platform consisting of a comprehensive database of Collision Cross Section (CCS) measurements taken from a variety of sources and a high-quality and high-throughput CCS prediction model trained with this database using machine learning.",
+        "URL": "https://ccsbase.net/"
+      },
+      {
+        "ReferenceNumber": 38,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "dsstoxlist_tree",
+        "Name": "CompTox Chemicals Dashboard Chemical Lists",
+        "Description": "This classification lists the chemical categories from the EPA CompTox Chemicals Dashboard.",
+        "URL": "https://comptox.epa.gov/dashboard/chemical-lists/",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 41,
+        "SourceName": "NCI Thesaurus (NCIt)",
+        "SourceID": "NCIt",
+        "Name": "NCI Thesaurus",
+        "Description": "The NCI Thesaurus (NCIt) provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.",
+        "URL": "https://ncit.nci.nih.gov",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse"
+      },
+      {
+        "ReferenceNumber": 42,
+        "SourceName": "National Drug Code (NDC) Directory",
+        "SourceID": "fdandc_tree",
+        "Name": "FDA Drug Type and Pharmacologic Classification",
+        "Description": "The FDA Drug Type and Pharmacologic Classification is created based on the FDA drug types and pharm classes data from the National Drug Code (NDC) Directory.",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking"
+      },
+      {
+        "ReferenceNumber": 43,
+        "SourceName": "KEGG",
+        "SourceID": "br08332",
+        "Name": "Drug Classes",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08332.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 44,
+        "SourceName": "EPA Chemicals under the TSCA",
+        "SourceID": "epa_tsca_tree",
+        "Name": "EPA TSCA Classification",
+        "Description": "EPA Chemicals under the Toxic Substances Control Act (TSCA) collection contains information on chemicals and their regulation under TSCA (40 eCFR I-R). The chemical classification tree is created based on the TSCA substance regulatory flag, UVCB, and commercial activity status.",
+        "URL": "https://www.epa.gov/tsca-inventory",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 45,
+        "SourceName": "MolGenie",
+        "SourceID": "mol_classes",
+        "Name": "MolGenie Organic Chemistry Ontology",
+        "Description": "An organic chemistry ontology developed by MolGenie and OntoChem to assign chemical entities to structural classes, split into three main subsections: calculated properties, compounds and substructural concepts. The ontology contains chemistry structural classes with a focus on elements and small organic compounds, but not inorganic, polymer, biopolymer, metal complexes, metal organic frameworks (MOFs) and other chemistry entities. The ontology has been mapped to several collections of chemicals, including (a) Chemicals of Biological Interest (ChEBI), (b) the ChEMBL database of bioactive molecules, (c) the LOTUS natural product collection, (d) per- and polyfluoroalkyl substances (PFAS) extracted from Barnabas et al (2022) DOI: 10.1039/D2DD00019A (e) PubChemLite and (f) the ZeroPM Global Chemical Inventory.",
+        "URL": "https://github.com/MolGenie/ontology/",
+        "LicenseNote": "CC-BY 4.0",
+        "LicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "ReferenceNumber": 46,
+        "SourceName": "PubChem",
+        "SourceID": "regtree",
+        "Name": "Chemicals in PubChem from Regulatory Sources",
+        "Description": "PubChem chemicals with regulatory data sources provides list of chemicals with annotation specific to regulatory data sources."
+      }
+    ]
+  }
+}
